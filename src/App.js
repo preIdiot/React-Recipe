@@ -1,13 +1,11 @@
 
-import './App.css';
-import '../src/css/style.css'
-import Scroll from './Components/Scroll';
+import './index.css';
+import Header from './Header';
+
 function App() {
   return (
     <>
-    <div className="scroll"> 
-        <Scroll/>
-    </div>
+    <Header/>
     </>
   );
 }
