@@ -1,6 +1,8 @@
 import React from "react";
 
-function Header() {
+
+function Header(props) {
+  console.log(props);
   return (
     <div>
       {/* navbar start */}
@@ -10,9 +12,10 @@ function Header() {
             <a href="index.html">
               <img
                 className="img-responsive2 navLogo"
-                src="images/Logo1.png"
+                src="./Assets/images/Logo.png"
                 alt="Logo"
               />
+             
             </a>
 
             <button
@@ -71,7 +74,7 @@ function Header() {
               <form className="form-inline ml-auto">
                 <div className="input-group">
                   <div id="google_translate_element"></div>
-                  &nbsp&nbsp
+                 
                   <input
                     type="text"
                     className="form-control border-dark btn-sm posRecipe"
