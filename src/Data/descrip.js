@@ -3,7 +3,7 @@ export const homeData= [
     {
     id:1,
     link:"/healthyrecipies",
-    imgsrc: "./Assets/media/healthyRecipies/Chilli_Oil_Avocado_Salad.jpg", 
+    imgsrc: require('../Assets/media/healthyRecipies/Chilli_Oil_Avocado_Salad.jpg'), 
     title: "Healthy Recipies",
     info : "Reducing death and disability from cardiovascular disease and diabetes. Know your risk. Evidence-based. Heart disease."
     },
