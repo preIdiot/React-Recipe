@@ -11,8 +11,9 @@ export default function Scroll(props){
                     <Card
                     key = { val.id }
                     imgscr = { val.imgsrc }
+                    link={val.link}
                     title = { val.title }
-                    desc = { val.description }
+                    info = { val.info }
                     /> </div >
                 );
             })

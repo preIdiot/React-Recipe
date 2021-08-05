@@ -5,7 +5,8 @@ function Main() {
     <main>
       <Switch>
         <Route exact path='/' component={Home}/>
-        <Route path='/brealfast' component={Breakfast}/>
+        <Route path='/breakfast' component={Breakfast}/>
+        
       </Switch>
     </main>
   );
