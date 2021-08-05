@@ -1,13 +1,19 @@
-import { Switch, Route } from 'react-router-dom'
+
+import React from 'react';
+import { BrowserRouter,Switch ,Route } from 'react-router-dom';
+import Scroll from './Components/Scroll';
+import { homeData } from './Data/descrip';
 import Breakfast from './Pages/breakfast';
-function Main() {
-  return (
-    <main>
-      <Switch>
-        <Route exact path='/' component={Home}/>
-        <Route path='/breakfast' component={Breakfast}/>
-        
-      </Switch>
-    </main>
-  );
+
+
+export default function Main(){
+    return(
+        <BrowserRouter>
+        <Switch>
+            <Route exact path="/" render={(props)=> <Scroll {...props} data={homeData}/>}/>
+            <Route path="/healthyrecipies" component={Breakfast}/>
+
+        </Switch>
+        </BrowserRouter>
+    )
 }

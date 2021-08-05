@@ -1,4 +1,5 @@
-export const aromaticData= [
+
+export const homeData= [
     {
     id:1,
     link:"/healthyrecipies",
@@ -106,3 +107,10 @@ export const aromaticData= [
     },    
 ]
     
+
+
+
+
+    
+
+

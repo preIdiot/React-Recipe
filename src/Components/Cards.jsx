@@ -1,12 +1,11 @@
 import React from 'react';
 import '../css/style.css';
-import { Link ,BrowserRouter  as Router} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function Cards(props) {
   console.log(props);
     return (
       <>
-      <Router>
         <div className="cards">          
           <div className="card">
                 <img
@@ -19,11 +18,10 @@ function Cards(props) {
                   <p className="card-text">
                     {props.info}
                   </p>
-                  <Link to={props.link} className="btn btn-success">Know more</Link>
+                  <Link to= {props.link} className="btn btn-success" onClick= "">Know more</Link>
                 </div>
               </div>
         </div>
-        </Router>
       </>
     );
   }

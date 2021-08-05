@@ -1,11 +1,12 @@
 import React from 'react';
-import Card from '../Components/Cards';
 
+import Card from '../Components/Cards';
+import '../css/style.css'
 
 export default function Scroll(props){
     return (
         
-          <> {props.data.map((val) =>{
+          <div className="scroll"> {props.data.map((val) =>{
                 return(
                     <div>
                     <Card
@@ -18,7 +19,7 @@ export default function Scroll(props){
                 );
             })
         }
-        </>
+        </div>
     )
 
 }
