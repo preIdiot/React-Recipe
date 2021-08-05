@@ -1,24 +1,25 @@
 import React from 'react';
-import {aromaticData} from '../descrip';
+
 import Card from '../Components/Cards';
+import '../css/style.css'
 
-
-export default function Scroll(){
+export default function Scroll(props){
     return (
         
-          <> { aromaticData.map((val) =>{
+          <div className="scroll"> {props.data.map((val) =>{
                 return(
                     <div>
                     <Card
                     key = { val.id }
                     imgscr = { val.imgsrc }
+                    link={val.link}
                     title = { val.title }
-                    desc = { val.description }
+                    info = { val.info }
                     /> </div >
                 );
             })
         }
-        </>
+        </div>
     )
 
 }
