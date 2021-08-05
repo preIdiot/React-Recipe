@@ -5,7 +5,7 @@ import Scroll from "./Components/Scroll.jsx";
 import "./index.css";
 import "../src/css/style.css"
 import Main from './main';
-import Footer from "./Footer";
+
 
 function App() {
   return (
