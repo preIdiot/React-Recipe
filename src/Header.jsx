@@ -1,5 +1,5 @@
 import React from "react";
-
+import logo from './Assets/images/logo.png'; 
 
 function Header() {
   
@@ -9,7 +9,18 @@ function Header() {
       <div className="bg-img">
         <nav className="navbar navBg navbar-expand-lg">
           <div className="container-fluid">
-          <a href="#"><img className="img-responsive2 navLogo" src="images/Logo1.png"/></a>
+
+          
+
+            <a href="index.html">
+              <img
+                className="img-responsive2 navLogo"
+                src={logo}
+                alt="Logo"
+              />
+             
+            </a>
+
 
             <button
               className="navbar-toggler"
