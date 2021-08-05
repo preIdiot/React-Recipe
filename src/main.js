@@ -10,9 +10,8 @@ export default function Main(){
     return(
         <BrowserRouter>
         <Switch>
-            <Route exact path="/" render={(props)=> <Scroll {...props} data={homeData}/>}/>
+            <Route exact path="/"   render={(props) => <Scroll {...props} data={homeData} />}/>
             <Route path="/healthyrecipies" component={Breakfast}/>
-
         </Switch>
         </BrowserRouter>
     )
