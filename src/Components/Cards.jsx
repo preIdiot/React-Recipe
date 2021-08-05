@@ -3,25 +3,28 @@ import '../css/style.css';
 import { Link ,BrowserRouter  as Router} from 'react-router-dom';
 
 function Cards(props) {
-    const styles={
-        width:"18rem"
-    }
-    
   console.log(props);
     return (
       <>
       <Router>
-        <div className="cards">
-          <div className="card" style={styles}> 
-            <Link to={props.link}><img src={props.imgscr} alt="myPic" className="card_img" /></Link>
-            <div className="card_info">
-              <span className="card_category">{props.title}</span>
-              <h3 className="card_title">{props.sname}</h3>
-            </div>
-          </div>
+        <div className="cards">          
+          <div className="card">
+                <img
+                  src={props.imgscr}
+                  className="card-img-top"
+                  alt={props.title}
+                />
+                <div className="card-body headstyle">
+                  <h4 className="card-title">{props.title}</h4>
+                  <p className="card-text">
+                    {props.info}
+                  </p>
+                  <Link to={props.link} className="btn btn-success">Know more</Link>
+                </div>
+              </div>
         </div>
         </Router>
       </>
     );
   }
-export default Cards
+export default Cards ;
