@@ -1,22 +1,15 @@
 import React from "react";
 
 
-function Header(props) {
-  console.log(props);
+function Header() {
+  
   return (
     <div>
       {/* navbar start */}
       <div className="bg-img">
         <nav className="navbar navBg navbar-expand-lg">
           <div className="container-fluid">
-            <a href="index.html">
-              <img
-                className="img-responsive2 navLogo"
-                src="./Assets/images/Logo.png"
-                alt="Logo"
-              />
-             
-            </a>
+          <a href="#"><img className="img-responsive2 navLogo" src="images/Logo1.png"/></a>
 
             <button
               className="navbar-toggler"
