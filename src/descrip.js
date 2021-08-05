@@ -23,5 +23,5 @@ export const aromaticData= [
     imgsrc : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShnuR4rPEO6MNTvsFtWgJpzRP0X-CulVyRDg&usqp=CAU", 
     title: "Oregano"
     },
-    ]
+]
     

@@ -13,7 +13,7 @@ function Cards(props) {
       <Router>
         <div className="cards">
           <div className="card" style={styles}> 
-            <Link to="/"><img src={props.imgscr} alt="myPic" className="card_img" /></Link>
+            <Link to="/breakfast"><img src={props.imgscr} alt="myPic" className="card_img" /></Link>
             <div className="card_info">
               <span className="card_category">{props.title}</span>
               <h3 className="card_title">{props.sname}</h3>
