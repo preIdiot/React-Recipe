@@ -11,14 +11,21 @@ function Cards(props) {
     return (
       <>
       <Router>
-        <div className="cards">
-          <div className="card" style={styles}> 
-            <Link to="/breakfast"><img src={props.imgscr} alt="myPic" className="card_img" /></Link>
-            <div className="card_info">
-              <span className="card_category">{props.title}</span>
-              <h3 className="card_title">{props.sname}</h3>
-            </div>
-          </div>
+        <div className="cards">          
+          <div className="card">
+                <img
+                  src={props.imgscr}
+                  className="card-img-top"
+                  alt={props.title}
+                />
+                <div className="card-body headstyle">
+                  <h4 className="card-title">{props.title}</h4>
+                  <p className="card-text">
+                    {props.info}
+                  </p>
+                  <a href="#" className="btn btn-success">Know more</a>
+                </div>
+              </div>
         </div>
         </Router>
       </>
