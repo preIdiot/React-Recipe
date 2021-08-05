@@ -2,6 +2,7 @@
 import Header from "./Header";
 import Scroll from "./Components/Scroll.jsx";
 import "./index.css";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <div className="scroll">
       <Scroll/>
       </div>
+      <Footer/>
     </div>
   );
 }
