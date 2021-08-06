@@ -13,9 +13,9 @@ export const aromaticData= [
     },
     {
     id=3,
-    imgsrc: "media/healthyRecipies/Chilli Oil Avocado Salad.jpg", 
-    title: "Healthy Recipies",
-    info : "Reducing death and disability from cardiovascular disease and diabetes. Know your risk. Evidence-based. Heart disease."
+    imgsrc: "media\breakfastRecipies\Vegetable Som Tam Salad.jpg", 
+    title: "Breakfast Recipies",
+    info : "Easy to make and quick to serve, these best breakfast recipes showcase the best of what India wakes up to every day- enjoy with us the big."
     },
     {
     id=4,
