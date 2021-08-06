@@ -1,18 +1,18 @@
 
 import Header from "./Header";
-import Scroll from "./Components/Scroll.jsx";
-import {aromaticData} from '../src/descrip'
-import "./index.css";
 import Footer from "./Footer";
+import "./index.css";
+import "../src/css/style.css"
+import Main from './main';
+
 
 function App() {
   return (
     <div>
       <Header/>
-      <div className="scroll">
-      <Scroll data={aromaticData}/>
-      </div>
+       <Main/>
       <Footer/>
+
     </div>
   );
 }
