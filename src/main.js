@@ -12,6 +12,11 @@ import HealthyRecipe from './Pages/Healthyrecipe';
 import Snacks from './Pages/snacksRecipies';
 import VegRecipies from './Pages/vegetarianRecipies';
 import Desert from './Pages/Desserts';
+import Kids from './Pages/kidsRecipies';
+import Meat from './Pages/meatRecipies';
+import Rice from './Pages/riceRecipies';
+import SeaFood from './Pages/seafoodRecipies';
+import Winter from './Pages/winterRecipes';
 
 
 export default function Main(){
@@ -29,7 +34,11 @@ export default function Main(){
             <Route path="dinnerrecipies"  component={Dinner}/>
             <Route path ="/festivals"  component={Festival}/>
             <Route path ="/drinks" component={Drink}/>
-            
+            <Route path="/kidsrecipies" component={Kids}/>
+            <Route path="/meatrecipies" component={Meat}/>
+            <Route path="/ricerecipies" component ={Rice}/>
+            <Route path="/seafoodrecipies" component={SeaFood}/>
+            <Route path="/winterrecipies"  component={Winter}/>
         </Switch>
         </BrowserRouter>
     )

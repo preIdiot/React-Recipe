@@ -1,27 +1,26 @@
 import React from 'react';
 import '../css/style.css';
-import { Link} from 'react-router-dom';
 
-function Cards(props) {
+function Subcat(props) {
   console.log(props);
     return (
-      <>  
-                
-          <div className="card">
-                <img
-                  src={props.imgscr}
-                  className="card-img-top"
-                  alt={props.title}
-                />
-                <div className="card-body headstyle">
-                  <h4 className="card-title">{props.title}</h4>
-                  <p className="card-text">
-                    {props.info}
-                  </p>
-                  <Link to= {"/healthyrecipies"+props.link} className="btn btn-success" >Know more</Link>
-                </div>
-              </div>
-        </>
+      <div>
+        <div className="card gallery__item">
+        <img src={props.imgscr} className="gallery__img" alt="mypic"/>
+        <div className="card-body">
+          <h6 className="card-title gallery_font">{props.title}</h6>
+          <hr/>
+          <div className="fstyle">
+            <i className="fa fa-cutlery fa-lg"> Recipe Servings:{props.recipieServe}</i>
+            <i className="fa fa-clock-o fa-lg"> Pre Time:{props.preTime}</i>
+            <i className="fa fa-clock-o fa-lg"> Cook Time:{props.cookTime}</i>
+            <i className="fa fa-clock-o fa-lg"> Total Time:{props.totaltime}</i>
+          </div>
+        </div>
+      </div>
+
+      </div>
+      
     );
   }
-export default Cards ;
+export default Subcat;

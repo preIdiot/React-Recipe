@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/style.css'
-import Subcat from './Recipe';
+import Subcat from './Subcat';
 export default function SubCategory(props){
     return (
         
