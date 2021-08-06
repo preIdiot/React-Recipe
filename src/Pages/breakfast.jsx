@@ -7,6 +7,6 @@ import { healthyRecipeData } from '../Data/healthyRecipe';
 
 export default function Breakfast(){
     return (
-      <Scroll  data={healthyRecipeData}/>
+      <Scroll data={healthyRecipeData}/>
     );
 }

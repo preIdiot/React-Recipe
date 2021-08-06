@@ -1,12 +1,12 @@
 import React from 'react';
 import '../css/style.css';
-import { Link } from 'react-router-dom';
+import { Link} from 'react-router-dom';
 
 function Cards(props) {
   console.log(props);
     return (
-      <>
-        <div className="cards">          
+      <>  
+                
           <div className="card">
                 <img
                   src={props.imgscr}
@@ -18,11 +18,10 @@ function Cards(props) {
                   <p className="card-text">
                     {props.info}
                   </p>
-                  <Link to= {props.link} className="btn btn-success" onClick= "">Know more</Link>
+                  <Link to= {props.link} className="btn btn-success" >Know more</Link>
                 </div>
               </div>
-        </div>
-      </>
+        </>
     );
   }
 export default Cards ;

@@ -184,5 +184,4 @@ export const healthyRecipies= [
         cookTime: "10min",
         totaltime: "20min", },
        
-
 ]
