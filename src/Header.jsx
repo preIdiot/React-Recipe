@@ -1,5 +1,5 @@
 import React from "react";
-import logo from './Assets/images/logo.png'; 
+import logo from './static/images/logo.png'; 
 import '../src/css/style.css';
 
 function Header() {
@@ -14,7 +14,7 @@ function Header() {
           
 
             <a href="index.html">
-              <img
+              <img 
                 className="img-responsive2 navLogo"
                 src={logo}
                 alt="Logo"
