@@ -28,6 +28,7 @@ export const homeData= [
     title: "Vegetarian Recipies",
     info : "Discover simple and delicious budget-friendly vegetarian recipes that are loved by vegetarians and omnivores alike! Step by step photos for every recipe!"
     },
+    
     {
     id:5,
     imgsrc: "media/chickenRecipies/Buldak.jpg",
