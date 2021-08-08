@@ -3,14 +3,14 @@ export const homeData= [
     {
     id:1,
     link:"/healthyrecipies",
-    imgsrc: '../images/Chilli_Oil_Avocado_Salad.jpg', 
+    imgsrc: '../images/healthyrecipies/Chilli_Oil_Avocado_Salad.jpg', 
     title: "Healthy Recipies",
     info : "Reducing death and disability from cardiovascular disease and diabetes. Know your risk. Evidence-based. Heart disease."
     },
     {
     id:2,
     link:"/snacksrecipies",
-    imgsrc: "../images/Chicken Sub Sandwich.jpg", 
+    imgsrc: "../images/snackrecipies/Chicken Sub Sandwich.jpg", 
     title: "Snacks Recipies",
     info : "Find snacks recipes from the Indian cuisine as well as World cuisine. The recipes are both vegetarian and vegan. Some starter snacks are also included in this category."
     },

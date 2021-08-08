@@ -7,7 +7,7 @@ export default function SubCategory(props){
           <div className="scroll">{props.data.map((val) =>{
                 return(
                     <div>
-                    <Subcat
+                    <Subcat 
                     key = { val.id }
                     imgscr = { val.imgsrc }
                     link={val.link}
