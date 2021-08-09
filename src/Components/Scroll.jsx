@@ -10,7 +10,8 @@ export default function Scroll(props){
                     <div>
                     <Card
                     key = { val.id }
-                    imgscr = { val.imgsrc }
+                    imgscr={val.imgsrc}
+                    name = { val.name }
                     link={val.link}
                     title = { val.title }
                     info = { val.info }

@@ -11,10 +11,10 @@ function Cards(props) {
                 <img
                   src={props.imgscr}
                   className="card-img-top"
-                  alt={props.title}
+                  alt={props.name}
                 />
                 <div className="card-body headstyle">
-                  <h4 className="card-title">{props.title}</h4>
+                  <h4 className="card-title">{props.name}</h4>
                   <p className="card-text">
                     {props.info}
                   </p>

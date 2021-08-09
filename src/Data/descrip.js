@@ -1,117 +1,38 @@
-
-export const homeData= [
+export  const Data=[
     {
-    id:1,
-    link:"/healthyrecipies",
-    imgsrc: '../images/healthyrecipies/Chilli_Oil_Avocado_Salad.jpg', 
-    title: "Healthy Recipies",
-    info : "Reducing death and disability from cardiovascular disease and diabetes. Know your risk. Evidence-based. Heart disease."
-    },
-    {
-    id:2,
-    link:"/snacksrecipies",
-    imgsrc: "../images/snackrecipies/Chicken Sub Sandwich.jpg", 
-    title: "Snacks Recipies",
-    info : "Find snacks recipes from the Indian cuisine as well as World cuisine. The recipes are both vegetarian and vegan. Some starter snacks are also included in this category."
-    },
-    {
-    id:3,
-    link:"",
-    imgsrc: "../images/Chicken Sub Sandwich.jpg", 
-    title: "Healthy Recipies",
-    info : "Reducing death and disability from cardiovascular disease and diabetes. Know your risk. Evidence-based. Heart disease."
-    },
-    {
-    id:4,
-    link:"/vegrecipies",
-    imgsrc: "../images/Lasaniya Battate.jpg", 
-    title: "Vegetarian Recipies",
-    info : "Discover simple and delicious budget-friendly vegetarian recipes that are loved by vegetarians and omnivores alike! Step by step photos for every recipe!"
-    },
-    
-    {
-    id:5,
-    imgsrc: "../images/Buldak.jpg",
-    link:"/chickenRecipies",
-    title: "Chicken Recipies",
-    info : "Perk up your poultry with our top chicken recipes. We've got you covered whether it's a traditional roast, a flavourful curry or a comforting pie "
-    },
-    {
-    id:6,
-    link:"/meatrecipies",
-    imgsrc: "../images/Mutton Beliram.jpg", 
-    title: "Meat Recipies",
-    info : "Meat Lovers Recipes. Growing up with an amazing cook (my mother) who loved her steak, going vegan would have been impossible."
-    },
-    {
-    id:7,
-    link:"/seafoodrecipies",
-    imgsrc: "../images/Fish tikka.jpg", 
-    title: "Seafood Recipies",
-    info : "Find Great New Ways to Serve Sustainable Seafood with Delicious Recipes."
-    },
-    {
-    id:8,
-    link:"/ricerecipies",
-    imgsrc: "../images/Hyderabadi Bagara Khana.jpg", 
-    title: "Rice Recipies",
-    info : "Let's turn this boring looking rice into a delicious meal. In this collection of 20+ Indian rice recipes, you'll find pulaos, biryanis and healthy khichdi ..."
-    },
-    {
-    id:9,
-    link:"/breadrecipies",
-    imgsrc: "../images/Spinach and Feta Crepes.jpg", 
-    title: "Bread Recipies",
-    info : "Switch up your baking routine with these delicious savory bread recipes. Home-baked breads packed with flavors like herbs, spices, cheese,"
-    },
-    {
-    id:10,
-    link:"/deserts",
-    imgsrc: "../images/Lychee Rabri Kulfi.jpg", 
-    title: "Desserts",
-    info : "You won't believe how easy to make these beautiful, homemade desserts are!"
-    },
-    {
-    id:11,
-    link:"/dinnerrecipies",
-    imgsrc: "../images/Awadhi Gosht Korma.jpg", 
-    title: "Dinner Recipies",
-    info : "Whats cooking for dinner tonight? Heres a roundup of our best Indian dinner recipes, from scrumptious."
-    },
-    {
-    id:12,
-    link:"/festivals",
-    imgsrc: "../images/Chocolate Jaffa Mousse.jpg", 
-    title: "Festivals",
-    info : "Be it any festival - Holi, Diwali or Christmas - find the best festival recipes by ace chefs."
-    },
-    {
-    id:13,
-    link:"/kidsrecipies",
-    imgsrc: "../images/Tricolor Macaroons.jpg", 
-    title: "Kids Recipies",
-    info : "Find food for kids, mom-approved by the Allrecipes community. You'll see lunch ideas, snack recipes, and healthy kid recipes."
-    },
-    {
-    id:14,
-    link:"/winterrecipies",
-    imgsrc: "../images/Gluten-Free Christmas Cake.jpg", 
-    title: "Winter Recipes",
-    info : "I hope this collection of winter recipes, helps you in making menu choices during the winter season. Stay warm and stay healthy."
-    },
-    {
-    id:15,
-    link:"/drinks",
-    imgsrc: "../images/rose & Arrak Mastani.jpg", 
-    title: "Drinks",
-    info : "These non-alcoholic drink recipes are the perfect booze-free beverages too cool off with on a hot day. We promise these fruity."
-    },    
+    "id":1,
+    "imgsrc":'../images/healthyrecipies/Chilli_Oil_Avocado_Salad.jpg',
+    "name":"Healthy recipe",
+    "info":"Healthy Recipies is those recipies which helps you to control Cholestrol and diabetes",
+    "recipies":[
+      {
+      "subid":1 ,
+      "recipe1":"sandwich",
+      "description":"abhdinsifa",
+      "steps":[
+        "take some breads",
+        "some amount of butter",
+        ]
+      
+      },
+      ]
+  },
+  {
+    "id":1,
+    "imgsrc":'../images/snackrecipies/Chicken Sub Sandwich.jpg',
+    "name":"Snack recipe",
+    "info":"Snack Recipies is those recipies which tooks as a light wieght food and it is ready in less time",
+    "recipies":[
+      {
+      "subid":1 ,
+      "recipe1":"sandwich",
+      "description":"abhdinsifa",
+      "steps":[
+        "take some breads",
+        "some amount of butter",
+        ]
+      
+      },
+      ]
+  }
 ]
-    
-
-
-
-
-    
-
-
