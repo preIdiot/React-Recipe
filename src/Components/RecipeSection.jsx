@@ -34,13 +34,13 @@ export default function RecipeSection(props) {
                         <div className="card-body">
            
                         <div>
-                            <i  className="fa fa-cutlery fa-lg" style="margin-right: 5rem;"> Recipe Servings:{props.recipeServings}</i>
-                            <i  className="fa fa-clock-o fa-lg" style="margin-top: 6px;">Pre Time:{props.preTime}</i>
+                            <i  className="fa fa-cutlery fa-lg marginRight"> Recipe Servings:{props.recipeServings}</i>
+                            <i  className="fa fa-clock-o fa-lg marginTop">Pre Time:{props.preTime}</i>
                         </div>
                         <br/>
                         <div>
-                            <i className="fa fa-clock-o fa-lg" style="margin-right: 5rem;"> Cook Time:{props.cookTime}</i>
-                            <i className="fa fa-clock-o fa-lg" style="margin-top: 6px;">Total Time:{props.totalTime}</i>
+                            <i className="fa fa-clock-o fa-lg marginRight"> Cook Time:{props.cookTime}</i>
+                            <i className="fa fa-clock-o fa-lg marginTop" style="margin-top: 6px;">Total Time:{props.totalTime}</i>
                         </div>
                     </div>
                 </div>
