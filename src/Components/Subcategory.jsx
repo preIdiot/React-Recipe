@@ -17,7 +17,7 @@ export default function SubCategory(props){
                     cookTime={val.cookTime}
                     title = { val.title }
                     info = { val.info }
-                    /> </div >
+                    /> </div>
                 );
             })
         }
