@@ -18,9 +18,6 @@ import Rice from './Pages/riceRecipies';
 import SeaFood from './Pages/seafoodRecipies';
 import Winter from './Pages/winterRecipes';
 
-import { winterRecipies } from './Pages/winterRecipes';
-
-
 export default function Main(){
     return(
         <BrowserRouter>
