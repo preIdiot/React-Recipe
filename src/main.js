@@ -2,12 +2,14 @@ import React from 'react';
 import { BrowserRouter,Switch ,Route } from 'react-router-dom';
 import Scroll from './Components/Scroll';
 import { Data } from './Data/descrip';
+import RecipeSection from './Components/RecipeSection';
 
 export default function Main(){
     return(
         <BrowserRouter>
         <Switch>
             <Route exact path="/"   render={(props) => <Scroll {...props} data={Data} />}/>
+            <Route exact path={'/healthyrecipies'} render={(props) => <RecipeSection  {...props}/> }  /> 
 
         </Switch>
         </BrowserRouter>

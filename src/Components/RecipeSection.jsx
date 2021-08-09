@@ -1,9 +1,8 @@
 import React from 'react';
 import '../css/style.css';
-import { Link} from 'react-router-dom';
-import { prototype } from 'file-loader';
+export default function RecipeSection(props) {
 
-function RecipeSection(props) {
+    
   console.log(props);
     return (
         <div>
@@ -104,5 +103,5 @@ function RecipeSection(props) {
        
    );
   }
-export default RecipeSection;
+
 
