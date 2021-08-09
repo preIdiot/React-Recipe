@@ -18,20 +18,19 @@ import Rice from './Pages/riceRecipies';
 import SeaFood from './Pages/seafoodRecipies';
 import Winter from './Pages/winterRecipes';
 
-
 export default function Main(){
     return(
         <BrowserRouter>
         <Switch>
             <Route exact path="/"   render={(props) => <Scroll {...props} data={homeData} />}/>
-            <Route path="/healthyrecipies" component={HealthyRecipe}/>
+            <Route path="/healthyrecipies/" component={HealthyRecipe}/>
             <Route path="/breadrecipies" component={BreadRecipies} />
             <Route path="/snacksrecipies" component={Snacks}/>
             <Route path="/vegrecipies" component={VegRecipies}/>
             <Route path="/breakfast" component={BreakFast} />
             <Route path="/chickenRecipies" component ={Chicken} />
             <Route path ="/deserts" component={Desert}/>
-            <Route path="dinnerrecipies"  component={Dinner}/>
+            <Route path="/dinnerrecipies"  component={Dinner}/>
             <Route path ="/festivals"  component={Festival}/>
             <Route path ="/drinks" component={Drink}/>
             <Route path="/kidsrecipies" component={Kids}/>
@@ -39,6 +38,8 @@ export default function Main(){
             <Route path="/ricerecipies" component ={Rice}/>
             <Route path="/seafoodrecipies" component={SeaFood}/>
             <Route path="/winterrecipies"  component={Winter}/>
+
+
         </Switch>
         </BrowserRouter>
     )
