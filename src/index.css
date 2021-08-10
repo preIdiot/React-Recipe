@@ -647,3 +647,50 @@ ul {
 .marginTop{
   margin-top: 6px;
 }
+
+
+ /* table  start*/
+
+ .part{
+  background-color: #246b9e;
+  padding: 2em;
+  margin-left: 2rem;
+  width: 28.5%;
+}
+
+.printsy{
+float: right;
+margin-left: 2rem;
+}
+
+.imgStyle{
+width: 30rem;
+
+}
+/* two card start */
+.part1{
+
+background: linear-gradient(to top right, #ffffff 0%, #c8c8e9 100%);
+padding: 2em 2em 2em 2em;
+margin-left: 11rem;
+line-height: 20px;
+width: 21.5%;
+border-radius: 0cm 2cm 0cm 2cm;
+box-shadow: 0px 13px 10px 8px rgba(50, 42, 71, 0.1);
+}
+
+.part2{
+            background-color: rgb(219 206 202); 
+            background: linear-gradient(to bottom left, #ffffff 0%, rgb(219 206 202) 100%);
+            padding: 2em;
+            margin-left: 3em;
+            width: 48%;
+            border-radius: 1cm 0cm 1cm 0cm;
+}
+.part2 h3{
+text-align: center;
+}
+
+/* two card ended */
+  
+
