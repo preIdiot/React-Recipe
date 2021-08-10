@@ -7,13 +7,32 @@ export const Data = [
     recipies: [
       {
         subid: 1,
-        recipe1: "sandwich",
+        recipename: "sandwich",
+        imgfile: "",
+        recipeServings: "",
+        preTime: "",
+        cookTime: "",
+        totalTime: "",
         description: "abhdinsifa",
+        ingredients: [" ", " ", " "],
         steps: ["take some breads", "some amount of butter"],
       },
 
+      {
+        subid: 1,
+        recipename: "sandwich",
+        imgfile: "",
+        recipeServings: "",
+        preTime: "",
+        cookTime: "",
+        totalTime: "",
+        description: "abhdinsifa",
+        ingredients: [" ", " ", " "],
+        steps: ["take some breads", "some amount of butter"],
+      },
     ],
   },
+
   {
     id: 2,
     imgsrc: "../images/snackrecipies/Chicken Sub Sandwich.jpg",
