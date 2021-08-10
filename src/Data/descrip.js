@@ -12,14 +12,6 @@ export const Data = [
         steps: ["take some breads", "some amount of butter"],
       },
 
-     
-
-      {
-        subid: 1,
-        recipe1: "sandwich",
-        description: "abhdinsifa",
-        steps: ["take some breads", "some amount of butter"],
-      },
     ],
   },
   {
