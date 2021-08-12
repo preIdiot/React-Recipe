@@ -515,8 +515,7 @@ export const Data = [
       {
         subid: 17,
         recipename: "Dirty Almond Rice Recipe",
-        imgfile:
-          "../images/healthyrecipies/Dirty Almond Rice Recipe.jpg",
+        imgfile: "../images/healthyrecipies/Dirty Almond Rice Recipe.jpg",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -524,21 +523,84 @@ export const Data = [
         description:
           "This dirty almond rice is healthy and easy recipe made with raw almonds along with boiled rice and some spices and tangy lemon juice. Pair it up with a sauced main course and enjoy the wholesome meal.",
         ingredients: [
-          "1 Cup Almond milk",
-          "1 cup Custard apple pulp",
-          "1/2 tsp Minced ginger",
-          "1 tbsp Honey",
-          "1 tbsp Almond flakes",
-          "A pinch of Green cardamom powder",
+          "1/2 Cup Whole Almond",
+          "1 cup Boiled rice (preferably basmati)",
+          "2 tbsp Onions chopped",
+          "1 tbsp Chopped red bell pepper",
+          "1 tsp Chopped green capsicum",
+          "1/2 tsp Crushed black pepper",
+          "to taste Salt",
+          "1 tbsp Pao Bhaji masala",
+          "1/2 tsp Lime juice",
+          "2 tbsp Freshly chopped coriander leaves",
+          "1 tbsp Desi ghee",
+          "1 tbsp Butter",
+          "1/2 tsp Cumin Seeds",
         ],
         steps: [
-          "1.Roast the almond flakes in a preheated oven at 180 degree celsius for 4 minutes or till golden in colour.",
-          "2.Blend almond milk, pulp of custard apple, minced ginger, honey and green cardamom powder until smooth. Place it in the fridge and chill it thoroughly.",
-          "s3.Pour it in high ball and garnish with toasted almonds slivers.",
+          "1.Roast whole almonds in preheated oven at 180 degree Celsius for 4 minutes and cut into slivers once cool down.",
+          "2.In a pan heat desi ghee and crackle cumin seed. Then add chopped onions, chopped red bell pepper, chopped green capsicum, pao bhaji masala and saute it for another 10-12 seconds",
+          "3.Now add cooked rice and toss them well. Adjust the seasoning.",
+          "4.Finish with butter, freshly chopped coriander leaves and squeeze lime juice.",
+          "5.In a serving bowl, place rice and garnish it with roasted almond slivers.",
+          "6.Serve hot.",
         ],
       },
 
-      
+
+      {
+        subid: 18,
+        recipename: "Chocolate Chickpea Barks Recipe",
+        imgfile: "../images/healthyrecipies/Chocolate Chickpea Barks Recipe.jpg",
+        recipeServings: "2",
+        preTime: "15 mins",
+        cookTime: "20 mins",
+        totalTime: "35 mins",
+        description:
+          "You will never go back once you tried this chocolate chickpea bark. It is super delicious and a protein packed crunchy treat.",
+        ingredients: [
+          "1 Cup Chickpeas","1 tbsp Olive Oil","to taste Sea salt","1 cup Chocolate",
+        ],
+        steps: [
+          "1.Soak chickpeas in water overnight.","2.Once soaked, remove and Let them dry completely.","3.After they are completely dry, add olive oil and sea salt. Give it a good mix and bake these at 200 degree Celsius for 30-40 mins.","4.Melt chocolate in another bowl, once the chickpea are roasted add them in the melted chocolate bowl.","5.Spread the above on a parchment paper and let it set in the fridge for 2-3 hours.","6.Using a knife, cut into barks and serve!",
+        ],
+      },
+
+      {
+        subid: 19,
+        recipename: "Protein Ladoo I Energy Ball Recipe",
+        imgfile: "../images/healthyrecipies/Protein Ladoo I Energy Ball Recipe.jpg",
+        recipeServings: "2",
+        preTime: "15 mins",
+        cookTime: "15 mins",
+        totalTime: "15 mins",
+        description:
+          "This is a healthier version of making ladoo. These ladoos are filled with loads of nutrition to please our palate and boost our health.",
+        ingredients: [
+          "1 Cup Mixed dry fruits","2 tbsp Raisins","1/2 cup Dates (khajoor)","1/4 cup Oats flour","1 tbsp Ghee",
+        ],
+        steps: [
+          "1.Dry roast oats flour and dry fruits and keep aside.","2.In a grinder, add deseeded dates and dry fruits. Add some ghee and blend everything together.","3.Take out the mixture, add oats flour and knead well. Add more ghee if required.","4.Shape them into balls and let the ladoos set.",
+        ],
+      },
+
+      {
+        subid: 20,
+        recipename: "Pizza Omelette Recipe",
+        imgfile: "../images/healthyrecipies/Pizza Omelette Recipe.jpg",
+        recipeServings: "1",
+        preTime: "10 mins",
+        cookTime: "10 mins",
+        totalTime: "20 mins",
+        description:
+          "Pizza omelete is the one of the easiest and fuss-free recipes to enjoy the taste of pizza without any guilt trip.",
+        ingredients: [
+          "4 Eggs","50 gram Mushrooms sliced","2 tsp Olive oil","1/2 tsp Oregano","1/2 tsp Chilli flakes","2-3 Olives","100 gram Cheese","2 tbsp Chopped onion","to taste Salt","to taste Black Pepper"
+        ],
+        steps: [
+          "1.Dry roast oats flour and dry fruits and keep aside.","2.In a grinder, add deseeded dates and dry fruits. Add some ghee and blend everything together.","3.Take out the mixture, add oats flour and knead well. Add more ghee if required.","4.Shape them into balls and let the ladoos set.",
+        ],
+      },
     ],
   },
 
