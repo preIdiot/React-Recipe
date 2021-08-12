@@ -147,6 +147,19 @@ export const Data = [
         ingredients: ["2 Cups Sliced avocado","10 Cherry Tomatoes","1 Dark green cucumber (sliced)","1 cup Chopped iceberg lettuce leaves","For the dressing","4 tsp Olive Oil","2 Kashmiri red chillies","Salt to taste"],
         steps: ["For the salad","1.Dip the chopped lettuce leaves in ice water for 1 minute.","2.Cut the cherry tomatoes into halves.","3.Refrigerate all the salad ingredients.","For the dressing","1.Break the red chillies into small pieces and blend in a mixer along with 4 tbsp of olive oil and salt to taste.","2.Remove from the mixer and keep the chilli oil aside.","How to proceed","1.Place the chilled vegetables in a salad bowl.","2.Add the salad dressing and mix thoroughly.","3.Serve immediately."],
       },
+
+      {
+        subid: 12,
+        recipename: "Baked Yogurt Recipe",
+        imgfile: "../images/healthyrecipies/Baked Yogurt Recipe.jpg",
+        recipeServings: "2",
+        preTime: "10 mins",
+        cookTime: "5 mins",
+        totalTime: "15 mins",
+        description: "Baked yogurt is an easy and delicious pudding-like dessert made with just 4 ingredients- hung curd, condensed milk, cream and any fruit and baked to perfection.",
+        ingredients: ["1 Cup Hung Curd","1/2 cup Condensed Milk","1/4 cup Cream","1/4 cup Mango chunks"],
+        steps: ["1.In a bowl, add condensed milk and hung curd. Mix it well.","2.Now, add cream and mix again.","3.Bake at 180 degree for 20 minutes.","4.Add mango chunks or any other fruit on the top of the baked yogurt bowl and dig in!"],
+      },
     ],
   },
 
