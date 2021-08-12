@@ -160,6 +160,19 @@ export const Data = [
         ingredients: ["1 Cup Hung Curd","1/2 cup Condensed Milk","1/4 cup Cream","1/4 cup Mango chunks"],
         steps: ["1.In a bowl, add condensed milk and hung curd. Mix it well.","2.Now, add cream and mix again.","3.Bake at 180 degree for 20 minutes.","4.Add mango chunks or any other fruit on the top of the baked yogurt bowl and dig in!"],
       },
+
+      {
+        subid: 12,
+        recipename: "Baked Yogurt Recipe",
+        imgfile: "../images/healthyrecipies/Baked Yogurt Recipe.jpg",
+        recipeServings: "2",
+        preTime: "10 mins",
+        cookTime: "5 mins",
+        totalTime: "15 mins",
+        description: "Baked yogurt is an easy and delicious pudding-like dessert made with just 4 ingredients- hung curd, condensed milk, cream and any fruit and baked to perfection.",
+        ingredients: ["1 Cup Hung Curd","1/2 cup Condensed Milk","1/4 cup Cream","1/4 cup Mango chunks"],
+        steps: ["1.In a bowl, add condensed milk and hung curd. Mix it well.","2.Now, add cream and mix again.","3.Bake at 180 degree for 20 minutes.","4.Add mango chunks or any other fruit on the top of the baked yogurt bowl and dig in!"],
+      },
     ],
   },
 
