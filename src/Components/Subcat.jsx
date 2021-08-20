@@ -1,16 +1,19 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../css/style.css';
+import { Link } from 'react-router-dom';
 
 function Subcat(props) {
   console.log(props);
     return (
       <div>
-        
+        <Link to= {"/recipe"}>
+
         <div className="card gallery__item">
+
         <img src={props.imgscr} className="gallery__img" alt="mypic"/>
         <div className="card-body">
-          <h6 className="card-title gallery_font">{props.title}</h6>
+          <h6 className="card-title gallery_font">{props.recipename}</h6>
           <hr/>
           <div className="fstyle">
             <i className="fa fa-cutlery fa-lg"> Recipe Servings:{props.recipieServe}</i>
@@ -21,6 +24,7 @@ function Subcat(props) {
           <Link to="/healthyrecipies/recipe" ><button></button></Link>
         </div>
       </div>
+      </Link>
 
       </div>
       

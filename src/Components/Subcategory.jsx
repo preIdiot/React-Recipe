@@ -8,15 +8,16 @@ export default function SubCategory(props){
                 return(
                     <div>
                     <Subcat 
-                    key = { val.id }
-                    imgscr = { val.imgsrc }
-                    link={val.link}
-                    recipieServe={val.recipieServe}
-                    preTime={val.preTime}
-                    totalTime={val.totalTime}
-                    cookTime={val.cookTime}
-                    title = { val.title }
+                    key = { val.recipes.subid }
+                    recipename = { val.recipes.recipename}
+                    imgfile = { val.recipes.imgsrc }
+                    link={val.recipes.link}
+                    recipieServe={val.recipes.recipieServings}
+                    preTime={val.recipes.preTime}
+                    totalTime={val.recipes.totalTime}
+                    cookTime={val.recipes.cookTime}
                     info = { val.info }
+
                     /> </div >
                 );
             })
