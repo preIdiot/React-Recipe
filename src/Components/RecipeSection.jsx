@@ -21,7 +21,7 @@ export default function RecipeSection(props) {
                 <div className="col-md-1"></div>
                     <div className="col-md-3">
                         <div className="container-fluid">
-                            <img className="img-responsive2 navLogo imgStyle" src={props.imgsrc}/>
+                            <img className="img-responsive2 navLogo imgStyle" src={props.imgsrc} alt={props.recipies} />
                         </div>
                     </div>
                     <div className="col-md-1"></div>
@@ -40,7 +40,7 @@ export default function RecipeSection(props) {
                         <br/>
                         <div>
                             <i className="fa fa-clock-o fa-lg marginRight"> Cook Time:{props.cookTime}</i>
-                            <i className="fa fa-clock-o fa-lg marginTop" style="margin-top: 6px;">Total Time:{props.totalTime}</i>
+                            <i className="fa fa-clock-o fa-lg marginTop">Total Time:{props.totalTime}</i>
                         </div>
                     </div>
                 </div>

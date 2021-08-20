@@ -18,7 +18,7 @@ function Cards(props) {
                   <p className="card-text">
                     {props.info}
                   </p>
-                  <Link to= {props.link} className="btn btn-success" >Know more</Link>
+                  <Link to= "/healthyrecipies" className="btn btn-success" >Know more</Link>
                 </div>
               </div>
         </>
