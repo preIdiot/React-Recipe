@@ -93,38 +93,7 @@
   /* Navbar CSS end */
   /* Carosel CSS start */
   
-  .carousel {
-    position: relative;
-    width: 100%;
-    height: 100vh;
-    background-color: black;
-  }
-  
-  .banner {
-    background-size: cover;
-    background-position: center, center;
-    background-repeat: no-repeat;
-    height: 100vh;
-    opacity: 0.7;
-  }
-  
-  .carousel-indicators {
-    justify-content: left;
-  }
-  
-  .carousel-indicators [data-bs-target] {
-    width: 8px;
-    height: 7px;
-    border-radius: 50%;
-    margin-right: 5px;
-    margin-left: 5px;
-  }
-  
-  .carousel-control-prev,
-  .carousel-control-next {
-    visibility: hidden;
-  }
-  /* Carosel CSS end */
+    /* Carosel CSS end */
   /* Home Page Contents CSS start */
   
   .container {
@@ -163,69 +132,6 @@
   /* Home Page Contents CSS end */
   /* first Page CSS start */
   
-  .first {
-    position: relative;
-    width: 100%;
-    height: 650px;
-  }
-  
-  .first-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 50px;
-    margin-left: 350px;
-    margin-right: 350px;
-  }
-  
-  .first-container h1 {
-    font-size: 40px;
-    margin-bottom: 25px;
-    font-weight: 700;
-  }
-  
-  .first-text-details {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-  }
-  
-  .first img {
-    width: 100px;
-    height: 100px;
-  }
-  
-  .first-text-details img {
-    width: 200px;
-    height: 200px;
-  }
-  
-  .first-tiles {
-    display: flex;
-  }
-  
-  .first-tiles .tile-item {
-    width: 200px;
-    height: 300px;
-    margin: 10px 20px;
-    padding: 20px;
-    text-align: center;
-    font-size: 12px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-  }
-  
-  .tile-item .tile-heading {
-    font-size: 18px;
-  }
-  
-  .tile-btn {
-    background-color: rgb(240, 240, 146);
-    border: 1px soid black;
-    border-radius: 3px;
-    width: 80px;
-    height: 30px;
-    transition: all 0.3s ease-in-out;
-  }
   .card{
     margin-top: 10%;
     margin-left: 8%;
@@ -259,110 +165,7 @@
   }
   /* assignments Page CSS start */
   
-  .assignments {
-    width: 100%;
-    height: 650px;
-  }
   
-  .assignments-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 40px 0px;
-  }
-  
-  .project-heading {
-    text-align: center;
-    font-size: 40px;
-    font-weight: 700;
-    margin-bottom: 30px;
-  }
-  
-  .assignments-container-tiles {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
-    text-align: center;
-  }
-  
-  .project-tile-item {
-    width: 250px;
-    height: 475px;
-    margin: 20px;
-    text-align: center;
-    background-color: rgb(185, 184, 185);
-    transition: all 0.3s ease-in-out;
-  }
-  
-  .project-tile-item:hover {
-    background-color: rgb(240, 240, 146);
-    box-shadow: 5px 10px 8px #888888;
-    cursor: pointer;
-  }
-  
-  .project-tile-item:hover button {
-    border: 0;
-    background-color: rgb(118, 72, 141);
-    color: white;
-  }
-  
-  .project-tile-item img {
-    width: 250px;
-    height: 275px;
-  }
-  
-  .project-tile-item h3 {
-    font-size: 20px;
-    margin-top: 20px;
-  }
-  
-  .project-tile-item p {
-    margin: 0px 40px;
-    font-size: 12px;
-  }
-  
-  .project-tile-item button {
-    margin-top: 10px;
-    border: 1px solid black;
-    width: 170px;
-    height: 35px;
-    font-size: 15px;
-    border-radius: 4px;
-    background-color: rgb(240, 240, 146);
-    transition: all 0.3s ease-in-out;
-  }
-  /* assignments Page CSS end */
-  /* Video Project CSS start */
-  
-  .video-project {
-    width: 100%;
-    height: 540px;
-    background-color: rgb(118, 72, 141);
-    padding-top: 20px;
-  }
-  
-  .video-project h1 {
-    text-align: center;
-    font-size: 40px;
-    font-weight: 700;
-    margin-top: 10px;
-    margin-bottom: 30px;
-    color: rgb(211, 211, 211);
-  }
-  
-  .video-carousel {
-    width: 100%;
-    height: 360px;
-  }
-  
-  .carousel-cell {
-    width: 50%;
-    height: 310px;
-    margin-top: 20px;
-    background-color: rgb(118, 72, 141);
-    position: relative;
-    padding-bottom: 30px;
-  }
   
   .iframe-container iframe {
     position: absolute;
@@ -371,58 +174,6 @@
   }
   /* Video Project CSS end */
   
-  /* contact CSS start */
-  
-  .contact-map {
-    display: flex;
-    flex-direction: row;
-  }
-  
-  .map {
-    width: 50%;
-    height: 650px;
-  }
-  
-  .contact {
-    width: 50%;
-    height: 650px;
-    background-color: rgb(240, 240, 146);
-    padding: 50px;
-  }
-  
-  .contact h1 {
-    font-size: 45px;
-    margin-bottom: 25px;
-    font-weight: bolder;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-  }
-  
-  .contact h4 {
-    font-size: 15px;
-    font-weight: bold;
-  }
-  
-  .contact-form .text {
-    width: 300px;
-    height: 35px;
-    margin-bottom: 20px;
-  }
-  
-  .contact textarea {
-    width: 300px;
-    height: 120px;
-    resize: none;
-    margin-bottom: 10px;
-  }
-  
-  .contact .contact-btn {
-    width: 300px;
-    height: 50px;
-    border-radius: 3px;
-    background-color: rgb(118, 72, 141);
-    color: white;
-  }
   /* contact CSS end */
   /* footer css start */
   
@@ -570,8 +321,8 @@
   }
   .scroll {
     padding: 4px;
-    width: 77rem;
-    height: 600px;
+    width: 50rem;
+    height: 50px;
     overflow-x: hidden;
     overflow-y: scroll;
     text-align:justify;
