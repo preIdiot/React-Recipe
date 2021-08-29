@@ -1,27 +1,17 @@
 import React from "react";
-import logo from './static/images/logo.png'; 
-import '../src/css/style.css';
+import logo from "./static/images/logo.png";
+import "../src/css/style.css";
 
 function Header() {
-  
   return (
     <div>
       {/* navbar start */}
       <div className="bg-img">
         <nav className="navbar navBg navbar-expand-lg">
           <div className="container-fluid">
-
-          
-
             <a href="index.html">
-              <img 
-                className="img-responsive2 navLogo"
-                src={logo}
-                alt="Logo"
-              />
-             
+              <img className="img-responsive2 navLogo" src={logo} alt="Logo" />
             </a>
-
 
             <button
               className="navbar-toggler"
@@ -79,7 +69,7 @@ function Header() {
               <form className="form-inline ml-auto">
                 <div className="input-group">
                   <div id="google_translate_element"></div>
-                 
+
                   <input
                     type="text"
                     className="form-control border-dark btn-sm posRecipe"
@@ -104,11 +94,7 @@ function Header() {
       <div className="navbar2 navbar-expand-lg bgColNav">
         <div className="container-md">
           <ul className="navbar-nav ml-auto">
-            <li
-              className="nav-item nav-Link"
-              href="#"
-            
-            >
+            <li className="nav-item nav-Link" href="#">
               RECIPE
             </li>
           </ul>

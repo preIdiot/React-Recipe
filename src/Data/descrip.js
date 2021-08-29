@@ -638,13 +638,14 @@ export const Data = [
     id: 2,
     imgsrc: "../images/snackrecipies/Chicken Sub Sandwich.jpg",
     name: "Snack Recipe",
+    link: "/snackrecipies",
     info: "Snack Recipies is those recipies which tooks as a light wieght food and it is ready in less time",
     recipies: [
       {
         subid: 1,
         recipename: "Rice Paper Veggie Wraps With Protein Recipe",
         imgfile:
-          "../images/healthyrecipies/Rice Paper Veggie Wraps With Protein Recipe.jpg",
+          "../images/snackrecipies/Rice Paper Veggie Wraps With Protein Recipe.jpg",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -678,7 +679,7 @@ export const Data = [
       {
         subid: 2,
         recipename: "Keto Samosa Recipe",
-        imgfile: "../images/healthyrecipies/Keto Samosa Recipe.jpg",
+        imgfile: "../images/snackrecipies/Keto Samosa Recipe.jpg",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -714,7 +715,7 @@ export const Data = [
         subid: 3,
         recipename: "Schezwan Style Chilli Potatoes Recipe",
         imgfile:
-          "../images/healthyrecipies/Schezwan Style Chilli Potatoes Recipe.jpg",
+          "../images/snackrecipies/Schezwan Style Chilli Potatoes Recipe.jpg",
         recipeServings: "2",
         preTime: "20 mins",
         cookTime: "15 mins",
@@ -746,7 +747,7 @@ export const Data = [
         subid: 3,
         recipename: "Schezwan Style Chilli Potatoes Recipe",
         imgfile:
-          "../images/healthyrecipies/Schezwan Style Chilli Potatoes Recipe.jpg",
+          "../images/snackrecipies/Schezwan Style Chilli Potatoes Recipe.jpg",
         recipeServings: "2",
         preTime: "20 mins",
         cookTime: "15 mins",
