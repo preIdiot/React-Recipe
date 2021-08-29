@@ -578,7 +578,7 @@ ul {
 .scroll {
   padding: 4px;
   width: 77rem;
-  height: 800px;
+  height: 600px;
   overflow-x: hidden;
   overflow-y: scroll;
   text-align:justify;
@@ -612,7 +612,6 @@ ul {
 }
 
 /* card ended */
-
 
 .video{
   margin-top: 10%;
