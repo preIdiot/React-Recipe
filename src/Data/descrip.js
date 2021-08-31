@@ -70,7 +70,9 @@ export const Data = [
         totalTime: "20 mins",
         description:
           "Detox roti is a combination of atta and vegetable. Full of moisture, lauki helps keep your body hydrated and cool. Try out this lauki roti recipe today!",
-        ingredients: ["1 Cup Pureed Lauki ", "1 cup Atta "],
+        ingredients: [
+          "1 Cup Pureed Lauki ",
+          "1 cup Atta "],
         steps: [
           "1.Add lauki and atta to a bowl.",
           "2.Use your hands and knead the dough.",
@@ -381,7 +383,7 @@ export const Data = [
       },
 
       {
-        subid: 12,
+        subid: 13,
         recipename: "Basil Pesto & Walnut Chicken Breast Recipe",
         imgfile:
           "../images/healthyrecipies/Basil Pesto & Walnut Chicken Breast Recipe.jpg",
@@ -409,7 +411,7 @@ export const Data = [
       },
 
       {
-        subid: 13,
+        subid: 14,
         recipename: "Coconut Milk Porridge Recipe",
         imgfile: "../images/healthyrecipies/Coconut Milk Porridge Recipe.jpg",
         recipeServings: "2",
@@ -433,7 +435,7 @@ export const Data = [
       },
 
       {
-        subid: 14,
+        subid: 15,
         recipename: "Oat Milk Smoothie Recipe",
         imgfile: "../images/healthyrecipies/Oat Milk Smoothie Recipe.jpg",
         recipeServings: "1",
@@ -455,7 +457,7 @@ export const Data = [
       },
 
       {
-        subid: 15,
+        subid: 16,
         recipename: "Cheesy Potato and Quinoa Cake Recipe",
         imgfile:
           "../images/healthyrecipies/Cheesy Potato and Quinoa Cake Recipe.jpg",
@@ -489,7 +491,7 @@ export const Data = [
       },
 
       {
-        subid: 16,
+        subid: 17,
         recipename: "Almond, ginger and custard apple smoothie Recipe",
         imgfile:
           "../images/healthyrecipies/Almond, ginger and custard apple smoothie Recipe.jpg",
@@ -515,7 +517,7 @@ export const Data = [
       },
 
       {
-        subid: 17,
+        subid: 18,
         recipename: "Dirty Almond Rice Recipe",
         imgfile: "../images/healthyrecipies/Dirty Almond Rice Recipe.jpg",
         recipeServings: "2",
@@ -550,7 +552,7 @@ export const Data = [
       },
 
       {
-        subid: 18,
+        subid: 19,
         recipename: "Chocolate Chickpea Barks Recipe",
         imgfile:
           "../images/healthyrecipies/Chocolate Chickpea Barks Recipe.jpg",
@@ -577,7 +579,7 @@ export const Data = [
       },
 
       {
-        subid: 19,
+        subid: 20,
         recipename: "Protein Ladoo I Energy Ball Recipe",
         imgfile:
           "../images/healthyrecipies/Protein Ladoo I Energy Ball Recipe.jpg",
@@ -603,7 +605,7 @@ export const Data = [
       },
 
       {
-        subid: 20,
+        subid: 21,
         recipename: "Pizza Omelette Recipe",
         imgfile: "../images/healthyrecipies/Pizza Omelette Recipe.jpg",
         recipeServings: "1",
@@ -629,6 +631,298 @@ export const Data = [
           "2.In a grinder, add deseeded dates and dry fruits. Add some ghee and blend everything together.",
           "3.Take out the mixture, add oats flour and knead well. Add more ghee if required.",
           "4.Shape them into balls and let the ladoos set.",
+        ],
+      },
+    ],
+  },
+
+  {
+    id: 2,
+    imgsrc: "../images/snackrecipies/Chicken Sub Sandwich.jpg",
+    name: "Snack Recipe",
+    link: "/snackrecipies",
+    info: "Snack Recipies is those recipies which tooks as a light wieght food and it is ready in less time",
+    recipies: [
+      {
+        subid: 1,
+        recipename: "Rice Paper Veggie Wraps With Protein Recipe",
+        imgfile:
+          "../images/snackrecipies/Rice Paper Veggie Wraps With Protein Recipe.jpg",
+        recipeServings: "2",
+        preTime: "15 mins",
+        cookTime: "15 mins",
+        totalTime: "30 mins",
+        description:
+          "Rice paper veggie wraps are super healthy, easy to make and perfect for meal prepping. It is light, complete, refreshing and excellent for children's snack boxes and picnics. Besides, it can be prepared in advance as it is eaten cold.",
+        ingredients: [
+          "6 Rice Paper sheets",
+          "6 Lettuce leaves",
+          "5-6 Chopped Mushroom",
+          "1 cup Bell Peppers (thin slices)",
+          "1 large Carrot (thinly sliced)",
+          "1 cup Cabbage (thinly sliced)",
+          "2 Stalks Green onions",
+          "1/2 cup Alfa-alfa or steamed regular sprouts",
+          "1/2 cup Paneer or tofu",
+          "2-3 tbsp Soya Sauce",
+          "2 tsp Worcestershire sauce",
+          "2 tsp Sweet Chilli Paste",
+        ],
+        steps: [
+          "1.Saute all vegetables then add sprouts and sauces. Stir fry for 2-3 minutes. Once done, add paneer/tofu.",
+          "2.Fill a large bowl with lukewarm water, dip a sheet of rice paper and remove immediately.",
+          "3.Now, pat off excess water and lay the sheet down on a cutting board or any flat surface. Put a lettuce leaf and fill the centre with saute vegetables and paneer/tofu.",
+          " 4.Wrap up the burrito and place it on a plate.",
+          "5.Repeat the same process with the remaining sheet.",
+          "6.Eat with green chutney or hummus for extra protein.",
+        ],
+      },
+
+      {
+        subid: 2,
+        recipename: "Keto Samosa Recipe",
+        imgfile: "../images/snackrecipies/Keto Samosa Recipe.jpg",
+        recipeServings: "2",
+        preTime: "15 mins",
+        cookTime: "15 mins",
+        totalTime: "30 mins",
+        description:
+          "Now, who said low carb is parallel to living a life without samosas? Well, this samosa recipe is all that you need to fulfill your samosa cravings without any guilt trip.",
+        ingredients: [
+          "1 Cup Almond flour",
+          "1 Cup Finely chopped cauliflower",
+          "1/2 Cup Chopped Onion",
+          "1 tsp Cumin Powder",
+          "Salt to taste",
+          "1/2 tsp Garam Masala",
+          "1/2 tsp Chilli flakes",
+          "2 Tbsp Coriander leaves",
+          "1 Tbsp Butter",
+          "1 Tbsp Chopped ginger",
+        ],
+        steps: [
+          "For Dough",
+          "1.Take a large container, add almond flour, salt and cumin powder along with lukewarm water. Mix well and knead a dough.",
+          "2.Once done, set it aside for a few minutes.",
+          "For Filling",
+          "1.Preheat a pan and add butter (preferably grass-fed), then add ginger, cauliflower, onion along with all the spices. Mix well and stir fry for 5-6 minutes.",
+          "For Assembling",
+          "1.Now, take a small portion from the dough and roll it out, fill it with the stuffing and bake for 14-15 minutes or until golden brown.",
+          "2.Follow the same process for all the samosas.",
+          "3.Serve and enjoy!",
+        ],
+      },
+
+      {
+        subid: 3,
+        recipename: "Schezwan Style Chilli Potatoes Recipe",
+        imgfile:
+          "../images/snackrecipies/Schezwan Style Chilli Potatoes Recipe.jpg",
+        recipeServings: "2",
+        preTime: "20 mins",
+        cookTime: "15 mins",
+        totalTime: "35 mins",
+        description:
+          "Schezwan Chilli Potato is a popular Indo-Chinese appetizer! It’s Spicy and so delicious. This recipe is so easy-to-make and can impress your friends and family in no time.",
+        ingredients: [
+          "1 Cup Almond flour",
+          "1 Cup Finely chopped cauliflower",
+          "1/2 Cup Chopped Onion",
+          "1 tsp Cumin Powder",
+          "Salt to taste",
+          "1/2 tsp Garam Masala",
+          "1/2 tsp Chilli flakes",
+          "2 Tbsp Coriander leaves",
+          "1 Tbsp Butter",
+          "1 Tbsp Chopped ginger",
+        ],
+        steps: [
+          "1.First peel and cut your potatoes in a long shape. Then add cornflour to it and fry them till cripsy.",
+          "2.In a separate pan then add, some oil, soy sauce, chill sauce, vinegar and mix these well.",
+          "3.Then add the chopped vegetables and make a slurry from cornflour. Mix this and then throw in your potatoes.",
+          "4.Now add some Schezwan sauce from the top and combine again.",
+          "5.Let it cook on low flame for a while. Then serve in a bowl and garnish with spring onions.",
+        ],
+      },
+
+      {
+        subid: 3,
+        recipename: "Schezwan Style Chilli Potatoes Recipe",
+        imgfile:
+          "../images/snackrecipies/Schezwan Style Chilli Potatoes Recipe.jpg",
+        recipeServings: "2",
+        preTime: "20 mins",
+        cookTime: "15 mins",
+        totalTime: "35 mins",
+        description:
+          "Schezwan Chilli Potato is a popular Indo-Chinese appetizer! It’s Spicy and so delicious. This recipe is so easy-to-make and can impress your friends and family in no time.",
+        ingredients: [
+          "2 Potatoes (sliced)",
+          "3-4 tbsp Cornflour or maida",
+          "to taste Salt",
+          "Oil (for deep frying)",
+          "For the base:",
+          "1 tbsp Oil",
+          "tbsp Spring onions",
+          "1 tsp Garlic paste",
+          "1 tbsp Capsicum sliced",
+          "to taste Salt",
+          "1/4 tbsp Soya Sauce",
+          "2 tbsp Schezwan sauce",
+          "2 tsp Chilli Sauce",
+        ],
+        steps: [
+          "1.First peel and cut your potatoes in a long shape. Then add cornflour to it and fry them till cripsy.",
+          "2.In a separate pan then add, some oil, soy sauce, chill sauce, vinegar and mix these well.",
+          "3.Then add the chopped vegetables and make a slurry from cornflour. Mix this and then throw in your potatoes.",
+          "4.Now add some Schezwan sauce from the top and combine again.",
+          "5.Let it cook on low flame for a while. Then serve in a bowl and garnish with spring onions.",
+        ],
+      },
+    ],
+  },
+
+  {
+    id: 2,
+    imgsrc: "../images/snackrecipies/Chicken Sub Sandwich.jpg",
+    name: "Snack Recipe",
+    link: "/snackrecipies",
+    info: "Snack Recipies is those recipies which tooks as a light wieght food and it is ready in less time",
+    recipies: [
+      {
+        subid: 1,
+        recipename: "Rice Paper Veggie Wraps With Protein Recipe",
+        imgfile:
+          "../images/snackrecipies/Rice Paper Veggie Wraps With Protein Recipe.jpg",
+        recipeServings: "2",
+        preTime: "15 mins",
+        cookTime: "15 mins",
+        totalTime: "30 mins",
+        description:
+          "Rice paper veggie wraps are super healthy, easy to make and perfect for meal prepping. It is light, complete, refreshing and excellent for children's snack boxes and picnics. Besides, it can be prepared in advance as it is eaten cold.",
+        ingredients: [
+          "6 Rice Paper sheets",
+          "6 Lettuce leaves",
+          "5-6 Chopped Mushroom",
+          "1 cup Bell Peppers (thin slices)",
+          "1 large Carrot (thinly sliced)",
+          "1 cup Cabbage (thinly sliced)",
+          "2 Stalks Green onions",
+          "1/2 cup Alfa-alfa or steamed regular sprouts",
+          "1/2 cup Paneer or tofu",
+          "2-3 tbsp Soya Sauce",
+          "2 tsp Worcestershire sauce",
+          "2 tsp Sweet Chilli Paste",
+        ],
+        steps: [
+          "1.Saute all vegetables then add sprouts and sauces. Stir fry for 2-3 minutes. Once done, add paneer/tofu.",
+          "2.Fill a large bowl with lukewarm water, dip a sheet of rice paper and remove immediately.",
+          "3.Now, pat off excess water and lay the sheet down on a cutting board or any flat surface. Put a lettuce leaf and fill the centre with saute vegetables and paneer/tofu.",
+          " 4.Wrap up the burrito and place it on a plate.",
+          "5.Repeat the same process with the remaining sheet.",
+          "6.Eat with green chutney or hummus for extra protein.",
+        ],
+      },
+
+      {
+        subid: 2,
+        recipename: "Keto Samosa Recipe",
+        imgfile: "../images/snackrecipies/Keto Samosa Recipe.jpg",
+        recipeServings: "2",
+        preTime: "15 mins",
+        cookTime: "15 mins",
+        totalTime: "30 mins",
+        description:
+          "Now, who said low carb is parallel to living a life without samosas? Well, this samosa recipe is all that you need to fulfill your samosa cravings without any guilt trip.",
+        ingredients: [
+          "1 Cup Almond flour",
+          "1 Cup Finely chopped cauliflower",
+          "1/2 Cup Chopped Onion",
+          "1 tsp Cumin Powder",
+          "Salt to taste",
+          "1/2 tsp Garam Masala",
+          "1/2 tsp Chilli flakes",
+          "2 Tbsp Coriander leaves",
+          "1 Tbsp Butter",
+          "1 Tbsp Chopped ginger",
+        ],
+        steps: [
+          "For Dough",
+          "1.Take a large container, add almond flour, salt and cumin powder along with lukewarm water. Mix well and knead a dough.",
+          "2.Once done, set it aside for a few minutes.",
+          "For Filling",
+          "1.Preheat a pan and add butter (preferably grass-fed), then add ginger, cauliflower, onion along with all the spices. Mix well and stir fry for 5-6 minutes.",
+          "For Assembling",
+          "1.Now, take a small portion from the dough and roll it out, fill it with the stuffing and bake for 14-15 minutes or until golden brown.",
+          "2.Follow the same process for all the samosas.",
+          "3.Serve and enjoy!",
+        ],
+      },
+
+      {
+        subid: 3,
+        recipename: "Schezwan Style Chilli Potatoes Recipe",
+        imgfile:
+          "../images/snackrecipies/Schezwan Style Chilli Potatoes Recipe.jpg",
+        recipeServings: "2",
+        preTime: "20 mins",
+        cookTime: "15 mins",
+        totalTime: "35 mins",
+        description:
+          "Schezwan Chilli Potato is a popular Indo-Chinese appetizer! It’s Spicy and so delicious. This recipe is so easy-to-make and can impress your friends and family in no time.",
+        ingredients: [
+          "1 Cup Almond flour",
+          "1 Cup Finely chopped cauliflower",
+          "1/2 Cup Chopped Onion",
+          "1 tsp Cumin Powder",
+          "Salt to taste",
+          "1/2 tsp Garam Masala",
+          "1/2 tsp Chilli flakes",
+          "2 Tbsp Coriander leaves",
+          "1 Tbsp Butter",
+          "1 Tbsp Chopped ginger",
+        ],
+        steps: [
+          "1.First peel and cut your potatoes in a long shape. Then add cornflour to it and fry them till cripsy.",
+          "2.In a separate pan then add, some oil, soy sauce, chill sauce, vinegar and mix these well.",
+          "3.Then add the chopped vegetables and make a slurry from cornflour. Mix this and then throw in your potatoes.",
+          "4.Now add some Schezwan sauce from the top and combine again.",
+          "5.Let it cook on low flame for a while. Then serve in a bowl and garnish with spring onions.",
+        ],
+      },
+
+      {
+        subid: 3,
+        recipename: "Schezwan Style Chilli Potatoes Recipe",
+        imgfile:
+          "../images/snackrecipies/Schezwan Style Chilli Potatoes Recipe.jpg",
+        recipeServings: "2",
+        preTime: "20 mins",
+        cookTime: "15 mins",
+        totalTime: "35 mins",
+        description:
+          "Schezwan Chilli Potato is a popular Indo-Chinese appetizer! It’s Spicy and so delicious. This recipe is so easy-to-make and can impress your friends and family in no time.",
+        ingredients: [
+          "2 Potatoes (sliced)",
+          "3-4 tbsp Cornflour or maida",
+          "to taste Salt",
+          "Oil (for deep frying)",
+          "For the base:",
+          "1 tbsp Oil",
+          "tbsp Spring onions",
+          "1 tsp Garlic paste",
+          "1 tbsp Capsicum sliced",
+          "to taste Salt",
+          "1/4 tbsp Soya Sauce",
+          "2 tbsp Schezwan sauce",
+          "2 tsp Chilli Sauce",
+        ],
+        steps: [
+          "1.First peel and cut your potatoes in a long shape. Then add cornflour to it and fry them till cripsy.",
+          "2.In a separate pan then add, some oil, soy sauce, chill sauce, vinegar and mix these well.",
+          "3.Then add the chopped vegetables and make a slurry from cornflour. Mix this and then throw in your potatoes.",
+          "4.Now add some Schezwan sauce from the top and combine again.",
+          "5.Let it cook on low flame for a while. Then serve in a bowl and garnish with spring onions.",
         ],
       },
     ],
