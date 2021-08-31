@@ -27,6 +27,12 @@ export default function Main() {
 
         <Route
           exact
+          path="/snackrecipies"
+          render={(props) => <SubCategory {...props} data={Data[1]} />}
+        />
+
+        <Route
+          exact
           path="/recipe"
           render={(props) => <RecipeSection {...props} />}
         />

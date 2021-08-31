@@ -783,11 +783,11 @@ export const Data = [
   },
 
   {
-    id: 2,
-    imgsrc: "../images/snackrecipies/Chicken Sub Sandwich.jpg",
-    name: "Snack Recipe",
-    link: "/snackrecipies",
-    info: "Snack Recipies is those recipies which tooks as a light wieght food and it is ready in less time",
+    id: 3,
+    imgsrc: "../images/BreakfastRecipies/aloo-poha.webp",
+    name: "Break Fast Recipies",
+    link: "/breakfastrecipies",
+    info: "Easy to make and quick to serve, these best breakfast recipes showcase the best of what India wakes up to every day- enjoy with us the big.",
     recipies: [
       {
         subid: 1,
