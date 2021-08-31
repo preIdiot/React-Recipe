@@ -15,7 +15,7 @@ function App() {
        <Main/>
        <Video/>
        </div>
-      <Footer/>
+       <Footer/>
 
     </div>
   );
