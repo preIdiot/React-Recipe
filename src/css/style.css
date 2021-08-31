@@ -321,8 +321,8 @@
   }
   .scroll {
     padding: 4px;
-    width: 50rem;
-    height: 50px;
+    width: 90rem;
+    height: 600px;
     overflow-x: hidden;
     overflow-y: scroll;
     text-align:justify;
