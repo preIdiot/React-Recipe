@@ -1,5 +1,5 @@
 import React from "react";
-import "../css/style.css";
+import "../css/SubCat.scss";
 import { Link } from "react-router-dom";
 
 function Subcat(props) {
@@ -22,7 +22,9 @@ function Subcat(props) {
               </i>
             </div>
           </div>
-          <Link to="/healthyrecipies/recipe" ><button></button></Link>
+          {/* <Link to="/healthyrecipies/recipe">
+            <button></button>
+          </Link> */}
         </div>
       </Link>
     </div>

@@ -1,10 +1,11 @@
 import React from "react";
-import "../css/style.css";
+
+import "../css/RecipeSection.scss";
 
 export default function RecipeSection(props) {
   const data = props.location.state;
   return (
-    <div>
+    <div className="recipeSection">
       <div className="row">
         <div className="col-md-2"></div>
         <div className="col-md-8">
@@ -26,7 +27,7 @@ export default function RecipeSection(props) {
       </div>
       <br />
       <div className="row">
-        <div className="col-md-1"></div>
+        {/* <div className="col-md-1"></div> */}
         <div className="col-md-3">
           <div className="container-fluid">
             <img
@@ -36,7 +37,7 @@ export default function RecipeSection(props) {
             />
           </div>
         </div>
-        <div className="col-md-1"></div>
+        {/* <div className="col-md-1"></div> */}
 
         <div className="col-md-6">
           <p>{data.description}</p>
@@ -67,7 +68,7 @@ export default function RecipeSection(props) {
             </div>
           </div>
         </div>
-        <div className="col-md-1"></div>
+        {/* <div className="col-md-1"></div> */}
       </div>
 
       <br />

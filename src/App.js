@@ -1,22 +1,18 @@
-
 import Header from "./Header";
 import Footer from "./Footer";
-import "./index.css";
-import Video from "./Components/Video";
-import "../src/css/style.css"
-import Main from './main';
+import Main from "./main";
 
+import "./css/style.css";
+import "./css/App.scss";
 
 function App() {
   return (
-    <div>
-      <Header/>
-      <div className="row">
-       <Main/>
-       <Video/>
-       </div>
-       <Footer/>
-
+    <div className="App">
+      <Header />
+      <main className="row">
+        <Main />
+      </main>
+      <Footer />
     </div>
   );
 }
