@@ -1,24 +1,29 @@
 import React from "react";
 
+import Video from "./Video";
 import Card from "../Components/Cards";
-import "../css/style.css";
+import "../css/Scroll.scss";
+
 export default function Scroll(props) {
   return (
-    <div className="scroll">
-      {props.data.map((val) => {
-        return (
-          <div key={val.id}>
-            <Card
-              key={val.id}
-              imgscr={val.imgsrc}
-              name={val.name}
-              link={val.link}
-              title={val.title}
-              info={val.info}
-            />
-          </div>
-        );
-      })}
-    </div>
+    <>
+      <div className="scroll scroll-main">
+        {props.data.map((val) => {
+          return (
+            <div className="cardContainer" key={val.id}>
+              <Card
+                key={val.id}
+                imgscr={val.imgsrc}
+                name={val.name}
+                link={val.link}
+                title={val.title}
+                info={val.info}
+              />
+            </div>
+          );
+        })}
+      </div>
+      <Video />
+    </>
   );
 }

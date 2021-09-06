@@ -1,6 +1,6 @@
 import React from "react";
-import "../css/style.css";
 import { Link } from "react-router-dom";
+import "../css/Card.scss";
 
 function Cards(props) {
   return (
