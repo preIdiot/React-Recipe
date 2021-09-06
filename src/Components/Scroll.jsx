@@ -10,7 +10,7 @@ export default function Scroll(props) {
       <div className="scroll scroll-main">
         {props.data.map((val) => {
           return (
-            <div key={val.id}>
+            <div className="cardContainer" key={val.id}>
               <Card
                 key={val.id}
                 imgscr={val.imgsrc}

@@ -13,12 +13,18 @@ function Subcat(props) {
             <hr />
             <div className="fstyle">
               <i className="fa fa-cutlery fa-lg">
-                Recipe Servings:{props.recipieServe}
+                <p>Recipe Servings:{props.recipieServe}</p>
               </i>
-              <i className="fa fa-clock-o fa-lg"> Pre Time:{props.preTime}</i>
-              <i className="fa fa-clock-o fa-lg"> Cook Time:{props.cookTime}</i>
               <i className="fa fa-clock-o fa-lg">
-                Total Time:{props.totaltime}
+                {" "}
+                <p>Pre Time:{props.preTime}</p>
+              </i>
+              <i className="fa fa-clock-o fa-lg">
+                {" "}
+                <p>Cook Time:{props.cookTime}</p>
+              </i>
+              <i className="fa fa-clock-o fa-lg">
+                <p>Total Time:{props.totaltime}</p>
               </i>
             </div>
           </div>

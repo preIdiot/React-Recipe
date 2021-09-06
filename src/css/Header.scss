@@ -37,8 +37,10 @@
           display: flex;
           justify-content: space-between;
           align-items: center;
-          max-width: 500px;
-          width: 28vw;
+          width: 100%;
+          min-width: 500px;
+          // width: 28vw;
+          // min-width: ;
 
           #google_translate_element {
             max-width: 150px;
@@ -129,18 +131,85 @@
       }
     }
   }
+}
 
-  //   .navbar-brand {
-  //     position: relative;
-  //     left: 13%;
-  //     font-size: 35px;
-  //     color: white;
-  //     font-weight: bolder;
-  //     letter-spacing: 2px;
-  //     text-transform: uppercase;
-  //   }
+//   .navbar-brand {
+//     position: relative;
+//     left: 13%;
+//     font-size: 35px;
+//     color: white;
+//     font-weight: bolder;
+//     letter-spacing: 2px;
+//     text-transform: uppercase;
+//   }
 
-  //   .navbar-brand:hover {
-  //     color: white;
-  //   }
+//   .navbar-brand:hover {
+//     color: white;
+//   }
+
+@media screen and (max-width: 864px) {
+  .NavBar {
+    .bg-img {
+      .navbar {
+        .container-fluid {
+          > div {
+            display: flex;
+            justify-content: flex-end;
+            > ul {
+              display: none;
+            }
+          }
+          form {
+            height: 100%;
+          }
+          .input-group {
+            flex-direction: column;
+            align-items: end;
+            min-width: 250px;
+            padding-right: 10px;
+            height: 100%;
+
+            #google_translate_element {
+              max-width: 210px;
+              margin-bottom: 1rem;
+            }
+            .inputGroup-search {
+              display: flex;
+              max-width: 250px;
+              width: 90%;
+              margin: 0;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .NavBar {
+    .bg-img {
+      .navbar {
+        .container-fluid {
+          padding-right: 0;
+          #navbarCollapse {
+            width: 50%;
+            overflow: hidden;
+          }
+          .input-group {
+            min-width: 180px;
+            width: fit-content;
+            padding-right: 0;
+            align-items: center;
+            #google_translate_element {
+              max-width: 180px;
+            }
+            .inputGroup-search {
+              max-width: 180px;
+            }
+          }
+        }
+      }
+    }
+  }
 }

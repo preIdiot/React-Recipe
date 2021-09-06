@@ -6,8 +6,8 @@ export default function RecipeSection(props) {
   const data = props.location.state;
   return (
     <div className="recipeSection">
-      <div className="row">
-        <div className="col-md-2"></div>
+      <div className="row row1">
+        {/* <div className="col-md-2"></div> */}
         <div className="col-md-8">
           <center>
             <h1>{data.recipename}</h1>
@@ -25,8 +25,8 @@ export default function RecipeSection(props) {
           </button>
         </div>
       </div>
-      <br />
-      <div className="row">
+      {/* <br /> */}
+      <div className="row row2">
         {/* <div className="col-md-1"></div> */}
         <div className="col-md-3">
           <div className="container-fluid">
@@ -42,7 +42,7 @@ export default function RecipeSection(props) {
         <div className="col-md-6">
           <p>{data.description}</p>
           <div className="card-body">
-            <div>
+            <div className="card-body-item">
               <i className="fa fa-cutlery fa-lg marginRight">
                 {" "}
                 Recipe Servings: {data.recipeServings}
@@ -53,7 +53,7 @@ export default function RecipeSection(props) {
               </i>
             </div>
             <br />
-            <div>
+            <div className="card-body-item">
               <i className="fa fa-clock-o fa-lg marginRight">
                 {" "}
                 Cook Time: {data.cookTime}
@@ -71,9 +71,9 @@ export default function RecipeSection(props) {
         {/* <div className="col-md-1"></div> */}
       </div>
 
-      <br />
-      <br />
-      <div className="row">
+      {/* <br />
+      <br /> */}
+      <div className="row row3">
         <div className="col-md-4 part1">
           <h4>Ingredients Of {data.recipename}</h4>
           <br />
@@ -86,7 +86,7 @@ export default function RecipeSection(props) {
           </h5>
         </div>
 
-        <div className="col-md-1"></div>
+        {/* <div className="col-md-1"></div> */}
 
         <div className="col-md-6 part2">
           <h3>How to Make {data.recipename}</h3>
@@ -96,8 +96,8 @@ export default function RecipeSection(props) {
           })}
         </div>
       </div>
-      <br />
-      <br />
+      {/* <br />
+      <br /> */}
     </div>
   );
 }

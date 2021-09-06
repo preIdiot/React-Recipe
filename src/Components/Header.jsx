@@ -1,7 +1,7 @@
 import React from "react";
-import logo from "./static/images/logo.png";
+import logo from "../static/images/logo.png";
 
-import "./css/Header.scss";
+import "../css/Header.scss";
 
 function Header() {
   return (
