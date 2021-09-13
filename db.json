@@ -1,0 +1,1465 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "imgsrc": "../images/healthyrecipies/Chilli_Oil_Avocado_Salad.jpg",
+      "name": "Healthy Recipe",
+      "link": "/healthyrecipies",
+      "info": "Healthy Recipies is those recipies which helps you to control Cholestrol and diabetes",
+      "recipies": [
+        {
+          "subid": 1,
+          "link": "/recipe",
+          "recipename": "Colourful Exotic (Egg And Broccoli) Omelette Recipe",
+          "imgfile": "../images/healthyrecipies/Colourful Exotic.jpg",
+          "recipeServings": "2",
+          "preTime": "15 mins",
+          "cookTime": "10 mins",
+          "totalTime": "25 mins",
+          "description": "Broccoli omelette is an excellent breakfast recipe. While the egg provides the essential complete proteins, broccoli and other vegetables add fibre and taste. You can have it with or without bread. The choice is yours!",
+          "ingredients": [
+            "2 Egg White",
+            "1 Egg yolk",
+            "1 tbsp Chopped Spring Onion",
+            "1 tbsp Chopped Broccoli",
+            "1 tsp Milk",
+            "A pinch of Italian Seasoning",
+            "1 tsp Oil/ghee",
+            "1/2 tsp Red Pepper Flakes to taste Salt"
+          ],
+          "steps": [
+            "1.Heat oil in a non-stick pan.",
+            "2.Now add onion, pepper and broccoli.",
+            "3.Then add seasonings, salt and red pepper flakes.",
+            "4.In a separate bowl, beat the egg whites with a pinch of salt and 1 tsp milk.",
+            "5.Pour the beaten eggs on top of the vegetables.",
+            "6.Cook and flip to cook the other side."
+          ]
+        },
+
+        {
+          "subid": 2,
+          "recipename": "Jeera Water Recipe",
+          "imgfile": "../images/healthyrecipies/Jeera Water Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "5 mins",
+          "cookTime": "5 mins",
+          "totalTime": "10 mins",
+          "description": "Jeera water can be the most basic and quick weight loss trick that you can adapt, it requires no time and effort in its preparation. Besides, it also helps in detoxifying the body and aiding in weight loss.",
+          "ingredients": [
+            "2 Tbsp Jeera ",
+            "2 cups Water ",
+            "1 tsp Honey",
+            "1 tsp Lemon Juice (optional)"
+          ],
+          "steps": [
+            "1.Boil 2 cups of water in pan.",
+            "2.Add jeera and let it boil for 5 minutes. Strain the jeera, add honey and drink warm. ",
+            "3.Drink this in the morning and the evening as well. "
+          ]
+        },
+
+        {
+          "subid": 3,
+          "recipename": "Lauki Roti Recipe",
+          "imgfile": "../images/healthyrecipies/Lauki Roti Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "10 mins",
+          "cookTime": "10 mins",
+          "totalTime": "20 mins",
+          "description": "Detox roti is a combination of atta and vegetable. Full of moisture, lauki helps keep your body hydrated and cool. Try out this lauki roti recipe today!",
+          "ingredients": ["1 Cup Pureed Lauki ", "1 cup Atta "],
+          "steps": [
+            "1.Add lauki and atta to a bowl.",
+            "2.Use your hands and knead the dough.",
+            "3.Then roll your rotis by using a roller and cook them on a tawa from both the sides.",
+            "4.Serve and enjoy! "
+          ]
+        },
+
+        {
+          "subid": 4,
+          "recipename": "Aloo Poha Recipe",
+          "imgfile": "../images/healthyrecipies/Aloo Poha Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "10 mins",
+          "cookTime": "10 mins",
+          "totalTime": "20 mins",
+          "description": "This recipe is as simple as it can get. This is for the lazy day's when you wake up late and don't feel like cooking anything. All you need to do is wash some poha, add boiled potatoes along with flavourful spices, mix it together and this simple delicacy is ready to relish!",
+          "ingredients": [
+            "2 Boiled Potatoes ",
+            "2 Chopped onions ",
+            "200 gram Poha ",
+            "2 Chopped Green Chillies ",
+            "1/2 tbsp Mustard Seeds ",
+            "5-6 Curry leaves ",
+            "2 tbsp Peanuts",
+            "2 tbsp Oil",
+            "1 tsp Haldi Powder"
+          ],
+          "steps": [
+            "1.Heat oil in a pan and saute mustard seeds, onions, curry leaves, peanuts and green chillies.",
+            "2.Once the onions are translucent, add potatoes, haldi and salt(according to taste).",
+            "3.Wash your poha, drain it and add it to the pan. Mix well. Keep on flame till its cooked.",
+            "4.Once the poha is ready, garnish it with coriander and lemon juice."
+          ]
+        },
+
+        {
+          "subid": 5,
+          "recipename": "Oats Tikki Recipe",
+          "imgfile": "../images/healthyrecipies/Oats Tikki Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "15 mins",
+          "cookTime": "10 mins",
+          "totalTime": "25 mins",
+          "description": "Oats-tikki also known as oats cutlet is a healthy take on the starter recipe. Made with the goodness of oats ,paneer, beans and carrots along with a host of spices, this recipe is a combination of both health and taste.",
+          "ingredients": [
+            "1 and a half Cups Grinded oats ",
+            "1 and a half Cups Grinded oats",
+            "1/2 cup Paneer",
+            "1/2 cup Beans",
+            "1/2 cup Carrots",
+            "1 tbsp Green Chillies",
+            "1 tbsp Red chilli powder",
+            "1 tbsp Coriander Powder",
+            "1/2 tbsp Pepper",
+            "Salt according to taste."
+          ],
+          "steps": [
+            "1.First grind some oats and add these two a bowl with paneer, carrots, beans peas, green chillies, and all the masalas.",
+            "2.Mix these all together and form dough like consistency.",
+            "3.Once done let it rest for 10 minutes.",
+            "4.Then heat some oil on a pan and form small tikki out of the oats batter to pan fry it.",
+            "5.Once the tikkis turn golden brown from both the sides take them out and serve."
+          ]
+        },
+
+        {
+          "subid": 6,
+          "recipename": "Keto Upma Recipe",
+          "imgfile": "../images/healthyrecipies/Keto Upma Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "10 mins",
+          "cookTime": "10 mins",
+          "totalTime": "20 mins",
+          "description": "Many of us follow the keto diet, so today we bring you a easy and yummy recipe of breakfast upma that you would love to have.",
+          "ingredients": [
+            "1 Cauliflower",
+            "1 tbsp Green Chillies",
+            "1 tbsp Ginger",
+            "2 tbsp Oil",
+            "4-5 Curry Leaves",
+            "1/2 tbsp Mustard Seeds",
+            "1/2 tbsp Red chilli powder",
+            "1/2 tbsp Pepper",
+            "1/2 tbsp Turmeric powder",
+            "Salt as per taste"
+          ],
+          "steps": [
+            "1.Cut cauliflower and blend them in a grinder and form a coarse consistency.",
+            "2.Then in a pan add some oil, curry leaves, mustard seeds, green chillies and ginger.",
+            "3.Mix these and then add the blended cauliflower, cook on low flame and throw in the spices.",
+            "4.Serve it in a bowl and top it with some peanuts."
+          ]
+        },
+
+        {
+          "subid": 7,
+          "recipename": "Floating Island-Kattala Soup Recipe",
+          "imgfile": "../images/healthyrecipies/Floating Island-Kattala Soup Recipe.jpg",
+          "recipeServings": "1",
+          "preTime": "15 mins",
+          "cookTime": "20 mins",
+          "totalTime": "35 mins",
+          "description": "Made with ingredients like sweet potato, onion, coconut milk, celery followed by seasonings like curry leaves, curry powder and many more, this healthy and refreshing soup is all what you need after a long tiring day.",
+          "ingredients": [
+            "150 gms Sweet Potato (Kattala)",
+            "75 gram Russet Potato",
+            "15 gram Onion (Chopped)",
+            "10 gram Celery (Chopped)",
+            "5 gram Pandan Leaves",
+            "4-5 Curry Leaves",
+            "3 gram Curry Powder",
+            "75 ml Coconut Milk",
+            "100 ml Fresh Young Coconut Water",
+            "2 gram Salt",
+            "30 ml Coconut Oil (For sauté)",
+            "200 ml Vegetable Stock",
+            "For Floating Island",
+            "50 gram Sweet Potato",
+            "50 gram Russet Potato",
+            "3 gram Curry Powder",
+            "10 gram Butter",
+            "5 gram Salt",
+            "15 ml Coconut Milk"
+          ],
+          "steps": [
+            "For Kattala Soup",
+            "1.Peel both the potatoes, cut into 2-3 inch dices, heat the coconut oil and sauté Curry leaves, chopped onion, celery and Pandan leaves, add the potatoes in it and sauté well.",
+            "2.Add the curry powder, mix it well and saute it for 2-3 minutes.",
+            "3.Now, add Coconut water and Vegetable stock and boil it for 15-20 minutes.",
+            "4.Once the potatoes get tender blend it to smooth texture, pass it through a strainer.",
+            "5.With adding few more stock in it give boil for 5 minutes, add Coconut Milk and seasoning.",
+            "For Floating Island",
+            "1.During boiling the potatoes for soup, take out 50 grams of it when it is 80% done and make a puree of it.",
+            "2.Heat a pan and add butter, add potato puree, and season it.",
+            "3.Add coconut milk to make it smoother.",
+            "4.With the help of piping bag, pipe it on a soup bowl like Island shapes.",
+            "5.Pour the hot Kattala Soup near the tiny Island of Curried Potatoes, serve hot."
+          ]
+        },
+
+        {
+          "subid": 8,
+          "recipename": "Makhana Bhel Recipe Recipe",
+          "imgfile": "../images/healthyrecipies/Makhana Bhel Recipe Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "10 mins",
+          "cookTime": "5 mins",
+          "totalTime": "15 mins",
+          "description": "Tangy, sweet and spicy, this makhana (foxnuts) bhel is a super delicious and healthy bhel recipe. Prepared with ingredients like potatoes, peanuts, foxnuts, green chillies along with spices black pepper, jeera powder and much more, this bhel recipe is a must try!",
+          "ingredients": [
+            "1 bowl Roasted Foxnuts",
+            "1/2 cup Cubed boiled potatoes",
+            "1/2 cup Roasted Peanuts",
+            "2 Chopped Green chillies",
+            "1 tbsp Lemon juice",
+            "Sendha namak as per taste",
+            "1-2 tsp Black pepper powder",
+            "2 tsp Chopped coriander leaves",
+            "1 tsp Roasted jeera powder"
+          ],
+          "steps": [
+            "1.Take potatoes, green chillies, chopped coriander, jeera powder, black pepper, salt and lemon juice in a bowl.",
+            "2.Mix everything together.",
+            "3.Add makhana and peanuts, give a final mix and serve.",
+            "4.You may also garnish with some pomegranate seeds."
+          ]
+        },
+
+        {
+          "subid": 9,
+          "recipename": "Cream Salad Without Cream Recipe",
+          "imgfile": "../images/healthyrecipies/Cream Salad Without Cream Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "10 mins",
+          "cookTime": "5 mins",
+          "totalTime": "15 mins",
+          "description": "The key to making your favourite food turn healthy is always to find the correct alternatives. So, indulge in this creamy salad without any guilt.",
+          "ingredients": [
+            "1/2 Cup Hung Curd",
+            "1/2 Cup Onions",
+            "1/2 Cup Carrots",
+            "1/2 Cup Lettuce",
+            "1/2 Cup Paneer",
+            "1/2 Cup Cherry Tomatoes",
+            "1/4 Cup Peas",
+            "To taste Salt",
+            "To taste Pepper",
+            "To taste Red chilli powder",
+            "To taste Chaat masala"
+          ],
+          "steps": [
+            "1.In a bowl add some hung curd or a curd with thick consistency.",
+            "2.Then add salt, red chilli powder, pepper and chaat masala according to taste.",
+            "3.Mix this well till all the flavours combine.",
+            "4.Then add finely chopped onions, carrots, lettuce, peas, paneer, cherry tomatoes or any other vegetable of choice. Combine these.",
+            "5.Serve and enjoy!"
+          ]
+        },
+
+        {
+          "subid": 10,
+          "recipename": "Tadka Khichdi Recipe",
+          "imgfile": "../images/healthyrecipies/Tadka Khichdi Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "15 mins",
+          "cookTime": "15 mins",
+          "totalTime": "30 mins",
+          "description": "Comforting, quick, easy and super delicious, this tadka khichdi is definitely a must-try for your next meal. Besides, it is super healthy and nutritious.",
+          "ingredients": [
+            "1 Cup Rice",
+            "1 cup Dal",
+            "1 medium Chopped onion",
+            "1 medium Chopped tomato",
+            "1 tbsp Ginger garlic paste",
+            "1 tsp Chopped green chillies",
+            "to taste Salt",
+            "to taste Sugar",
+            "1 tsp Jeera powder",
+            "1/2 tsp Haldi powder",
+            "1 tsp Dhania powder",
+            "1 tsp Garam masala powder",
+            "1/2 tsp Red chilli powder",
+            "1 tbsp Heat ghee",
+            "A pinch of Hing",
+            "1/2 tsp Jeera",
+            "1 Whole red chilli",
+            "1 tsp Kashmiri red chilli powder",
+            "To garnish freshly chopped coriander leaves"
+          ],
+          "steps": [
+            "1.Boil dal and chawal with haldi and salt. Keep aside.",
+            "2.Heat oil in a kadhai, and add onion, ginger-garlic paste, green chillies, tomatoes, salt, sugar, jeera powder, haldi powder, dhania powder, garam masala powder, and red chilli powder.",
+            "3.Cook until the tomatoes turn soft and mushy.",
+            "4.Now, transfer the dal and chawal to this tomato-onion mix and cook until you get a semo-dry consistency.",
+            "5.Finally, heat ghee in a pan, add hing, jeera, whole red chilli and Kashmiri red chilli powder and wait till the jeera splutter.",
+            "6.Once the tadka is ready, pour it over the khichdi.",
+            "7.Garnish with some freshly chopped coriander leaves and a spoonful of ghee and serve."
+          ]
+        },
+
+        {
+          "subid": 11,
+          "recipename": "Chilli Oil Avocado Salad Recipe",
+          "imgfile": "../images/healthyrecipies/Chilli_Oil_Avocado_Salad.jpg",
+          "recipeServings": "4",
+          "preTime": "10 mins",
+          "cookTime": "10 mins",
+          "totalTime": "20 mins",
+          "description": "Avocados are probably one of the only fruit that combine the protein of meat, fat of butter, vitamins and minerals of green vegetables and a nutty flavour. So here's a healthy and nutritious salad for all avocado lovers.",
+          "ingredients": [
+            "2 Cups Sliced avocado",
+            "10 Cherry Tomatoes",
+            "1 Dark green cucumber (sliced)",
+            "1 cup Chopped iceberg lettuce leaves",
+            "For the dressing",
+            "4 tsp Olive Oil",
+            "2 Kashmiri red chillies",
+            "Salt to taste"
+          ],
+          "steps": [
+            "For the salad",
+            "1.Dip the chopped lettuce leaves in ice water for 1 minute.",
+            "2.Cut the cherry tomatoes into halves.",
+            "3.Refrigerate all the salad ingredients.",
+            "For the dressing",
+            "1.Break the red chillies into small pieces and blend in a mixer along with 4 tbsp of olive oil and salt to taste.",
+            "2.Remove from the mixer and keep the chilli oil aside.",
+            "How to proceed",
+            "1.Place the chilled vegetables in a salad bowl.",
+            "2.Add the salad dressing and mix thoroughly.",
+            "3.Serve immediately."
+          ]
+        },
+
+        {
+          "subid": 12,
+          "recipename": "Baked Yogurt Recipe",
+          "imgfile": "../images/healthyrecipies/Baked Yogurt Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "10 mins",
+          "cookTime": "5 mins",
+          "totalTime": "15 mins",
+          "description": "Baked yogurt is an easy and delicious pudding-like dessert made with just 4 ingredients- hung curd, condensed milk, cream and any fruit and baked to perfection.",
+          "ingredients": [
+            "1 Cup Hung Curd",
+            "1/2 cup Condensed Milk",
+            "1/4 cup Cream",
+            "1/4 cup Mango chunks"
+          ],
+          "steps": [
+            "1.In a bowl, add condensed milk and hung curd. Mix it well.",
+            "2.Now, add cream and mix again.",
+            "3.Bake at 180 degree for 20 minutes.",
+            "4.Add mango chunks or any other fruit on the top of the baked yogurt bowl and dig in!"
+          ]
+        },
+
+        {
+          "subid": 13,
+          "recipename": "Basil Pesto & Walnut Chicken Breast Recipe",
+          "imgfile": "../images/healthyrecipies/Basil Pesto & Walnut Chicken Breast Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "10 mins",
+          "cookTime": "10 mins",
+          "totalTime": "20 mins",
+          "description": "Delicut’s Basil Pesto & Walnut Chicken Breast comes with our homemade pesto sauce. The tender chicken breasts are brined and marinated overnight, then slow-cooked in a vacuum-sealed bag with its juices and dry-rub in a water bath at controlled temperatures with a special ‘Sous Vide' technique. It can be enjoyed best with any pasta of your choice, topped with parmesan cheese and black pepper.",
+          "ingredients": [
+            "2 pieces Delicut’s Basil Pesto & Walnut Chicken Breast",
+            "1 bowl Pasta of your choice",
+            "Pesto sauce",
+            "2 tbsp Parmesan cheese",
+            "1/2 cup Heavy cream",
+            "1/2 tsp Black pepper"
+          ],
+          "steps": [
+            "1.Sear the chicken breast in a pan on each side for two minutes.",
+            "2.While the chicken breasts are getting ready, take another pan and put some butter and then add the pesto sauce.",
+            "3.Add heavy cream and parmesan cheese into the sauce and mix it all together.",
+            "4.Add boiled spaghetti or any pasta of your choice to go in the pesto cream sauce and finish up with a little bit of pepper.",
+            "5.The Last step would be to dice the chicken breast and add it on top of the pasta once plated and dig in!"
+          ]
+        },
+
+        {
+          "subid": 14,
+          "recipename": "Coconut Milk Porridge Recipe",
+          "imgfile": "../images/healthyrecipies/Coconut Milk Porridge Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "10 mins",
+          "cookTime": "10 mins",
+          "totalTime": "20 mins",
+          "description": "Porridge is one of the most wholesome options at breakfast that can keep you running for long hours. Have it with Only Earth’s coconut milk which makes it even more delicious and nutrient-rich.",
+          "ingredients": [
+            "1/2 Cup Fresh coconut milk",
+            "1/2 cup Oats",
+            "1/2 cup Water",
+            "1/4 tbsp Vanilla extract",
+            "Fruits as per your choice"
+          ],
+          "steps": [
+            "1.Cook the oats in water and vanilla essence till ready.",
+            "2.Cool the oats, and add Only Earth’s coconut milk.",
+            "3.Top it up with fruits as per your choice (berries, apples and bananas work best)."
+          ]
+        },
+
+        {
+          "subid": 15,
+          "recipename": "Oat Milk Smoothie Recipe",
+          "imgfile": "../images/healthyrecipies/Oat Milk Smoothie Recipe.jpg",
+          "recipeServings": "1",
+          "preTime": "10 mins",
+          "cookTime": "10 mins",
+          "totalTime": "10 mins",
+          "description": "Start your day with a super delicious Only Earth oat-milk smoothie! The milk is natural, unsweetened, and packed with nutrients. Here’s what you can do to get the day started with something delicious, healthy, and hearty at the same time.",
+          "ingredients": [
+            "1 glass Unsweetened oat milk",
+            "1 tbsp Peanut butter",
+            "1 Banana",
+            "Some ice"
+          ],
+          "steps": [
+            "1.Blend a glass full of Only Earth oat milk, banana, peanut butter and ice together in a blender.",
+            "2.Serve and enjoy!"
+          ]
+        },
+
+        {
+          "subid": 16,
+          "recipename": "Cheesy Potato and Quinoa Cake Recipe",
+          "imgfile": "../images/healthyrecipies/Cheesy Potato and Quinoa Cake Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "15 mins",
+          "cookTime": "10 mins",
+          "totalTime": "25 mins",
+          "description": "These potato and quinoa cakes with smoked cheese can be a perfect breakfast or dinner companion. Pair it up with mint or tamarind chutney and quinoa salad with some chopped fruits and enjoy!",
+          "ingredients": [
+            "240 gms Boiled Grated Potato",
+            "240 gram Boiled Quinoa",
+            "10 gram Green Chillies",
+            "80 gram Smoked Cheese",
+            "25 gram Ginger",
+            "1 tbsp Coriander",
+            "2 tbsp Crushed Chillies",
+            "50 gram Oil",
+            "1 tsp Black Pepper",
+            "2 tbsp Chaat Masala",
+            "to taste Salt"
+          ],
+          "steps": [
+            "1.Boil peeled potatoes and grate them. Now, wash and boil quinoa as well. and then wash and chop green chillies, ginger and coriander.",
+            "2.In a bowl, take boiled grated potato, quinoa, chopped ginger, green chillies, coriander and all the above ingredients apart from oil.",
+            "3.Now add bread crumb and mix it well.",
+            "4.Make a round ball and stuff the smoked cheese in middle and keep inside the fridge for about 20 minutes.",
+            "5.Heat oil in a pan deep fry them.",
+            "6.Serve hot with mint or tamarind chutney and quinoa salad with fruits."
+          ]
+        },
+
+        {
+          "subid": 17,
+          "recipename": "Almond, ginger and custard apple smoothie Recipe",
+          "imgfile": "../images/healthyrecipies/Almond, ginger and custard apple smoothie Recipe.jpg",
+          "recipeServings": "1",
+          "preTime": "15 mins",
+          "cookTime": "15 mins",
+          "totalTime": "15 mins",
+          "description": "Quench your thirst with this refreshing and healthy almond, ginger and custard apple smoothie. It is an instant, fresh and fruity treat that will enhance your taste buds.",
+          "ingredients": [
+            "1 Cup Almond milk",
+            "1 cup Custard apple pulp",
+            "1/2 tsp Minced ginger",
+            "1 tbsp Honey",
+            "1 tbsp Almond flakes",
+            "A pinch of Green cardamom powder"
+          ],
+          "steps": [
+            "1.Roast the almond flakes in a preheated oven at 180 degree celsius for 4 minutes or till golden in colour.",
+            "2.Blend almond milk, pulp of custard apple, minced ginger, honey and green cardamom powder until smooth. Place it in the fridge and chill it thoroughly.",
+            "s3.Pour it in high ball and garnish with toasted almonds slivers."
+          ]
+        },
+
+        {
+          "subid": 18,
+          "recipename": "Dirty Almond Rice Recipe",
+          "imgfile": "../images/healthyrecipies/Dirty Almond Rice Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "15 mins",
+          "cookTime": "15 mins",
+          "totalTime": "30 mins",
+          "description": "This dirty almond rice is healthy and easy recipe made with raw almonds along with boiled rice and some spices and tangy lemon juice. Pair it up with a sauced main course and enjoy the wholesome meal.",
+          "ingredients": [
+            "1/2 Cup Whole Almond",
+            "1 cup Boiled rice (preferably basmati)",
+            "2 tbsp Onions chopped",
+            "1 tbsp Chopped red bell pepper",
+            "1 tsp Chopped green capsicum",
+            "1/2 tsp Crushed black pepper",
+            "to taste Salt",
+            "1 tbsp Pao Bhaji masala",
+            "1/2 tsp Lime juice",
+            "2 tbsp Freshly chopped coriander leaves",
+            "1 tbsp Desi ghee",
+            "1 tbsp Butter",
+            "1/2 tsp Cumin Seeds"
+          ],
+          "steps": [
+            "1.Roast whole almonds in preheated oven at 180 degree Celsius for 4 minutes and cut into slivers once cool down.",
+            "2.In a pan heat desi ghee and crackle cumin seed. Then add chopped onions, chopped red bell pepper, chopped green capsicum, pao bhaji masala and saute it for another 10-12 seconds",
+            "3.Now add cooked rice and toss them well. Adjust the seasoning.",
+            "4.Finish with butter, freshly chopped coriander leaves and squeeze lime juice.",
+            "5.In a serving bowl, place rice and garnish it with roasted almond slivers.",
+            "6.Serve hot."
+          ]
+        },
+
+        {
+          "subid": 19,
+          "recipename": "Chocolate Chickpea Barks Recipe",
+          "imgfile": "../images/healthyrecipies/Chocolate Chickpea Barks Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "15 mins",
+          "cookTime": "20 mins",
+          "totalTime": "35 mins",
+          "description": "You will never go back once you tried this chocolate chickpea bark. It is super delicious and a protein packed crunchy treat.",
+          "ingredients": [
+            "1 Cup Chickpeas",
+            "1 tbsp Olive Oil",
+            "to taste Sea salt",
+            "1 cup Chocolate"
+          ],
+          "steps": [
+            "1.Soak chickpeas in water overnight.",
+            "2.Once soaked, remove and Let them dry completely.",
+            "3.After they are completely dry, add olive oil and sea salt. Give it a good mix and bake these at 200 degree Celsius for 30-40 mins.",
+            "4.Melt chocolate in another bowl, once the chickpea are roasted add them in the melted chocolate bowl.",
+            "5.Spread the above on a parchment paper and let it set in the fridge for 2-3 hours.",
+            "6.Using a knife, cut into barks and serve!"
+          ]
+        },
+
+        {
+          "subid": 20,
+          "recipename": "Protein Ladoo I Energy Ball Recipe",
+          "imgfile": "../images/healthyrecipies/Protein Ladoo I Energy Ball Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "15 mins",
+          "cookTime": "15 mins",
+          "totalTime": "15 mins",
+          "description": "This is a healthier version of making ladoo. These ladoos are filled with loads of nutrition to please our palate and boost our health.",
+          "ingredients": [
+            "1 Cup Mixed dry fruits",
+            "2 tbsp Raisins",
+            "1/2 cup Dates (khajoor)",
+            "1/4 cup Oats flour",
+            "1 tbsp Ghee"
+          ],
+          "steps": [
+            "1.Dry roast oats flour and dry fruits and keep aside.",
+            "2.In a grinder, add deseeded dates and dry fruits. Add some ghee and blend everything together.",
+            "3.Take out the mixture, add oats flour and knead well. Add more ghee if required.",
+            "4.Shape them into balls and let the ladoos set."
+          ]
+        },
+
+        {
+          "subid": 21,
+          "recipename": "Pizza Omelette Recipe",
+          "imgfile": "../images/healthyrecipies/Pizza Omelette Recipe.jpg",
+          "recipeServings": "1",
+          "preTime": "10 mins",
+          "cookTime": "10 mins",
+          "totalTime": "20 mins",
+          "description": "Pizza omelete is the one of the easiest and fuss-free recipes to enjoy the taste of pizza without any guilt trip.",
+          "ingredients": [
+            "4 Eggs",
+            "50 gram Mushrooms sliced",
+            "2 tsp Olive oil",
+            "1/2 tsp Oregano",
+            "1/2 tsp Chilli flakes",
+            "2-3 Olives",
+            "100 gram Cheese",
+            "2 tbsp Chopped onion",
+            "to taste Salt",
+            "to taste Black Pepper"
+          ],
+          "steps": [
+            "1.Dry roast oats flour and dry fruits and keep aside.",
+            "2.In a grinder, add deseeded dates and dry fruits. Add some ghee and blend everything together.",
+            "3.Take out the mixture, add oats flour and knead well. Add more ghee if required.",
+            "4.Shape them into balls and let the ladoos set."
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "imgsrc": "../images/snackrecipies/Chicken Sub Sandwich.jpg",
+      "name": "Snack Recipe",
+      "link": "/snackrecipies",
+      "info": "Snack Recipies is those recipies which tooks as a light wieght food and it is ready in less time",
+      "recipies": [
+        {
+          "subid": 1,
+          "recipename": "Rice Paper Veggie Wraps With Protein Recipe",
+          "imgfile": "../images/snackrecipies/Rice Paper Veggie Wraps With Protein Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "15 mins",
+          "cookTime": "15 mins",
+          "totalTime": "30 mins",
+          "description": "Rice paper veggie wraps are super healthy, easy to make and perfect for meal prepping. It is light, complete, refreshing and excellent for children's snack boxes and picnics. Besides, it can be prepared in advance as it is eaten cold.",
+          "ingredients": [
+            "6 Rice Paper sheets",
+            "6 Lettuce leaves",
+            "5-6 Chopped Mushroom",
+            "1 cup Bell Peppers (thin slices)",
+            "1 large Carrot (thinly sliced)",
+            "1 cup Cabbage (thinly sliced)",
+            "2 Stalks Green onions",
+            "1/2 cup Alfa-alfa or steamed regular sprouts",
+            "1/2 cup Paneer or tofu",
+            "2-3 tbsp Soya Sauce",
+            "2 tsp Worcestershire sauce",
+            "2 tsp Sweet Chilli Paste"
+          ],
+          "steps": [
+            "1.Saute all vegetables then add sprouts and sauces. Stir fry for 2-3 minutes. Once done, add paneer/tofu.",
+            "2.Fill a large bowl with lukewarm water, dip a sheet of rice paper and remove immediately.",
+            "3.Now, pat off excess water and lay the sheet down on a cutting board or any flat surface. Put a lettuce leaf and fill the centre with saute vegetables and paneer/tofu.",
+            " 4.Wrap up the burrito and place it on a plate.",
+            "5.Repeat the same process with the remaining sheet.",
+            "6.Eat with green chutney or hummus for extra protein."
+          ]
+        },
+
+        {
+          "subid": 2,
+          "recipename": "Keto Samosa Recipe",
+          "imgfile": "../images/snackrecipies/Keto Samosa Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "15 mins",
+          "cookTime": "15 mins",
+          "totalTime": "30 mins",
+          "description": "Now, who said low carb is parallel to living a life without samosas? Well, this samosa recipe is all that you need to fulfill your samosa cravings without any guilt trip.",
+          "ingredients": [
+            "1 Cup Almond flour",
+            "1 Cup Finely chopped cauliflower",
+            "1/2 Cup Chopped Onion",
+            "1 tsp Cumin Powder",
+            "Salt to taste",
+            "1/2 tsp Garam Masala",
+            "1/2 tsp Chilli flakes",
+            "2 Tbsp Coriander leaves",
+            "1 Tbsp Butter",
+            "1 Tbsp Chopped ginger"
+          ],
+          "steps": [
+            "For Dough",
+            "1.Take a large container, add almond flour, salt and cumin powder along with lukewarm water. Mix well and knead a dough.",
+            "2.Once done, set it aside for a few minutes.",
+            "For Filling",
+            "1.Preheat a pan and add butter (preferably grass-fed), then add ginger, cauliflower, onion along with all the spices. Mix well and stir fry for 5-6 minutes.",
+            "For Assembling",
+            "1.Now, take a small portion from the dough and roll it out, fill it with the stuffing and bake for 14-15 minutes or until golden brown.",
+            "2.Follow the same process for all the samosas.",
+            "3.Serve and enjoy!"
+          ]
+        },
+
+        {
+          "subid": 3,
+          "recipename": "Schezwan Style Chilli Potatoes Recipe",
+          "imgfile": "../images/snackrecipies/Schezwan Style Chilli Potatoes Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "20 mins",
+          "cookTime": "15 mins",
+          "totalTime": "35 mins",
+          "description": "Schezwan Chilli Potato is a popular Indo-Chinese appetizer! It’s Spicy and so delicious. This recipe is so easy-to-make and can impress your friends and family in no time.",
+          "ingredients": [
+            "1 Cup Almond flour",
+            "1 Cup Finely chopped cauliflower",
+            "1/2 Cup Chopped Onion",
+            "1 tsp Cumin Powder",
+            "Salt to taste",
+            "1/2 tsp Garam Masala",
+            "1/2 tsp Chilli flakes",
+            "2 Tbsp Coriander leaves",
+            "1 Tbsp Butter",
+            "1 Tbsp Chopped ginger"
+          ],
+          "steps": [
+            "1.First peel and cut your potatoes in a long shape. Then add cornflour to it and fry them till cripsy.",
+            "2.In a separate pan then add, some oil, soy sauce, chill sauce, vinegar and mix these well.",
+            "3.Then add the chopped vegetables and make a slurry from cornflour. Mix this and then throw in your potatoes.",
+            "4.Now add some Schezwan sauce from the top and combine again.",
+            "5.Let it cook on low flame for a while. Then serve in a bowl and garnish with spring onions."
+          ]
+        },
+
+        {
+          "subid": 3,
+          "recipename": "Schezwan Style Chilli Potatoes Recipe",
+          "imgfile": "../images/snackrecipies/Schezwan Style Chilli Potatoes Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "20 mins",
+          "cookTime": "15 mins",
+          "totalTime": "35 mins",
+          "description": "Schezwan Chilli Potato is a popular Indo-Chinese appetizer! It’s Spicy and so delicious. This recipe is so easy-to-make and can impress your friends and family in no time.",
+          "ingredients": [
+            "2 Potatoes (sliced)",
+            "3-4 tbsp Cornflour or maida",
+            "to taste Salt",
+            "Oil (for deep frying)",
+            "For the base:",
+            "1 tbsp Oil",
+            "tbsp Spring onions",
+            "1 tsp Garlic paste",
+            "1 tbsp Capsicum sliced",
+            "to taste Salt",
+            "1/4 tbsp Soya Sauce",
+            "2 tbsp Schezwan sauce",
+            "2 tsp Chilli Sauce"
+          ],
+          "steps": [
+            "1.First peel and cut your potatoes in a long shape. Then add cornflour to it and fry them till cripsy.",
+            "2.In a separate pan then add, some oil, soy sauce, chill sauce, vinegar and mix these well.",
+            "3.Then add the chopped vegetables and make a slurry from cornflour. Mix this and then throw in your potatoes.",
+            "4.Now add some Schezwan sauce from the top and combine again.",
+            "5.Let it cook on low flame for a while. Then serve in a bowl and garnish with spring onions."
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "imgsrc": "../images/BreakfastRecipies/aloo-poha.webp",
+      "name": "Break Fast Recipies",
+      "link": "/breakfastrecipies",
+      "info": "Easy to make and quick to serve, these best breakfast recipes showcase the best of what India wakes up to every day- enjoy with us the big.",
+      "recipies": [
+        {
+          "subid": 1,
+          "recipename": "Aloo Poha Recipe",
+          "imgfile": "../images/BreakfastRecipies/aloo-poha.webp",
+
+          "recipieServe": "2",
+          "preTime": "10min",
+          "cookTime": "10min",
+          "totaltime": "20min",
+          "description": "This recipe is as simple as it can get. This is for the lazy day's when you wake up late and don't feel like cooking anything. All you need to do is wash some poha, add boiled potatoes along with flavourful spices, mix it together and this simple delicacy is ready to relish!",
+          "ingredients": [
+            "2 Boiled Potatoes",
+            "2 Chopped onions",
+            "200 gram Poha",
+            "2 Chopped Green Chillies",
+            "1/2 tbsp Mustard Seeds",
+            "5-6 Curry leaves",
+            "2 tbsp Peanuts",
+            "2 tbsp Oil",
+            "1 tsp Haldi Powder",
+            "to taste Salt"
+          ],
+          "steps": [
+            "1.Heat oil in a pan and saute mustard seeds, onions, curry leaves, peanuts and green chillies.",
+            "2.Once the onions are translucent, add potatoes, haldi and salt(according to taste).",
+            "3.Wash your poha, drain it and add it to the pan. Mix well. Keep on flame till its cooked.",
+            "4.Once the poha is ready, garnish it with coriander and lemon juice."
+          ]
+        },
+        {
+          "subid": 2,
+          "recipename": "Sindhi Dal Toast Recipe",
+          "imgfile": "../images/BreakfastRecipies/sindhi-dal-toast.webp",
+
+          "recipieServe": "2",
+          "preTime": "10min",
+          "cookTime": "10min",
+          "totaltime": "20min",
+          "description": "Healthy and wholesome, Sindhi dal toast is made with bread slices stuffed with spicy potatoes, drizzled with moong dal along with tangy tamarind chutney and mint sauce.",
+          "ingredients": [
+            "1 cup Moong dal",
+            "1 tsp Tumeric powder",
+            "to taste Salt",
+            "2 slices Bread",
+            " 2 small Boiled potatoes",
+            "2 tsp Coriander Leaves",
+            "2 tbsp Chopped onion",
+            "1 tsp Pomegranate",
+            "1/2 tsp Chaat masala",
+            "1/4 tsp Black salt",
+            "1 tsp Red chilli powder",
+            "1 tsp Tamarind chutney",
+            "1 tsp Mint chutney",
+            "1 Sev/Bhujjia"
+          ],
+          "steps": [
+            "1.Soak moong dal for half an hour. After soaking, pressure cook the dal along with salt and turmeric on low to medium flame.",
+            "2.Meanwhile, mash boiled potatoes and add salt, red chilli powder, chaat masala and mix well.",
+            "3.Once done, fill this potato mash in between two bread slices and toast or grill the sandwich until crispy.",
+            "4.Now, take out the dal into the bowl and temper it with spicy ghee tadka.",
+            "5.Pour dal over the crispy sandwich along with tamarind chutney, mint chutney and sprinkle some bhujjia, coriander leaves, chopped onions and pomegranate kernels.",
+            "6.Serve immediately!"
+          ]
+        },
+        {
+          "subid": 3,
+          "recipename": "No bread sooji toast Recipe",
+          "imgfile": "../images/BreakfastRecipies/sooji-toast.webp",
+          "recipieServe": "2",
+          "preTime": "10min",
+          "cookTime": "10min",
+          "totaltime": "20min",
+          "description": "A nutritious, fulfilling and healthy breakfast, here's a recipe of no bread sooji toast!",
+          "ingredients": [
+            "1 Cup Sooji",
+            "1/2 cup curd",
+            "1/4 cup Water",
+            "Salt as per taste",
+            "1/2 cup Chopped Onion",
+            "1/2 cup Chopped tomato",
+            "1/2 cup Chopped carrot",
+            "1/2 cup Chopped capsicum",
+            "1/2 tbsp Red chilli powder",
+            "1/2 tbsp Pepper",
+            "Salt according to taste"
+          ],
+          "steps": [
+            "1.Prepare the sooji ghol by mixing sooji, curd, some water and salt.",
+            "2.Then in a pan add chopped onion, carrots, tomatoes and capsicum. Mix these with masalas and sautee for a few minutes.",
+            "3.Then in another pan, pour some sooji batter, in middle add the vegetable mix and pour the morr batter from above.",
+            "4.Cook this well and serve with any chutney or sauce and enjoy!"
+          ]
+        },
+
+        {
+          "subid": 4,
+          "recipename": "Egg Muffins Recipe",
+          "imgfile": "../images/BreakfastRecipies/egg-muffins.webp",
+
+          "recipieServe": "2",
+          "preTime": "10min",
+          "cookTime": "10min",
+          "totaltime": "20min",
+          "description": "About Egg Muffins : This healthy recipe for egg muffins is an easy grab and go option for busy mornings. It is loaded with healthy and fresh veggies, meat and spices of your own choice.",
+          "ingredients": [
+            "1 tsp Butter",
+            "4-5 pieces Mushroom",
+            "1 small Onion (Chopped)",
+            "A pinch of Chilli flakes",
+            "5-6 pieces Chicken sausage",
+            "50 gram Cheese (optional)",
+            "to taste Black pepper powder",
+            "6 pieces eggs"
+          ],
+          "steps": [
+            "1.Whisk together the eggs, spices and vegetables.",
+            " 2.Fill each muffin tin with three-quarters of the way to the top with the mixture, crumble mozzarella cheese or any cheese over the top.",
+            "3.Bake for 10-15 minutes at 350 degrees, until golden brown and cooked through.",
+            "4.Serve hot or store for later. Enjoy!"
+          ]
+        },
+
+        {
+          "subid": 5,
+          "recipename": "Gypsy Toast Recipe",
+          "imgfile": "../images/BreakfastRecipies/gpsy-toast.webp",
+          "recipieServe": "2",
+          "preTime": "10min",
+          "cookTime": "10min",
+          "totaltime": "20min",
+          "description": " Crispy, spicy, gypsy toast is loaded with some egg-y goodness. This delish treat makes for a quick meal during the time-pressed mornings.",
+          "ingredients": [
+            "2 eggs",
+            "Less than half cup milk",
+            "1 tsp onions , chopped",
+            " 1 tsp tomatoes , chopped",
+            " 1/2 tsp green chillies , chopped",
+            " 1/2 tsp coriander leaves , chopped",
+            "1/2 tsp ginger , grated",
+            "to taste Salt",
+            "1 tsp black pepper powder",
+            "Oil/butter, to shallow fry the toasts",
+            "4-5 bread slices"
+          ],
+          "steps": [
+            "1.Break the eggs in a mixing bowl and add all the other ingredients to it (except bread and oil). Whisk everything together.",
+            "2.Soak the bread slices in the whisked eggs.",
+            "3.Heat oil/butter in a pan (preferably flat base) and place the bread slices one/two at a time.",
+            "4.On medium flame, cook both the sides of the bread until it turns golden brown in colour.",
+            "5.Serve hot with some ketchup by the side."
+          ]
+        },
+        {
+          "subid": 6,
+          "recipename": "Bajra Dosa Recipe",
+          "imgfile": "../images/BreakfastRecipies/dosa.webp",
+          "recipieServe": "2",
+          "preTime": "10min",
+          "cookTime": "10min",
+          "totaltime": "20min",
+          "description": "Millet dosa is a healthy and gluten free south Indian breakfast recipe. You can make this dosa under 20 mintunes. It is also a good option for the diabetics",
+          "ingredients": [
+            "1 Cup Pearl Millet/Bajra",
+            "1/2 cups rice",
+            "1/2 cups urad dal",
+            "to taste Salt",
+            "Cooking oil as per requirement"
+          ],
+          "steps": [
+            "1.Soak urad dal in a container and rice and bajra together in a separate container. Let both the mixtures soak in water for at least 4 hours.",
+            "2.Grind urad dal to make smooth paste. Then grind bajra and rice together.",
+            "3.Mix dal paste and bajra-rice mixture together. Add some salt and water to make smooth batter. Let the batter ferment for 4-5 hours or overnight.",
+            "4.Grease hot pan with some oil, wipe it off and then sprinkle some water to make dosa with the batter as usual."
+          ]
+        },
+        {
+          "subid": 7,
+          "recipename": "Banana Coconut Idli Recipe",
+          "imgfile": "../images/BreakfastRecipies/Fish tikka.jpg",
+          "recipieServe": "2",
+          "preTime": "10min",
+          "cookTime": "10min",
+          "totaltime": "20min",
+          "description": "A delicious, sweet twist to the classic idli, banana and coconut idli is a quick and easy recipe to try for you next morning meal.",
+          "ingredients": [
+            "For banana idli:",
+            "1 cup Idli batter",
+            "4 tbsp jaggery powder",
+            "A pinch of salt",
+            "A pinch of cardamom powder",
+            "1/2 ripe banana, chopped",
+            "For coconut jaggery cream:",
+            "1 cup coconut milk",
+            "2 tbsp jaggery powder"
+          ],
+          "steps": [
+            "1.For banana idli, mix all ingredients.",
+            "2.Grease an idly tray with butter, spoon some batter into the moulds and steam till done. Remove from mould once done.",
+            "3.For jaggery sauce, heat coconut milk and add jaggery powder. Stir till dissolved. Serve warm idlis with warm coconut sauce."
+          ]
+        },
+        {
+          "subid": 8,
+          "recipename": "Oats Mango Smoothie Recipe",
+          "imgfile": "../images/BreakfastRecipies/mango_smoothie.webp",
+          "recipieServe": "2",
+          "preTime": "10min",
+          "cookTime": "10min",
+          "totaltime": "20min",
+          "description": "Smoothies are a popular pick during the summer season. they are wholesome, delicious and refreshing. And so are mangoes! Here is a stellar smoothie recipe with the goodness of mangoes and wholesome oats.",
+          "ingredients": [
+            "2 Alphonso mango",
+            "15 gms oats",
+            "110 ml milk",
+            "30 gms sugar or honey",
+            "160 ml yogurt",
+            "5 Almonds"
+          ],
+          "steps": [
+            "1.Peel the mangoes, cut it into slices, and keep it aside.",
+            "2.Heat a saucepan with milk, add Oats, and cook for a few minute. Switch off the gas then add sugar or honey and stir well. Let it cool down completely.",
+            "3.Ground the Almonds coarsely in the blender.",
+            "4.Now blend the mangoes, Oats, Almond, Sugar, and Yoghurt together until it becomes smooth.",
+            "5.Put in the refrigerator for an hour and serve it chilled."
+          ]
+        },
+        {
+          "subid": 9,
+          "recipename": "Litchi Spinach Smoothie Recipe",
+          "imgfile": "../images/BreakfastRecipies/litchi-spinach-smoothie.webp",
+          "recipieServe": "2",
+          "preTime": "10min",
+          "cookTime": "10min",
+          "totaltime": "20min",
+          "description": "A wholesome smoothie recipe with the goodness o spinach, crunchy almonds and litchis. This smoothie is perect for quick breakfast fix for energy and is incredibly delicious with scoops of ice cream on top",
+          "ingredients": [
+            "6 Litchi",
+            "2 cups fresh baby spinach",
+            "2 scoops Vanilla ice cream",
+            "20 gms jaggery",
+            "5 gram almonds, finely chopped"
+          ],
+          "steps": [
+            "1.Place litchi, spinach, vanilla ice cream and jaggery into a high speed blender.",
+            "2.Blend them properly until smooth.",
+            "3.Serve immediately and garnish it with chopped almonds."
+          ]
+        },
+        {
+          "subid": 10,
+          "recipename": "Nutriboost Smoothie Recipe",
+          "imgfile": "../images/BreakfastRecipies/nutriboost_smoothie.webp",
+          "recipieServe": "2",
+          "preTime": "10min",
+          "cookTime": "10min",
+          "totaltime": "20min",
+          "description": "A simple nutrient-dense smoothie recipe to keep mindless bingeing at bay. Low in calories, rich in iron, magnesium, potassium, and antioxidants, this smoothie is delicious, healthy and easy to prepare at home!",
+          "ingredients": [
+            "1/4 Cup dates",
+            "1 medium banana",
+            "3/4 cup almond milk"
+          ],
+          "steps": [
+            "1.Chop banana and dates into small pieces and add to a blender with almond milk.",
+            "2.Blend all the ingredients until a thick liquid consistency is reached."
+          ]
+        },
+        {
+          "subid": 11,
+          "recipename": "Ghavan Recipe",
+          "imgfile": "../images/BreakfastRecipies/ghavan.webp",
+          "recipieServe": "1",
+          "preTime": "15min",
+          "cookTime": "25min",
+          "totaltime": "40min",
+          "description": "A dosa like dish that you can make in a few minutes with just three ingredients! Made with rice and salt, Ghavan is a traditional Maharashtrian breakfast dish from the Konkan region annd is quite similar to neer dosa from the south. Ghavan is often prepared on festivals in Maharashtra such as Ganesh Chaturthi.",
+          "ingredients": [
+            "330 gms raw rice",
+            "160 gms salt",
+            "Oil (as needed)"
+          ],
+          "steps": [
+            "1.Soak rice in water for 5 hours.",
+            "2.Grind the rice to a paste, add salt and water to make a slightly watery batter.",
+            "3.Heat a non-stick tawa and add the batter from the edge of the tawa and slowly move to the centre.",
+            "4.Spread evenly and reduce the heat.",
+            "5.Remove from pan once cooked and serve with a choice of curry."
+          ]
+        },
+        {
+          "subid": 12,
+          "title": "Almond Strawberry Cream Recipe",
+          "imgfile": "../images/BreakfastRecipies/almond_strawberry_cream.webp",
+          "recipieServe": "6",
+          "preTime": "10min",
+          "cookTime": "25min",
+          "totaltime": "35min",
+          "description": "Just a few ingredients and half an hour will give you this super delicious and thick cream to relish with anything you want! Fresh strawberries and nutty almonds along with sugar, cream and healthy basil leaves comes together for this sweet and refreshing cream.",
+          "ingredients": [
+            "1/2 Cup almonds",
+            "12-14 pieces fresh strawberries",
+            "1 cup whipped cream",
+            "1 tsp holy basil leaves (tulsi)",
+            "3 tbsp sugar, powdered"
+          ],
+          "steps": [
+            "1.Toast the almond flakes in the oven at 180°C for 4 minutes.",
+            " 2.Cut the strawberries into 1 cm dices.",
+            "3.Whip the cream along with sugar. Do not over whip it or the butter will separate.",
+            "4.Mix the almond flakes and strawberries into the cream along with hand torn holy basil.",
+            "5.Garnish with almonds and sliced strawberries."
+          ]
+        },
+        {
+          "subid": 13,
+          "recipename": "Stuffed Ravioli Recipe",
+          "imgfile": "/../images/BreakfastRecipies/stuffed_ravioli.webp",
+          "recipieServe": "5",
+          "preTime": "10min",
+          "cookTime": "15min",
+          "totaltime": "25min",
+          "description": "The classic Italian Ravioli comes with an Indian twist. Tricolor ravioli stuffed pumpkin, shallots and oodles of parmesan cheese along with the goodness of walnuts. A perfect recipe to prepare and relish with your family this Republic day.",
+          "ingredients": [
+            "600 gms pumpkin",
+            "5-6 shallots",
+            "3-4 garlic cloves",
+            "1 tbsp olive oil",
+            "to taste salt",
+            "to taste pepper",
+            "60 gms walnut",
+            "100 gms parmesan cheese",
+            "A sprig of oregano",
+            "250 gms all purpose flour",
+            "8 nos egg yolk",
+            "1 whole egg",
+            "20 gms olive oil",
+            "25 gms salt"
+          ],
+          "steps": [
+            "1.Place the pasta dough ingredients in a bowl and knead the dough until it gets smooth. Wrap in plastic wrap and refrigerate for at least 1 hour.",
+            "2.Preheat the oven to 200 C and cut the pumpkin into small cubes, coat in salt, pepper and 1 tbsp. olive oil and bake for 40 minutes.",
+            "3.After cooling down the pumpkin finely chop and add crushed walnut, parmesan cheese, salt, pepper. Stir well to combine.",
+            "4.When dough is ready cut into 8 pieces. Each piece will be a layer of ravioli dough.",
+            "5.Put about ½ tbsp. of filling into each ravioli. Press the edges together to prevent them from opening.",
+            "6.Make the sauce in a pan. Heat up some olive oil & sauté the finely chopped garlic for 2 minutes. Add cream and bring to boil while stirring Add salt and pepper to taste.",
+            "7.Simmer on low heat for about 5 mins to reduce. Add parmesan cheese also.",
+            "8.Meanwhile cook the ravioli in boiling salted water. It takes about 3 minutes for them to float to surface, meaning they are cooked.",
+            "9.Transfer into the sauce pan and add the fresh oregano leaves and stir to coat the ravioli.",
+            "10.Serve immediately sprinkled with parmesan cheese and chopped walnut."
+          ]
+        },
+        {
+          "subid": 14,
+          "recipename": "Tricolour Pasta Recipe",
+          "imgfile": "../images/BreakfastRecipies/tricolor_pasta.webp",
+          "recipieServe": "3",
+          "preTime": "5min",
+          "cookTime": "15min",
+          "totaltime": "20min",
+          "description": "A bowl of pasta is something we all can binge over at any time of the day and even during the midnight hunger pangs. Here is an easy, simple and quick pasta recipe specially curated in tricolor by Grand Mercure. You can prepare this at home and relish with family and friends.",
+          "ingredients": [
+            "200 gms penne",
+            "1 cup fresh broccoli, sliced",
+            "1 medium carrot, sliced",
+            "1/2 cup green onions, sliced",
+            "1/4 cup butter (cubed)",
+            "1 garlic clove (minced)",
+            "1 tsp dried basil",
+            "1/2 tsp salt",
+            "1/4 tsp pepper",
+            "1/4 cup white wine",
+            "1/4 cup parmesan cheese, shredded"
+          ],
+          "steps": [
+            "1.Bring a large pot of salted water to a boil. Add penne to the water and cook for 8-10 minutes.",
+            "2.In a large skillet, cook the broccoli, carrot and onions in butter for 3 minutes. Cover and cook for 2 minutes.",
+            "3.Drain penne; add to skillet and toss. Sprinkle with cheese."
+          ]
+        },
+
+        {
+          "subid": 15,
+          "recipename": "Tricolor Macaroons Recipe",
+          "imgfile": "../images/BreakfastRecipies/tricolor_macaroons.webp",
+          "recipieServe": "9",
+          "preTime": "10min",
+          "cookTime": "25min",
+          "totaltime": "35min",
+          "description": "Macaroons are small biscuit/cookie- like sweet snack that you can relish along with a cup of tea. Originating from the french cuisine, macaroons are now popular globally in different flavours, coatings and stuffed with everything from hazelnut to strawberries. Here is a macaroon recipe with a Indian twist, specially curated in tricolor on the occasion of Republic day.",
+          "ingredients": [
+            "1 Cup almond flour",
+            "1.5 cup powdered sugar",
+            "3 egg whites",
+            "1/4 tsp cream of tartar",
+            "3 tbsp white sugar",
+            "green food colour",
+            "orange food colour",
+            "white food colour",
+            "For cream cheese filling:",
+            "2 tbsp unsalted butter",
+            "100 gms cream cheese",
+            "1 cup powdered sugar",
+            "1 tsp vanilla extract",
+            "2 tsp heavy cream"
+          ],
+          "steps": [
+            "1.In a bowl mix together almond flour and powdered sugar.",
+            "2.Start beating the egg whites using the wire whisk. As the egg white starts to foam a little, add cream of tartar. In a while, the egg whites will develop a shaving cream like consistency, start adding sugar.",
+            "3.Fold in the almond flour-sugar mixture into the egg whites in 3 parts. The batter should not be runny, it should be slightly thick.",
+            "4.Divide batter into 3 parts, leave one as such and add green and orange food coloring to remaining 2 and mix to combine. Transfer 3 colored batters to 3 different piping bags fitted with 1/2 inch round tip. Pipe the batter onto the cookie sheets.",
+            " 5.Let the macarons sit at room temperature for 45 minutes Preheat oven to 300 F degrees. Once the shells have dried completely, bake macarons (one sheet at a time) at 300 F degrees for 15-17 minutes. Remove from oven and cool completely.",
+            "Prepare cream cheese filling:",
+            "1.Beat butter and cream cheese till smooth and creamy. Add powdered sugar, 1/2 cup at a time, mixing well after each addition.",
+            "2.Add vanilla extract and mix till combined. Also add white food color.",
+            "3.Add heavy cream, 1 teaspoon at a time till you get the desired consistency. The filling should remain thick, so don't add too much liquid.",
+            "Fill the macarons:",
+            "1.Remove the macaron shells from the parchment paper once they have cooled completely.",
+            "2.Fill them with prepared cream cheese filling and enjoy!"
+          ]
+        },
+
+        {
+          "subid": 16,
+          "recipename": "Christmas Cookies Recipe",
+          "imgfile": "../images/BreakfastRecipies/christmas_cookies.webp",
+          "recipieServe": "2",
+          "preTime": "10min",
+          "cookTime": "10min",
+          "totaltime": "20min",
+          "description": "What is a Christmas without some Christmas cookies? Here is an easy, fuss-free cookie recipe that you can bake at home with your family this holiday season of Christmas and New Year's.",
+          "ingredients": [
+            "100 gms butter",
+            "125 gms castor sugar",
+            "1 eggs",
+            "150 gms refined flour",
+            "150 gms soaked fruit",
+            "10 ml vanilla essence",
+            "5 gms baking soda"
+          ],
+          "steps": [
+            "1.Cream together your butter and sugar. Using a stand mixer with a paddle attachment, or a hand mixer, cream together the butter and sugar for your cookie dough until they are light and fluffy. This should take about 5 minutes on a medium/high speed.",
+            "2.Add in eggs gradually (one at a time). After the butter and sugar is creamed together, it is time to add the eggs and vanilla extract.",
+            "3.You want to add the eggs into your creamed butter and sugar mixture one at a time, and mix just until combined.",
+            "4.This will ensure you won’t break your creamed mixture and you don’t want to beat any air into the eggs at this point.",
+            "5.Add your dry ingredient and mix as little as possible. The next step in making cookie dough using the creaming method is to mix in the dry ingredients along with baking soda.",
+            "6.Now shape the cookies into your desire shapes and garnish it with liquor soaked fruit.",
+            "7.Bake at 180 degree Celsius for 9 minutes."
+          ]
+        },
+        {
+          "subid": 17,
+          "recipename": "Japanese Curry Arancini With Barley Salsa Recipe",
+          "imgfile": "../images/BreakfastRecipies/japanese.webp",
+
+          "recipieServe": "6",
+          "preTime": "15min",
+          "cookTime": "15min",
+          "totaltime": "30min",
+          "description": "The best of Japanese cuisine that you can now easily prepare at home. Japanese curry is one of the most popular dishes of Japan. Here is a recipe of Arancini balls stuffed with cheese and topped with delicious Japanese curry, wasabi mayo and veggies and barley salsa on the side. An exotic and unique recipe to prepare for a brunch with friends and family.",
+          "ingredients": [
+            "150 gms japanese curry",
+            "150 gms sticky rice",
+            "50 gms cheese inside rice",
+            "To serve:",
+            "50 gms barley salsa",
+            "To garnish:",
+            "20 gms wasabi mayo",
+            "For barley salsa:",
+            "20 gms red capsicum cube (cut)",
+            "20 gms yellow capsicum cube (cut)",
+            "20 gms green capsicum cube (cut)",
+            "10 gms green chily, chopped",
+            "35 gms barley",
+            "20 gms butter",
+            "1 gms white pepper",
+            "5 ml light soya",
+            "salt"
+          ],
+          "steps": [
+            "1.In a wok, add Japanese curry, sticky rice and mix it together. Allow it to cool.",
+            "2.Take a new wok, add butter, all capsicums. Saute vegetables, add seasoning and barley to it..",
+            "3.Now when the curry and rice mixture has been cooled down, make small round balls stuffed with cheese.",
+            "4.Dip it into slurry of corn flour and crumb it with the help of bread crumbs. Deep fry till crisp golden.",
+            "5.Place barley vegetables at bottom and place Arancini balls on top. Add little curry along with wasabi mayo and garnish with micro greens.",
+            "6.Serve."
+          ]
+        },
+        {
+          "subid": 18,
+          "recipename": "Coconut Lime Quinoa Salad Recipe",
+          "imgfile": "../images/BreakfastRecipies/cocount_salad.webp",
+
+          "recipieServe": "3",
+          "preTime": "10min",
+          "cookTime": "30min",
+          "totaltime": "40min",
+          "description": "Healthy, filling, flavourful and simply delicious salad to prepare at home. Coconut lime quinoa salad is an easy and quick recipe, packed with the goodness of super grain quinoa along with coconut and a tang of lime. Give your salad a healthy and delicious twist with this recipe that is as simple as it can get. Perfect mid day meal in summers.",
+          "ingredients": [
+            "1 Cup uncooked quinoa",
+            "2 cups water",
+            "1/2 cup red onion, sliced",
+            "3 cups cucumber (diced)",
+            "1 1/2 cup purple cabbage",
+            "1/2 cup avocado (ripened and diced)",
+            "4 segments orange",
+            "2 cups shelled edamame (defrosted)",
+            "1/2 cup unsweetened toasted coconut flakes",
+            "1/4 cup almonds, chopped",
+            "Few shakes of black pepper",
+            "For the dressing:",
+            "2 tbsp orange juice",
+            "1 lime (juiced)",
+            "2 tbsp apple cider vinegar",
+            "2 tbsp olive oil"
+          ],
+          "steps": [
+            "1.Boil the quinoa in water according to package directions. This should take about 12-15 minutes, and all water should be absorbed. Remove it from the heat, fluff with a fork and allow it to cool.",
+            "2.Whisk together the dressing in a small bowl and set aside.",
+            "3.Prepare all remaining ingredients as indicated above and toss them together in a very large bowl. When the quinoa has cooled, add it to the mixture, along with the dressing. Stir well to coat.",
+            "4.While this salad can be enjoyed right away if you like, for best results, let it sit for at least 30 minutes – or overnight if you can.",
+            "5.The quantity of dressing used is fairly small relative to the size of the salad because the lime, fresh herbs, orange segments and avocado do an amazing job at creating flavor and moisture."
+          ]
+        },
+        {
+          "subid": 19,
+          "recipename": "Strawberry Parfait Recipe",
+          "imgfile": "../images/BreakfastRecipies/strawberry_parfait.webp",
+          "recipieServe": "8",
+          "preTime": "10min",
+          "cookTime": "15min",
+          "totaltime": "25min",
+          "description": "A healthy and refreshing parfait recipe that will help your body cool down on a hot, summer day. An indulgent combination of yogurt and strawberry syrup, packed together with the goodness of muesli. Spruce it up with honey and maple syrup on the top. Made in just about 10 minutes, this can be your easy breakfast on the go. Pack it in a mason jar and you can enjoy this as a mid-day meal as well to refresh the body.",
+          "ingredients": [
+            "50 gms muesli",
+            "50 gms curd",
+            "30 gms strawberry puree",
+            "20 gms honey",
+            "10 gms maple syrup"
+          ],
+          "steps": [
+            "1.In a glass first arrange a layer of muesli, then strawberry puree and followed by curd.",
+            "2.Garnish with honey and maple syrup."
+          ]
+        },
+        {
+          "subid": 20,
+          "recipename": "Watermelon and Strawberry Smoothie Recipe",
+          "imgfile": "../images/BreakfastRecipies/watermelon_strawberry_smoothie.webp",
+          "recipieServe": "9",
+          "preTime": "10min",
+          "cookTime": "20min",
+          "totaltime": "30min",
+          "description": " There is nothing as fresh as this smoothie of watermelon and strawberry! Topped with healthy chia seeds and these fresh fruits blended well with low fat yogurt, this smoothie recipe is the powerhouse of healthy nutrients that will keep you boosted all day long.",
+          "ingredients": [
+            "100 gms fresh strawberries",
+            "1 tbsp honey",
+            "150 gms low fat yogurt",
+            "50 gms watermelon, chopped",
+            "For the topping:",
+            "1/4 cup chia seeds"
+          ],
+          "steps": [
+            "1.Blend all the smoothie ingredients in a blender.",
+            "2.Pour the blended smoothie into a glass.",
+            "3.Top with chia seeds. Mix the chia seeds with the smoothie before consuming."
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "imgsrc": "../images/snackrecipies/Chicken Sub Sandwich.jpg",
+      "name": "Snack Recipe",
+      "link": "/snackrecipies",
+      "info": "Snack Recipies is those recipies which tooks as a light wieght food and it is ready in less time",
+      "recipies": [
+        {
+          "subid": 1,
+          "recipename": "Rice Paper Veggie Wraps With Protein Recipe",
+          "imgfile": "../images/snackrecipies/Rice Paper Veggie Wraps With Protein Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "15 mins",
+          "cookTime": "15 mins",
+          "totalTime": "30 mins",
+          "description": "Rice paper veggie wraps are super healthy, easy to make and perfect for meal prepping. It is light, complete, refreshing and excellent for children's snack boxes and picnics. Besides, it can be prepared in advance as it is eaten cold.",
+          "ingredients": [
+            "6 Rice Paper sheets",
+            "6 Lettuce leaves",
+            "5-6 Chopped Mushroom",
+            "1 cup Bell Peppers (thin slices)",
+            "1 large Carrot (thinly sliced)",
+            "1 cup Cabbage (thinly sliced)",
+            "2 Stalks Green onions",
+            "1/2 cup Alfa-alfa or steamed regular sprouts",
+            "1/2 cup Paneer or tofu",
+            "2-3 tbsp Soya Sauce",
+            "2 tsp Worcestershire sauce",
+            "2 tsp Sweet Chilli Paste"
+          ],
+          "steps": [
+            "1.Saute all vegetables then add sprouts and sauces. Stir fry for 2-3 minutes. Once done, add paneer/tofu.",
+            "2.Fill a large bowl with lukewarm water, dip a sheet of rice paper and remove immediately.",
+            "3.Now, pat off excess water and lay the sheet down on a cutting board or any flat surface. Put a lettuce leaf and fill the centre with saute vegetables and paneer/tofu.",
+            " 4.Wrap up the burrito and place it on a plate.",
+            "5.Repeat the same process with the remaining sheet.",
+            "6.Eat with green chutney or hummus for extra protein."
+          ]
+        },
+
+        {
+          "subid": 2,
+          "recipename": "Keto Samosa Recipe",
+          "imgfile": "../images/snackrecipies/Keto Samosa Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "15 mins",
+          "cookTime": "15 mins",
+          "totalTime": "30 mins",
+          "description": "Now, who said low carb is parallel to living a life without samosas? Well, this samosa recipe is all that you need to fulfill your samosa cravings without any guilt trip.",
+          "ingredients": [
+            "1 Cup Almond flour",
+            "1 Cup Finely chopped cauliflower",
+            "1/2 Cup Chopped Onion",
+            "1 tsp Cumin Powder",
+            "Salt to taste",
+            "1/2 tsp Garam Masala",
+            "1/2 tsp Chilli flakes",
+            "2 Tbsp Coriander leaves",
+            "1 Tbsp Butter",
+            "1 Tbsp Chopped ginger"
+          ],
+          "steps": [
+            "For Dough",
+            "1.Take a large container, add almond flour, salt and cumin powder along with lukewarm water. Mix well and knead a dough.",
+            "2.Once done, set it aside for a few minutes.",
+            "For Filling",
+            "1.Preheat a pan and add butter (preferably grass-fed), then add ginger, cauliflower, onion along with all the spices. Mix well and stir fry for 5-6 minutes.",
+            "For Assembling",
+            "1.Now, take a small portion from the dough and roll it out, fill it with the stuffing and bake for 14-15 minutes or until golden brown.",
+            "2.Follow the same process for all the samosas.",
+            "3.Serve and enjoy!"
+          ]
+        },
+
+        {
+          "subid": 3,
+          "recipename": "Schezwan Style Chilli Potatoes Recipe",
+          "imgfile": "../images/snackrecipies/Schezwan Style Chilli Potatoes Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "20 mins",
+          "cookTime": "15 mins",
+          "totalTime": "35 mins",
+          "description": "Schezwan Chilli Potato is a popular Indo-Chinese appetizer! It’s Spicy and so delicious. This recipe is so easy-to-make and can impress your friends and family in no time.",
+          "ingredients": [
+            "1 Cup Almond flour",
+            "1 Cup Finely chopped cauliflower",
+            "1/2 Cup Chopped Onion",
+            "1 tsp Cumin Powder",
+            "Salt to taste",
+            "1/2 tsp Garam Masala",
+            "1/2 tsp Chilli flakes",
+            "2 Tbsp Coriander leaves",
+            "1 Tbsp Butter",
+            "1 Tbsp Chopped ginger"
+          ],
+          "steps": [
+            "1.First peel and cut your potatoes in a long shape. Then add cornflour to it and fry them till cripsy.",
+            "2.In a separate pan then add, some oil, soy sauce, chill sauce, vinegar and mix these well.",
+            "3.Then add the chopped vegetables and make a slurry from cornflour. Mix this and then throw in your potatoes.",
+            "4.Now add some Schezwan sauce from the top and combine again.",
+            "5.Let it cook on low flame for a while. Then serve in a bowl and garnish with spring onions."
+          ]
+        },
+
+        {
+          "subid": 3,
+          "recipename": "Schezwan Style Chilli Potatoes Recipe",
+          "imgfile": "../images/snackrecipies/Schezwan Style Chilli Potatoes Recipe.jpg",
+          "recipeServings": "2",
+          "preTime": "20 mins",
+          "cookTime": "15 mins",
+          "totalTime": "35 mins",
+          "description": "Schezwan Chilli Potato is a popular Indo-Chinese appetizer! It’s Spicy and so delicious. This recipe is so easy-to-make and can impress your friends and family in no time.",
+          "ingredients": [
+            "2 Potatoes (sliced)",
+            "3-4 tbsp Cornflour or maida",
+            "to taste Salt",
+            "Oil (for deep frying)",
+            "For the base:",
+            "1 tbsp Oil",
+            "tbsp Spring onions",
+            "1 tsp Garlic paste",
+            "1 tbsp Capsicum sliced",
+            "to taste Salt",
+            "1/4 tbsp Soya Sauce",
+            "2 tbsp Schezwan sauce",
+            "2 tsp Chilli Sauce"
+          ],
+          "steps": [
+            "1.First peel and cut your potatoes in a long shape. Then add cornflour to it and fry them till cripsy.",
+            "2.In a separate pan then add, some oil, soy sauce, chill sauce, vinegar and mix these well.",
+            "3.Then add the chopped vegetables and make a slurry from cornflour. Mix this and then throw in your potatoes.",
+            "4.Now add some Schezwan sauce from the top and combine again.",
+            "5.Let it cook on low flame for a while. Then serve in a bowl and garnish with spring onions."
+          ]
+        }
+      ]
+    }
+  ]
+}
