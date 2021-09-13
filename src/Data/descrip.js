@@ -605,9 +605,9 @@ export const Data = [
   },
 
   {
-    id: 2,
-    imgsrc: "../images/snackrecipies/Chicken Sub Sandwich.jpg",
-    name: "Snack recipe",
+    id: 15,
+    imgsrc: "../images/BreakfastRecipies/Chicken Sub Sandwich.jpg",
+    name: "Breakfast Recipies",
     info: "Snack Recipies is those recipies which tooks as a light wieght food and it is ready in less time",
     recipies: [
       {
