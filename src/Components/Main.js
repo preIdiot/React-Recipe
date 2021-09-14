@@ -1,9 +1,9 @@
 import React from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
-import Scroll from "./Components/Scroll";
-import { Data } from "./Data/descrip";
-import RecipeSection from "./Components/RecipeSection";
-import SubCategory from "./Components/Subcategory";
+import Scroll from "./Scroll";
+import { Data } from "../Data/descrip";
+import RecipeSection from "./RecipeSection";
+import SubCategory from "./Subcategory";
 
 export default function Main() {
   return (
