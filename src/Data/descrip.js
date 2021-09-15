@@ -2847,6 +2847,18 @@ export const Data = [
     ],
   },
 
+  // 5
+  {
+    id: 5,
+    imgsrc: "../images/healthyrecipies/Chilli_Oil_Avocado_Salad.jpg",
+    name: "Meat Recipe",
+    link: "/meatrecipies",
+    info: "Meat Lovers Recipes. Growing up with an amazing cook (my mother) who loved her steak, going vegan would have been impossible",
+    recipies: [
+
+    ]
+  },
+
   // 6
   {
     id: 6,
