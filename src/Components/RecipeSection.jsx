@@ -63,7 +63,7 @@ export default function RecipeSection(props) {
                 style={{ marginTop: "6px" }}
               >
                 {" "}
-                Total Time: {data.totalTime}
+                Total Time: {data.totaltime}
               </i>
             </div>
           </div>
