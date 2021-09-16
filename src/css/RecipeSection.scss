@@ -89,7 +89,7 @@
     .part1 {
       width: 45%;
       min-width: 300px;
-      max-width: 340px;
+      max-width: 380px;
       height: fit-content;
 
       line-height: 20px;
@@ -100,6 +100,16 @@
       box-shadow: 0px 13px 10px 8px rgba(50, 42, 71, 0.1);
 
       background: linear-gradient(to top right, #ffffff 0%, #c8c8e9 100%);
+
+      ul {
+        display: flex;
+        flex-direction: column;
+        list-style: circle;
+
+        li {
+          margin-bottom: 0.5rem;
+        }
+      }
     }
     .part2 {
       width: 95%;
@@ -223,7 +233,7 @@
     }
     .row3 {
       .part1 {
-        min-width: 300px;
+        min-width: 320px;
         height: fit-content;
       }
       .part2 {
