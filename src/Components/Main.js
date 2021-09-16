@@ -79,20 +79,16 @@ export default function Main() {
           path="/winterRecipies"
           render={(props) => <SubCategory {...props} data={Data[12]} />}
         />
+        
         <Route
           exact
-          path="/snackrecipies"
+          path="/drink"
           render={(props) => <SubCategory {...props} data={Data[13]} />}
         />
         <Route
           exact
-          path="/drink"
-          render={(props) => <SubCategory {...props} data={Data[14]} />}
-        />
-        <Route
-          exact
           path="/BreakfastRecipies"
-          render={(props) => <SubCategory {...props} data={Data[15]} />}
+          render={(props) => <SubCategory {...props} data={Data[14]} />}
         />
 
 
