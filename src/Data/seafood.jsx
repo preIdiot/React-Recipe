@@ -1,7 +1,7 @@
-export const breadrecipe=[
+export const seafood=[
     {
         id: 7,
-        imgsrc: "../images/seafood/Shahi Dastarkhwan Chicken Biryani Recipe.jpg",
+        imgsrc: "../images/ricerecipe/Shahi Dastarkhwan Chicken Biryani Recipe.jpg",
         name: "Seafood Recipe",
         link: "/seafoodrecipies",
         info: "Healthy Recipies is those recipies which helps you to control Cholestrol and diabetes",
@@ -16,7 +16,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "10min",
                 cookTime: "10min",
-                totaltime: "20min",
+                totalTime: "20min",
                 description:"Fingerlicking good, zesty and filled with a burst of flavors. The Tandoori Fish Tikka is an extremely popular dish from the northern part of India.",
                 ingredients:[
                 "1 Cup Thick yogurt",
@@ -41,8 +41,8 @@ export const breadrecipe=[
                 "6.Cook for 10-15 minutes.",
                 "7.Serve hot with green chutney."],
             },
-
-
+ 
+ 
             {
                 subid: 2,
                 recipename: "Pomfret Pulimunchi Recipe",
@@ -50,7 +50,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "10min",
                 cookTime: "10min",
-                totaltime: "20min",
+                totalTime: "20min",
                 description:"If you are ready to taste the flavours of Mangalorean cuisine on your plates, get yourself some basic masalas, a good sized pomfret and get started.",
                 ingredients:[
                 "2 Cleaned Pomfret fish",
@@ -76,7 +76,7 @@ export const breadrecipe=[
                 "9.Remove fish from the pan, in the same pan add the remaining marinade and cook the gravy until it leaves some oil.",
                 "10.Finally add the fried fish, coat it with the gravy and serve hot. Enjoy as it is or with rice, dosa, biryani etc."],
             },
-
+ 
             {
                 subid: 3,
                 recipename: "Andhra Pan Fried Pomfret Recipe",
@@ -84,7 +84,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "20min",
                 cookTime: "20min",
-                totaltime: "40min",
+                totalTime: "40min",
                 description:"About Andhra Pan Fried Pomfret Recipe: An absolutely flavourful fish recipe for all those who love to dive into succulent spicy pomfret. And what's better than an Andhra style pomfret recipe that you can prepare at home too? Here is a quick and super easy pan fried pomfret packed with a host of spices and a tang of lime along with a crispy crust and succulent inside.",
                 ingredients:[
                 "300 gms white pomfret fish",
@@ -107,9 +107,9 @@ export const breadrecipe=[
                 "4.After 2 minutes, carefully flip the fish and cook on the other side for another 1-2 minutes.",
                 "5.Remove from non-stick pan. Squeeze some lemon juice, red chilli powder, fresh coriander and fried curry leaves on the fish and serve hot alongside some sliced onion rings and lemon wedges."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 4,
                 recipename: "Malabari Fish Curry Recipe",
@@ -117,7 +117,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "10min",
                 cookTime: "50min",
-                totaltime: "60min",
+                totalTime: "60min",
                 description:"About Malabari Fish Curry Recipe: Assorted with a blend of spices and fresh vegetables, Malabari fish curry comes straight from the lush green areas of India, this dish will be a perfect fit for a seafood lover’s appetite. Try this recipe to relish the taste of Wayanad, Kerala.",
                 ingredients:[
                 "100 gms sear fish",
@@ -135,9 +135,9 @@ export const breadrecipe=[
                 "3.Simmer for two minutes. Add fish and salt. Cook for a few minutes till the mixture starts to harden.",
                 "4.Fry the tempering ingredients in coconut oil and add to the fish. Add the onions and stir gently. Remove after a minute. Serve hot with rice."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 5, 
                 recipename: "Korean Bibimbap Recipe",
@@ -145,7 +145,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "20min",
                 cookTime: "20min",
-                totaltime: "40min",
+                totalTime: "40min",
                 description:"About Korean Bibimbap Recipe: A popular Korean rice dish, Bibimbap traditionally means mixing various ingredients with rice. It has many variations both vegetarian and non-vegetarian. Here is a quick and easy recipe with chicken and prawns along with veggies and spices mixed with jasmine rice along with the famous gochujang sauce.",
                 ingredients:[
                 "20 gms carrot, julienne",
@@ -174,9 +174,9 @@ export const breadrecipe=[
                 "3.Prepare the sauce by heating a wok with oil, add garlic, chilli paste and gochujang paste, add little chicken stock, and adjust seasoning as required.",
                 "4.Cook eggs, sunny side up.5.Assemble by placing the rice in the stone bowl, topped with sautéed veg, chicken and prawns. Top with fried egg. Serve with gochujang sauce on side."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 6,
                 recipename: "Tulsi Ajwain Ka Mahi Tikka Recipe",
@@ -184,7 +184,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "15min",
                 cookTime: "1hrs 45min",
-                totaltime: "2hrs",
+                totalTime: "2hrs",
                 description:"About Tulsi Ajwain Ka Mahi Tikka Recipe: A mouth watering fish tikka recipe, Tulsi Ajwain ka Mahi Tikka is an easy starter recipe, prepare with simple ingredients. You can prepare this as an appetizer for a dinner party. Flavourful tikkas laced with a host of spices, chillies, basil paste and ajwain, baked to perfect golden. Serve these delicious tikkas topped with lemon juice along with mint chutney.",
                 ingredients:["600 gms river sole fish",
                 "100 gms basi",
@@ -208,9 +208,9 @@ export const breadrecipe=[
                 "6.Remove it from tandoor and apply fresh lemon juice.",
                 "7.Serve hot with mint chutney."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 7,
                 recipename: "Portugese Fish Stew Recipe",
@@ -218,7 +218,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "10min",
                 cookTime: "50min",
-                totaltime: "60min",
+                totalTime: "60min",
                 description:"About Portugese Fish Stew Recipe: A delectable treat to prepare on weekends and holiday season. This Portugese fish stew is an easy and simple recipe to prepare for a brunch or light side dish for dinner. Potatoes, fish fillet, shrimps, few veggies along with white wine and spices come together to form this delicious stew that you can serve with cooked rice.",
                 ingredients:["1 Kg sole fillet (you can also do 2/3 types of fish)",
                 "5-10 large large shrimps (optional)",
@@ -241,9 +241,9 @@ export const breadrecipe=[
                 "7.To plate remove one or two pieces of fish along with onions, potatoes and capsicum, pour some stew soup over and serve hot.",
                 "8.This dish can be consumed on its own or can be served with buttered rice."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 8,
                 recipename: "Yera Sukha Recipe",
@@ -251,7 +251,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "20min",
                 cookTime: "1hrs 20min",
-                totaltime: "1hrs 40min",
+                totalTime: "1hrs 40min",
                 description:"About Yera Sukha Recipe: Discover the ultimate in South East Asian coastal food with this delicious prawn recipe. Straight from the Winter special menu of The Spice Route comes this mouth-watering gem of a dish, Yera Sukha. Prawns stirred with Kerala spices, flavoured with star anise and stone flowers, make sure you beat the chill with hot and fragrant flavours.",
                 ingredients:["5 gms stone flower",
                 "5 gms star anise",
@@ -276,9 +276,9 @@ export const breadrecipe=[
                 "7.Add the fried prawn into the above prepared mixture. Also, the cut capsicum.",
                 "8.Arrange on the serving plate, garnish with fried curry leaves and sliced dry red chilli."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 9,
                 recipename: "Malabar Fish Curry Recipe",
@@ -286,7 +286,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "15min",
                 cookTime: "40min",
-                totaltime: "55min",
+                totalTime: "55min",
                 description:"About Malabar Fish Curry Recipe: A delicious, creamy fish curry with goodness of coconut milk and full of chilllies, coriander and mustard seeds. Fish is a great dinner option since it is loaded with nutrients like omega - 3 fatty acids, proteins and several vitamins. Apart from being healthy, this fish curry is full of delightful flavours in luscious gravy. A perfect meal for the next dinner party!",
                 ingredients:["40 gms whole coriander seeds",
                 "60 gms whole red chilli",
@@ -305,9 +305,9 @@ export const breadrecipe=[
                 "5.Finish with coconut milk and tamarind pulp.",
                 "6.Garnish with chopped coriander and fried curry leaves."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 10,
                 recipename: "Seared Salmon in Tabasco Butter Recipe",
@@ -315,7 +315,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "10min",
                 cookTime: "20min",
-                totaltime: "30min",
+                totalTime: "30min",
                 description:"About Seared Salmon in Tabasco Butter Recipe: Pan-seared salmon fish served hot, topped with freshly made tabasco butter. This salmon dish is best served with a side of potato salad or mashed potatoes.",
                 ingredients:["For tabasco butter:",
                 "50 Gram Butter",
@@ -333,9 +333,9 @@ export const breadrecipe=[
                 "5.To serve place the salmon on a plate and top with tabasco butter.",
                 "6.Serve with a potato salad or mashed potato."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 11,
                 recipename: "Shrimp & Cilantro Ceviche Recipe",
@@ -343,7 +343,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "15min",
                 cookTime: "30min",
-                totaltime: "45min",
+                totalTime: "45min",
                 description:"A dish most popular in the Caribbean and on the coast of Latin America. Ceviche is a meal made from raw, fresh fish which has been cured with lemon or lime juices. National Ceviche Day is also celebrated in Peru, as named by Peru's Ministry of Production in 2008, celebrating and showcasing the country's national dish.",
                 ingredients:["80 Gram Prawns",
                 "15 Gram Gherkin",
@@ -375,9 +375,9 @@ export const breadrecipe=[
                 "1.Wash and clean the vegetables.",
                 "2.Blend all ingredients and it is ready to use."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 12,
                 recipename: "Morning Greed Recipe",
@@ -385,7 +385,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "10min",
                 cookTime: "10min",
-                totaltime: "20min",
+                totalTime: "20min",
                 description:"About Morning Greed Recipe: Open sandwich, piled high with smashed mint peas, ricotta, smoked salmon caper berry & sour cream",
                 ingredients:["1 herb Panini bread",
                 "75 Gram Mint peas mash",
@@ -397,9 +397,9 @@ export const breadrecipe=[
                 steps:["1.Remove a thin layer of bread from top.",
                 "2.Light Toast and pile all the other component in an order of Bread, peas mint mash, ricotta crumble and scrambled egg, smoked salmon topped with sour cream and garnished with caper berry."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 13,
                 recipename: "Saewoo Bokumbop Recipe",
@@ -407,7 +407,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "10min",
                 cookTime: "35min",
-                totaltime: "45min",
+                totalTime: "45min",
                 description:"Saewoo Bokumbop is a popular shrimp fried rice dish that widely available in Korean/Chinese restaurants everywhere. It’s a common restaurant or home prepared dish during lunch or dinner that is quite simple but yet a fulfilling meal. It’s a fairly easy dish to prepare/cook and there are various combinations of ingredients that can be included along with shrimp.",
                 ingredients:["2 Cup Cooked rice",
                 "20-25 Small Shrimp (de-veined, peeled)",
@@ -430,9 +430,9 @@ export const breadrecipe=[
                 "8.Add soy sauce (amount dependent on preference), salt and black pepper to meet taste. Mix all ingredients well and simmer for an additional minute.",
                 "9.Serve on plate."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 14,
                 recipename: "Exotic Lovers Roll Recipe",
@@ -440,7 +440,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "10min",
                 cookTime: "1hrs 20min",
-                totaltime: "1hrs 30min",
+                totalTime: "1hrs 30min",
                 description:"Cucumber, avocado along with crab sticks filled into sushi rice rolls, sums up the delicious appetizer that you won't be able to resist. The perfect snack for a dinner night with your loved ones.",
                 ingredients:["1/2 lemon Juice of Lemon",
                
@@ -486,9 +486,9 @@ export const breadrecipe=[
                 "13.Cut each roll into 6 pieces, sprinkle with salmon roe.",
                 "14.Serve with pickled ginger, wasabi and soy sauce"],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 15,
                 recipename: "Prawn Pie Recipe",
@@ -496,7 +496,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "1hrs 30min",
                 cookTime: "1hrs",
-                totaltime: "2hrs 30min",
+                totalTime: "2hrs 30min",
                 description:"Almost everything goes well with this creamy pie recipe. Prawn pie is super rich and is best for small portions as an appetizer at dinner parties.",
                 ingredients:["2 Tbsp Oil",
                 "450 Gram Prawns",
@@ -525,9 +525,9 @@ export const breadrecipe=[
                 "9.Bake in a preheated oven until golden (approximately an hour at 400 degrees).",
                 "10.Your Prawn Pie is ready to serve."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 16,
                 recipename: "Beer Batter Fish Fingers Recipe",
@@ -535,7 +535,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "30min",
                 cookTime: "15min",
-                totaltime: "45min",
+                totalTime: "45min",
                 description:"Marinated in beer these boozy fish fingers are a delight for light and crisp snacking.",
                 ingredients:["300 Gram River Sole Fish (cut in thin strips)",
                 "1 tsp Garlic Paste",
@@ -553,9 +553,9 @@ export const breadrecipe=[
                 "4.Heat oil and dip fish fingers into the batter then drop one at a time into hot oil , turning once until both sides are golden brown.",
                 "5.Drain on towel pepper and serve with lime tarter sauce."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 17,
                 recipename: "Masor Tenga Recipe",
@@ -563,7 +563,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "10min",
                 cookTime: "10min",
-                totaltime: "20min",
+                totalTime: "20min",
                 description:"A simple, home-style, Assamese fish curry that is a regular feature during lunch and dinner. It is best enjoyed with steamed rice and a fresh green chilli on the side. 'Tenga' meaning sour is the dominant flavour in the curry.",
                 ingredients:["4 pieces Rohu/ Catla fish",
                 "1/2 tsp salt",
@@ -582,9 +582,9 @@ export const breadrecipe=[
                 "7.Add the pieces of fish and continue boiling to thicken the curry, for 5-6 minutes.",
                 "8.Remove from heat, and squeeze the lime or lemon juice on top. Garnish with chopped coriander leaves and serve with steamed rice."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 18,
                 recipename: "Tawa surmai Recipe",
@@ -592,7 +592,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "10min",
                 cookTime: "10min",
-                totaltime: "20min",
+                totalTime: "20min",
                 description:"kingfish steaks marinated with ginger, garlic and red chilli paste, cooked on griddle, finished with lemon juice.",
                 ingredients:["825 Gram Surmai (king fish steaks) ",
                 "3 piecesmarination",
@@ -610,9 +610,9 @@ export const breadrecipe=[
                 "4.Marinate the fish in the second marinade. Keep it for a couple of hours.",
                 "5.Heat refined oil on a tawa, when hot, add the marinated steaks one by one and cook evenly from both the sides till cooked and golden brown on both sides."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 19,
                 recipename: "Prawn and Litchi Salad Recipe",
@@ -620,7 +620,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "5min",
                 cookTime: "20min",
-                totaltime: "25min",
+                totalTime: "25min",
                 description:"Prawn and Litchi Salad Recipe : This one is an extremely easy salad, quick to put together and perfect for those days when you just can't be bothered.",
                 ingredients:["500 gms prawns (shelled and cleaned)",
                 "2 tbsp spring onions, chopped",
@@ -635,9 +635,9 @@ export const breadrecipe=[
                 "2.Toss the prawns together with the marinade on high heat in a kadhai and stir fry for about 2-3 minutes, by which time the prawns should be cooked.",
                 "3.Set aside, while you mix together the mango and litchi, then add everything together, add the peanuts for a bit of crunch, season and serve immediately."],
             },
-
-
-
+ 
+ 
+ 
             {
                 subid: 20,
                 recipename: "Chemmeen Biryani Recipe",
@@ -645,7 +645,7 @@ export const breadrecipe=[
                 recipieServe: "2",
                 preTime: "30min",
                 cookTime: "30min",
-                totaltime: "60min",
+                totalTime: "60min",
                 description:"Chemmeen biryani is made of prawns. The bite-sized prawns are left in a juicy marinade and later cooked in a rich gravy, layers of the biryani rice are topped with these prawns, cashews, raisins and ghee.",
                 ingredients:["2 Cups Biryani rice",
                 "1/2 kg Prawn/shrimps",
@@ -677,15 +677,19 @@ export const breadrecipe=[
                 "11.Tightly cover it with a lid, use some weight or atta dough to ensure it is tightly covered.",
                 "12.Cook this on the lowest possible flame for 10 mins and then remove off the heat and let it rest for another 10 mins. Open the lid and serve hot with raita and papadam."],
             },
-
-
-
+ 
+ 
+ 
             
-
+ 
             
-
-
+          
+ 
+ 
             
         ]
     }
 ]        
+ 
+ 
+

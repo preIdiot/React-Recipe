@@ -635,9 +635,7 @@ export const Data = [
   },
 
   {
-    id: 15,
-    imgsrc: "../images/BreakfastRecipies/Chicken Sub Sandwich.jpg",
-    name: "Breakfast Recipies",
+    
 
     id: 2,
     imgsrc: "../images/snackrecipies/Chicken Sub Sandwich.jpg",

@@ -6,7 +6,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "25min",
     cookTime: "25min",
-    totaltime: "50min",
+    totalTime: "50min",
     description:"About Paneer Thread Rolls Recipe: Gorge on a fusion of Indo-Asian dish with cottage cheese cubes wrapped around cooked noodles and deep-fried to crispy best. Paneer thread rolls are an ideal snack to amp up your snacks table!",
     ingredients:["300 gms paneer",
     "2 tbsp Kashmiri red chilli powder or chilli sauce",
@@ -30,7 +30,7 @@ export const kidrecipes=[
     "10.Now take a wok and heat desi ghee in it over high flame. Make sure it is flaming hot before cooking the paneer pieces as the noodles might absorb more ghee than expected.",
     "11.Once the wok is sufficiently hot, place the paneer pieces one by one and fry till they turn golden brown. Serve hot."],
 },
-
+ 
 {
     subid: 2,
     recipename: "Homemade Vegan Pasta Recipe",
@@ -38,7 +38,7 @@ export const kidrecipes=[
     recipieServe: "4",
     preTime: "30min",
     cookTime: "20min",
-    totaltime: "50minc",
+    totalTime: "50min",
     description:"About Homemade Vegan Pasta Recipe: Here is how you can easily make raw pasta at home without any dairy products! Quick, easy and fuss-free way to make your own pasta at home before you toss it in your favourite sauce!",
     ingredients:["150 gms flour",
    " 150 gms semolina/suji",
@@ -61,7 +61,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "20min",
     cookTime: "15min",
-    totaltime: "35min",
+    totalTime: "35min",
     description:"About Bingsu Recipe: A traditional dessert in Korea, Bingsu is probably the most sought summer dessert in East Asia. It typically consists of chopped fruit, condensed milk, strawberries, kiwi fruit, small pieces of tteok (rice cake), chewy jelly bits, and cereal flakes, fruit syrup, and red beans. It can definitely be a welcome treat for all cold dessert lovers.",
     ingredient: ["50 gms castor sugar",
     "To serve Mixed seasonal fruit,(cubed mango, blackberries, raspberries, figs, sliced strawberries, pomegranate, kiwi)",
@@ -79,7 +79,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "10min",
     cookTime: "20min",
-    totaltime: "30min",
+    totalTime: "30min",
     description:"Bibim Guksu, or spicy noodles is a delicious cold salad dish seasoned with sweet and tangy Korean flavourings. It is one of the most popular traditional noodle dishes in Korean cuisine that is perfect for the summer days. If you’re looking for an easy meal with a little bit of zest, this is what you need!",
     ingredients:["180 gms dried buckwheat noodles (or soba noodles)",
     "For salad:",
@@ -108,7 +108,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "20min",
     cookTime: "30min",
-    totaltime: "50min",
+    totalTime: "50min",
     description:"About Tiranga Pastry Recipe: Celebrate the country's biggest day with this beautiful dessert showcasing the tricolour! Easy, quick and absolutely delicious.",
     ingredients:["1 Kg eggless cake mix",
     "550 ml water",
@@ -135,7 +135,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "10min",
     cookTime: "10min",
-    totaltime: "20min",
+    totalTime: "20min",
     description:"About Phulka Tacos Recipe: Mexican tacos are everyone's favourite! Crunchy mix of kidney beans with spices and chillies are sure to tantalise our taste buds. Here is a quick and easy taco recipe made with soft phulkas (chapati)!",
     ingredients:["For Kachumber Salad:",
     "1 tbsp onion (diced)",
@@ -188,7 +188,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "15min",
     cookTime: "30min",
-    totaltime: "45min",
+    totalTime: "45min",
     description:"About Banana Coconut Idli Recipe: A delicious, sweet twist to the classic idli, banana and coconut idli is a quick and easy recipe to try for you next morning meal.",
     ingredients:["For banana idli:",
     "1 cup Idli batter4 tbsp jaggery powder",
@@ -208,7 +208,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "10min",
     cookTime: "50min",
-    totaltime: "60min",
+    totalTime: "60min",
     description:"About Double Chocolate Ice Cream Recipe: Who would ever say no to a scoop of delectable ice cream!? And let's be honest, you are never too old for ice cream. Here is a mouth-watering, simple ice cream recipe with double chocolate, and oodles of crunchy choco chips!",
     ingredients:["1 can condensed milk",
     "1/4 cup cocoa powder",
@@ -229,7 +229,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "10min",
     cookTime: "50min",
-    totaltime: "60min",
+    totalTime: "60min",
     description:"About Red Velvet Banana Pudding Recipe: Combining two of everyone's favourite - freshly-baked red velvet cake and classic banana pudding, this delightful pudding recipe creates a decadent new dish that is a perfect way to unwind over a lazy weekend at home. With layers of red velvet cake, bananas and topped with crunchy choco chips, there's no way anyone can resist digging into this sweet indulgence!",
     ingredients:["14 oz sweetened condensed milk",
     "1 1/2 cup ice cold water",
@@ -255,7 +255,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "10min",
     cookTime: "30min",
-    totaltime: "40min",
+    totalTime: "40min",
     description:"About Egg Hakka Noodles Recipe: Quick, easy and simply irresistible, egg hakka noodles is everyone's absolute favourite! Here is a fuss-free,easy recipe you can try, to make egg noodles at home.",
     ingredients:["1 packet noodles",
     "2 Egg",
@@ -283,7 +283,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "10min",
     cookTime: "50min",
-    totaltime: "60min",
+    totalTime: "60min",
     description:"About Mango and Blueberry Muffins Recipe: Love crumbly muffins and equally adore gorging on luscious mangoes? Here we have the perfect recipe for you! Mango muffins with the tinge of blueberries make for an irresistible treat that will be loved by kids and adults alike.",
     ingredients:["200 gms maida",
     "60 gms sugar",
@@ -305,8 +305,8 @@ export const kidrecipes=[
     "7.Bake at 225 temp for 20-30 minutes or until they’re golden on top and an inserted skewer comes out clean.",
     "8.Let it cool for some time in the tray itself. Now serve it."],
 },
-
-
+ 
+ 
 {
     subid: 12,
     recipename: "Oats Mango Smoothie Recipe",
@@ -314,7 +314,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "25min",
     cookTime: "25min",
-    totaltime: "50min",
+    totalTime: "50min",
     description:"About Oats Mango Smoothie: Smoothies are a popular pick during the summer season. they are wholesome, delicious and refreshing. And so are mangoes! Here is a stellar smoothie recipe with the goodness of mangoes and wholesome oats.",
     ingredients:["2 Alphonso mango",
     "15 gms oats",
@@ -327,8 +327,8 @@ export const kidrecipes=[
     "4.Now blend the mangoes, Oats, Almond, Sugar, and Yoghurt together until it becomes smooth.",
     "5.Put in the refrigerator for an hour and serve it chilled."],
 },
-
-
+ 
+ 
 {
     subid: 13,
     recipename: "Litchi Spinach Smoothie Recipe",
@@ -336,7 +336,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: " 10min",
     cookTime: "10min",
-    totaltime: "20min",
+    totalTime: "20min",
     description:"About Litchi Spinach Smoothie Recipe: A wholesome smoothie recipe with the goodness o spinach, crunchy almonds and litchis. This smoothie is perect for quick breakfast fix for energy and is incredibly delicious with scoops of ice cream on top!",
     ingredients:["6 Litchi",
     "2 cups fresh baby spinach",
@@ -347,8 +347,8 @@ export const kidrecipes=[
     "2.Blend them properly until smooth.",
     "3.Serve immediately and garnish it with chopped almonds."],
 },
-
-
+ 
+ 
 {
     subid: 14,
     recipename: "Litchi Ginger Cooler Recipe",
@@ -356,7 +356,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "10min",
     cookTime: "55min",
-    totaltime: "65min",
+    totalTime: "65min",
     description:"About Litchi Ginger Cooler Recipe: Here's a perfect summer beverage to quench your thirst! Litchi ginger cooler is a refreshing blend of basil leaves, ginger, litchi and jaggery syrup, that is sure to leave you drooling.",
     ingredients:["8 fresh litchi (deseeded), peeled",
     "3 Fresh ginger slices",
@@ -370,8 +370,8 @@ export const kidrecipes=[
     "3.Keep it in the refrigerator for an hour.",
     "4.After this add 3 ice cubes in the glass then put garnish with chopped thai basil leaves. It’s ready to be served now."],
 },
-
-
+ 
+ 
 {
     subid: 15,
     recipename: "Chocolate Chip Cookies Recipe",
@@ -379,7 +379,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "10min",
     cookTime: "75min",
-    totaltime: "85min",
+    totalTime: "85min",
     description:"About Chocolate Chip Cookies Recipe: Soft, fluffy and simply delicious, chocolate chip cookies are a delight to munch on. Here's a simple recipe to bake irresistible cookies at home!",
     ingredients:["2 1/4 all purpose flour1 tsp baking soda1/2 tsp salt½ cup/ 1 stick plus 2 tbsp unsalted butter at room temperature3/4 cup granulated sugar3/4 cup light brown sugar2 Eggs3/4 tsp vanilla extract2 cups semi sweet chocolate chips or high quality chocolate chunks from a bar"],
     steps:["1.In a small bowl, whisk together the flour, baking soda and salt. Set aside.",
@@ -393,8 +393,8 @@ export const kidrecipes=[
     "9.Remove the cookies from the refrigerator and let sit at room temperature for about 10 minutes. Arrange 12 cookies evenly spaced on the baking sheet. Gently press the dough balls to flatten slightly.",
     "10.Bake for 10 to 12 minutes of until lightly golden brown. Let the coookies sit on the pan for 5 minutes, then transfer them to a cooling rack to cool completely."],
 },
-
-
+ 
+ 
 {
     subid: 16,
     recipename: "Sable Viennois Recipe",
@@ -402,7 +402,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "10min",
     cookTime: "25min",
-    totaltime: "35min",
+    totalTime: "35min",
     description:"About Sable Viennois Recipe: Cookies so good you wouldn't be able to resist! Creamy goodness of butter, icing sugar, egg and flour, baked to perfection!",
     ingredients:["225 gms butter",
     "90 gms icing sugar",
@@ -415,8 +415,8 @@ export const kidrecipes=[
     "3.Sift flour and salt and gently fold into mixture.",
     "4.Pipe and bake at 180°C for 12 minutes, depending on size."],
 },
-
-
+ 
+ 
 {
     subid: 17,
     recipename: "Beyond The Ozone Recipe",
@@ -424,7 +424,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "25min",
     cookTime: "55min",
-    totaltime: "80min",
+    totalTime: "80min",
     description:"About Beyond The Ozone Recipe: A delectable cake with the goodness of mango ad vanilla! A mango cheesecake with a vanilla sponge top and mango filling inside is mouth-watering enough to give a try.",
     ingredients:["For vanilla sponge:",
     "195 gms all purpose flour",
@@ -468,8 +468,8 @@ export const kidrecipes=[
     "3.Pipe the mango cheesecake till the top; lay the vanilla sponge at the top and set it in the freezer till it is rock hard. ",
     "4.Demould it and spray the yellow chocolate spray on top and place a desired chocolate garnish."],
 },
-
-
+ 
+ 
 {
     subid: 18,
     recipename: "Lemon Poppy Seed Cake Recipe",
@@ -477,7 +477,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "15min",
     cookTime: "40min",
-    totaltime: "55min",
+    totalTime: "55min",
     description:"About Lemon Poppy Seed Cake Recipe: When Easter is around the corner, there is no better way to dive into the spirit of the festival than indulging in some Easter special treats like this lemon poppy seed bundt cake. It is a scrumptious bake packed with tarty lemon syrup and whip cream and chocolate on top.",
     ingredients:["150 gms plain flour",
     "1 tsp baking powder",
@@ -500,8 +500,8 @@ export const kidrecipes=[
     "4.Serve with fresh berry.",
     "5.Serve warm cake with cream and cake with the chocolate syrup."],
 },
-
-
+ 
+ 
 {
     subid: 19,
     recipename: "Carrot Cake Recipe",
@@ -509,7 +509,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "15min",
     cookTime: "35min",
-    totaltime: "50min",
+    totalTime: "50min",
     description:"About Carrot Cake Recipe: An easy, quick and absolutely delectable cake recipe. Grated carrot, egg, oil, sugar, walnut and cinnamon mixed together and baked to perfection. Carrot cake is usually made around the time of Easter but this carrot cake recipe is so easy that you can bake it more often at home.",
     ingredients:["100 gms carrot",
     "68 gms flour",
@@ -527,8 +527,8 @@ export const kidrecipes=[
     "5.Pour the mix into a lined mould and bake at 180 C for 25-30 minutes.",
     "6.Decorate with Easter theme garnish."],
 },
-
-
+ 
+ 
 {
     subid: 20,
     recipename: "Berry Parfait Hazelnut White Chocolate Sable Recipe",
@@ -536,7 +536,7 @@ export const kidrecipes=[
     recipieServe: "2",
     preTime: "15min",
     cookTime: "105min",
-    totaltime: "120min",
+    totalTime: "120min",
     description:"About Berry Parfait Hazelnut White Chocolate Sable Recipe: A delectable frozen dessert of parfait packed with the delicious berries, served with hazelnut crumble made of white chocolate, cocoa and puffed rice. Topped with warm flexy berry of raspberry and pectin, this sweet spread would be the perfect dessert to prepare for the special someone this valentines day!",
     ingredients:["For berry parfait:",
     "12 nos egg yolk",
@@ -560,88 +560,19 @@ export const kidrecipes=[
     "150 gms sugar",
     "60 gms liquid glucose",
     "4 gms pectin"],
-    steps:["Prepare Berry Parfait:",
+    steps:["Prépare Berry Parfait:",
     "1.Boil the sugar with little water till 120 C, beat the egg yolk and add the sugar syrup slowly and make a soft peak texture.",
     "2.Add berry puree, cream cheese and finally add double cream. Pour it in a mould and freeze overnight.",
     "Prepare Hazelnut Streusel:",
-    "1.Mix all the ingredients in mixing bowl until it become a crumble texture, bake the crumble in a reheated oven for 12 minutes at 165 C. take out from the oven and allow to cool.",
+    "1.Mix all the ingredients in mixing bowl until it become a crumble texture, bake the crumble in a preheated oven for 12 minutes at 165 C. take out from the oven and allow to cool.",
     "Prepare Hazelnut White Chocolate Pressed Sable:",
     "1.Mix everything together and put it in the desired mould and press with a flat bottom tool. Keep it in the refrigerator until ready to use.",
     "Prepare Flexy Berry:",
     "1.Heat the berry puree, 100 gms of sugar and glucose in a heavy bottom pan, once it reach 60*C add the remaining sugar and pectin and cook well.",
     "2.Spread it on a silipat and keep in the oven for 12 minutes at 140 C."],
 },
-
-
-{
-    subid: 21,
-    recipename: "",
-    imgfile: "../images/kidrecipes/",    
-    recipieServe: "2",
-    preTime: "25min",
-    cookTime: "25min",
-    totaltime: "50min",
-    description:"",
-    ingredients:[""],
-    steps:[""],
-},
-
-
-{
-    subid: 1,
-    recipename: "",
-    imgfile: "../images/kidrecipes/",    
-    recipieServe: "2",
-    preTime: "25min",
-    cookTime: "25min",
-    totaltime: "50min",
-    description:"",
-    ingredients:[""],
-    steps:[""],
-},
-
-
-{
-    subid: 1,
-    recipename: "",
-    imgfile: "../images/kidrecipes/",    
-    recipieServe: "2",
-    preTime: "25min",
-    cookTime: "25min",
-    totaltime: "50min",
-    description:"",
-    ingredients:[""],
-    steps:[""],
-},
-
-
-{
-    subid: 1,
-    recipename: "",
-    imgfile: "../images/kidrecipes/",    
-    recipieServe: "2",
-    preTime: "25min",
-    cookTime: "25min",
-    totaltime: "50min",
-    description:"",
-    ingredients:[""],
-    steps:[""],
-},
-
-
-{
-    subid: 1,
-    recipename: "",
-    imgfile: "../images/kidrecipes/",    
-    recipieServe: "2",
-    preTime: "25min",
-    cookTime: "25min",
-    totaltime: "50min",
-    description:"",
-    ingredients:[""],
-    steps:[""],
-},
-
-
-
 ]
+ 
+ 
+ 
+

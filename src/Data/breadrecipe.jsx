@@ -1,5 +1,5 @@
 export const breadrecipe=[
-
+ 
     {
         subid: 1,
         recipename: "Chicken Salami Sandwich Recipe",
@@ -7,7 +7,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:"The blend of the buttered bread, crunchy vegetables, melting cheese and our all-time favourite chicken salami truly make for a scrumptious breakfast. Read the recipe below.",
         ingredients:["Ingredients of 2 Ways Chicken Salami Sandwich",
         "For grilled chicken salami sandwich",
@@ -41,7 +41,7 @@ export const breadrecipe=[
         "7.Add mayo, mustard sauce, and top close with another loaf."],
     },
     
-
+ 
     {
         subid: 2,
         recipename: "Lauki Roti Recipe",
@@ -49,7 +49,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:"Detox roti is a combination of atta and vegetable. Full of moisture, lauki helps keep your body hydrated and cool. Try out this lauki roti recipe today!",
         ingredients:["Ingredients of Lauki Roti1 Cup Pureed Lauki",
         "1 cup Atta"],
@@ -60,7 +60,7 @@ export const breadrecipe=[
         "4.Serve and enjoy!"],
     },
     
-
+ 
     {
         subid: 3,
         recipename: "Grilled Chicken Sandwich Recipe",
@@ -68,7 +68,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:"The sandwich speaks for itself! This easy to make and healthy sandwich is made with boiled chicken along with lettuce, bell pepper and seasonings like tangy chat masala with creamy mayonnaise. Try it out in your next sandwich cravings.",
         ingredients:["Ingredients of Grilled Chicken Sandwich",
         "1/2 Cup Chopped and boiled chicken",
@@ -88,7 +88,7 @@ export const breadrecipe=[
         "5.Once done, serve hot with your favourite dip."],
     },
     
-
+ 
     {
         subid: 4,
         recipename: "Tawa Bread Rolls Recipe",
@@ -96,7 +96,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "15min",
         cookTime: "10min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:"Enough of deep fried bread rolls, now is the time to try a healthy yet delicious version of bread rolls. Enjoy this tawa bread roll without any guilt. Try it out!",
         ingredients:["Ingredients of Tawa Bread Rolls",
         "5 Bread slices",
@@ -119,7 +119,7 @@ export const breadrecipe=[
         "7.Serve and enjoy with your favourite dip."],
     },
     
-
+ 
     {
         subid: 5,
         recipename: "Achari Paneer Paratha Recipe",
@@ -127,7 +127,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:"Try this unique paratha recipe in your breakfast or lunch- this dish will win the hearts of your family. You can also pair it with curd to lower down the spice of this dish.",
         ingredients:["Ingredients of Achari Paneer Paratha",
         "1 Cup Wheat flour",
@@ -145,7 +145,7 @@ export const breadrecipe=[
         "6.Then heat a pan and bake your achari paneer paratha on medium to high flame till the crust becomes crispy."],
     },
     
-
+ 
     {
         subid: 6,
         recipename: "Kashmiri Roti Recipe",
@@ -153,7 +153,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "15min",
         cookTime: "10min",
-        totaltime: "255min",
+        totalTime: "255min",
         description:"This fluffy and soft bread is usually cooked in an underground tandoor and enjoyed with tea. But since most of us won’t have the facility of a tandoor, we bring you a simpler version to make this roti easily at your home.",
         ingredients:["Ingredients of Kashmiri Roti",
         "2 Cups All-purpose flour",
@@ -176,7 +176,7 @@ export const breadrecipe=[
         "9.Cook till the roti is golden brown."],
     },
     
-
+ 
     {
         subid: 7,
         recipename: "Chilli Parotta Recipe",
@@ -184,7 +184,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "15min",
         cookTime: "15min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:"Parotta is a famous flatbread from South India which is made with all-purpose flour/maida. However, this desi chinese version of parotta is a combination of garlic and other vegetables like capsicum, onion followed by sauces like chilli sauce and soy sauce.",
         ingredients:["Ingredients of Chilli Parotta",
         "4-5 Garlic cloves",
@@ -207,7 +207,7 @@ export const breadrecipe=[
         "7.Then serve it in a bowl and garnish with spring onions."],
     },
     
-
+ 
     {
         subid: 8,
         recipename: "Kulcha Naan Recipe",
@@ -215,7 +215,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "15min",
         cookTime: "10min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:"Kulcha naan is basically an Indian flat bread made with all purpose flour and topped with black sesame seeds. Pair it up with spicy chole, tangy mint chutney and enjoy the wholesome meal.",
         ingredients:["Ingredients of Kulcha Naan",
         "1/2 Cup All Purpose Flour",
@@ -224,7 +224,7 @@ export const breadrecipe=[
         "1A pinch of Baking Soda",]
     },
     
-
+ 
     {
         subid: 9,
         recipename: "Agra Paratha Thali Recipe",
@@ -232,7 +232,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "15min",
         cookTime: "15min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:"Parathas are like a lifeline in most Indian households. This Agra paratha thali is so famous in the streets of Agra. What's better than deep fried crispy parathas with vegetable sabzi, dal and a chutney?",
         ingredients:["Ingredients of Agra Paratha Thali",
         "1/2 Cup Wheat flour",
@@ -253,7 +253,7 @@ export const breadrecipe=[
         "6.Now serve it with aloo ki sabzi, green chutney and kele ki chutney and enjoy!"],
     },
     
-
+ 
     {
         subid: 10,
         recipename: "Onion Garlic Parantha Recipe",
@@ -261,7 +261,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "5min",
         cookTime: "10min",
-        totaltime: "15min",
+        totalTime: "15min",
         description:"About Onion Garlic Parantha : Onion Garlic Parantha is a delectable flatbread recipe that can be enjoyed for any meal during the day. With the aromatic flavour of garlic and crispiness of onion, this recipe is very easy to make. Prepared with a handful of ingredients such as all purpose flour, garlic cloves, coriander leaves, and ghee. So, what are you waiting for? Make these onion garlic parathas and serve them piping hot with mint chutney and pickle.",
         ingredients:["Ingredients of Onion Garlic Parantha",
         "200 gms Whole Wheat Flour",
@@ -277,7 +277,7 @@ export const breadrecipe=[
         "4.Use this mixture to fill your parathas and enjoy your meal."],
     },
     
-
+ 
     {
         subid: 11,
         recipename: "Steam Bunny Chicken Bao Recipe",
@@ -285,7 +285,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "40min",
         cookTime: "80min",
-        totaltime: "2hrs",
+        totalTime: "2hrs",
         description:"About Steam Bunny Chicken Bao Recipe: With Easter just around the corner, we have got you covered on what to prepare for the brunch over the weekend with family and friends. This recipe for steamed chicken bao with a delectable filling of chicken mince, served with flavourful green pepper sauce, is just the perfect one to prepare at home.",
         ingredients:["Ingredients of Steam Bunny Chicken Bao",
         "12 Buns",
@@ -314,7 +314,7 @@ export const breadrecipe=[
         "8.The bao is ready, serve with green pepper sauce."],
     },
     
-
+ 
     {
         subid:12,
         recipename: "Gypsy Toast Recipe",
@@ -322,7 +322,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:" Crispy, spicy, gypsy toast is loaded with some egg-y goodness. This delish treat makes for a quick meal during the time-pressed mornings.",
         ingredients:["2 eggs",
         "Less than half cup milk",
@@ -341,7 +341,7 @@ export const breadrecipe=[
         "4.On medium flame, cook both the sides of the bread until it turns golden brown in colour.",
         "5.Serve hot with some ketchup by the side."],
          },
-
+ 
     {
         subid: 13,
         recipename: "Christmas Tree Pizza Recipe",
@@ -349,7 +349,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "15min",
         cookTime: "35min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:"About Christmas Tree Pizza Recipe: What is the festival of Christmas without some delicious food? Here's a delightful, quick and easy pizza recipe that looks like a beautiful Christmas tree. With just a few simple ingredients and less than an hour you'll have a delicious Christmas tree pizza that the kids would absolutely love. Making this Christmas tree pizza recipe with pesto and veggie ornaments is the perfect holiday time tradition, especially for kids!",
         ingredients:["Ingredients of Christmas Tree Pizza",
         "1 pizza dough (2 boules)",
@@ -367,7 +367,7 @@ export const breadrecipe=[
         "6.Transfer the pizza to the oven on the pizza peel, and bake until the cheese is melted, about 5 minutes. Allow to cool slightly, then serve."],
     },
     
-
+ 
     {
         subid:14,
         recipename: "Tricolour Pasta Recipe",
@@ -375,7 +375,7 @@ export const breadrecipe=[
         recipieServe: "3",
         preTime: "5min",
         cookTime: "15min",
-        totaltime: "20min", 
+        totalTime: "20min", 
         description:"A bowl of pasta is something we all can binge over at any time of the day and even during the midnight hunger pangs. Here is an easy, simple and quick pasta recipe specially curated in tricolor by Grand Mercure. You can prepare this at home and relish with family and friends.",
     ingredients:["200 gms penne", 
     "1 cup fresh broccoli, sliced", 
@@ -393,7 +393,7 @@ export const breadrecipe=[
         "3.Drain penne; add to skillet and toss. Sprinkle with cheese."],    
         },
     
-
+ 
  {
             subid: 15,
             recipename: "Valencia Fizz Recipe",
@@ -401,7 +401,7 @@ export const breadrecipe=[
             recipieServe: "2",
             preTime: "5min",
             cookTime: "5min",
-            totaltime: "10min",
+            totalTime: "10min",
             description:"About Valencia Fizz Recipe: Super refreshing mocktail recipe that is sure to keep you energized throughout the day. A mouth-watering blend of fresh Valencia oranges with lime juice and soda hence making it a rejuvenating beverage this Navratri. Made within minutes, this mocktail recipe is sure to be loved by everyone and is way healthier than the canned juices available on the market. Serve this chilled beverage to your guests this festive season and on special occasions.",
             ingredients:["Ingredients of Valencia Fizz",
             "100 Ml Valencia orange juice",
@@ -416,7 +416,7 @@ export const breadrecipe=[
  },
         
         
-
+ 
  {
     subid: 16,
     recipename: "Baked Namak Para Recipe",
@@ -424,7 +424,7 @@ export const breadrecipe=[
     recipieServe: "2",
     preTime: "15min",
     cookTime: "35min",
-    totaltime: "50min",
+    totalTime: "50min",
     description:"About Baked Namak Para Recipe: Namak Pare are one of the most famous tea-time snack in India. Every Indian home would have a jar full of these savoury strips to munch on. These are usually made of maida along with suji and deep fried till crisp, but here is a healthier namak para recipe that you'll love to indulge in and not regret later. Made with whole wheat flour and baked to perfection, you can enjoy this crunchy, crispy snack this festive season along with friends and family.",
     ingredients:["Ingredients of Baked Namak Para",
     "1 1/2 Cups Whole wheat flour (atta)",
@@ -441,7 +441,7 @@ export const breadrecipe=[
     "6.Place them on the baking tray and bake in the preheated oven at 200°C for 15 to 20 minutes.",
     "7.Serve hot or cool them down and store in an airtight container."],
 },
-
+ 
     
 {
     subid: 17,
@@ -450,7 +450,7 @@ export const breadrecipe=[
     recipieServe: "2",
     preTime: "10min",
     cookTime: "50min",
-    totaltime: "60min",
+    totalTime: "60min",
     description:"About Ajwaini Paneer Kofta Curry Recipe: A navratri special, delectable and luscious paneer gravy recipe. Spiced with ajwain and degi mirch and cooked in fresh and tangy tomato puree along with rock salt (sendha namak), this paneer kofta curry would makes for a mouth-watering, spicy dish to prepare during the fasting season of navratri.",
     ingredients:["Ingredients of Ajwaini Paneer Kofta Curry",
     "100 gms cottage cheese",
@@ -471,7 +471,7 @@ export const breadrecipe=[
     "4.Then add fried kofta in the gravy and serve hot garnished with coriander."],
 },
     
-
+ 
     {
         subid: 18,
         recipename: "Mummy Dogs Recipe",
@@ -479,7 +479,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:"These mummy dogs make a perfect Halloween recipe for kids. Yummy hot dogs covered in buttery rolls. How cute, quick, easy & delicious is this!",
         ingredients:["Ingredients of Mummy Dogs",
         "For Breadstick DoughL",
@@ -500,7 +500,7 @@ export const breadrecipe=[
         "5.Place dots of mustard and poppy seeds for eyes and enjoy!"],
     },
     
-
+ 
     {
         subid: 19,
         recipename: "Kuttu ki Puri Recipe",
@@ -508,7 +508,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "10min",
         cookTime: "15min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:"Crisp and tasty puris made with buckwheat flour for fasting or vrat. This recipe is particularly made during fasting days like Navratri, Shivratri or Ekadashi fast, but you can still relish on this healthy and tasty recipe on any day you like since it is easy and quick.",
         ingredients:["Ingredients of Kuttu ki Puri",
         "200 Gram Buckwheat Flour",
@@ -523,7 +523,7 @@ export const breadrecipe=[
         "5.Deep fry the poori in hot ghee and serve hot"],
     },
     
-
+ 
     {
         subid: 20,
         recipename: "Vada Pav Recipe",
@@ -531,7 +531,7 @@ export const breadrecipe=[
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:"About Vada Pav Recipe: The most popular street food from Mumbai, so much so that Mumbai is almost synonymous to Vada Pav. It is basically Batata Vada sandwiched between slices of a Pav along with a generous amount of sweet and spicy chutneys. It might seem like a lot of hard work but its actually pretty quick and easy to make at home.",
         ingredients: [
             "1 Cup Poha",
@@ -554,65 +554,9 @@ export const breadrecipe=[
             "7.Once you have made all the vadas, heat some oil, and deep fry them one by one until golden.",
             "8.Don’t keep the vada for too long, serve hot and with green chutney or coconut chutney.",
           ],    
-    },
-    
-
-    {
-        subid: 1,
-        recipename: "",
-        imgfile: "../images/breadrecipe/.jpg",    
-        recipieServe: "2",
-        preTime: "min",
-        cookTime: "min",
-        totaltime: "min",
-        description:"",
-        ingredients:[""],
-        steps:[""],
-    },
-    
-
-    {
-        subid: 1,
-        recipename: "",
-        imgfile: "../images/breadrecipe/.jpg",    
-        recipieServe: "2",
-        preTime: "min",
-        cookTime: "min",
-        totaltime: "min",
-        description:"",
-        ingredients:[""],
-        steps:[""],
-    },
-    
-
-    {
-        subid: 1,
-        recipename: "",
-        imgfile: "../images/breadrecipe/.jpg",    
-        recipieServe: "2",
-        preTime: "min",
-        cookTime: "min",
-        totaltime: "min",
-        description:"",
-        ingredients:[""],
-        steps:[""],
-    },
-    
-
-    {
-        subid: 1,
-        recipename: "",
-        imgfile: "../images/breadrecipe/.jpg",    
-        recipieServe: "2",
-        preTime: "min",
-        cookTime: "min",
-        totaltime: "min",
-        description:"",
-        ingredients:[""],
-        steps:[""],
-    },
-    
-
-
-
+    }, 
+ 
 ]
+ 
+ 
+

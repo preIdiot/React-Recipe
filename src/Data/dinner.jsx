@@ -1,6 +1,6 @@
 export const dinner=[
-
-
+ 
+ 
     {
         subid: 1,
         recipename: "Malaysian Chicken Curry Recipe",
@@ -8,7 +8,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "2min",
         cookTime: "35min",
-        totaltime: "37min",
+        totalTime: "37min",
         description:"About Malaysian Chicken Curry Recipe: Malaysian Chicken Curry is an easy to cook Asian recipe that can be served on the table in less than half an hour. This curry is made with coconut milk, pandan leaves, fish sauce, lemongrass and succulent pieces of chicken.",
         ingredients:["Ingredients of Malaysian Chicken Curry",
         "2 Tbsp oil1 tbsp ghee",
@@ -29,8 +29,8 @@ export const dinner=[
         "3.Add the blended paste, salt, sugar and chicken pieces to the pan. Mix well and stir fry for 5-10 minutes. Now, Add fish sauce and pour some water. Let it simmer on low flame until the chicken is cooked.",
         "4.Add Coconut milk and squeeze lemon juice. Let it cook for 5 minutes, garnish it with coriander leaves and chopped red chili. Serve it hot with rice."],
     },
-
-
+ 
+ 
     {
         subid: 2,
         recipename: "Stuffed Tandoori Mushroom Recipe",
@@ -38,7 +38,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "10min",
         cookTime: "20min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:"About Stuffed Tandoori Mushroom (Bharwan Mushroom ) Recipe: This is a delicious snack Recipe. You can serve this amazing snack in your house party aur family dinner party.",
         ingredients:["Ingredients of Stuffed Tandoori Mushroom (Bharwan Mushroom )",
         "150 gms mushroom",
@@ -61,8 +61,8 @@ export const dinner=[
         "6.Now fill this stuffing in empty space of mushrooms. coat all mushroom with tandoori marination carefully so that the stuffed mix will not come out .",
         "7.Preheat your tandoor ,put mushroom in a skewer and bake it in tandoor , Now everyone will not have tandoor so they can keep mushroom in abaking tray and bake it in the convection oven under grill or bake for apx 15-20 min at 180 C"],
     },
-
-
+ 
+ 
     {
         subid: 3,
         recipename: "Khariya Mundi Recipe",
@@ -70,7 +70,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "30min",
         cookTime: "90min",
-        totaltime: "2hrs",
+        totalTime: "2hrs",
         description:"About Khariya Mundi Recipe: A regional specialty of lamb brain and trotters, Khariya Mundi is well appreciated delicacy by the warriors of Mewar. This rich delicacy was one of the favorite dishes in Royal Feasts, especially during winters because of the medicinal value of the dish and its spices. This keeps the body warm and energized during the chilling winters of Rajasthan.",
         ingredients:["Ingredients of Khariya Mundi",
         "8 pcs mutton paya",
@@ -105,8 +105,8 @@ export const dinner=[
         "4.Then add water and mix. Wait till it boils on high flame, then cover and cook on low flame for 1.5 hours till the paya and mundi are tender.",
         "5.Add garam masala powder, green chilli, coriander and cook for 10 minutes on low flame. Serve hot with khoba roti and rice."],
     },
-
-
+ 
+ 
     {
         subid: 4,
         recipename: "Bingsu Recipe",
@@ -114,7 +114,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "20min",
         cookTime: "15min",
-        totaltime: "35min",
+        totalTime: "35min",
         description:"About Bingsu Recipe: A traditional dessert in Korea, Bingsu is probably the most sought summer dessert in East Asia. It typically consists of chopped fruit, condensed milk, strawberries, kiwi fruit, small pieces of tteok (rice cake), chewy jelly bits, and cereal flakes, fruit syrup, and red beans. It can definitely be a welcome treat for all cold dessert lovers.",
         ingredients:["Ingredients of Bingsu",
         "150 gms mixed frozen berries (thawed)",
@@ -128,8 +128,8 @@ export const dinner=[
         "3.Meanwhile, prepare the fruit. Arrange in side bowls, along with shaved ice. (To make shaved ice, add ice to a food processor and blitz in batches, keeping in the freezer until ready to serve. This is a perfect make-ahead dessert)",
         "4.Spoon over some of the cooled berry syrup and top with a scoop of vanilla ice cream. Enjoy immediately"],
     },
-
-
+ 
+ 
     {
         subid: 5,
         recipename: "Chukandar Ka Halwa With Vanilla Ice Cream Recipe",
@@ -137,7 +137,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "10min",
         cookTime: "35min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:"About Chukandar Ka Halwa With Vanilla Ice Cream Recipe: Indulge in the goodness of beetroot with this delicious halwa recipe served along with vanilla ice cream. Made in pure ghee with an added crunch of cashews, this beetroot (chukandar) halwa is an absolute delight!",
         ingredients:["Ingredients of Chukandar Ka Halwa With Vanilla Ice Cream",
         "1 Kg beetroot, medium",
@@ -155,8 +155,8 @@ export const dinner=[
         "4.Slow the flame and stir properly for 3-4 minutes, then add nuts like ittr, cardamom powder & cashew nuts etc and stir for a minute only and turn off the heat.",
         "5.Beetroot halwa is ready to serve hot with vanilla ice cream."],
     },
-
-
+ 
+ 
     {
         subid: 6,
         recipename: "Chocolate Frozen Phirni Recipe",
@@ -164,7 +164,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "15min",
         cookTime: "45min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:"About Chocolate Frozen Phirni Recipe: Indulge in this super delicious Indian dessert with a spin of cocoa, jaggery and nuts!",
         ingredients:["Ingredients of Chocolate Frozen Phirni",
         "2 Litre milk",
@@ -184,8 +184,8 @@ export const dinner=[
         "5.Turn off the flame, pour in your selected mould cutter and keep in -18 degree freezer until turned frozen.",
         "6.While serving, remove the mould carefully and top it with frozen pomegranate seeds and crushed pistachio."],
     },
-
-
+ 
+ 
     {
         subid: 7,
         recipename: "Shahi Tirangi Kofta Recipe",
@@ -193,7 +193,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "15min",
         cookTime: "45min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:"About Shahi Tirangi Kofta Recipe: A luscious, rich and delightful kofta curry apcked with the goodness of carrot spinach, paneer and potatoes, shahi tiranga kofta is perfect to amp up your next dinner party menu.",
         ingredients:["Ingredients of Shahi Tirangi Kofta",
         "50 gms carrot",
@@ -240,8 +240,8 @@ export const dinner=[
         "8.Add the kofta cut in two just before serving and serve hot.",
         "9.Garnish it with mint leaves or a sprinkle of kalonji seeds."],
     },
-
-
+ 
+ 
     {
         subid: 8,
         recipename: "Lamb And Almond Korma Recipe",
@@ -249,7 +249,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:"About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
         ingredients:["Ingredients of Lamb And Almond Korma",
         "1 Kg lamb shoulder cuts",
@@ -274,8 +274,8 @@ export const dinner=[
         "4.Reduce the heat, and add water. Cover the pan and let the lamb simmer for an hour or till tender.",
         "5.Cut the remaining blanched almonds into small pieces and add it to the korma."],
     },
-
-
+ 
+ 
     {
         subid: 9,
         recipename: "Almond And Rose Kheer Recipe",
@@ -283,7 +283,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "20min",
         cookTime: "40min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:"About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
         ingredients:["Ingredients of Almond And Rose Kheer",
         "2 Litre full fat milk",
@@ -301,8 +301,8 @@ export const dinner=[
         "5.Set aside to cool. Once cool add rose water and mix. Refrigerate till serving",
         "6.Roast some almond slivers in an oven for 180 degrees for 5 minutes, until golden brown. Garnish with slivers and dried rose petals before serving."],
     },
-
-
+ 
+ 
     {
         subid: 10,
         recipename: "Chur Chur Naan Recipe",
@@ -310,7 +310,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:"About Chur Chur Naan Recipe: A popular Indian bread that goes perfectly well with a plate of Amritsari Chole or a hearty dish of Rasedaar Aloo. Chur-chur naan is a stuffed naan with generous amount of ghee and a thick, flaky texture that will not let you stop at just one!",
         ingredients:["Ingredients of Chur Chur Naan",
         "For dough:",
@@ -346,8 +346,8 @@ export const dinner=[
         "6.Slow cook the naan over low flame for about 3 to 4 minutes. Spread more ghee on top. Cooking it on a low flame makes it crisp.",
         "7.Once the naan is ready, serve them on a plate and crush gently with both hands and spread half a table spoon of ghee over it."],
     },
-
-
+ 
+ 
     {
         subid: 11,
         recipename: "Philly Cheesesteak Recipe",
@@ -355,7 +355,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "10min",
         cookTime: "15min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:"About Philly Cheesesteak Recipe: Philadelphia, the city in the East Coast of United States is the place where the legendary Cheesesteak originated. This humble long bread roll filled with sautéed meat and melted cheese, topped with some onions, ketchup, mustard and hot or sweet peppers has built a pretty big fan-base for itself. So if you are craving a classic Philadelphia cheesesteak, here's a recipe to help you make it in your own kitchen!",
         ingredients:["Ingredients of Philly Cheesesteak",
         "1/2 Cup yellow onion, chopped",
@@ -370,8 +370,8 @@ export const dinner=[
         "4.Add slices of cheese on top of steak and cover to melt cheese (10 seconds).",
         "5.Transfer steak, onions, and cheese onto sliced Italian roll. Enjoy!"],
     },
-
-
+ 
+ 
     {
         subid: 12,
         recipename: "Nilgiri Turkey Korma Recipe",
@@ -379,7 +379,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "15min",
         cookTime: "45min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:"About Nilgiri Turkey Korma Recipe: A luscious, creamy turkey korma, made with a melange of spices along with coconut paste and curd.This is a perfect dish to prepare for your next dinner party!",
         ingredients:["Ingredients of Nilgiri Turkey Korma",
         "750 gms turkey meat",
@@ -411,8 +411,8 @@ export const dinner=[
         "10.After 10 minutes, open the lid and stir well.",
         "11.When curry is almost done, add garam masala powder and stir. Add fresh coriander leaves, put in a serving bowl, and serve hot."],
     },
-
-
+ 
+ 
     {
         subid: 13,
         recipename: "Kulle Ki Chaat Recipe",
@@ -420,7 +420,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:"About Kulle Ki Chaat Recipe: A popular Old Delhi delicacy, Kulle Ki Chaat is an interesting blend of fruits and vegetables that come loaded with flavourful spices. It is one Indian chaat that many people beyond Delhi might not be aware of. The instant burst of flavours in this chaat is sure to leave your taste buds tantalising and craving for more!",
         ingredients:["Ingredients of Kulle Ki Chaat",
         "2 Medium potatoes, boiled",
@@ -437,8 +437,8 @@ export const dinner=[
         "2.Hollow out the potato from the centre.",
         "3.Fill the hollow with chickpeas,green chillies, pomegranate, ginger julliens, sprinkle salt, rock salt, black chaat masala and lemon juice."],
     },
-
-
+ 
+ 
     {
         subid: 14,
         recipename: "Classic Tiramisu Recipe",
@@ -446,7 +446,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "1hrs",
         cookTime: "2hrs",
-        totaltime: "3hrs",
+        totalTime: "3hrs",
         description:"About Classic Tiramisu Recipe: The classic French dessert, Tiramisu is a great addition to a dessert table. Delicate, delicious and simple irresistible, here is a simple tiramisu recipe flavoured with Kahlua, a coffee liqueur.",
         ingredients:["Ingredients of Classic Tiramisu",
         "1.5 Kg mascarpone cheese",
@@ -467,8 +467,8 @@ export const dinner=[
         "8.Repeat second layer of lady finger cookies, then again cover with cream mixture.",
         "9.Let the tiramisu set in the fridge for 1 to 2 hours. Dust with cocoa powder and serve."],
     },
-
-
+ 
+ 
     {
         subid: 15,
         recipename: "The English Garden Goblet Recipe",
@@ -476,7 +476,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "5min",
         cookTime: "0min",
-        totaltime: "5min",
+        totalTime: "5min",
         description:"About The English Garden Goblet Recipe: A refreshing cocktail with a perfect blend of gin. radish, rosemary and lavender, English Garden Goblet is a great spin to the classic gin and tonic.",
         ingredients:["Ingredients of The English Garden Goblet",
         "60 Ml Monkey 47",
@@ -489,8 +489,8 @@ export const dinner=[
         "1.Place the ice into a large red wine glass. Take the radishes and red chicory and extract the juice.",
         "2.Pour the juice over the ice then slowly add the gin and tonic, give it a gentle stir and garnish with sliced radishes, rosemary sprig, lavender and a sprinkle of juniper berries."],
     },
-
-
+ 
+ 
     {
         subid: 16,
         recipename: "Khoya Khurchan Paratha Recipe",
@@ -498,7 +498,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "50min",
         cookTime: "10min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:"About Khoya Khurchan Paratha Recipe: A unique paratha recipe to try for a feast at home. Khoya khurchan paratha is a sweet delight with a generous stuffing of khoya, saffron, sugar, cardamom and more.",
         ingredients:["Ingredients of Khoya Khurchan Paratha",
         "200 gms khoya",
@@ -516,8 +516,8 @@ export const dinner=[
         "3.Stuff each portion with the khoya mixture and roll into a ball again.",
         "4.Roll into paranthas. Heat a griddle/hot plate and cook the paranthas on both sides and finish with ghee till light brown on both sides. Serve hot."],
     },
-
-
+ 
+ 
     {
         subid: 17,
         recipename: "Rasmalai Tiramisu Recipe",
@@ -525,7 +525,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "15min",
         cookTime: "25min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:"About Rasmalai Tiramisu Recipe: Give your Indian dessert a caffeine twist with this delicious fusion of rasmalai and tiramisu. A super easy ad quick dessert recipe that is sure to impress your guests.",
         ingredients:["Ingredients of Rasmalai Tiramisu",
         "4 Rasmalai",
@@ -546,8 +546,8 @@ export const dinner=[
         "7.Put 2 tablespoons of cheese-cream mixture in each glass and spread it with the help of a spatula.",
         "8.Add cocoa powder and icing sugar on top and your rasmalai tiramisu is ready."],
     },
-
-
+ 
+ 
     {
         subid: 18,
         recipename: "Steam Bunny Chicken Bao Recipe",
@@ -555,7 +555,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "40min",
         cookTime: "80min",
-        totaltime: "2hrs",
+        totalTime: "2hrs",
         description:"About Steam Bunny Chicken Bao Recipe: With Easter just around the corner, we have got you covered on what to prepare for the brunch over the weekend with family and friends. This recipe for steamed chicken bao with a delectable filling of chicken mince, served with flavourful green pepper sauce, is just the perfect one to prepare at home.",
         ingredients:["Ingredients of Steam Bunny Chicken Bao",
         "12 Buns",
@@ -583,8 +583,8 @@ export const dinner=[
         "7.Heat a steamer over a medium high heat and steam the buns for about 8 minutes, until puffed up.",
         "8.The bao is ready, serve with green pepper sauce."],
     },
-
-
+ 
+ 
     {
         subid: 19,
         recipename: "Ajwaini Paneer Kofta Curry Recipe",
@@ -592,7 +592,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:"About Ajwaini Paneer Kofta Curry Recipe: A navratri special, delectable and luscious paneer gravy recipe. Spiced with ajwain and degi mirch and cooked in fresh and tangy tomato puree along with rock salt (sendha namak), this paneer kofta curry would makes for a mouth-watering, spicy dish to prepare during the fasting season of navratri.",
         ingredients:["Ingredients of Ajwaini Paneer Kofta Curry",
         "100 gms cottage cheese",
@@ -612,8 +612,8 @@ export const dinner=[
         "3.Add the deggi mirch and sendha namak .",
         "4.Then add fried kofta in the gravy and serve hot garnished with coriander."],
     },
-
-
+ 
+ 
     {
         subid: 20,
         recipename: "Tandoori Blacked Pomfret Recipe",
@@ -621,7 +621,7 @@ export const dinner=[
         recipieServe: "2",
         preTime: "15min",
         cookTime: "25min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:"About Tandoori Blacked Pomfret Recipe: A flavorful Indian-style main dish, inspired by the Cajun style cuisine, tandoori blackened pomfret is an absolutely delicious pick for just about any occasion.",
         ingredients:["Ingredients of Tandoori Blacked Pomfret",
         "1 tsp red chilli ",
@@ -652,21 +652,8 @@ export const dinner=[
         "9.Once cooked through, remove the fish from skewer and plate.",
         "10.Add coriander sprigs,lemon wedges.11.Serve with grilled vegetables or your favorite sides."],
     },
-
-
-    {
-        subid: 2,
-        recipename: "",
-        imgfile: "../images/dinner/.jpg",    
-        recipieServe: "2",
-        preTime: "2min",
-        cookTime: "3min",
-        totaltime: "5min",
-        description:"",
-        ingredients:[""],
-        steps:[""],
-    },
-
-    
-    
+ 
 ]
+ 
+ 
+
