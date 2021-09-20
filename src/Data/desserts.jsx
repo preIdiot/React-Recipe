@@ -557,19 +557,4 @@ export const kidrecipes=[
     },
 
     
-    
-    {
-        subid: 2,
-        recipename: "",
-        imgfile: "../images/disserts/.jpg",    
-        recipieServe: "2",
-        preTime: "2min",
-        cookTime: "3min",
-        totaltime: "5min",
-        description:"",
-        ingredients:[""],
-        steps:[""],
-    },
-
-    
 ]
