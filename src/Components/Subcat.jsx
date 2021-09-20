@@ -24,7 +24,7 @@ function Subcat(props) {
                 <p>Cook Time:{props.cookTime}</p>
               </i>
               <i className="fa fa-clock-o fa-lg">
-                <p>Total Time:{props.totaltime}</p>
+                <p>Total Time:{props.totalTime}</p>
               </i>
             </div>
           </div>

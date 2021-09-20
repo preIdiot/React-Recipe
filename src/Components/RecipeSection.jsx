@@ -77,13 +77,13 @@ export default function RecipeSection(props) {
         <div className="col-md-4 part1">
           <h4>Ingredients Of {data.recipename}</h4>
           <br />
-          <h5>
-            <tr>
-              {data.ingredients.map((ingredient, i) => {
-                return <li key={i}>{ingredient}</li>;
-              })}
-            </tr>
-          </h5>
+          {/* <h5> */}
+          <ul>
+            {data.ingredients.map((ingredient, i) => {
+              return <li key={i}>{ingredient}</li>;
+            })}
+          </ul>
+          {/* </h5> */}
         </div>
 
         {/* <div className="col-md-1"></div> */}
