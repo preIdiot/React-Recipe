@@ -1,18 +1,18 @@
+import Header from "./Components/Header";
+import Footer from "./Components/Footer";
+import Main from "./main";
 
-import Header from "./Header";
-import Footer from "./Footer";
-import "./index.css";
-import "../src/css/style.css"
-import Main from './main';
-
+import "./css/style.css";
+import "./css/App.scss";
 
 function App() {
   return (
-    <div>
-      <Header/>
-       <Main/>
-      <Footer/>
-
+    <div className="App">
+      <Header />
+      <main className="row">
+        <Main />
+      </main>
+      <Footer />
     </div>
   );
 }

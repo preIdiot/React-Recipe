@@ -1,27 +1,18 @@
 import React from "react";
-import logo from './static/images/logo.png'; 
-import '../src/css/style.css';
+import logo from "../static/images/logo.png";
+
+import "../css/Header.scss";
 
 function Header() {
-  
   return (
-    <div>
+    <div className="NavBar">
       {/* navbar start */}
       <div className="bg-img">
         <nav className="navbar navBg navbar-expand-lg">
           <div className="container-fluid">
-
-          
-
-            <a href="index.html">
-              <img 
-                className="img-responsive2 navLogo"
-                src={logo}
-                alt="Logo"
-              />
-             
+            <a href="/">
+              <img className="img-responsive2 navLogo" src={logo} alt="Logo" />
             </a>
-
 
             <button
               className="navbar-toggler"
@@ -32,6 +23,7 @@ function Header() {
               aria-expanded="false"
               aria-label="Toggle navigation"
             >
+              {/* Invalid classNames */}
               <span claclassNamess="navbar-toggler-icon"></span>
             </button>
 
@@ -79,19 +71,21 @@ function Header() {
               <form className="form-inline ml-auto">
                 <div className="input-group">
                   <div id="google_translate_element"></div>
-                 
-                  <input
-                    type="text"
-                    className="form-control border-dark btn-sm posRecipe"
-                    placeholder="RECIPE"
-                  />
-                  <div className="input-group-append">
-                    <button
-                      className="btn btn-outline-secondary btn-sm rdd"
-                      type="button"
-                    >
-                      <i className="fa fa-search btn-sm"></i>
-                    </button>
+
+                  <div className="inputGroup-search">
+                    <input
+                      type="text"
+                      className="form-control border-dark btn-sm posRecipe"
+                      placeholder="RECIPE"
+                    />
+                    <div className="input-group-append">
+                      <button
+                        className="btn btn-outline-secondary btn-sm rdd"
+                        type="button"
+                      >
+                        <i className="fa fa-search btn-sm"></i>
+                      </button>
+                    </div>
                   </div>
                 </div>
               </form>
@@ -101,15 +95,11 @@ function Header() {
       </div>
 
       {/* <!--Second navbar--> */}
-      <div className="navbar2 navbar-expand-lg bgColNav">
-        <div className="container-md">
+      <div className="navbar2 navbar-expand-lg ">
+        <div className="container-md navContainer">
           <ul className="navbar-nav ml-auto">
-            <li
-              className="nav-item nav-Link"
-              href="#"
-            
-            >
-              RECIPE
+            <li className="nav-item nav-Link" href="#">
+              <a href="/">RECIPE</a>
             </li>
           </ul>
         </div>
