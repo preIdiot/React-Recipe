@@ -1,10 +1,13 @@
 
-import Header from "./Header";
+
 import Footer from "./Footer";
 import "./index.css";
 import Video from "./Components/Video";
 import "../src/css/style.css"
 import Main from './main';
+import Header from "../src/Header";
+import Search from "./Components/SearchBar";
+
 
 
 function App() {
@@ -16,7 +19,6 @@ function App() {
        <Video/>
        </div>
        <Footer/>
-
     </div>
   );
 }

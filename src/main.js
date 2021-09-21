@@ -4,6 +4,8 @@ import Scroll from "./Components/Scroll";
 import { Data } from "./Data/descrip";
 import RecipeSection from "./Components/RecipeSection";
 import SubCategory from "./Components/Subcategory";
+import Header from "./Header";
+import Search from "./Components/SearchBar";
 
 export default function Main() {
   return (
@@ -12,7 +14,7 @@ export default function Main() {
         <Route
           exact
           path="/"
-          render={(props) => <Scroll {...props} data={Data} />}
+          render={(props) => <><Scroll {...props} data={Data} /></>}
         />
         <Route
           exact

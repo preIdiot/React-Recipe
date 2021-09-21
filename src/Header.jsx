@@ -1,6 +1,8 @@
 import React from "react";
-import logo from "./static/images/logo.png";
+import logo from "./static/images/logo.png"   ;
 import "../src/css/style.css";
+import SearchBar from "./Components/SearchBar";
+import {Data} from "../src/Data/descrip";
 
 function Header() {
   return (
@@ -66,19 +68,14 @@ function Header() {
               </ul>
 
               <br />
-              <form className="form-inline ml-auto">
+              <form className="form-inline ml-auto" action="/" method="get">
                 <div className="input-group">
                   <div id="google_translate_element"></div>
-
-                  <input
-                    type="text"
-                    className="form-control border-dark btn-sm posRecipe"
-                    placeholder="RECIPE"
-                  />
                   <div className="input-group-append">
                     <button
                       className="btn btn-outline-secondary btn-sm rdd"
                       type="button"
+                      
                     >
                       <i className="fa fa-search btn-sm"></i>
                     </button>
@@ -104,5 +101,7 @@ function Header() {
     </div>
   );
 }
+
+ 
 
 export default Header;

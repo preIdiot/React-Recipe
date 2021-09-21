@@ -3,13 +3,42 @@ import "../css/style.css";
 import Subcat from "./Subcat";
 
 export default function SubCategory(props) {
+  const allRecipies=props.data.recipies;
+  let filterdRecipies = props.data.recipies;
   return (
+    <>
+     <div className="search">
+      <div className="searchInputs">
+        <input
+          type="text"
+          placeholder="Search Recipe"
+          onChange={(e)=>{
+            let value = e.target.value;
+            value = value.toLowerCase();
+            filterdRecipies = [];
+            if(value){
+            allRecipies.forEach((recipe, i) =>{
+              if(recipe.recipename.toLowerCase().includes(value)){
+                filterdRecipies.push(recipe);
+                
+              }
+              if(i + 1 === allRecipies.length){
+                console.log(filterdRecipies);
+              }
+            });
+          }
+          else {
+            filterdRecipies = allRecipies;
+          }
+          }}
+        />
+      </div>
+      </div>
     <div className="scroll">
-      {props.data.recipies.map((val) => {
+      {filterdRecipies.map((val,key) => {
         return (
-          <div>
             <Subcat
-              key={val.subid}
+              key={key.subid}
               // recipename={val.recipename}
               // imgfile={val.imgfile}
               // link={val.link}
@@ -17,12 +46,12 @@ export default function SubCategory(props) {
               // preTime={val.preTime}
               // totalTime={val.totalTime}
               // cookTime={val.cookTime}
-              {...{ info: props.data.info, ...val }}
-              info={props.data.info}
+              {...{info: filterdRecipies,...val }}
+              info={filterdRecipies}
             />
-          </div>
         );
       })}
     </div>
+    </>
   );
 }
