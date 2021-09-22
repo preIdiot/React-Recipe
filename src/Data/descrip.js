@@ -8448,7 +8448,7 @@ export const Data = [
       {
         subid: 20,
         recipename: "Chemmeen Moru Curry Recipe",
-        imgfile: "../images/winterRecipies/Chemmeen Moru Curry Recipe.jpg",
+        imgfile: "../images/winterRecipies/Chemmeen Moru Curry Recipe.webp",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "35min",
@@ -9118,7 +9118,7 @@ export const Data = [
       {
         subid: 7,
         recipename: "Banana Coconut Idli Recipe",
-        imgfile: "../images/BreakfastRecipies/Fish tikka.jpg",
+        imgfile: "../images/BreakfastRecipies/Banana Coconut Idli Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
