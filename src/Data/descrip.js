@@ -909,7 +909,7 @@ export const Data = [
       {
         subid: 9,
         recipename: "Crunchy Egg Fingers Recipe",
-        imgfile: "../images/snackrecipies/Crunchy Egg Fingers Recipe.webp",
+        imgfile: "../images/snackrecipies/Crunchy Egg Fingers Recipe.jpg",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "05 mins",
@@ -1106,7 +1106,7 @@ export const Data = [
       {
         subid: 15,
         recipename: "Homemade Masala Pav Recipe",
-        imgfile: "../images/snackrecipies/Homemade Masala Pav Recipe.png",
+        imgfile: "../images/snackrecipies/Homemade Masala Pav Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -1661,33 +1661,43 @@ export const Data = [
 
       {
         subid: 11,
-        recipename: "Lauki Vadi Recipe",
-        imgfile: "../images/VegetarianRecipes/Lauki Vadi Recipe.webp",
-        recipeServings: "2",
-        preTime: "10 mins",
-        cookTime: "10 mins",
-        totalTime: "20 mins",
-        description:
-          "Lauki Vadi is an easy snack made with grated laukis and besan. To make the best use of this healthy snack, try roasting them with as little oil as you can.",
+        recipename: "Pasta samosa Recipe",
+        imgfile: "../images/VegetarianRecipes/Pasta samosa Recipe.webp",
+        recipeServings: "4",
+        preTime: "20 mins",
+        cookTime: "15 mins",
+        totalTime: "30 mins",
+        description: "The perfect combination of Italian and Indian food!",
         ingredients: [
-          "1 Cup Grated lauki",
-          "1 Cup Besan",
-          "1/2 Cup Sooji",
-          "1/2 Cup Chopped onions",
-          "1/2 Cup Chopped coriander",
-          "1 Tbsp Ginger garlic chilli paste",
-          "1/2 tsp Haldi",
-          "1/2 tsp Red chilli powder",
+          "For Samosa",
+          "1 and 1/2 Cup All-purpose flou",
+          "1/4 Cup Ghee or oil",
+          "To taste Salt",
+          "For Pasta1 Cup Pasta",
+          "1/4 Cup Oil",
+          "1/4 Cup Chopped onions",
+          "1/4 Cup Chopped Capsicum",
+          "1/4 Cup Chopped Carrot",
+          "1/2 Cup Tomato Puree",
+          "1/2 Cup Mozzarella Cheese",
+          "1 Tbsp Chopped garlic",
+          "Italian seasoning as required",
           "Salt as required",
         ],
         steps: [
-          "1.Take the grated lauki and add a little salt and lit is sit for 10 mins.",
-          "2.After 10 mins, squeeze all the water out of the lauki.",
-          "3.In a bowl, add lauki, besan, sooji, all the other ingredients and mix properly.",
-          "4.Be careful while adding salt because the lauki has already soaked in some salt before.",
-          "5.Mix everything properly; try using less water so your batter is mixed well but not liquidy.",
-          "6.Prepare round discs vadi to fry.",
-          "7.In a pan take 2tbspn oil, in low heat fry both sides for 5 minutes each. Once golden brown, you can remove and serve.",
+          "For samosa",
+          "1.First take a bowl, add maida, a pinch of salt, some oil and knead dough. The dough shouldn’t be too soft or too hard. Cover this dough and let it rest for 20-30 minutes.",
+          "For pasta",
+          "1.In a pan, bring water to a rolling boil then add pasta, a little salt and let it cook until it is 70% done or according to the instructions on your packet.",
+          "2.In another pan, add some oil, chopped garlic and sautee for 2 minutes.",
+          "3.Add all the chopped vegetables and cook that for some time as well.",
+          "4.Now add in your tomato puree and cook for another 2-4 min or until the raw taste of tomato is gone.",
+          "5.Finally add the boiled pasta, salt, the Italian seasoning, and some cheese on top and mix everything.",
+          "6.Making pasta samosa",
+          "7.Get the dough and take ball sized portions out of it.",
+          "8.Roll them into thin roti and cut in the middle.",
+          "9.Fold in a triangle shape, fill the pasta and seal edges with water to prevent spillage while frying.",
+          "10.In a kadhai, heat some oil and fry samosa till golden brown.11.Serve with some cheesy dip or mint chutney, that’s your call.",
         ],
       },
 
@@ -2120,7 +2130,7 @@ export const Data = [
       {
         subid: 4,
         recipename: "Tariwala Chicken Recipe",
-        imgfile: "../images/ChickenRecipes/Tariwala Chicken Recipe.jpg",
+        imgfile: "../images/ChickenRecipes/Tariwala Chicken Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "20 mins",
@@ -2338,7 +2348,7 @@ export const Data = [
         subid: 9,
         recipename: "Chicken Pinwheel sandwich Recipe",
         imgfile:
-          "../images/ChickenRecipes/Chicken Pinwheel sandwich Recipe.jpg",
+          "../images/ChickenRecipes/Chicken Pinwheel sandwich Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "10 mins",
@@ -2828,7 +2838,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "This tahari recipe is made with succulent mutton pieces dipped in a pool of aromatic spices and of course mushy rice. If you are a die-hard fan of Hyderabadi cuisine and mutton recipes, then this recipe is all you need to satiate your exotic food cravings.",
         ingredients: [
@@ -2859,7 +2869,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "With so many benefits of brinjal, relishing this vegetable will benefit your health. So, without waiting, let’s dive into the recipe of super easy and healthy baingan chips! Enjoy snacking anytime without any guilt.",
         ingredients: [
@@ -2884,7 +2894,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "15min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:
           "Made with quite a few ingredients and no hassle of lengthy preparations, this crunchy on the outside and juicy on the inside chaap is sure to leave you wanting for more.",
         ingredients: [
@@ -2921,7 +2931,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "The recipe is Mutton resha gosht — shredded mutton mixed with fried potatoes which uses minimum ingredients but taste just exquisite.",
         ingredients: [
@@ -2953,7 +2963,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Kadaknath curry is a village style chicken curry recipe made with tender pieces of black chicken and very light masala. It is eaten with a crispy and thin roti so that the flavour and texture of the chicken stand out.",
         ingredients: [
@@ -2988,7 +2998,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "About keto butter chicken : This keto friendly butter chicken recipe is just the right thing if you want something healthy yet delicious. Here creamy gravy is subtly laced with chicken chunks and desi spices.",
         ingredients: [
@@ -3024,7 +3034,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "About Lahori Charga : It is a well known traditional fried recipe famous in the city Lahore. A whole skinless chicken is coated with a flavor-packed mixture of aromatic spices, ginger, garlic, lemon or lime juice, vinegar, and sometimes yogurt.",
         ingredients: [
@@ -3059,7 +3069,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "25min",
         cookTime: "35min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
         ingredients: [
@@ -3093,7 +3103,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "15min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "About Philly Cheesesteak Recipe: Philadelphia, the city in the East Coast of United States is the place where the legendary Cheesesteak originated. This humble long bread roll filled with sautéed meat and melted cheese, topped with some onions, ketchup, mustard and hot or sweet peppers has built a pretty big fan-base for itself. So if you are craving a classic Philadelphia cheesesteak, here's a recipe to help you make it in your own kitchen!",
         ingredients: [
@@ -3119,7 +3129,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "45min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Nilgiri Turkey Korma Recipe: A luscious, creamy turkey korma, made with a melange of spices along with coconut paste and curd.This is a perfect dish to prepare for your next dinner party!",
         ingredients: [
@@ -3164,7 +3174,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "25min",
         cookTime: "50min",
-        totaltime: "1hrs 15min",
+        totalTime: "1hrs 15min",
         description:
           "About Champaran Mutton Curry Recipe: Succulent mutton chunks marinated and cooked in a pool of spices and herbs, this rich and robust mutton curry hailing from East India is a hit across seasons!",
         ingredients: [
@@ -3206,7 +3216,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "Slow cooked lamb, barley loads of garlic and pepper wrapped in whole wheat flour and baked in the oven. Lamb barley pot is a delectable dish to prepare for a dinner party.",
         ingredients: [
@@ -3239,7 +3249,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "35min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:
           "About Lamb and Chargrilled Bell Pepper Soup Recipe: Nothing beats a bowl of fresh, warm soup on a chilly winter evening. This soup is exactly what you need this season. Packed with the goodness of lamb bones, spices and chargrilled bell pepper, serve this right before the dinner.",
         ingredients: [
@@ -3270,7 +3280,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Noodle Keema Donut Recipe: An interesting savoury donut recipe made of noodles and spices that will instantly spruce up your taste buds. Try this unique snack recipe at your next dinner party and your guests wouldn't be disappointed.",
         ingredients: [
@@ -3308,7 +3318,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "15min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "About Oyster Lamb Recipe: Sliced lamb marinated with dry sherry, sugar and salt, cooked in a spicy oyster sauce and stock along with mushrooms, bokchoy and garlic. A delicious dish to serve at a dinner party.",
         ingredients: [
@@ -3342,7 +3352,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "30min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "About Tricolor Dimsums Recipe: The most loved food of the far east- dimsum meets the Indian tricolor and creates this delicious dish by Chef Devesh of Lord of the Drinks Meadow.",
         ingredients: [
@@ -3369,7 +3379,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "45min",
-        totaltime: "55min",
+        totalTime: "55min",
         description:
           "Relish the creamy texture, nutty aroma and subtle spices of this authentic Rajasthani meat curry. Meat is boiled and cooked with masalas, almond-cashew paste and a generous helping of cream, milk and curd.",
         ingredients: [
@@ -3411,7 +3421,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "1hrs 10min",
-        totaltime: "1hrs 20min",
+        totalTime: "1hrs 20min",
         description:
           "About Bhuni Raan Recipe: A tempting mutton dish with fried mutton leg served with roasted potatoes and fresh steamed vegetables. This zesty mutton dish is a must try for all meat lovers.",
         ingredients: [
@@ -3445,7 +3455,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "30min",
-        totaltime: "35min",
+        totalTime: "35min",
         description:
           "Mutton ribs are marinated leisurely with spices and grilled golden.",
         ingredients: [
@@ -3470,7 +3480,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "1hrs",
-        totaltime: "1hrs 10min",
+        totalTime: "1hrs 10min",
         description:
           "Crispy minced meat nuggets mixed with ginger-garlic paste and a mild seasoning are served on a bed of cucumbers and crunchy onions.",
         ingredients: [
@@ -3519,7 +3529,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Fingerlicking good, zesty and filled with a burst of flavors. The Tandoori Fish Tikka is an extremely popular dish from the northern part of India.",
         ingredients: [
@@ -3555,7 +3565,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "If you are ready to taste the flavours of Mangalorean cuisine on your plates, get yourself some basic masalas, a good sized pomfret and get started.",
         ingredients: [
@@ -3592,7 +3602,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "About Andhra Pan Fried Pomfret Recipe: An absolutely flavourful fish recipe for all those who love to dive into succulent spicy pomfret. And what's better than an Andhra style pomfret recipe that you can prepare at home too? Here is a quick and super easy pan fried pomfret packed with a host of spices and a tang of lime along with a crispy crust and succulent inside.",
         ingredients: [
@@ -3626,7 +3636,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Malabari Fish Curry Recipe: Assorted with a blend of spices and fresh vegetables, Malabari fish curry comes straight from the lush green areas of India, this dish will be a perfect fit for a seafood lover’s appetite. Try this recipe to relish the taste of Wayanad, Kerala.",
         ingredients: [
@@ -3655,7 +3665,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "About Korean Bibimbap Recipe: A popular Korean rice dish, Bibimbap traditionally means mixing various ingredients with rice. It has many variations both vegetarian and non-vegetarian. Here is a quick and easy recipe with chicken and prawns along with veggies and spices mixed with jasmine rice along with the famous gochujang sauce.",
         ingredients: [
@@ -3695,7 +3705,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "1hrs 45min",
-        totaltime: "2hrs",
+        totalTime: "2hrs",
         description:
           "About Tulsi Ajwain Ka Mahi Tikka Recipe: A mouth watering fish tikka recipe, Tulsi Ajwain ka Mahi Tikka is an easy starter recipe, prepare with simple ingredients. You can prepare this as an appetizer for a dinner party. Flavourful tikkas laced with a host of spices, chillies, basil paste and ajwain, baked to perfect golden. Serve these delicious tikkas topped with lemon juice along with mint chutney.",
         ingredients: [
@@ -3732,7 +3742,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Portugese Fish Stew Recipe: A delectable treat to prepare on weekends and holiday season. This Portugese fish stew is an easy and simple recipe to prepare for a brunch or light side dish for dinner. Potatoes, fish fillet, shrimps, few veggies along with white wine and spices come together to form this delicious stew that you can serve with cooked rice.",
         ingredients: [
@@ -3768,7 +3778,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "1hrs 20min",
-        totaltime: "1hrs 40min",
+        totalTime: "1hrs 40min",
         description:
           "About Yera Sukha Recipe: Discover the ultimate in South East Asian coastal food with this delicious prawn recipe. Straight from the Winter special menu of The Spice Route comes this mouth-watering gem of a dish, Yera Sukha. Prawns stirred with Kerala spices, flavoured with star anise and stone flowers, make sure you beat the chill with hot and fragrant flavours.",
         ingredients: [
@@ -3806,7 +3816,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "40min",
-        totaltime: "55min",
+        totalTime: "55min",
         description:
           "About Malabar Fish Curry Recipe: A delicious, creamy fish curry with goodness of coconut milk and full of chilllies, coriander and mustard seeds. Fish is a great dinner option since it is loaded with nutrients like omega - 3 fatty acids, proteins and several vitamins. Apart from being healthy, this fish curry is full of delightful flavours in luscious gravy. A perfect meal for the next dinner party!",
         ingredients: [
@@ -3838,7 +3848,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "20min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:
           "About Seared Salmon in Tabasco Butter Recipe: Pan-seared salmon fish served hot, topped with freshly made tabasco butter. This salmon dish is best served with a side of potato salad or mashed potatoes.",
         ingredients: [
@@ -3869,7 +3879,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "30min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:
           "A dish most popular in the Caribbean and on the coast of Latin America. Ceviche is a meal made from raw, fresh fish which has been cured with lemon or lime juices. National Ceviche Day is also celebrated in Peru, as named by Peru's Ministry of Production in 2008, celebrating and showcasing the country's national dish.",
         ingredients: [
@@ -3910,11 +3920,11 @@ export const Data = [
       {
         subid: 12,
         recipename: "Morning Greed Recipe",
-        imgfile: "../images/seafood/Morning Greed Recipe.jpg",
+        imgfile: "../images/seafood/Morning Greed Recipe.webp",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "About Morning Greed Recipe: Open sandwich, piled high with smashed mint peas, ricotta, smoked salmon caper berry & sour cream",
         ingredients: [
@@ -3939,7 +3949,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "35min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:
           "Saewoo Bokumbop is a popular shrimp fried rice dish that widely available in Korean/Chinese restaurants everywhere. It’s a common restaurant or home prepared dish during lunch or dinner that is quite simple but yet a fulfilling meal. It’s a fairly easy dish to prepare/cook and there are various combinations of ingredients that can be included along with shrimp.",
         ingredients: [
@@ -3975,7 +3985,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "1hrs 20min",
-        totaltime: "1hrs 30min",
+        totalTime: "1hrs 30min",
         description:
           "Cucumber, avocado along with crab sticks filled into sushi rice rolls, sums up the delicious appetizer that you won't be able to resist. The perfect snack for a dinner night with your loved ones.",
         ingredients: [
@@ -4034,7 +4044,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "1hrs 30min",
         cookTime: "1hrs",
-        totaltime: "2hrs 30min",
+        totalTime: "2hrs 30min",
         description:
           "Almost everything goes well with this creamy pie recipe. Prawn pie is super rich and is best for small portions as an appetizer at dinner parties.",
         ingredients: [
@@ -4076,7 +4086,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "30min",
         cookTime: "15min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:
           "Marinated in beer these boozy fish fingers are a delight for light and crisp snacking.",
         ingredients: [
@@ -4107,7 +4117,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "A simple, home-style, Assamese fish curry that is a regular feature during lunch and dinner. It is best enjoyed with steamed rice and a fresh green chilli on the side. 'Tenga' meaning sour is the dominant flavour in the curry.",
         ingredients: [
@@ -4139,7 +4149,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "kingfish steaks marinated with ginger, garlic and red chilli paste, cooked on griddle, finished with lemon juice.",
         ingredients: [
@@ -4170,7 +4180,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "20min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "Prawn and Litchi Salad Recipe : This one is an extremely easy salad, quick to put together and perfect for those days when you just can't be bothered.",
         ingredients: [
@@ -4198,7 +4208,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "30min",
         cookTime: "30min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "Chemmeen biryani is made of prawns. The bite-sized prawns are left in a juicy marinade and later cooked in a rich gravy, layers of the biryani rice are topped with these prawns, cashews, raisins and ghee.",
         ingredients: [
@@ -4254,7 +4264,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "1hrs",
         cookTime: "1hrs",
-        totaltime: "2hrs",
+        totalTime: "2hrs",
         description:
           "A biryani inspired by the Royal Kitchens of the Nawabs of Awadh enhanced by fine-grain Basmati Rice delicately perfumed with saffron and rose. The aroma of this beautiful biryani is so enticing that you won’t be able to resist. Handful of dry fruits makes it a luxurious meal, the kind you’ll never forget about.",
         ingredients: [
@@ -4317,7 +4327,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "This egg keema pulao is filled with the goodness of spices, vegetables, and of course, a keema style egg that makes it delicious to have.",
         ingredients: [
@@ -4349,7 +4359,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "30min",
         cookTime: "30min",
-        totaltime: "1hrs",
+        totalTime: "1hrs",
         description:
           "This easy to make biryani is made with a fresh and vibrant gravy and marinade of mint and coriander leaves and the tanginess of tomatoes, lemon and curd give it a lip-smacking edge.",
         ingredients: [
@@ -4396,7 +4406,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "15min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "Keto Fried Rice is one of the easiest dishes to make in the keto diet. The best part about this recipe is that it is completely plant-based, so even vegans can enjoy having this dish.",
         ingredients: [
@@ -4427,7 +4437,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "30min",
         cookTime: "30min",
-        totaltime: "1hrs",
+        totalTime: "1hrs",
         description:
           "Originally an Arabic dish, this biryani has slowly found ways to be included in Bakri-Eid festivals all around the world. It is cooked in mutton stock itself which is why every bite feels like a piece of flavourful heaven.",
         ingredients: [
@@ -4478,7 +4488,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "25min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:
           "Unlike other biryani, the richness of this biryani comes from the use of khoya and creamy malai along with the list of whole spices (khada masala). In addition to it, this biryani is lighter and milder on the stomach.",
         ingredients: [
@@ -4530,7 +4540,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Mango Kheer is super delicious dessert for summer. Add mango pulp to your classic rice kheer and enjoy the tangy and sweet taste of this incredible dessert.",
         ingredients: [
@@ -4567,7 +4577,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Coriander flavoured rice with vegetables and egg flavoured with burnt garlic brings you a flavoured, light main course meal, perfect for your summer appetite.",
         ingredients: [
@@ -4603,7 +4613,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "40min",
         cookTime: "80min",
-        totaltime: "2hrs",
+        totalTime: "2hrs",
         description:
           "About Rajasthani Kadhi With Tofu Palak Pakoda Recipe: A tantalising kadhi recipe served with jeera pulao is what a hearty meal should be! This traditional Rajasthani kadhi recipe from Elior India serves crispy tofu palak pakoda along with it, and makes it all the more appetising and delicious!",
         ingredients: [
@@ -4651,7 +4661,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "40min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
         ingredients: [
@@ -4680,7 +4690,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "40min",
-        totaltime: "55min",
+        totalTime: "55min",
         description:
           "About Satrangi Biryani Recipe: Biryani is a dish that no one can resist and when it is full of healthy and nutritious veggies, you will not even regret indulging in! Packed with beetroot, zucchini, carrot, bell pepper, french beans, mint and a host of aromatic spices, this biryani recipe is super delicious! A special recipe curated by India Bistro as part of their Clay Pot festival, this biryani is cooked slowly in a clay pot which ensures a clean, healthy and earthen way of cooking food.",
         ingredients: [
@@ -4724,7 +4734,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "40min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Zucchini Methi Pulao Recipe: If you want to make different flavored rice, then try this recipe. Two vegetables put together-simple magic! Both green. One very aromatic and leafy and the other one a great squash. You can make this zucchini methi pulao for lunch.",
         ingredients: [
@@ -4757,7 +4767,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "diced melange of vegetables tossed with aromatic basmati rice pulao and brown onions.",
         ingredients: [
@@ -4788,7 +4798,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "20min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:
           "Corn pulao is an easy recipe that makes for a complete meal. With spices, Basamati rice and beautiful corn kernels, pack some for lunch to make everyone jealous.",
         ingredients: [
@@ -4829,7 +4839,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "45min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "This brown rice recipe is loaded with fiber, minerals and vitamins like B6 and niacin. Not just that, you get a dash of protein and the crunchy capsicum provides you with antioxidants like Vitamin C.",
         ingredients: [
@@ -4863,7 +4873,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "Sweet Potato Rice: A quick lunch with rice and sweet potatoes cooked in olive oil with a gingery kick.",
         ingredients: [
@@ -4895,7 +4905,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "15min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Satisfying and healthy fried rice with loads of nutrients which is so irresistible when unwrapped from the lotus leaf.",
         ingredients: [
@@ -4922,7 +4932,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "30min",
         cookTime: "30min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "Chicken Quinoa Biryani Recipe: Quinoa is a wonder grain that keeps you full and satisfied or long like rice but is more healthier. This meal is rich in fiber and help avoid unwanted cravings especially if you are on a diet.",
         ingredients: [
@@ -4971,7 +4981,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "45min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "About Mavinakayi Nellikai Chitranna (Raw Mango & Gooseberry Rice) Recipe: Chef Naren created this magic with a tangy and exciting combination of amla, raw mangoes and rice. The mix is infused with the goodness of local herbs and spices, cooked to an aromatic, spellbinding perfection.",
         ingredients: [
@@ -5008,7 +5018,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "25min",
-        totaltime: "35min",
+        totalTime: "35min",
         description:
           "A delicious combination of rice, cheese and vegetable broth cooked slowly along with white wine to have a risotto which is not just tasty but also easy and quick to prepare.",
         ingredients: [
@@ -5045,7 +5055,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "The blend of the buttered bread, crunchy vegetables, melting cheese and our all-time favourite chicken salami truly make for a scrumptious breakfast. Read the recipe below.",
         ingredients: [
@@ -5089,7 +5099,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Detox roti is a combination of atta and vegetable. Full of moisture, lauki helps keep your body hydrated and cool. Try out this lauki roti recipe today!",
         ingredients: ["1 cup Atta"],
@@ -5108,7 +5118,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "The sandwich speaks for itself! This easy to make and healthy sandwich is made with boiled chicken along with lettuce, bell pepper and seasonings like tangy chat masala with creamy mayonnaise. Try it out in your next sandwich cravings.",
         ingredients: [
@@ -5138,7 +5148,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "10min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "Enough of deep fried bread rolls, now is the time to try a healthy yet delicious version of bread rolls. Enjoy this tawa bread roll without any guilt. Try it out!",
         ingredients: [
@@ -5171,7 +5181,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Try this unique paratha recipe in your breakfast or lunch- this dish will win the hearts of your family. You can also pair it with curd to lower down the spice of this dish.",
         ingredients: [
@@ -5199,7 +5209,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "10min",
-        totaltime: "255min",
+        totalTime: "255min",
         description:
           "This fluffy and soft bread is usually cooked in an underground tandoor and enjoyed with tea. But since most of us won’t have the facility of a tandoor, we bring you a simpler version to make this roti easily at your home.",
         ingredients: [
@@ -5232,7 +5242,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "15min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:
           "Parotta is a famous flatbread from South India which is made with all-purpose flour/maida. However, this desi chinese version of parotta is a combination of garlic and other vegetables like capsicum, onion followed by sauces like chilli sauce and soy sauce.",
         ingredients: [
@@ -5265,7 +5275,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "10min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "Kulcha naan is basically an Indian flat bread made with all purpose flour and topped with black sesame seeds. Pair it up with spicy chole, tangy mint chutney and enjoy the wholesome meal.",
         ingredients: [
@@ -5290,7 +5300,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "15min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:
           "Parathas are like a lifeline in most Indian households. This Agra paratha thali is so famous in the streets of Agra. What's better than deep fried crispy parathas with vegetable sabzi, dal and a chutney?",
         ingredients: [
@@ -5321,7 +5331,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "10min",
-        totaltime: "15min",
+        totalTime: "15min",
         description:
           "About Onion Garlic Parantha : Onion Garlic Parantha is a delectable flatbread recipe that can be enjoyed for any meal during the day. With the aromatic flavour of garlic and crispiness of onion, this recipe is very easy to make. Prepared with a handful of ingredients such as all purpose flour, garlic cloves, coriander leaves, and ghee. So, what are you waiting for? Make these onion garlic parathas and serve them piping hot with mint chutney and pickle.",
         ingredients: [
@@ -5347,7 +5357,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "40min",
         cookTime: "80min",
-        totaltime: "2hrs",
+        totalTime: "2hrs",
         description:
           "About Steam Bunny Chicken Bao Recipe: With Easter just around the corner, we have got you covered on what to prepare for the brunch over the weekend with family and friends. This recipe for steamed chicken bao with a delectable filling of chicken mince, served with flavourful green pepper sauce, is just the perfect one to prepare at home.",
         ingredients: [
@@ -5386,7 +5396,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           " Crispy, spicy, gypsy toast is loaded with some egg-y goodness. This delish treat makes for a quick meal during the time-pressed mornings.",
         ingredients: [
@@ -5418,7 +5428,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "35min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "About Christmas Tree Pizza Recipe: What is the festival of Christmas without some delicious food? Here's a delightful, quick and easy pizza recipe that looks like a beautiful Christmas tree. With just a few simple ingredients and less than an hour you'll have a delicious Christmas tree pizza that the kids would absolutely love. Making this Christmas tree pizza recipe with pesto and veggie ornaments is the perfect holiday time tradition, especially for kids!",
         ingredients: [
@@ -5442,11 +5452,11 @@ export const Data = [
       {
         subid: 14,
         recipename: "Tricolour Pasta Recipe",
-        imgfile: "../images/breadrecipe/Tricolour Pizza Recipe",
+        imgfile: "../images/breadrecipe/Tricolour Pizza Recipe.jpg",
         recipieServe: "3",
         preTime: "5min",
         cookTime: "15min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "A bowl of pasta is something we all can binge over at any time of the day and even during the midnight hunger pangs. Here is an easy, simple and quick pasta recipe specially curated in tricolor by Grand Mercure. You can prepare this at home and relish with family and friends.",
         ingredients: [
@@ -5476,7 +5486,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:
           "About Valencia Fizz Recipe: Super refreshing mocktail recipe that is sure to keep you energized throughout the day. A mouth-watering blend of fresh Valencia oranges with lime juice and soda hence making it a rejuvenating beverage this Navratri. Made within minutes, this mocktail recipe is sure to be loved by everyone and is way healthier than the canned juices available on the market. Serve this chilled beverage to your guests this festive season and on special occasions.",
         ingredients: [
@@ -5500,7 +5510,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "35min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "About Baked Namak Para Recipe: Namak Pare are one of the most famous tea-time snack in India. Every Indian home would have a jar full of these savoury strips to munch on. These are usually made of maida along with suji and deep fried till crisp, but here is a healthier namak para recipe that you'll love to indulge in and not regret later. Made with whole wheat flour and baked to perfection, you can enjoy this crunchy, crispy snack this festive season along with friends and family.",
         ingredients: [
@@ -5528,7 +5538,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Ajwaini Paneer Kofta Curry Recipe: A navratri special, delectable and luscious paneer gravy recipe. Spiced with ajwain and degi mirch and cooked in fresh and tangy tomato puree along with rock salt (sendha namak), this paneer kofta curry would makes for a mouth-watering, spicy dish to prepare during the fasting season of navratri.",
         ingredients: [
@@ -5559,7 +5569,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "These mummy dogs make a perfect Halloween recipe for kids. Yummy hot dogs covered in buttery rolls. How cute, quick, easy & delicious is this!",
         ingredients: [
@@ -5590,7 +5600,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "15min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "Crisp and tasty puris made with buckwheat flour for fasting or vrat. This recipe is particularly made during fasting days like Navratri, Shivratri or Ekadashi fast, but you can still relish on this healthy and tasty recipe on any day you like since it is easy and quick.",
         ingredients: [
@@ -5615,7 +5625,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "About Vada Pav Recipe: The most popular street food from Mumbai, so much so that Mumbai is almost synonymous to Vada Pav. It is basically Batata Vada sandwiched between slices of a Pav along with a generous amount of sweet and spicy chutneys. It might seem like a lot of hard work but its actually pretty quick and easy to make at home.",
         ingredients: [
@@ -5658,7 +5668,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "2hrs",
         cookTime: "1hrs",
-        totaltime: "3hrs",
+        totalTime: "3hrs",
         description:
           "About Classic Tiramisu Recipe: The classic French dessert, Tiramisu is a great addition to a dessert table. Delicate, delicious and simple irresistible, here is a simple tiramisu recipe flavoured with Kahlua, a coffee liqueur.",
         ingredients: [
@@ -5690,7 +5700,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "60min",
         cookTime: "60min",
-        totaltime: "2hrs",
+        totalTime: "2hrs",
         description:
           "About Kesar Pista Phirni Recipe: One Indian dessert that none of us can ever say no to is phirni. A bowl of chilled, nutty and delicious phirni can turn around a day for us. Here's a sugar-free kesar pista phirni that you can try at home this summer season!",
         ingredients: [
@@ -5715,7 +5725,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "10min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "A traditional sweet, gulab jamun is one of the most loved sweet (mithai) in India. This homemade Gulab jamun is made from bread, malai and milk powder. It is not only delicious but also very easy-to-make. Try it out!",
         ingredients: [
@@ -5748,7 +5758,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "45min",
         cookTime: "15min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Besan Ke Laddoo Recipe: One of the most popular Indian sweet, besan ke ladoo never fails to impress anyone! Here is a simple recipe to prepare these balls of goodness at home, sugar-free!",
         ingredients: [
@@ -5776,7 +5786,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "35min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "About Almond & White Chocolate Gujiya Recipe: The quintessential Holi dish, gujiya is an Indian sweet that is made in every household during the festival of Holi. Small dumplings packed with all things nutty and sweet, these are easy to serve and eat. Made in just about an hour and with simple ingredients, you can easily prepare these gujiyas at home.",
         ingredients: [
@@ -5809,7 +5819,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "15min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:
           "Made with the goodness of oats, orange and jaggery, this recipe is not only delicious but also very healthy. This Rabri recipe is made specially for diabetic people.",
         ingredients: [
@@ -5835,7 +5845,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "15min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "Nut Barfi is a amazing recipe to celebrate the festival of Rakshabandhan.You Can make this barfi with few ingredients. On this Rakshabandhan make this barfi at home and give a surprise to your brother.x",
         ingredients: [
@@ -5864,7 +5874,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "15min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "If you love chocolate then you will definitely like this choco-elaichi peda. This is a quick & easy dessert, try it at home on the occasion of rakshabandhan.",
         ingredients: [
@@ -5893,7 +5903,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "40min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
         ingredients: [
@@ -5922,7 +5932,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "10min",
-        totaltime: "15min",
+        totalTime: "15min",
         description:
           "Jhajariya is a pudding/halwa which is made with tender sweet corn powder. The use of ghee and milk brings a unique flavor to this dish, it feels creamy and rich; the added nuts give it a crunch and make it a wholesome dessert you can whip up in no time.",
         ingredients: [
@@ -5953,7 +5963,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "35min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "About Almond & White Chocolate Gujiya Recipe: The quintessential Holi dish, gujiya is an Indian sweet that is made in every household during the festival of Holi. Small dumplings packed with all things nutty and sweet, these are easy to serve and eat. Made in just about an hour and with simple ingredients, you can easily prepare these gujiyas at home.",
         ingredients: [
@@ -5986,7 +5996,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Varo is a Sindhi dessert usually made for festivals like Diwali, but its richness and flavour makes it a sough-after dish at any time of the year.",
         ingredients: [
@@ -6016,7 +6026,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "5min",
-        totaltime: "15min",
+        totalTime: "15min",
         description:
           "The texture of the sweet potato gives this Shrikhand a creamy and thick feel, the sweetness of honey enhance the flavour and there is nothing better than curd to blend all this good stuff together.",
         ingredients: [
@@ -6043,7 +6053,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "10min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "This extraordinary combination of kulfi and rabri along with flavours of lychee tastes heavenly.",
         ingredients: [
@@ -6076,7 +6086,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "30min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:
           "About Kashmiri Halwa Recipe: A delicious, easy and quick halwa recipe for the festive season. Made with oats cooked with milk and sugar with an aromatic flavour of saffron threads, this dish is served with a garnishing of nuts and raisins!",
         ingredients: [
@@ -6104,7 +6114,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "40min",
-        totaltime: "55min",
+        totalTime: "55min",
         description:
           "About Rasmalai Recipe: An all time favorite Indian dessert, rasmalai is a delectable Bengali dessert, freshly made with chhena balls and soaked in malai. A must try at home during the festive season",
         ingredients: [
@@ -6159,7 +6169,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "30min",
-        totaltime: "35min",
+        totalTime: "35min",
         description:
           "About Murmura Ladoo (Murmura Laddu) Recipe: Crispy ladoos made with puffed rice and molten jaggery. Though puffed rice is not really nutritionally rich, it is light on the stomach and low in calories. Murmura Ladoos made of puffed rice are quite filling and are among one of the most loved sweet treats of the country.",
         ingredients: [
@@ -6184,7 +6194,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "25min",
         cookTime: "35min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
         ingredients: [
@@ -6218,7 +6228,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:
           "About LIIT Thandai Recipe: Holi season is here and so is the season to gorge on chilled thandai! Here is a thandai recipe with a twist that the guests are surely going to love at your holi party",
         ingredients: [
@@ -6242,7 +6252,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "15min",
-        totaltime: "35min",
+        totalTime: "35min",
         description:
           "About Bingsu Recipe: A traditional dessert in Korea, Bingsu is probably the most sought summer dessert in East Asia. It typically consists of chopped fruit, condensed milk, strawberries, kiwi fruit, small pieces of tteok (rice cake), chewy jelly bits, and cereal flakes, fruit syrup, and red beans. It can definitely be a welcome treat for all cold dessert lovers.",
         ingredients: [
@@ -6277,7 +6287,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "2min",
         cookTime: "35min",
-        totaltime: "37min",
+        totalTime: "37min",
         description:
           "About Malaysian Chicken Curry Recipe: Malaysian Chicken Curry is an easy to cook Asian recipe that can be served on the table in less than half an hour. This curry is made with coconut milk, pandan leaves, fish sauce, lemongrass and succulent pieces of chicken.",
         ingredients: [
@@ -6309,7 +6319,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "20min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:
           "About Stuffed Tandoori Mushroom (Bharwan Mushroom ) Recipe: This is a delicious snack Recipe. You can serve this amazing snack in your house party aur family dinner party.",
         ingredients: [
@@ -6344,7 +6354,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "30min",
         cookTime: "90min",
-        totaltime: "2hrs",
+        totalTime: "2hrs",
         description:
           "About Khariya Mundi Recipe: A regional specialty of lamb brain and trotters, Khariya Mundi is well appreciated delicacy by the warriors of Mewar. This rich delicacy was one of the favorite dishes in Royal Feasts, especially during winters because of the medicinal value of the dish and its spices. This keeps the body warm and energized during the chilling winters of Rajasthan.",
         ingredients: [
@@ -6390,7 +6400,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "15min",
-        totaltime: "35min",
+        totalTime: "35min",
         description:
           "About Bingsu Recipe: A traditional dessert in Korea, Bingsu is probably the most sought summer dessert in East Asia. It typically consists of chopped fruit, condensed milk, strawberries, kiwi fruit, small pieces of tteok (rice cake), chewy jelly bits, and cereal flakes, fruit syrup, and red beans. It can definitely be a welcome treat for all cold dessert lovers.",
         ingredients: [
@@ -6416,7 +6426,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "35min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:
           "About Chukandar Ka Halwa With Vanilla Ice Cream Recipe: Indulge in the goodness of beetroot with this delicious halwa recipe served along with vanilla ice cream. Made in pure ghee with an added crunch of cashews, this beetroot (chukandar) halwa is an absolute delight!",
         ingredients: [
@@ -6445,7 +6455,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "45min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Chocolate Frozen Phirni Recipe: Indulge in this super delicious Indian dessert with a spin of cocoa, jaggery and nuts!",
         ingredients: [
@@ -6476,7 +6486,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "45min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Shahi Tirangi Kofta Recipe: A luscious, rich and delightful kofta curry apcked with the goodness of carrot spinach, paneer and potatoes, shahi tiranga kofta is perfect to amp up your next dinner party menu.",
         ingredients: [
@@ -6534,7 +6544,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
         ingredients: [
@@ -6570,7 +6580,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "40min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
         ingredients: [
@@ -6599,7 +6609,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Chur Chur Naan Recipe: A popular Indian bread that goes perfectly well with a plate of Amritsari Chole or a hearty dish of Rasedaar Aloo. Chur-chur naan is a stuffed naan with generous amount of ghee and a thick, flaky texture that will not let you stop at just one!",
         ingredients: [
@@ -6646,7 +6656,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "15min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "About Philly Cheesesteak Recipe: Philadelphia, the city in the East Coast of United States is the place where the legendary Cheesesteak originated. This humble long bread roll filled with sautéed meat and melted cheese, topped with some onions, ketchup, mustard and hot or sweet peppers has built a pretty big fan-base for itself. So if you are craving a classic Philadelphia cheesesteak, here's a recipe to help you make it in your own kitchen!",
         ingredients: [
@@ -6672,7 +6682,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "45min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Nilgiri Turkey Korma Recipe: A luscious, creamy turkey korma, made with a melange of spices along with coconut paste and curd.This is a perfect dish to prepare for your next dinner party!",
         ingredients: [
@@ -6715,7 +6725,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:
           "About Kulle Ki Chaat Recipe: A popular Old Delhi delicacy, Kulle Ki Chaat is an interesting blend of fruits and vegetables that come loaded with flavourful spices. It is one Indian chaat that many people beyond Delhi might not be aware of. The instant burst of flavours in this chaat is sure to leave your taste buds tantalising and craving for more!",
         ingredients: [
@@ -6743,7 +6753,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "1hrs",
         cookTime: "2hrs",
-        totaltime: "3hrs",
+        totalTime: "3hrs",
         description:
           "About Classic Tiramisu Recipe: The classic French dessert, Tiramisu is a great addition to a dessert table. Delicate, delicious and simple irresistible, here is a simple tiramisu recipe flavoured with Kahlua, a coffee liqueur.",
         ingredients: [
@@ -6775,7 +6785,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "0min",
-        totaltime: "5min",
+        totalTime: "5min",
         description:
           "About The English Garden Goblet Recipe: A refreshing cocktail with a perfect blend of gin. radish, rosemary and lavender, English Garden Goblet is a great spin to the classic gin and tonic.",
         ingredients: [
@@ -6799,7 +6809,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "50min",
         cookTime: "10min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Khoya Khurchan Paratha Recipe: A unique paratha recipe to try for a feast at home. Khoya khurchan paratha is a sweet delight with a generous stuffing of khoya, saffron, sugar, cardamom and more.",
         ingredients: [
@@ -6828,7 +6838,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "25min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "About Rasmalai Tiramisu Recipe: Give your Indian dessert a caffeine twist with this delicious fusion of rasmalai and tiramisu. A super easy ad quick dessert recipe that is sure to impress your guests.",
         ingredients: [
@@ -6860,7 +6870,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "40min",
         cookTime: "80min",
-        totaltime: "2hrs",
+        totalTime: "2hrs",
         description:
           "About Steam Bunny Chicken Bao Recipe: With Easter just around the corner, we have got you covered on what to prepare for the brunch over the weekend with family and friends. This recipe for steamed chicken bao with a delectable filling of chicken mince, served with flavourful green pepper sauce, is just the perfect one to prepare at home.",
         ingredients: [
@@ -6899,7 +6909,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Ajwaini Paneer Kofta Curry Recipe: A navratri special, delectable and luscious paneer gravy recipe. Spiced with ajwain and degi mirch and cooked in fresh and tangy tomato puree along with rock salt (sendha namak), this paneer kofta curry would makes for a mouth-watering, spicy dish to prepare during the fasting season of navratri.",
         ingredients: [
@@ -6930,7 +6940,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "25min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "About Tandoori Blacked Pomfret Recipe: A flavorful Indian-style main dish, inspired by the Cajun style cuisine, tandoori blackened pomfret is an absolutely delicious pick for just about any occasion.",
         ingredients: [
@@ -6982,7 +6992,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "40min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "Bread And Butter Pudding Recipe: Give your festive spread a decadent dessert, perfect to impress all your guests! This simple bread and butter pudding is sugar-free yet sure to satiate your sweet tooth.",
         ingredients: [
@@ -7013,7 +7023,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "2min",
         cookTime: "3min",
-        totaltime: "5min",
+        totalTime: "5min",
         description:
           "About Feliz Navidad Recipe: Here is a perfect holiday drink or your next party! Just a few ingredients combined together for a sweet and tangy mix that is sure to get your party started.",
         ingredients: [
@@ -7034,7 +7044,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "40min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
         ingredients: [
@@ -7063,7 +7073,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "60min",
         cookTime: "60min",
-        totaltime: "2hrs",
+        totalTime: "2hrs",
         description:
           "About Kesar Pista Phirni Recipe: One Indian dessert that none of us can ever say no to is phirni. A bowl of chilled, nutty and delicious phirni can turn around a day for us. Here's a sugar-free kesar pista phirni that you can try at home this summer season!",
         ingredients: [
@@ -7090,7 +7100,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "45min",
         cookTime: "15min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Besan Ke Laddoo Recipe: One of the most popular Indian sweet, besan ke ladoo never fails to impress anyone! Here is a simple recipe to prepare these balls of goodness at home, sugar-free!",
         ingredients: [
@@ -7117,7 +7127,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "25min",
         cookTime: "35min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
         ingredients: [
@@ -7151,7 +7161,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "25min",
         cookTime: "25min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "This classic Indian sweet is loved and savoured by all during festive and celebration meals. Gulab Jamun are round balls dipped in rose flavoured sugar syrup, often made during festivals like Diwali, Eid, Holi and Navratri. The perfect Indian sweet for the festive season is here for you to gorge on, though this time it comes with a twist. Try it to know it and you'll not be able to resist it.",
         ingredients: [
@@ -7180,7 +7190,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "40min",
-        totaltime: "55min",
+        totalTime: "55min",
         description:
           "About Rasmalai Recipe: An all time favorite Indian dessert, rasmalai is a delectable Bengali dessert, freshly made with chhena balls and soaked in malai. A must try at home during the festive season",
         ingredients: [
@@ -7235,7 +7245,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "30min",
-        totaltime: "35min",
+        totalTime: "35min",
         description:
           "About Murmura Ladoo (Murmura Laddu) Recipe: Crispy ladoos made with puffed rice and molten jaggery. Though puffed rice is not really nutritionally rich, it is light on the stomach and low in calories. Murmura Ladoos made of puffed rice are quite filling and are among one of the most loved sweet treats of the country.",
         ingredients: [
@@ -7260,7 +7270,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "45min",
-        totaltime: "55min",
+        totalTime: "55min",
         description:
           "About Dundee Cake Recipe: A delectable, traditional Scottish cake with fruits, dry fruits, orange zest coming together for rich flavour. A popular cake to prepare during the festive season of Christmas, Dundee cake is loved by kids and adults alike.",
         ingredients: [
@@ -7289,7 +7299,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "15min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "About Slow Cooked Spiced Sangria Recipe: Drinking this Sangria is like drinking Christmas! If you want to feel festive, definitely make a batch of this easy, hot sangria and enjoy the holidays. A perfect combination of cinnamon and clove spice. It warms your entire body and is a big mug of comfort all over. This Sangria will be absolutely perfect for both, holiday parties or a quiet evening.",
         ingredients: [
@@ -7318,7 +7328,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:
           "Fall be the best time to just sit back and relax over a glass of perfectly made cocktail. Here is the one with Gin, topped with lemon juice and sugar syrup, just the right one for a casual evening or even a dinner party.",
         ingredients: [
@@ -7343,7 +7353,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "15min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Who doesn't love bourbon? When it is infused with some figs, you get a mind boggling, amazing summer cocktail that leaves you with an everlasting taste.",
         ingredients: [
@@ -7362,11 +7372,11 @@ export const Data = [
       {
         subid: 14,
         recipename: "Verde Rang Recipe",
-        imgfile: "../images/festival/Verde Rang Recipe.jpg",
+        imgfile: "../images/festival/Verde Rang Recipe.webp",
         recipieServe: "2",
         preTime: "2min",
         cookTime: "5min",
-        totaltime: "7min",
+        totalTime: "7min",
         description:
           "About Verde Rang Recipe: Holi is that time of the year when every nook and corner of the country will be filled with the spirit of the vibrant festival of colors. Celebrate the festivities with an innovative cocktail packed with the goodness of coconut milk, cinnamon stick along with the tequile and green chartreuse. Verde means green in Spanish and Rang means colour",
         ingredients: [
@@ -7391,7 +7401,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:
           "About Rose Sherbat Recipe: A refreshing rose drink for the festive season and special occasions. Rose sherbat is an interesting, quick and easy drink that can prepared at home with simple ingredients.",
         ingredients: [
@@ -7414,7 +7424,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:
           "About LIIT Thandai Recipe: Holi season is here and so is the season to gorge on chilled thandai! Here is a thandai recipe with a twist that the guests are surely going to love at your holi party",
         ingredients: [
@@ -7439,7 +7449,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "35min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "About Almond & White Chocolate Gujiya Recipe: The quintessential Holi dish, gujiya is an Indian sweet that is made in every household during the festival of Holi. Small dumplings packed with all things nutty and sweet, these are easy to serve and eat. Made in just about an hour and with simple ingredients, you can easily prepare these gujiyas at home.",
         ingredients: [
@@ -7472,7 +7482,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:
           "About Valencia Fizz Recipe: Super refreshing mocktail recipe that is sure to keep you energized throughout the day. A mouth-watering blend of fresh Valencia oranges with lime juice and soda hence making it a rejuvenating beverage this Navratri. Made within minutes, this mocktail recipe is sure to be loved by everyone and is way healthier than the canned juices available on the market. Serve this chilled beverage to your guests this festive season and on special occasions.",
         ingredients: [
@@ -7496,7 +7506,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "35min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "About Baked Namak Para Recipe: Namak Pare are one of the most famous tea-time snack in India. Every Indian home would have a jar full of these savoury strips to munch on. These are usually made of maida along with suji and deep fried till crisp, but here is a healthier namak para recipe that you'll love to indulge in and not regret later. Made with whole wheat flour and baked to perfection, you can enjoy this crunchy, crispy snack this festive season along with friends and family.",
         ingredients: [
@@ -7524,7 +7534,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "30min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:
           "About Kashmiri Halwa Recipe: A delicious, easy and quick halwa recipe for the festive season. Made with oats cooked with milk and sugar with an aromatic flavour of saffron threads, this dish is served with a garnishing of nuts and raisins!",
         ingredients: [
@@ -7562,7 +7572,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "25min",
         cookTime: "25min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "About Paneer Thread Rolls Recipe: Gorge on a fusion of Indo-Asian dish with cottage cheese cubes wrapped around cooked noodles and deep-fried to crispy best. Paneer thread rolls are an ideal snack to amp up your snacks table!",
         ingredients: [
@@ -7599,7 +7609,7 @@ export const Data = [
         recipieServe: "4",
         preTime: "30min",
         cookTime: "20min",
-        totaltime: "50minc",
+        totalTime: "50minc",
         description:
           "About Homemade Vegan Pasta Recipe: Here is how you can easily make raw pasta at home without any dairy products! Quick, easy and fuss-free way to make your own pasta at home before you toss it in your favourite sauce!",
         ingredients: [
@@ -7627,7 +7637,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "15min",
-        totaltime: "35min",
+        totalTime: "35min",
         description:
           "About Bingsu Recipe: A traditional dessert in Korea, Bingsu is probably the most sought summer dessert in East Asia. It typically consists of chopped fruit, condensed milk, strawberries, kiwi fruit, small pieces of tteok (rice cake), chewy jelly bits, and cereal flakes, fruit syrup, and red beans. It can definitely be a welcome treat for all cold dessert lovers.",
         ingredient: [
@@ -7646,11 +7656,11 @@ export const Data = [
       {
         subid: 4,
         recipename: "Bibim Guksu Recipe",
-        imgfile: "../images/kidrecipes/Bibim Guksu Recipe.jpg",
+        imgfile: "../images/kidrecipes/Bibim Guksu Recipe.webp",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "20min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:
           "Bibim Guksu, or spicy noodles is a delicious cold salad dish seasoned with sweet and tangy Korean flavourings. It is one of the most popular traditional noodle dishes in Korean cuisine that is perfect for the summer days. If you’re looking for an easy meal with a little bit of zest, this is what you need!",
         ingredients: [
@@ -7684,7 +7694,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "30min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "About Tiranga Pastry Recipe: Celebrate the country's biggest day with this beautiful dessert showcasing the tricolour! Easy, quick and absolutely delicious.",
         ingredients: [
@@ -7716,7 +7726,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "About Phulka Tacos Recipe: Mexican tacos are everyone's favourite! Crunchy mix of kidney beans with spices and chillies are sure to tantalise our taste buds. Here is a quick and easy taco recipe made with soft phulkas (chapati)!",
         ingredients: [
@@ -7774,7 +7784,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "30min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:
           "About Banana Coconut Idli Recipe: A delicious, sweet twist to the classic idli, banana and coconut idli is a quick and easy recipe to try for you next morning meal.",
         ingredients: [
@@ -7799,7 +7809,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Double Chocolate Ice Cream Recipe: Who would ever say no to a scoop of delectable ice cream!? And let's be honest, you are never too old for ice cream. Here is a mouth-watering, simple ice cream recipe with double chocolate, and oodles of crunchy choco chips!",
         ingredients: [
@@ -7825,7 +7835,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Red Velvet Banana Pudding Recipe: Combining two of everyone's favourite - freshly-baked red velvet cake and classic banana pudding, this delightful pudding recipe creates a decadent new dish that is a perfect way to unwind over a lazy weekend at home. With layers of red velvet cake, bananas and topped with crunchy choco chips, there's no way anyone can resist digging into this sweet indulgence!",
         ingredients: [
@@ -7856,7 +7866,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "30min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "About Egg Hakka Noodles Recipe: Quick, easy and simply irresistible, egg hakka noodles is everyone's absolute favourite! Here is a fuss-free,easy recipe you can try, to make egg noodles at home.",
         ingredients: [
@@ -7889,7 +7899,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "About Mango and Blueberry Muffins Recipe: Love crumbly muffins and equally adore gorging on luscious mangoes? Here we have the perfect recipe for you! Mango muffins with the tinge of blueberries make for an irresistible treat that will be loved by kids and adults alike.",
         ingredients: [
@@ -7924,7 +7934,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "25min",
         cookTime: "25min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "About Oats Mango Smoothie: Smoothies are a popular pick during the summer season. they are wholesome, delicious and refreshing. And so are mangoes! Here is a stellar smoothie recipe with the goodness of mangoes and wholesome oats.",
         ingredients: [
@@ -7950,7 +7960,7 @@ export const Data = [
         recipieServe: "2",
         preTime: " 10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "About Litchi Spinach Smoothie Recipe: A wholesome smoothie recipe with the goodness o spinach, crunchy almonds and litchis. This smoothie is perect for quick breakfast fix for energy and is incredibly delicious with scoops of ice cream on top!",
         ingredients: [
@@ -7974,7 +7984,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "55min",
-        totaltime: "65min",
+        totalTime: "65min",
         description:
           "About Litchi Ginger Cooler Recipe: Here's a perfect summer beverage to quench your thirst! Litchi ginger cooler is a refreshing blend of basil leaves, ginger, litchi and jaggery syrup, that is sure to leave you drooling.",
         ingredients: [
@@ -8001,7 +8011,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "75min",
-        totaltime: "85min",
+        totalTime: "85min",
         description:
           "About Chocolate Chip Cookies Recipe: Soft, fluffy and simply delicious, chocolate chip cookies are a delight to munch on. Here's a simple recipe to bake irresistible cookies at home!",
         ingredients: [
@@ -8028,7 +8038,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "25min",
-        totaltime: "35min",
+        totalTime: "35min",
         description:
           "About Sable Viennois Recipe: Cookies so good you wouldn't be able to resist! Creamy goodness of butter, icing sugar, egg and flour, baked to perfection!",
         ingredients: [
@@ -8054,7 +8064,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "25min",
         cookTime: "55min",
-        totaltime: "80min",
+        totalTime: "80min",
         description:
           "About Beyond The Ozone Recipe: A delectable cake with the goodness of mango ad vanilla! A mango cheesecake with a vanilla sponge top and mango filling inside is mouth-watering enough to give a try.",
         ingredients: [
@@ -8111,7 +8121,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "40min",
-        totaltime: "55min",
+        totalTime: "55min",
         description:
           "About Lemon Poppy Seed Cake Recipe: When Easter is around the corner, there is no better way to dive into the spirit of the festival than indulging in some Easter special treats like this lemon poppy seed bundt cake. It is a scrumptious bake packed with tarty lemon syrup and whip cream and chocolate on top.",
         ingredients: [
@@ -8147,7 +8157,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "35min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "About Carrot Cake Recipe: An easy, quick and absolutely delectable cake recipe. Grated carrot, egg, oil, sugar, walnut and cinnamon mixed together and baked to perfection. Carrot cake is usually made around the time of Easter but this carrot cake recipe is so easy that you can bake it more often at home.",
         ingredients: [
@@ -8179,7 +8189,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "105min",
-        totaltime: "120min",
+        totalTime: "120min",
         description:
           "About Berry Parfait Hazelnut White Chocolate Sable Recipe: A delectable frozen dessert of parfait packed with the delicious berries, served with hazelnut crumble made of white chocolate, cocoa and puffed rice. Topped with warm flexy berry of raspberry and pectin, this sweet spread would be the perfect dessert to prepare for the special someone this valentines day!",
         ingredients: [
@@ -8234,11 +8244,11 @@ export const Data = [
       {
         subid: 1,
         recipename: "Sujeonggwa Recipe",
-        imgfile: "../images/winterRecipies/",
+        imgfile: "../images/winterRecipies/Sujeonggwa Recipe.jpg",
         recipieServe: "2",
         preTime: "25min",
         cookTime: "25min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           " Sujeonggwa is one of the many unique dishes in South Korea - it’s a ginger cinnamon tea that is served cold and is often taken as a dessert. This tea or punch is popular for festivities, such as New Year, but you’ll also find it on the menu at many Korean restaurants as a dessert since it aids digestion.",
         ingredients: [
@@ -8265,7 +8275,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "5min",
-        totaltime: "15min",
+        totalTime: "15min",
         description:
           " Indulge in the goodness of beetroot with this delicious halwa recipe served along with vanilla ice cream. Made in pure ghee with an added crunch of cashews, this beetroot (chukandar) halwa is an absolute delight!",
         ingredients: [
@@ -8294,7 +8304,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "30min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "A silky texture corn soup with chicken, eggs and jalapenos. This comfort bowl makes for a full lunch or dinner and is packed with nutrients.",
         ingredients: [
@@ -8330,7 +8340,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:
           "A refreshing cocktail with a perfect blend of gin. radish, rosemary and lavender, English Garden Goblet is a great spin to the classic gin and tonic.",
         ingredients: [
@@ -8355,7 +8365,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "2min",
         cookTime: "5min",
-        totaltime: "7min",
+        totalTime: "7min",
         description:
           "A perfect immunity booster, this ginger-mulethi tea is brimming with health benefits. A comforting tea that can come handy when dealing with cold and cough.",
         ingredients: [
@@ -8380,7 +8390,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "A Rajasthani delight, gatta curry is a staple in the region's traditional thali. Besan balls simmered and cooked in a flavourful curry is no less than a heavenly experience!",
         ingredients: [
@@ -8423,7 +8433,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "25min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "Tikka of chicken dipped in an aromatic black peppercorn marinade, grilled in the tandoor before being finished on ‘dum’. Murgh kali mirch ka tikka is a perfect snack to give a flavourful twist to your platter.",
         ingredients: [
@@ -8461,7 +8471,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "30min",
         cookTime: "25min",
-        totaltime: "55min",
+        totalTime: "55min",
         description:
           "A quintessential north Indian snack, this chicken malai tikka by Elior India is perfect to cook at home for a snack party with your family. Brimming with tantalising flavours, you simply can't miss this ",
         ingredients: [
@@ -8504,7 +8514,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "40min",
-        totaltime: "55min",
+        totalTime: "55min",
         description:
           "A stellar starter recipe for your next dinner party, these lamb seekh kebabs are succulent, juicy and exttremely flavourful.",
         ingredients: [
@@ -8538,15 +8548,41 @@ export const Data = [
 
       {
         subid: 10,
-        recipename: "",
-        imgfile: "../images/winterRecipies/",
+        recipename: "Chemmeen Moru Curry Recipe",
+        imgfile: "../images/winterRecipies/Chemmeen Moru Curry Recipe.webp",
         recipieServe: "2",
-        preTime: "10min",
-        cookTime: "5min",
-        totaltime: "15min",
-        description: "",
-        ingredients: [""],
-        steps: [""],
+        preTime: "15min",
+        cookTime: "1hr 45min",
+        totalTime: "2hrs",
+        description:
+          "A hot and spicy, thick fish curry that you can easily prepare at home. Fish pieces simmered in a host of spices along with curd. Chemmeen moru curry is just the right dish to prepare for a dinner party and relish with friends and family.",
+        ingredients: [
+          "1 Kg fish (mackerel)",
+          "3/4 cup curd",
+          "5 onion, chopped",
+          "1 green chilli, sliced",
+          "curry leaves",
+          "To grind:1/2 cup coconut",
+          "1/2 tsp cumin seeds",
+          "1/4 tsp fennel seeds",
+          "2 1/2 tsp red chilli powder",
+          "1/2 tsp turmeric powder",
+          "A small piece of ginger",
+          "To temper:1 tsp oil",
+          "1 small onion, sliced",
+          "Curry leaves",
+        ],
+        steps: [
+          "1.Grind the ingredients listed to a smooth paste.",
+          "2.In a pan, add chopped small onion, green chilli and curry leaves. Add little water and salt.",
+          "3.Cover and cook in medium flame till the onion becomes soft and transparent.",
+          "4.Add the prepared paste. Mix everything well.",
+          "5.Add 1 to 1 1/2 cups of water. Cover and let it boil.",
+          "6.Now add the fish pieces. Simmer the flame and cook till the fish pieces are cooked well and gravy is thick enough. Finally, add curd. Mix very carefully",
+          "7.Switch off the flame before the gravy starts to boil.",
+          "8.Now in another pan, heat 1 tsp. oil. Add sliced small onion and curry leaves. Let the onions become brown. Add this to the fish curry.",
+          "9.Serve hot.",
+        ],
       },
 
       {
@@ -8556,7 +8592,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "20min",
         cookTime: "25min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:
           "An absolutely flavourful fish recipe for all those who love to dive into succulent spicy pomfret. And what's better than an Andhra style pomfret recipe that you can prepare at home too? Here is a quick and super easy pan fried pomfret packed with a host of spices and a tang of lime along with a crispy crust and succulent inside.",
         ingredients: [
@@ -8591,7 +8627,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "45min",
-        totaltime: "55min",
+        totalTime: "55min",
         description:
           "A spicy take on the Mexican quesadilla and the South Indian masala dosa. A mouth-watering blend you just cannot miss straight from the kitchen of ibis. The flavours in this dish bring out the best of both cuisines and is perfect to prepare for a Sunday brunch with family.",
         ingredients: [
@@ -8665,7 +8701,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "45min",
-        totaltime: "55min",
+        totalTime: "55min",
         description:
           " Relish a delectable mutton preparation cooked in a traditional Lucknowi dum style. Straight from the kitchens of Srinagar, comes a mouth-watering delicacy to prepare on the festivities of Ramadan. Mutton cooked in dum along with a myriad of spices and herbs, serve with sheermal or paratha for a hearty meal.",
         ingredients: [
@@ -8715,7 +8751,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "Slow cooked lamb, barley loads of garlic and pepper wrapped in whole wheat flour and baked in the oven. Lamb barley pot is a delectable dish to prepare for a dinner party.",
         ingredients: [
@@ -8747,7 +8783,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "35min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           " Succulent lamb balls sauteed together with flavourful spices such as kasturi methi, deggi mirch, cardamom and saunf powder. Hokh Hund Mutton Kofte is a traditional Kashmiri dish coming to you directly from the kitchen of ITC, makes for a perfect main course dish at your next dinner party.",
         ingredients: [
@@ -8782,7 +8818,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "35min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:
           "A light and comforting soup recipe, packed with pureed, roasted garlic and almonds mixed with chicken broth and white wine. It is served hot with bread croutons and burnt better. Perfect to warm up in winters with your loved ones.",
         ingredients: [
@@ -8822,7 +8858,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           " Almonds are one of the most loved nut out of all since they aren't just healthy and packed with vitamins and minerals but also serves us the best during those mid-day hunger pangs. Here is a sweet and chilli recipe with almonds coated in egg white and chilli masala, roasted to perfection. A true-blue unique recipe that you can serve your guests along with a couple of drinks.",
         ingredients: [
@@ -8849,7 +8885,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "15min",
         cookTime: "15min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:
           "The perfect street snack with a nutty twist! These chicken momos are rolled in chopped almonds and steamed to perfection. Different, delicious and easy to prepare, these nutty momos are great to serve as appetizers at your next party.",
         ingredients: [
@@ -8882,7 +8918,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "15min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "A mutton dish worth every bite! Spices, chillies and herbs simmered with tender mutton chunks, makes for the perfect dinner party dish that you can serve with any Indian bread in the main course. This mutton dish would also go well with some cooked rice.",
         ingredients: [
@@ -8918,11 +8954,11 @@ export const Data = [
       {
         subid: 20,
         recipename: "Chemmeen Moru Curry Recipe",
-        imgfile: "../images/winterRecipies/Chemmeen Moru Curry Recipe.jpg",
+        imgfile: "../images/winterRecipies/Chemmeen Moru Curry Recipe.webp",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "35min",
-        totaltime: "45min",
+        totalTime: "45min",
         description:
           "A hot and spicy, thick fish curry that you can easily prepare at home. Fish pieces simmered in a host of spices along with curd. Chemmeen moru curry is just the right dish to prepare for a dinner party and relish with friends and family.",
         ingredients: [
@@ -8973,7 +9009,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "5min",
-        totaltime: "15min",
+        totalTime: "15min",
         description:
           "Tulsi and Haldi are two star ingredients that are enough to keep the common problems at bay, add a sweetener of your choice, and boil.",
         ingredients: [
@@ -8998,7 +9034,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "kanji vada is a popular delicacy of Rajasthan and Gujarat. It is a chilled drink that is immersed with spicy, salty and tangy flavours.",
         ingredients: [
@@ -9037,7 +9073,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:
           "About Watermelon & Dry Fruit Punch You can make this special drink on the occasion of Ramzan to impress your guests.",
         ingredients: [
@@ -9066,7 +9102,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "About Wild Zombie Virus Recipe: Indulge in this sweet and sour concotion of whte rum, strawberry and pineapple with a topping of coconut cream and egg.",
         ingredients: [
@@ -9090,7 +9126,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Bloody Fairy Recipe: This fiery yet refreshing mix of vodka, cranberry and tabasco makes for a perfect cocktail!",
         ingredients: [
@@ -9114,7 +9150,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Sujeonggwa is one of the many unique dishes in South Korea - it’s a ginger cinnamon tea that is served cold and is often taken as a dessert. This tea or punch is popular for festivities, such as New Year, but you’ll also find it on the menu at many Korean restaurants as a dessert since it aids digestion.",
         ingredients: [
@@ -9140,7 +9176,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "This is a Ramzan special drink, which is prepare with plum and dates. You can serve this drink to your guest.",
         ingredients: [
@@ -9169,7 +9205,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "5min",
-        totaltime: "15min",
+        totalTime: "15min",
         description:
           "This is a refreshing drink, which is made with curd, cucumber and curd. You can make this drink in few mintunes.",
         ingredients: [
@@ -9195,7 +9231,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Enjoy the Christmas festivites with this simple and delicious recipe of Christmas gluhwien or mulled wine!",
         ingredients: [
@@ -9224,7 +9260,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "15min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Turmeric milk is something our mothers and grandmothers are familiar with, and it’s often referred to as liquid gold! With the healing and anti-inflammatory properties of turmeric, combined with the benefits of other spices, this is the perfect drink to develop immunity and stay healthy.",
         ingredients: [
@@ -9247,7 +9283,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:
           "A simple nutrient-dense smoothie recipe to keep mindless bingeing at bay. Low in calories, rich in iron, magnesium, potassium, and antioxidants, this smoothie is delicious, healthy and easy to prepare at home!",
         ingredients: [
@@ -9268,7 +9304,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           " A refreshing glass of juice is perfect to start your day with. Here is a wonderful juice recipe packed with the goodness of beetroot, carrot and apple, along with tangy flavour of lemon that will not only keep you energised but also help in boosting immunity.",
         ingredients: [
@@ -9294,7 +9330,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "35min",
         cookTime: "25min",
-        totaltime: "60min",
+        totalTime: "60min",
         description:
           "A fantastic recipe to boost your immune system, bursting with vitamins A, K, C, magnesium, calcium, copper, potassium. Infuse it with dash of ginger and lime for a taste that can surprises you.",
         ingredients: [
@@ -9319,7 +9355,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "40min",
-        totaltime: "50min",
+        totalTime: "50min",
         description:
           "The festival of Holi is just around the corner and it is incomplete without some scrumptious dishes shared with your loved ones that only add to the vibrant colours of the festival. Kanji Vada is one such dish that is savoured during the festival. It is spicy drink made with spices such as asafoetida, red chilli, black salt etc, served along with vada made from moong dal. It is tangy, sweet and spicy at once and can easily be made at home.",
         ingredients: [
@@ -9359,7 +9395,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Super refreshing mocktail recipe that is sure to keep you energized throughout the day. A mouth-watering blend of fresh Valencia oranges with lime juice and soda hence making it a rejuvenating beverage this Navratri. Made within minutes, this mocktail recipe is sure to be loved by everyone and is way healthier than the canned juices available on the market. Serve this chilled beverage to your guests this festive season and on special occasions.",
         ingredients: [
@@ -9384,7 +9420,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:
           "A traditional green tea preparation, Kahwa is a winter special recipe from the valleys of Kashmir. This Kahwa recipe is a great preparation with the addition of Badaam (almonds). A natural source of many essential nutrients, including protein and healthy fats badaam makes this recipe a nutrient-rich drink that can help you keep going throughout the day.",
         ingredients: [
@@ -9412,7 +9448,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
-        totaltime: "10min",
+        totalTime: "10min",
         description:
           "One of the best in-house cocktail, whisky infused with honey, cinnamon, star anise and cloves.",
         ingredients: [
@@ -9436,7 +9472,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "5min",
         cookTime: "10min",
-        totaltime: "15min",
+        totalTime: "15min",
         description:
           "A rich creamy essence made of milk, rose syrup, rose petal ice cream, arrak and rose petals makes for a great dessert beverage. A lavish, thick rose shake is going to be your new favourite for the season.",
         ingredients: [
@@ -9465,7 +9501,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "30min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "A thick mango milkshake with ice cream scoops drooling over it, Mango Mastani is an amazing beverage for the summer season. Mastani is a dessert drink originated in Pune, it is a rich and satisfying dessert.",
         ingredients: [
@@ -9492,7 +9528,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "30min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "The must-have beverage during the summers and specially during the festival of Holi, Kanji is a fermented drink made with a host of spices to ensure the tangy taste. This recipe of Berry Kanji is made with frozen kanji mixed with spices and serve with mint and lemon wedge. Bring some tangy twist to your Holi party with this refreshing and tasty Kanji drink.",
         ingredients: [
@@ -9538,7 +9574,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "This recipe is as simple as it can get. This is for the lazy day's when you wake up late and don't feel like cooking anything. All you need to do is wash some poha, add boiled potatoes along with flavourful spices, mix it together and this simple delicacy is ready to relish!",
         ingredients: [
@@ -9568,7 +9604,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Healthy and wholesome, Sindhi dal toast is made with bread slices stuffed with spicy potatoes, drizzled with moong dal along with tangy tamarind chutney and mint sauce.",
         ingredients: [
@@ -9603,7 +9639,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "A nutritious, fulfilling and healthy breakfast, here's a recipe of no bread sooji toast!",
         ingredients: [
@@ -9635,7 +9671,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "About Egg Muffins : This healthy recipe for egg muffins is an easy grab and go option for busy mornings. It is loaded with healthy and fresh veggies, meat and spices of your own choice.",
         ingredients: [
@@ -9663,7 +9699,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           " Crispy, spicy, gypsy toast is loaded with some egg-y goodness. This delish treat makes for a quick meal during the time-pressed mornings.",
         ingredients: [
@@ -9694,7 +9730,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Millet dosa is a healthy and gluten free south Indian breakfast recipe. You can make this dosa under 20 mintunes. It is also a good option for the diabetics",
         ingredients: [
@@ -9714,11 +9750,11 @@ export const Data = [
       {
         subid: 7,
         recipename: "Banana Coconut Idli Recipe",
-        imgfile: "../images/BreakfastRecipies/Fish tikka.jpg",
+        imgfile: "../images/BreakfastRecipies/Banana Coconut Idli Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "A delicious, sweet twist to the classic idli, banana and coconut idli is a quick and easy recipe to try for you next morning meal.",
         ingredients: [
@@ -9745,7 +9781,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "Smoothies are a popular pick during the summer season. they are wholesome, delicious and refreshing. And so are mangoes! Here is a stellar smoothie recipe with the goodness of mangoes and wholesome oats.",
         ingredients: [
@@ -9771,7 +9807,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "A wholesome smoothie recipe with the goodness o spinach, crunchy almonds and litchis. This smoothie is perect for quick breakfast fix for energy and is incredibly delicious with scoops of ice cream on top",
         ingredients: [
@@ -9794,7 +9830,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "A simple nutrient-dense smoothie recipe to keep mindless bingeing at bay. Low in calories, rich in iron, magnesium, potassium, and antioxidants, this smoothie is delicious, healthy and easy to prepare at home!",
         ingredients: [
@@ -9814,7 +9850,7 @@ export const Data = [
         recipieServe: "1",
         preTime: "15min",
         cookTime: "25min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "A dosa like dish that you can make in a few minutes with just three ingredients! Made with rice and salt, Ghavan is a traditional Maharashtrian breakfast dish from the Konkan region annd is quite similar to neer dosa from the south. Ghavan is often prepared on festivals in Maharashtra such as Ganesh Chaturthi.",
         ingredients: ["330 gms raw rice", "160 gms salt", "Oil (as needed)"],
@@ -9833,7 +9869,7 @@ export const Data = [
         recipieServe: "6",
         preTime: "10min",
         cookTime: "25min",
-        totaltime: "35min",
+        totalTime: "35min",
         description:
           "Just a few ingredients and half an hour will give you this super delicious and thick cream to relish with anything you want! Fresh strawberries and nutty almonds along with sugar, cream and healthy basil leaves comes together for this sweet and refreshing cream.",
         ingredients: [
@@ -9858,7 +9894,7 @@ export const Data = [
         recipieServe: "5",
         preTime: "10min",
         cookTime: "15min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "The classic Italian Ravioli comes with an Indian twist. Tricolor ravioli stuffed pumpkin, shallots and oodles of parmesan cheese along with the goodness of walnuts. A perfect recipe to prepare and relish with your family this Republic day.",
         ingredients: [
@@ -9897,7 +9933,7 @@ export const Data = [
         recipieServe: "3",
         preTime: "5min",
         cookTime: "15min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "A bowl of pasta is something we all can binge over at any time of the day and even during the midnight hunger pangs. Here is an easy, simple and quick pasta recipe specially curated in tricolor by Grand Mercure. You can prepare this at home and relish with family and friends.",
         ingredients: [
@@ -9927,7 +9963,7 @@ export const Data = [
         recipieServe: "9",
         preTime: "10min",
         cookTime: "25min",
-        totaltime: "35min",
+        totalTime: "35min",
         description:
           "Macaroons are small biscuit/cookie- like sweet snack that you can relish along with a cup of tea. Originating from the french cuisine, macaroons are now popular globally in different flavours, coatings and stuffed with everything from hazelnut to strawberries. Here is a macaroon recipe with a Indian twist, specially curated in tricolor on the occasion of Republic day.",
         ingredients: [
@@ -9969,7 +10005,7 @@ export const Data = [
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
-        totaltime: "20min",
+        totalTime: "20min",
         description:
           "What is a Christmas without some Christmas cookies? Here is an easy, fuss-free cookie recipe that you can bake at home with your family this holiday season of Christmas and New Year's.",
         ingredients: [
@@ -9999,7 +10035,7 @@ export const Data = [
         recipieServe: "6",
         preTime: "15min",
         cookTime: "15min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:
           "The best of Japanese cuisine that you can now easily prepare at home. Japanese curry is one of the most popular dishes of Japan. Here is a recipe of Arancini balls stuffed with cheese and topped with delicious Japanese curry, wasabi mayo and veggies and barley salsa on the side. An exotic and unique recipe to prepare for a brunch with friends and family.",
         ingredients: [
@@ -10038,7 +10074,7 @@ export const Data = [
         recipieServe: "3",
         preTime: "10min",
         cookTime: "30min",
-        totaltime: "40min",
+        totalTime: "40min",
         description:
           "Healthy, filling, flavourful and simply delicious salad to prepare at home. Coconut lime quinoa salad is an easy and quick recipe, packed with the goodness of super grain quinoa along with coconut and a tang of lime. Give your salad a healthy and delicious twist with this recipe that is as simple as it can get. Perfect mid day meal in summers.",
         ingredients: [
@@ -10074,7 +10110,7 @@ export const Data = [
         recipieServe: "8",
         preTime: "10min",
         cookTime: "15min",
-        totaltime: "25min",
+        totalTime: "25min",
         description:
           "A healthy and refreshing parfait recipe that will help your body cool down on a hot, summer day. An indulgent combination of yogurt and strawberry syrup, packed together with the goodness of muesli. Spruce it up with honey and maple syrup on the top. Made in just about 10 minutes, this can be your easy breakfast on the go. Pack it in a mason jar and you can enjoy this as a mid-day meal as well to refresh the body.",
         ingredients: [
@@ -10097,7 +10133,7 @@ export const Data = [
         recipieServe: "9",
         preTime: "10min",
         cookTime: "20min",
-        totaltime: "30min",
+        totalTime: "30min",
         description:
           " There is nothing as fresh as this smoothie of watermelon and strawberry! Topped with healthy chia seeds and these fresh fruits blended well with low fat yogurt, this smoothie recipe is the powerhouse of healthy nutrients that will keep you boosted all day long.",
         ingredients: [
