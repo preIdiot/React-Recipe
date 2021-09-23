@@ -13,10 +13,14 @@ export default function Main({ search }) {
         <Route
           exact
           path="/"
-          render={(props) => <Scroll {...props} data={Data} />}
+          render={(props) => <Scroll {...{ search, ...props }} data={Data} />}
         />
 
-        <Route exact path="/recipes/:recipename" children={<SubCategory />} />
+        <Route
+          exact
+          path="/recipes/:recipename"
+          children={<SubCategory {...{ search }} />}
+        />
 
         <Route
           exact

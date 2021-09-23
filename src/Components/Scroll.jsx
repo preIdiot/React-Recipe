@@ -3,8 +3,12 @@ import React from "react";
 import Video from "./Video";
 import Card from "../Components/Cards";
 import "../css/Scroll.scss";
+import Search from "./Search";
 
 export default function Scroll(props) {
+  if (props.search !== "")
+    return <Search search={props.search} Data={props.data} />;
+
   return (
     <>
       <div className="scroll scroll-main">
