@@ -1,11 +1,10 @@
 export const Data = [
-
   // 1
   {
     id: 1,
     imgsrc: "../images/healthyrecipies/Chilli_Oil_Avocado_Salad.jpg",
     name: "Healthy Recipe",
-    link: "/healthyrecipies",
+    link: "/recipes/healthyrecipies",
     info: "Healthy Recipies is those recipies which helps you to control Cholestrol and diabetes",
     recipies: [
       {
@@ -638,12 +637,10 @@ export const Data = [
 
   // 2
   {
-    
-
     id: 2,
     imgsrc: "../images/snackrecipies/Chicken Sub Sandwich.jpg",
     name: "Snack Recipe",
-    link: "/snackrecipies",
+    link: "/recipes/snackrecipies",
     info: "Snack Recipies is those recipies which tooks as a light wieght food and it is ready in less time",
     recipies: [
       {
@@ -751,8 +748,7 @@ export const Data = [
       {
         subid: 4,
         recipename: "Desi Masala Poached Eggs Recipe",
-        imgfile:
-          "../images/snackrecipies/Desi Masala Poached Eggs Recipe.webp",
+        imgfile: "../images/snackrecipies/Desi Masala Poached Eggs Recipe.webp",
         recipeServings: "2",
         preTime: "03 mins",
         cookTime: "03 mins",
@@ -760,18 +756,29 @@ export const Data = [
         description:
           "The desi style of poached eggs is what you would generally find on the streets, it is soft, gooey from the inside and crunchy on the outside.",
         ingredients: [
-          "4 Eggs", "1/4 cup Chopped onions", "1/4 cup Chopped coriander", "1 tbsp Chopped Chillies", "1/2 tsp Red chilli powder", "1 tsp Black pepper powder", "1 tsp Garam Masala", "Salt according to taste",
+          "4 Eggs",
+          "1/4 cup Chopped onions",
+          "1/4 cup Chopped coriander",
+          "1 tbsp Chopped Chillies",
+          "1/2 tsp Red chilli powder",
+          "1 tsp Black pepper powder",
+          "1 tsp Garam Masala",
+          "Salt according to taste",
         ],
         steps: [
-          "1.In a small round pan heat some oil.", "2.Add a little chopped onion, coriander, chilies, and the dried spices and gently mix.", "3.After a minute, crack an egg on top of this.", "4.Make sure the flame is on low or medium.", " After a minute, flip the egg on the other side (Optional).", "5.Now flip it back in 10-15 seconds and take off the heat and serve hot."
+          "1.In a small round pan heat some oil.",
+          "2.Add a little chopped onion, coriander, chilies, and the dried spices and gently mix.",
+          "3.After a minute, crack an egg on top of this.",
+          "4.Make sure the flame is on low or medium.",
+          " After a minute, flip the egg on the other side (Optional).",
+          "5.Now flip it back in 10-15 seconds and take off the heat and serve hot.",
         ],
       },
 
       {
         subid: 5,
         recipename: "Low carb Kachori Recipe",
-        imgfile:
-          "../images/snackrecipies/Low carb Kachori Recipe.webp",
+        imgfile: "../images/snackrecipies/Low carb Kachori Recipe.webp",
         recipeServings: "2",
         preTime: "03 mins",
         cookTime: "03 mins",
@@ -803,8 +810,7 @@ export const Data = [
       {
         subid: 6,
         recipename: "Nuchinunde dumplings Recipe",
-        imgfile:
-          "../images/snackrecipies/Nuchinunde dumplings Recipe.webp",
+        imgfile: "../images/snackrecipies/Nuchinunde dumplings Recipe.webp",
         recipeServings: "3",
         preTime: "10 mins",
         cookTime: "15 mins",
@@ -831,8 +837,7 @@ export const Data = [
       {
         subid: 7,
         recipename: "Rajma Patty Burger Recipe",
-        imgfile:
-          "../images/snackrecipies/Rajma Patty Burger Recipe.png",
+        imgfile: "../images/snackrecipies/Rajma Patty Burger Recipe.png",
         recipeServings: "2",
         preTime: "10 mins",
         cookTime: "15 mins",
@@ -904,8 +909,7 @@ export const Data = [
       {
         subid: 9,
         recipename: "Crunchy Egg Fingers Recipe",
-        imgfile:
-          "../images/snackrecipies/Crunchy Egg Fingers Recipe.jpg",
+        imgfile: "../images/snackrecipies/Crunchy Egg Fingers Recipe.jpg",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "05 mins",
@@ -939,8 +943,7 @@ export const Data = [
       {
         subid: 10,
         recipename: "Cucumber Idli Recipe",
-        imgfile:
-          "../images/snackrecipies/Cucumber Idli Recipe.webp",
+        imgfile: "../images/snackrecipies/Cucumber Idli Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "10 mins",
@@ -969,8 +972,7 @@ export const Data = [
       {
         subid: 11,
         recipename: "Chicken Dynamite Recipe",
-        imgfile:
-          "../images/snackrecipies/Chicken Dynamite Recipe.webp",
+        imgfile: "../images/snackrecipies/Chicken Dynamite Recipe.webp",
         recipeServings: "2",
         preTime: "20 mins",
         cookTime: "20 mins",
@@ -1038,8 +1040,7 @@ export const Data = [
       {
         subid: 13,
         recipename: "Hariyali Chicken Tikka Recipe",
-        imgfile:
-          "../images/snackrecipies/Hariyali Chicken Tikka Recipe.jpg",
+        imgfile: "../images/snackrecipies/Hariyali Chicken Tikka Recipe.jpg",
         recipeServings: "4",
         preTime: "20 mins",
         cookTime: "15 mins",
@@ -1072,8 +1073,7 @@ export const Data = [
       {
         subid: 14,
         recipename: "Dhokla Sandwich Recipe",
-        imgfile:
-          "../images/snackrecipies/Dhokla Sandwich Recipe.png",
+        imgfile: "../images/snackrecipies/Dhokla Sandwich Recipe.png",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -1106,8 +1106,7 @@ export const Data = [
       {
         subid: 15,
         recipename: "Homemade Masala Pav Recipe",
-        imgfile:
-          "../images/snackrecipies/Homemade Masala Pav Recipe.webp",
+        imgfile: "../images/snackrecipies/Homemade Masala Pav Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -1141,8 +1140,7 @@ export const Data = [
       {
         subid: 16,
         recipename: "Bubble Chocolate Recipe",
-        imgfile:
-          "../images/snackrecipies/Bubble Chocolate Recipe.jpg",
+        imgfile: "../images/snackrecipies/Bubble Chocolate Recipe.jpg",
         recipeServings: "2",
         preTime: "10 mins",
         cookTime: "15 mins",
@@ -1171,8 +1169,7 @@ export const Data = [
       {
         subid: 17,
         recipename: "Soya Chaap Roll Recipe",
-        imgfile:
-          "../images/snackrecipies/Soya Chaap Roll Recipe.webp",
+        imgfile: "../images/snackrecipies/Soya Chaap Roll Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -1202,8 +1199,7 @@ export const Data = [
       {
         subid: 18,
         recipename: "Vegetable Cheese Chilla Recipe",
-        imgfile:
-          "../images/snackrecipies/Vegetable Cheese Chilla Recipe.webp",
+        imgfile: "../images/snackrecipies/Vegetable Cheese Chilla Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "10 mins",
@@ -1232,8 +1228,7 @@ export const Data = [
       {
         subid: 19,
         recipename: "Poha Medu Vada Recipe",
-        imgfile:
-          "../images/snackrecipies/Poha Medu Vada Recipe.jpg",
+        imgfile: "../images/snackrecipies/Poha Medu Vada Recipe.jpg",
         recipeServings: "2",
         preTime: "5 mins",
         cookTime: "15 mins",
@@ -1266,8 +1261,7 @@ export const Data = [
       {
         subid: 20,
         recipename: "Aloo Suji Idli Recipe",
-        imgfile:
-          "../images/snackrecipies/Aloo Suji Idli Recipe.webp",
+        imgfile: "../images/snackrecipies/Aloo Suji Idli Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -1300,14 +1294,13 @@ export const Data = [
     id: 3,
     imgsrc: "../images/snackrecipies/Rajma Patty Burger Recipe.png",
     name: "Vegetarian Recipe",
-    link: "/vegetarianrecipies",
+    link: "/recipes/vegetarianrecipies",
     info: "Discover simple and delicious budget-friendly vegetarian recipes that are loved by vegetarians and omnivores alike! Step by step photos for every recipe!",
     recipies: [
       {
         subid: 1,
         recipename: "Rajma Patty Burger Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Rajma Patty Burger Recipe.png",
+        imgfile: "../images/VegetarianRecipes/Rajma Patty Burger Recipe.png",
         recipeServings: "2",
         preTime: "10 mins",
         cookTime: "15 mins",
@@ -1337,12 +1330,10 @@ export const Data = [
         ],
       },
 
-
       {
         subid: 2,
         recipename: "Potato Curry Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Potato Curry Recipe.webp",
+        imgfile: "../images/VegetarianRecipes/Potato Curry Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -1378,8 +1369,7 @@ export const Data = [
       {
         subid: 3,
         recipename: "Baby Corn Fingers Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Baby Corn Fingers Recipe.webp",
+        imgfile: "../images/VegetarianRecipes/Baby Corn Fingers Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -1485,8 +1475,7 @@ export const Data = [
       {
         subid: 6,
         recipename: "Potato Skin Chips Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Potato Skin Chips Recipe.webp",
+        imgfile: "../images/VegetarianRecipes/Potato Skin Chips Recipe.webp",
         recipeServings: "2",
         preTime: "10 mins",
         cookTime: "10 mins",
@@ -1559,8 +1548,7 @@ export const Data = [
       {
         subid: 8,
         recipename: "Vegan Tofu Cigar Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Vegan Tofu Cigar Recipe.webp",
+        imgfile: "../images/VegetarianRecipes/Vegan Tofu Cigar Recipe.webp",
         recipeServings: "1",
         preTime: "20 mins",
         cookTime: "15 mins",
@@ -1635,8 +1623,7 @@ export const Data = [
       {
         subid: 10,
         recipename: "Lasaniya Battate Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Lasaniya Battate Recipe.webp",
+        imgfile: "../images/VegetarianRecipes/Lasaniya Battate Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -1675,14 +1662,12 @@ export const Data = [
       {
         subid: 11,
         recipename: "Pasta samosa Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Pasta samosa Recipe.webp",
+        imgfile: "../images/VegetarianRecipes/Pasta samosa Recipe.webp",
         recipeServings: "4",
         preTime: "20 mins",
         cookTime: "15 mins",
         totalTime: "30 mins",
-        description:
-          "The perfect combination of Italian and Indian food!",
+        description: "The perfect combination of Italian and Indian food!",
         ingredients: [
           "For Samosa",
           "1 and 1/2 Cup All-purpose flou",
@@ -1719,8 +1704,7 @@ export const Data = [
       {
         subid: 12,
         recipename: "Lauki Vadi Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Lauki Vadi Recipe.webp",
+        imgfile: "../images/VegetarianRecipes/Lauki Vadi Recipe.webp",
         recipeServings: "2",
         preTime: "10 mins",
         cookTime: "10 mins",
@@ -1781,8 +1765,7 @@ export const Data = [
       {
         subid: 14,
         recipename: "Gatte ke khichdi Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Gatte ke khichdi Recipe.webp",
+        imgfile: "../images/VegetarianRecipes/Gatte ke khichdi Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "10 mins",
@@ -1818,8 +1801,7 @@ export const Data = [
       {
         subid: 15,
         recipename: "Tadka Khichdi Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Tadka Khichdi Recipe.webp",
+        imgfile: "../images/VegetarianRecipes/Tadka Khichdi Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -1858,8 +1840,7 @@ export const Data = [
       {
         subid: 16,
         recipename: "Seyal Bhaji Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Seyal Bhaji Recipe.webp",
+        imgfile: "../images/VegetarianRecipes/Seyal Bhaji Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -1894,8 +1875,7 @@ export const Data = [
       {
         subid: 17,
         recipename: "Paneer Do Pyaza Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Paneer Do Pyaza Recipe.jpg",
+        imgfile: "../images/VegetarianRecipes/Paneer Do Pyaza Recipe.jpg",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "20 mins",
@@ -1932,8 +1912,7 @@ export const Data = [
       {
         subid: 18,
         recipename: "Veg Tangdi Kebab Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Veg Tangdi Kebab Recipe.webp",
+        imgfile: "../images/VegetarianRecipes/Veg Tangdi Kebab Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "10 mins",
@@ -1965,8 +1944,7 @@ export const Data = [
       {
         subid: 19,
         recipename: "Rugda Curry Recipe",
-        imgfile:
-          "../images/VegetarianRecipes/Rugda Curry Recipe.webp",
+        imgfile: "../images/VegetarianRecipes/Rugda Curry Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "15 mins",
@@ -2036,14 +2014,13 @@ export const Data = [
     id: 4,
     imgsrc: "../images/ChickenRecipes/Malabar Chicken Curry Recipe.jpg",
     name: "Chicken Recipes",
-    link: "/chickenrecipes",
+    link: "/recipes/chickenrecipes",
     info: "Perk up your poultry with our top chicken recipes. We've got you covered whether it's a traditional roast, a flavourful curry or a comforting pie ",
     recipies: [
       {
         subid: 1,
         recipename: "Malabar Chicken Curry Recipe",
-        imgfile:
-          "../images/ChickenRecipes/Malabar Chicken Curry Recipe.jpg",
+        imgfile: "../images/ChickenRecipes/Malabar Chicken Curry Recipe.jpg",
         recipeServings: "2",
         preTime: "20 mins",
         cookTime: "20 mins",
@@ -2153,8 +2130,7 @@ export const Data = [
       {
         subid: 4,
         recipename: "Tariwala Chicken Recipe",
-        imgfile:
-          "../images/ChickenRecipes/Tariwala Chicken Recipe.webp",
+        imgfile: "../images/ChickenRecipes/Tariwala Chicken Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "20 mins",
@@ -2187,8 +2163,7 @@ export const Data = [
       {
         subid: 5,
         recipename: "BBQ Chicken Biryani Recipe",
-        imgfile:
-          "../images/ChickenRecipes/BBQ Chicken Biryani Recipe.webp",
+        imgfile: "../images/ChickenRecipes/BBQ Chicken Biryani Recipe.webp",
         recipeServings: "2",
         preTime: "25 mins",
         cookTime: "20 mins",
@@ -2239,8 +2214,7 @@ export const Data = [
       {
         subid: 6,
         recipename: "Degi Biryani Recipe",
-        imgfile:
-          "../images/ChickenRecipes/Degi Biryani Recipe.webp",
+        imgfile: "../images/ChickenRecipes/Degi Biryani Recipe.webp",
         recipeServings: "3",
         preTime: "25 mins",
         cookTime: "20 mins",
@@ -2339,13 +2313,13 @@ export const Data = [
       {
         subid: 8,
         recipename: "Chicken Parantha Recipe",
-        imgfile:
-          "../images/ChickenRecipes/Chicken Parantha Recipe.webp",
+        imgfile: "../images/ChickenRecipes/Chicken Parantha Recipe.webp",
         recipeServings: "2",
         preTime: "20 mins",
         cookTime: "10 mins",
         totalTime: "30 mins",
-        description: "This deadly combination of chicken keema filled in paratha is all that you need for a lavish breakfast or lunch. Pair it up with dahi ka raita, acchar or chutney and relish!",
+        description:
+          "This deadly combination of chicken keema filled in paratha is all that you need for a lavish breakfast or lunch. Pair it up with dahi ka raita, acchar or chutney and relish!",
         ingredients: [
           "1 Small Chopped onion1 Green chilli",
           "2 tbsp Fresh coriander",
@@ -2427,8 +2401,7 @@ export const Data = [
       {
         subid: 11,
         recipename: "Chicken Sub Sandwich Recipe",
-        imgfile:
-          "../images/ChickenRecipes/Chicken Sub Sandwich Recipe.webp",
+        imgfile: "../images/ChickenRecipes/Chicken Sub Sandwich Recipe.webp",
         recipeServings: "2",
         preTime: "10 mins",
         cookTime: "05 mins",
@@ -2491,8 +2464,7 @@ export const Data = [
       {
         subid: 13,
         recipename: "Chole chicken Recipe",
-        imgfile:
-          "../images/ChickenRecipes/Chole chicken Recipe.webp",
+        imgfile: "../images/ChickenRecipes/Chole chicken Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "25 mins",
@@ -2526,8 +2498,7 @@ export const Data = [
       {
         subid: 14,
         recipename: "Chicken Salna Recipe",
-        imgfile:
-          "../images/ChickenRecipes/Chicken Salna Recipe.webp",
+        imgfile: "../images/ChickenRecipes/Chicken Salna Recipe.webp",
         recipeServings: "3",
         preTime: "20 mins",
         cookTime: "20 mins",
@@ -2568,8 +2539,7 @@ export const Data = [
       {
         subid: 15,
         recipename: "Chicken Bukhara Recipe",
-        imgfile:
-          "../images/ChickenRecipes/Chicken Bukhara Recipe.webp",
+        imgfile: "../images/ChickenRecipes/Chicken Bukhara Recipe.webp",
         recipeServings: "4",
         preTime: "20 mins",
         cookTime: "30 mins",
@@ -2610,8 +2580,7 @@ export const Data = [
       {
         subid: 16,
         recipename: "Sofiana Biryani Recipe",
-        imgfile:
-          "../images/ChickenRecipes/Sofiana Biryani Recipe.webp",
+        imgfile: "../images/ChickenRecipes/Sofiana Biryani Recipe.webp",
         recipeServings: "2",
         preTime: "20 mins",
         cookTime: "25 mins",
@@ -2632,16 +2601,16 @@ export const Data = [
           "1 and half tbsp Khoya",
           "2-3 Green chilies",
           "1 inch Cinnamon stick",
-          "2 Green Cardamom"
-          , "2 Black Cardamom",
+          "2 Green Cardamom",
+          "2 Black Cardamom",
           "4 tbsp Vegetable oil",
           "2 tbsp Gheeto taste Salt",
           "For rice :",
           "250 gram Basmati rice",
           "1 inch Cinnamon stick",
           "2 Green Cardamom",
-          "1 Black Cardamom"
-          , "For Garnish",
+          "1 Black Cardamom",
+          "For Garnish",
           "A pinch of Saffron",
           "4 tsp Warm Milk",
           "2 tsp Sliced Almonds",
@@ -2675,8 +2644,7 @@ export const Data = [
       {
         subid: 17,
         recipename: "Nadan Kozhi Curry Recipe",
-        imgfile:
-          "../images/ChickenRecipes/Nadan Kozhi Curry Recipe.webp",
+        imgfile: "../images/ChickenRecipes/Nadan Kozhi Curry Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "25 mins",
@@ -2713,8 +2681,7 @@ export const Data = [
       {
         subid: 18,
         recipename: "Butter Chicken Noodles Recipe",
-        imgfile:
-          "../images/ChickenRecipes/Butter Chicken Noodles Recipe.webp",
+        imgfile: "../images/ChickenRecipes/Butter Chicken Noodles Recipe.webp",
         recipeServings: "2",
         preTime: "15 mins",
         cookTime: "20 mins",
@@ -2786,8 +2753,7 @@ export const Data = [
       {
         subid: 20,
         recipename: "Butter Chicken Biryani Recipe",
-        imgfile:
-          "../images/ChickenRecipes/Butter Chicken Biryani Recipe.webp",
+        imgfile: "../images/ChickenRecipes/Butter Chicken Biryani Recipe.webp",
         recipeServings: "4",
         preTime: "15 mins",
         cookTime: "30 mins",
@@ -2854,9 +2820,6 @@ export const Data = [
           "17.Serve hot with a delicious bowl of raita.",
         ],
       },
-
-
-
     ],
   },
 
@@ -2865,595 +2828,690 @@ export const Data = [
     id: 5,
     imgsrc: "../images/meatrecipe/Mutton Tahari Recipe.jpg",
     name: "Meat Recipe",
-    link: "/meatrecipe",
+    link: "/recipes/meatrecipe",
     info: "Meat Lovers Recipes. Growing up with an amazing cook (my mother) who loved her steak, going vegan would have been impossible",
     recipies: [
-
       {
         subid: 1,
         recipename: "Mutton Tahari Recipe",
-        imgfile: "../images/meatrecipe/Mutton Tahari Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Mutton Tahari Recipe.jpg",
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
         totalTime: "40min",
-        description:"This tahari recipe is made with succulent mutton pieces dipped in a pool of aromatic spices and of course mushy rice. If you are a die-hard fan of Hyderabadi cuisine and mutton recipes, then this recipe is all you need to satiate your exotic food cravings.",
-        ingredients:["700 gms Mutton",
-        "500 gram Basmati Rice",
-        "2 small Sliced Onions",
-        "2 medium Tomatoes",
-        "2 tbsp Hung Curd",
-        "1 tbsp Ginger Garlic Paste",
-        "1 tsp Red Chilli Powder",
-        "1 tsp Cumin Powder",
-        "1 tsp Turmeric Powder",
-        "to taste Salt",
-        "2 tbsp Lemon Juice",
-        "2 tbsp Chopped Coriander Leaves",
-        "1 tbsp Chopped Mint leaves",
-        "For Garnishing Fried Onions"],
-        steps:["1.Take a large container, add mutton pieces along with curd and ginger garlic paste, red chilli powder, turmeric powder, salt, coriander leaves, chopped green chillies and mix everything well.2.Keep aside for sometime.3.Now take a pressure cook, add oil and heat it then add whole spices like cardamom, cinnamon, cloves and pepper corn. Let it splutter and then add sliced onions.4.Cook until onion turns crisp and brown. Once done, add tomatoes and marinated mutton pieces. Mix again and let it cook until tomatoes turn mushy.5.Add 1 cup water in the pressure cooker along with coriander leaves and green chilli. Then cover the lid and wait until one whistle.6.After that, open the pressure cooker and add basmati rice along with water as required.7.Cover the lid again and wait until 2-3 whistle.8.Serve and enjoy!"],
-    },
+        description:
+          "This tahari recipe is made with succulent mutton pieces dipped in a pool of aromatic spices and of course mushy rice. If you are a die-hard fan of Hyderabadi cuisine and mutton recipes, then this recipe is all you need to satiate your exotic food cravings.",
+        ingredients: [
+          "700 gms Mutton",
+          "500 gram Basmati Rice",
+          "2 small Sliced Onions",
+          "2 medium Tomatoes",
+          "2 tbsp Hung Curd",
+          "1 tbsp Ginger Garlic Paste",
+          "1 tsp Red Chilli Powder",
+          "1 tsp Cumin Powder",
+          "1 tsp Turmeric Powder",
+          "to taste Salt",
+          "2 tbsp Lemon Juice",
+          "2 tbsp Chopped Coriander Leaves",
+          "1 tbsp Chopped Mint leaves",
+          "For Garnishing Fried Onions",
+        ],
+        steps: [
+          "1.Take a large container, add mutton pieces along with curd and ginger garlic paste, red chilli powder, turmeric powder, salt, coriander leaves, chopped green chillies and mix everything well.2.Keep aside for sometime.3.Now take a pressure cook, add oil and heat it then add whole spices like cardamom, cinnamon, cloves and pepper corn. Let it splutter and then add sliced onions.4.Cook until onion turns crisp and brown. Once done, add tomatoes and marinated mutton pieces. Mix again and let it cook until tomatoes turn mushy.5.Add 1 cup water in the pressure cooker along with coriander leaves and green chilli. Then cover the lid and wait until one whistle.6.After that, open the pressure cooker and add basmati rice along with water as required.7.Cover the lid again and wait until 2-3 whistle.8.Serve and enjoy!",
+        ],
+      },
 
-    {
+      {
         subid: 2,
         recipename: "Low Calorie Baingan Chips Recipe",
-        imgfile: "../images/meatrecipe/Low Calorie Baingan Chips Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Low Calorie Baingan Chips Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description:"With so many benefits of brinjal, relishing this vegetable will benefit your health. So, without waiting, let’s dive into the recipe of super easy and healthy baingan chips! Enjoy snacking anytime without any guilt.",
-        ingredients:["1 Nos Brinjal",
-        "Olive oilSalt",
-        "1/2 tsp Pepper",
-        "1/2 tsp Red chilli powder"],
-        steps:["1.Cut brinjal in thin slices.",
-        "2.Spread this out on a baking tray and drizzle very little oil.",
-        "3.Throw in some salt, pepper, and spice and per your taste.",
-        "4.Bake this dish till the chips turn crispy and golden brown.",
-        "5.Enjoy!"],
-    },
+        description:
+          "With so many benefits of brinjal, relishing this vegetable will benefit your health. So, without waiting, let’s dive into the recipe of super easy and healthy baingan chips! Enjoy snacking anytime without any guilt.",
+        ingredients: [
+          "1 Nos Brinjal",
+          "Olive oilSalt",
+          "1/2 tsp Pepper",
+          "1/2 tsp Red chilli powder",
+        ],
+        steps: [
+          "1.Cut brinjal in thin slices.",
+          "2.Spread this out on a baking tray and drizzle very little oil.",
+          "3.Throw in some salt, pepper, and spice and per your taste.",
+          "4.Bake this dish till the chips turn crispy and golden brown.",
+          "5.Enjoy!",
+        ],
+      },
 
-    {
+      {
         subid: 3,
         recipename: "Mutton Chaap fry Recipe",
-        imgfile: "../images/meatrecipe/Mutton Chaap fry Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Mutton Chaap fry Recipe.jpg",
         recipieServe: "2",
         preTime: "15min",
         cookTime: "15min",
         totalTime: "30min",
-        description:"Made with quite a few ingredients and no hassle of lengthy preparations, this crunchy on the outside and juicy on the inside chaap is sure to leave you wanting for more.",
-        ingredients:["500 gms Mutton Chaap pieces",
-        "1/2 cup Hung Curd",
-        "2 tbsp Besan powder",
-        "2 tbsp Rice Flour",
-        "2 tbsp Ginger garlic paste",
-        "1/2 tsp Black pepper powder",
-        "1/2 tsp Dhaniya powder",
-        "1/2 tsp Jeera powder",
-        "1/2 tsp Red chilli powder",
-        "1/2 tsp Chaat masala",
-        "A pinch of Kasuri Methi",
-        "A pinch of Haldi",
-        "Salt as required",
-        "1 tbsp Lemon Juice"],
-        steps:["1.Take the mutton chaap pieces and put it in a cooker along with ginger garlic paste, half of your black pepper powder and some salt. Add half a cup of water and let it cook for 1 whistle.",
-        "2.Open the lid and check if the water is dry, if not then let all the water boil in high flame for another 5-10 mins.",
-        "3.For the coating, in a bowl, take hung curd, besan, rice flour, remaining black pepper powder, all the other masalas along with lime juice and make a smooth runny batter. Add extra water if required.",
-        "4.Add mutton pieces to this batter and coat each and every corner properly, let this sit for 10 mins.",
-        "5.In a pan, heat oil in medium flame and then add mutton pieces one by one.",
-        "6.Fry on each side for at least 3-4 minutes or until golden brown.",
-        "7.Take off the heat and serve hot."],
-    },
+        description:
+          "Made with quite a few ingredients and no hassle of lengthy preparations, this crunchy on the outside and juicy on the inside chaap is sure to leave you wanting for more.",
+        ingredients: [
+          "500 gms Mutton Chaap pieces",
+          "1/2 cup Hung Curd",
+          "2 tbsp Besan powder",
+          "2 tbsp Rice Flour",
+          "2 tbsp Ginger garlic paste",
+          "1/2 tsp Black pepper powder",
+          "1/2 tsp Dhaniya powder",
+          "1/2 tsp Jeera powder",
+          "1/2 tsp Red chilli powder",
+          "1/2 tsp Chaat masala",
+          "A pinch of Kasuri Methi",
+          "A pinch of Haldi",
+          "Salt as required",
+          "1 tbsp Lemon Juice",
+        ],
+        steps: [
+          "1.Take the mutton chaap pieces and put it in a cooker along with ginger garlic paste, half of your black pepper powder and some salt. Add half a cup of water and let it cook for 1 whistle.",
+          "2.Open the lid and check if the water is dry, if not then let all the water boil in high flame for another 5-10 mins.",
+          "3.For the coating, in a bowl, take hung curd, besan, rice flour, remaining black pepper powder, all the other masalas along with lime juice and make a smooth runny batter. Add extra water if required.",
+          "4.Add mutton pieces to this batter and coat each and every corner properly, let this sit for 10 mins.",
+          "5.In a pan, heat oil in medium flame and then add mutton pieces one by one.",
+          "6.Fry on each side for at least 3-4 minutes or until golden brown.",
+          "7.Take off the heat and serve hot.",
+        ],
+      },
 
-    {
+      {
         subid: 4,
         recipename: "Mutton Resha Gosht Recipe",
-        imgfile: "../images/meatrecipe/Mutton Resha Gosht Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Mutton Resha Gosht Recipe.jpg",
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
         totalTime: "40min",
-        description:"The recipe is Mutton resha gosht — shredded mutton mixed with fried potatoes which uses minimum ingredients but taste just exquisite.",
-        ingredients:["250 gms Shredded Mutton",
-        "Medium sized ginger",
-        "5-6 cloves Garlic",
-        "1/2 tsp Ginger garlic paste",
-        "1/2 tsp Haldi powder",
-        "1/2 tsp Red chilli powder",
-        "1/2 tsp Garam Masala",
-        "1/2 tsp Pepper",
-        "Salt as required"],
-        steps:["1.In a pressure cooker add mutton, medium sized ginger, garlic cloves, salt and garam masala. Cook this for 2-3 whistles.",
-        "2.Take off the mutton, remove the ginger garlic and shred the mutton. Keep half cup stock from the cooker for later.",
-        "3.In another pan, heat some oil and add ginger-garlic paste and cook until the raw smell is gone.",
-        "4.To this add shredded mutton, haldi, red chilli powder and pepper powder.",
-        "5.Cook for a while and add the fried potatoes, after some time add the mutton stock.",
-        "6.Cover with lid and let this cook for another 10 mins.",
-        "7.Take off the heat, garnish with chopped chilli and coriander and serve hot."],
-    },
+        description:
+          "The recipe is Mutton resha gosht — shredded mutton mixed with fried potatoes which uses minimum ingredients but taste just exquisite.",
+        ingredients: [
+          "250 gms Shredded Mutton",
+          "Medium sized ginger",
+          "5-6 cloves Garlic",
+          "1/2 tsp Ginger garlic paste",
+          "1/2 tsp Haldi powder",
+          "1/2 tsp Red chilli powder",
+          "1/2 tsp Garam Masala",
+          "1/2 tsp Pepper",
+          "Salt as required",
+        ],
+        steps: [
+          "1.In a pressure cooker add mutton, medium sized ginger, garlic cloves, salt and garam masala. Cook this for 2-3 whistles.",
+          "2.Take off the mutton, remove the ginger garlic and shred the mutton. Keep half cup stock from the cooker for later.",
+          "3.In another pan, heat some oil and add ginger-garlic paste and cook until the raw smell is gone.",
+          "4.To this add shredded mutton, haldi, red chilli powder and pepper powder.",
+          "5.Cook for a while and add the fried potatoes, after some time add the mutton stock.",
+          "6.Cover with lid and let this cook for another 10 mins.",
+          "7.Take off the heat, garnish with chopped chilli and coriander and serve hot.",
+        ],
+      },
 
-    {
+      {
         subid: 5,
         recipename: "Kadaknath Chicken Curry Recipe",
-        imgfile: "../images/meatrecipe/Kadaknath Chicken Curry Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Kadaknath Chicken Curry Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description:"Kadaknath curry is a village style chicken curry recipe made with tender pieces of black chicken and very light masala. It is eaten with a crispy and thin roti so that the flavour and texture of the chicken stand out.",
-        ingredients:["500 Gram Kadaknath chicken",
-        "1 small Onion (chopped)",
-        "1/2 cup Tomato Puree",
-        "2 tsp Ginger-Garlic paste",
-        "2 tsp Sesame Oil",
-        "to taste Salt",
-        "3 tsp podi powder",
-        "1/2 tsp Mustard",
-        "5-6 seeds Fenugreek",
-        "5-6 Curry leaves",
-        "1 tbsp Coconut Paste",
-        "1/2 tsp Turmeric powder"],
-        steps:["1.Heat a pan and add oil, mustard seeds and fenugreek seeds.",
-        "2.When mustard splutters, add curry leaves, chopped onions, salt, turmeric and fry for a few minutes.",
-        "3.When onion turns slightly brown, add ginger-garlic paste and salt, fry for a few seconds (until the raw smell is gone).",
-        "4.Add kadaknath chicken and half a cup of water. Cook the chicken until done, it would take about 12-15 minutes approximately. Add tomatoes once the chicken is cooked.",
-        "5.Add 3 teaspoons of Daily Samayal's special karimasala Podi powder and tomato puree.",
-        "6.Add ground coconut paste to this mixture and allow it cook for another 5-8 minutes.",
-        "7.Allow it to stand for a few minutes and then serve with hot rice or chapatis."],
-    },
+        description:
+          "Kadaknath curry is a village style chicken curry recipe made with tender pieces of black chicken and very light masala. It is eaten with a crispy and thin roti so that the flavour and texture of the chicken stand out.",
+        ingredients: [
+          "500 Gram Kadaknath chicken",
+          "1 small Onion (chopped)",
+          "1/2 cup Tomato Puree",
+          "2 tsp Ginger-Garlic paste",
+          "2 tsp Sesame Oil",
+          "to taste Salt",
+          "3 tsp podi powder",
+          "1/2 tsp Mustard",
+          "5-6 seeds Fenugreek",
+          "5-6 Curry leaves",
+          "1 tbsp Coconut Paste",
+          "1/2 tsp Turmeric powder",
+        ],
+        steps: [
+          "1.Heat a pan and add oil, mustard seeds and fenugreek seeds.",
+          "2.When mustard splutters, add curry leaves, chopped onions, salt, turmeric and fry for a few minutes.",
+          "3.When onion turns slightly brown, add ginger-garlic paste and salt, fry for a few seconds (until the raw smell is gone).",
+          "4.Add kadaknath chicken and half a cup of water. Cook the chicken until done, it would take about 12-15 minutes approximately. Add tomatoes once the chicken is cooked.",
+          "5.Add 3 teaspoons of Daily Samayal's special karimasala Podi powder and tomato puree.",
+          "6.Add ground coconut paste to this mixture and allow it cook for another 5-8 minutes.",
+          "7.Allow it to stand for a few minutes and then serve with hot rice or chapatis.",
+        ],
+      },
 
-    {
+      {
         subid: 6,
         recipename: "Keto Butter Chicken Recipe",
-        imgfile: "../images/meatrecipe/Keto Butter Chicken Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Keto Butter Chicken Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description:"About keto butter chicken : This keto friendly butter chicken recipe is just the right thing if you want something healthy yet delicious. Here creamy gravy is subtly laced with chicken chunks and desi spices.",
-        ingredients:["200 gms Boneless & Skinless Chicken",
-        "10 gram Butter",
-        "1 tsp Kasuri Methi",
-        "100 ml Tomato Puree",
-        "50 ml Heavy Cream",
-        "1 tsp Avocado Oil",
-        "50 ml Water",
-        "1/2 tsp Turmeric Powder",
-        "1/2 tsp Chilli Powder",
-        "1/4 tsp Pepper Powder",
-        "1/2 tsp Coriander powder",
-        "to taste Salt",
-        "2 tsp Chopped coriander leaves"],
-        steps:["1.In a bowl add turmeric Powder, Chilli Powder, Coriander powder and mix well.",
-        "2.Marinate the chicken in this powder and keep for 15 mins.",
-        "3.In a pan, heat the avocado oil, once it's hot, pan fry the chicken for 5 minutes on both sides till it gets fully cooked",
-        "4.In a pan, heat the butter and on melting, add tomato puree and mix well. Add kasuri methi, water and cover with a lid and cook for 5 minutes.",
-        "5.Once tomato puree and oil get split, add heavy cream to this and mix well till everything has emulsified.",
-        "6.Add the prepared chicken to this, add pepper powder and salt, mix well and cover for a min on a low flame",
-        "7.Garnish with chopped coriander leaves and serve with Rice /Roti"],
-    },
+        description:
+          "About keto butter chicken : This keto friendly butter chicken recipe is just the right thing if you want something healthy yet delicious. Here creamy gravy is subtly laced with chicken chunks and desi spices.",
+        ingredients: [
+          "200 gms Boneless & Skinless Chicken",
+          "10 gram Butter",
+          "1 tsp Kasuri Methi",
+          "100 ml Tomato Puree",
+          "50 ml Heavy Cream",
+          "1 tsp Avocado Oil",
+          "50 ml Water",
+          "1/2 tsp Turmeric Powder",
+          "1/2 tsp Chilli Powder",
+          "1/4 tsp Pepper Powder",
+          "1/2 tsp Coriander powder",
+          "to taste Salt",
+          "2 tsp Chopped coriander leaves",
+        ],
+        steps: [
+          "1.In a bowl add turmeric Powder, Chilli Powder, Coriander powder and mix well.",
+          "2.Marinate the chicken in this powder and keep for 15 mins.",
+          "3.In a pan, heat the avocado oil, once it's hot, pan fry the chicken for 5 minutes on both sides till it gets fully cooked",
+          "4.In a pan, heat the butter and on melting, add tomato puree and mix well. Add kasuri methi, water and cover with a lid and cook for 5 minutes.",
+          "5.Once tomato puree and oil get split, add heavy cream to this and mix well till everything has emulsified.",
+          "6.Add the prepared chicken to this, add pepper powder and salt, mix well and cover for a min on a low flame",
+          "7.Garnish with chopped coriander leaves and serve with Rice /Roti",
+        ],
+      },
 
-    {
+      {
         subid: 7,
         recipename: "Lahori Charga Recipe",
-        imgfile: "../images/meatrecipe/Lahori Charga Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Lahori Charga Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description:"About Lahori Charga : It is a well known traditional fried recipe famous in the city Lahore. A whole skinless chicken is coated with a flavor-packed mixture of aromatic spices, ginger, garlic, lemon or lime juice, vinegar, and sometimes yogurt.",
-        ingredients:["1 tsp Turmeric Powder",
-        "1 tsp Red chilli Powder",
-        "2 tsp Coriander Powder",
-        "1 tsp Roasted Cumin Powder",
-        "2 tsp Chicken Masala",
-        "1 tsp Garam Masala",
-        "1/2 tsp Cardamom Powder",
-        "1/4 tsp Nutmeg",
-        "1/2 tsp Black Salt",
-        "1 tsp Chaat Masala",
-        "1 kg Whole chicken",
-        "1 pieces Egg"],
-        steps:["1.Add deep cuts to the breast and legs, wash the chicken well.",
-        "2.Take a bowl and add 2-3 tablespoons of hung curd, juice of one lemon, the acids from the yoghurt and lemon.",
-        "3.Add 1 whole egg , 1 tablespoon of ginger and garlic paste, 1 tbsp green chilli paste, salt and pepper to taste.",
-        "4.Add all the spices powder together.",
-        "5.Lastly, add three tablespoons of mustard oil to the mixture, ,use your hands and massage the chicken for 2-3 minutes continuously.",
-        "6.Use a strong grip tong to place your chicken in hot oil and fry on both sides for 8 mins each.",
-        "7.Sprinkle some chat masala generously along with some lemon juice. Enjoy!"],
-    },
+        description:
+          "About Lahori Charga : It is a well known traditional fried recipe famous in the city Lahore. A whole skinless chicken is coated with a flavor-packed mixture of aromatic spices, ginger, garlic, lemon or lime juice, vinegar, and sometimes yogurt.",
+        ingredients: [
+          "1 tsp Turmeric Powder",
+          "1 tsp Red chilli Powder",
+          "2 tsp Coriander Powder",
+          "1 tsp Roasted Cumin Powder",
+          "2 tsp Chicken Masala",
+          "1 tsp Garam Masala",
+          "1/2 tsp Cardamom Powder",
+          "1/4 tsp Nutmeg",
+          "1/2 tsp Black Salt",
+          "1 tsp Chaat Masala",
+          "1 kg Whole chicken",
+          "1 pieces Egg",
+        ],
+        steps: [
+          "1.Add deep cuts to the breast and legs, wash the chicken well.",
+          "2.Take a bowl and add 2-3 tablespoons of hung curd, juice of one lemon, the acids from the yoghurt and lemon.",
+          "3.Add 1 whole egg , 1 tablespoon of ginger and garlic paste, 1 tbsp green chilli paste, salt and pepper to taste.",
+          "4.Add all the spices powder together.",
+          "5.Lastly, add three tablespoons of mustard oil to the mixture, ,use your hands and massage the chicken for 2-3 minutes continuously.",
+          "6.Use a strong grip tong to place your chicken in hot oil and fry on both sides for 8 mins each.",
+          "7.Sprinkle some chat masala generously along with some lemon juice. Enjoy!",
+        ],
+      },
 
-    {
-        subid:8 ,
+      {
+        subid: 8,
         recipename: "Lamb And Almond Korma Recipe",
-        imgfile: "../images/meatrecipe/Lamb And Almond Korma Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Lamb And Almond Korma Recipe.jpg",
         recipieServe: "2",
         preTime: "25min",
         cookTime: "35min",
         totalTime: "60min",
-        description:"About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
-        ingredients:["1 Kg lamb shoulder cuts",
-        "1 cup onion",
-        "3 tbsp ginger-garlic paste",
-        "2 cup yogurt1 cup almonds (skin removed), blanched",
-        "1 Cinnamon stick",
-        "2 Black cardamom",
-        "3 Green cardamom",
-        "1 tsp cumin powder",
-        "1 tsp coriander powder",
-        "1 tsp turmeric powder",
-        "2 tsp red chilli powderto taste salt",
-        "4 tbsp ghee",
-        "3 cups water"],
-        steps:["1.Heat ghee in a heavy bottomed pan, fry the onions in the ghee till they are golden. Remove onions from the oil.",
-        "2.Add the lamb pieces to the ghee and fry it till they are golden in colour; add the ginger garlic paste and stir fry for 2-3 minutes.",
-        "3.Make a smooth paste of yoghurt and ½ cup of blanched almonds. Add this paste to the lamb and keep on stirring it till oil separates out. Add the fried onions to the lamb.",
-        "4.Reduce the heat, and add water. Cover the pan and let the lamb simmer for an hour or till tender.",
-        "5.Cut the remaining blanched almonds into small pieces and add it to the korma."],
-    },
-    
-    
-    {
+        description:
+          "About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
+        ingredients: [
+          "1 Kg lamb shoulder cuts",
+          "1 cup onion",
+          "3 tbsp ginger-garlic paste",
+          "2 cup yogurt1 cup almonds (skin removed), blanched",
+          "1 Cinnamon stick",
+          "2 Black cardamom",
+          "3 Green cardamom",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1 tsp turmeric powder",
+          "2 tsp red chilli powderto taste salt",
+          "4 tbsp ghee",
+          "3 cups water",
+        ],
+        steps: [
+          "1.Heat ghee in a heavy bottomed pan, fry the onions in the ghee till they are golden. Remove onions from the oil.",
+          "2.Add the lamb pieces to the ghee and fry it till they are golden in colour; add the ginger garlic paste and stir fry for 2-3 minutes.",
+          "3.Make a smooth paste of yoghurt and ½ cup of blanched almonds. Add this paste to the lamb and keep on stirring it till oil separates out. Add the fried onions to the lamb.",
+          "4.Reduce the heat, and add water. Cover the pan and let the lamb simmer for an hour or till tender.",
+          "5.Cut the remaining blanched almonds into small pieces and add it to the korma.",
+        ],
+      },
+
+      {
         subid: 9,
         recipename: "Philly Cheesesteak Recipe",
-        imgfile: "../images/meatrecipe/Philly Cheesesteak Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Philly Cheesesteak Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "15min",
         totalTime: "25min",
-        description:"About Philly Cheesesteak Recipe: Philadelphia, the city in the East Coast of United States is the place where the legendary Cheesesteak originated. This humble long bread roll filled with sautéed meat and melted cheese, topped with some onions, ketchup, mustard and hot or sweet peppers has built a pretty big fan-base for itself. So if you are craving a classic Philadelphia cheesesteak, here's a recipe to help you make it in your own kitchen!",
-        ingredients:["1/2 Cup yellow onion, chopped",
-        "1/3 lb shaved rib-eye steak or chicken, sliced",
-        "2 American cheese slices",
-        "2 tbsp olive oil",
-        "9-inch Italian rollto taste salt and pepper"],
-        steps:["1.In a large saute pan or on a griddle, add oil and heat to medium-high.",
-        "2.Add onions followed by a pinch of salt and pepper. Cook onions until soft (5 minutes), stirring occasionally.",
-        "3.Add the meat and a pinch of salt and pepper. Let each slice cook for roughly 45 seconds, then flip and cook for another 30 seconds.",
-        "4.Add slices of cheese on top of steak and cover to melt cheese (10 seconds).",
-        "5.Transfer steak, onions, and cheese onto sliced Italian roll. Enjoy!"],
-    },
+        description:
+          "About Philly Cheesesteak Recipe: Philadelphia, the city in the East Coast of United States is the place where the legendary Cheesesteak originated. This humble long bread roll filled with sautéed meat and melted cheese, topped with some onions, ketchup, mustard and hot or sweet peppers has built a pretty big fan-base for itself. So if you are craving a classic Philadelphia cheesesteak, here's a recipe to help you make it in your own kitchen!",
+        ingredients: [
+          "1/2 Cup yellow onion, chopped",
+          "1/3 lb shaved rib-eye steak or chicken, sliced",
+          "2 American cheese slices",
+          "2 tbsp olive oil",
+          "9-inch Italian rollto taste salt and pepper",
+        ],
+        steps: [
+          "1.In a large saute pan or on a griddle, add oil and heat to medium-high.",
+          "2.Add onions followed by a pinch of salt and pepper. Cook onions until soft (5 minutes), stirring occasionally.",
+          "3.Add the meat and a pinch of salt and pepper. Let each slice cook for roughly 45 seconds, then flip and cook for another 30 seconds.",
+          "4.Add slices of cheese on top of steak and cover to melt cheese (10 seconds).",
+          "5.Transfer steak, onions, and cheese onto sliced Italian roll. Enjoy!",
+        ],
+      },
 
-    {
+      {
         subid: 10,
         recipename: "Nilgiri Turkey Korma Recipe",
-        imgfile: "../images/meatrecipe/Nilgiri Turkey Korma Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Nilgiri Turkey Korma Recipe.jpg",
         recipieServe: "2",
         preTime: "15min",
         cookTime: "45min",
         totalTime: "60min",
-        description:"About Nilgiri Turkey Korma Recipe: A luscious, creamy turkey korma, made with a melange of spices along with coconut paste and curd.This is a perfect dish to prepare for your next dinner party!",
-        ingredients:["Ingredients of Nilgiri Turkey Korma",
-        "750 gms turkey meat",
-        "100 gms spinach",
-        "1 bunch mint leaves",
-        "2 bunch coriander leaves",
-        "10 Green chilli",
-        "150 gms onions",
-        "250 gms ginger-garlic paste",
-        "1/2 tsp turmeric powder",
-        "10 gms shahi jeera",
-        "100 gms curd",
-        "100 gms coconut paste",
-        "1 tbsp coriander powder",
-        "10 gms garam masala powder",
-        "100 ml oil",
-        "to taste salt",
-        "Water"],
-        steps:["How to Make Nilgiri Turkey Korma",
-        "1.In a cooker, add turkey meat, salt, turmeric powder and water.",
-        "2.Cover with lid and boil it allowing 2 whistles. When the turkey is boiled then put it aside.",
-        "3.In a mixer jar, add spinach leaves, mint leaves, coriander leaves, green chilli, little water and grind it into a fine paste.",
-        "4.In a pan, add oil, then add shahi jeera, chopped onions, ginger garlic paste, and fry for 5 minutes.",
-        "5.Add boiled turkey meat pieces and mix well. Add fresh curry leaves and mix well. Cook for 10 minutes.",
-        "6.After 10 minutes, add coconut paste and mix well. Oil will ooze out.",
-        "7.Add curd, salt to taste, grounded spinach paste and mix well for 5 minutes. Fry until aromatic.",
-        "8.Add 1 glass of water and mix well, then add coriander powder and mix again.",
-        "9.Cover with lid to boil the turkey meat for 10 minutes.",
-        "10.After 10 minutes, open the lid and stir well.",
-        "11.When curry is almost done, add garam masala powder and stir. Add fresh coriander leaves, put in a serving bowl, and serve hot."],
-    },
+        description:
+          "About Nilgiri Turkey Korma Recipe: A luscious, creamy turkey korma, made with a melange of spices along with coconut paste and curd.This is a perfect dish to prepare for your next dinner party!",
+        ingredients: [
+          "Ingredients of Nilgiri Turkey Korma",
+          "750 gms turkey meat",
+          "100 gms spinach",
+          "1 bunch mint leaves",
+          "2 bunch coriander leaves",
+          "10 Green chilli",
+          "150 gms onions",
+          "250 gms ginger-garlic paste",
+          "1/2 tsp turmeric powder",
+          "10 gms shahi jeera",
+          "100 gms curd",
+          "100 gms coconut paste",
+          "1 tbsp coriander powder",
+          "10 gms garam masala powder",
+          "100 ml oil",
+          "to taste salt",
+          "Water",
+        ],
+        steps: [
+          "How to Make Nilgiri Turkey Korma",
+          "1.In a cooker, add turkey meat, salt, turmeric powder and water.",
+          "2.Cover with lid and boil it allowing 2 whistles. When the turkey is boiled then put it aside.",
+          "3.In a mixer jar, add spinach leaves, mint leaves, coriander leaves, green chilli, little water and grind it into a fine paste.",
+          "4.In a pan, add oil, then add shahi jeera, chopped onions, ginger garlic paste, and fry for 5 minutes.",
+          "5.Add boiled turkey meat pieces and mix well. Add fresh curry leaves and mix well. Cook for 10 minutes.",
+          "6.After 10 minutes, add coconut paste and mix well. Oil will ooze out.",
+          "7.Add curd, salt to taste, grounded spinach paste and mix well for 5 minutes. Fry until aromatic.",
+          "8.Add 1 glass of water and mix well, then add coriander powder and mix again.",
+          "9.Cover with lid to boil the turkey meat for 10 minutes.",
+          "10.After 10 minutes, open the lid and stir well.",
+          "11.When curry is almost done, add garam masala powder and stir. Add fresh coriander leaves, put in a serving bowl, and serve hot.",
+        ],
+      },
 
-
-    {
+      {
         subid: 11,
         recipename: "Champaran Mutton Curry Recipe",
-        imgfile: "../images/meatrecipe/Champaran Mutton Curry Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Champaran Mutton Curry Recipe.jpg",
         recipieServe: "2",
         preTime: "25min",
         cookTime: "50min",
         totalTime: "1hrs 15min",
-        description:"About Champaran Mutton Curry Recipe: Succulent mutton chunks marinated and cooked in a pool of spices and herbs, this rich and robust mutton curry hailing from East India is a hit across seasons!",
-        ingredients:["1 Kg mutton",
-        "750 gms onion, sliced",
-        "2 Garlic cloves (crushed)",
-        "6 tbsp ginger-garlic paste",
-        "1 tbsp coriander powder",
-        "1 tbsp turmeric powder",
-        "2 tbsp degi mirch",
-        "2 tbsp Kashmiri mirch",
-        "2 tbsp lemon juice",
-        "150 gms yogurt",
-        "1/2 cup mustard oil",
-        "1 tsp fennel powder",
-        "1 tsp garam masala powder",
-        "10 Cloves",
-        "8 Black peppercorn",
-        "2 inch cinnamon sticks",
-        "1 Bay leaf",
-        "4 tsp cumin seeds",
-        "1 tsp cumin powder, roasted",
-        "Wheat dough (atta, to seal the vessel)",
-        "To taste salt"],
-        steps:["1.Marinate the mutton with 3/4th cup of mustard oil and all the remaining ingredients. Keep it aside for 20 minutes.",
-        "2.Take a big earthen pot or a heavy bottom saucepan. Add the remaining oil and the marinated mutton. Put the lid, and seal the edges with dough.",
-        "3.Cook on low heat and then slowly increase the flame to medium and let the mutton cook for 45-50 minutes.",
-        "4.Take out the dough seal after 45 minutes, check if the oil has come up and the mutton is tender and well-cooked.",
-        "5.Garnish with coriander leaves and serve hot."],
-    },
+        description:
+          "About Champaran Mutton Curry Recipe: Succulent mutton chunks marinated and cooked in a pool of spices and herbs, this rich and robust mutton curry hailing from East India is a hit across seasons!",
+        ingredients: [
+          "1 Kg mutton",
+          "750 gms onion, sliced",
+          "2 Garlic cloves (crushed)",
+          "6 tbsp ginger-garlic paste",
+          "1 tbsp coriander powder",
+          "1 tbsp turmeric powder",
+          "2 tbsp degi mirch",
+          "2 tbsp Kashmiri mirch",
+          "2 tbsp lemon juice",
+          "150 gms yogurt",
+          "1/2 cup mustard oil",
+          "1 tsp fennel powder",
+          "1 tsp garam masala powder",
+          "10 Cloves",
+          "8 Black peppercorn",
+          "2 inch cinnamon sticks",
+          "1 Bay leaf",
+          "4 tsp cumin seeds",
+          "1 tsp cumin powder, roasted",
+          "Wheat dough (atta, to seal the vessel)",
+          "To taste salt",
+        ],
+        steps: [
+          "1.Marinate the mutton with 3/4th cup of mustard oil and all the remaining ingredients. Keep it aside for 20 minutes.",
+          "2.Take a big earthen pot or a heavy bottom saucepan. Add the remaining oil and the marinated mutton. Put the lid, and seal the edges with dough.",
+          "3.Cook on low heat and then slowly increase the flame to medium and let the mutton cook for 45-50 minutes.",
+          "4.Take out the dough seal after 45 minutes, check if the oil has come up and the mutton is tender and well-cooked.",
+          "5.Garnish with coriander leaves and serve hot.",
+        ],
+      },
 
-    {
+      {
         subid: 12,
         recipename: "Lamb Barley Pot Recipe",
-        imgfile: "../images/meatrecipe/Lamb Barley Pot Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Lamb Barley Pot Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description: "Slow cooked lamb, barley loads of garlic and pepper wrapped in whole wheat flour and baked in the oven. Lamb barley pot is a delectable dish to prepare for a dinner party.",
-        ingredients:["100 gms pot barley",
-        "3 medium onions",
-        "worcestershire sauce",
-        "chilli flakes",
-        "mustard seeds",
-        "thick mutton chunks",
-        "8 Thick neck of lamb chops",
-        "water or stock (to cover)",
-        "Salt",
-        "Black pepper (freshly ground)"],
-        steps:["1.Marinate lamb in garlic, worcestershire sauce, lime, salt and pepper. Marinate overnight.",
-        "2.Roast the lamb in the oven for about 20 minutes at 350.",
-        "3.Add the mutton to an oven friendly dish. Add boiled barley, mustard seeds, chili flakes, onions and a mix of Indian spices to the dish.",
-        "4.Cover the dish with a thin sheet of rolled out flour.",
-        "5.Bake in the oven for 15 minutes at 350.",
-        "6.Serve hot."],
-    },
+        description:
+          "Slow cooked lamb, barley loads of garlic and pepper wrapped in whole wheat flour and baked in the oven. Lamb barley pot is a delectable dish to prepare for a dinner party.",
+        ingredients: [
+          "100 gms pot barley",
+          "3 medium onions",
+          "worcestershire sauce",
+          "chilli flakes",
+          "mustard seeds",
+          "thick mutton chunks",
+          "8 Thick neck of lamb chops",
+          "water or stock (to cover)",
+          "Salt",
+          "Black pepper (freshly ground)",
+        ],
+        steps: [
+          "1.Marinate lamb in garlic, worcestershire sauce, lime, salt and pepper. Marinate overnight.",
+          "2.Roast the lamb in the oven for about 20 minutes at 350.",
+          "3.Add the mutton to an oven friendly dish. Add boiled barley, mustard seeds, chili flakes, onions and a mix of Indian spices to the dish.",
+          "4.Cover the dish with a thin sheet of rolled out flour.",
+          "5.Bake in the oven for 15 minutes at 350.",
+          "6.Serve hot.",
+        ],
+      },
 
-    {
+      {
         subid: 13,
         recipename: "Lamb and Chargrilled Bell Pepper Soup Recipe",
-        imgfile: "../images/meatrecipe/Lamb and Chargrilled Bell Pepper Soup Recipe.jpg",    
+        imgfile:
+          "../images/meatrecipe/Lamb and Chargrilled Bell Pepper Soup Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "35min",
         totalTime: "45min",
-        description:"About Lamb and Chargrilled Bell Pepper Soup Recipe: Nothing beats a bowl of fresh, warm soup on a chilly winter evening. This soup is exactly what you need this season. Packed with the goodness of lamb bones, spices and chargrilled bell pepper, serve this right before the dinner.",
-        ingredients:["750 gms lamb bones (preferably shank and shoulder)",
-        "150 gms onions",
-        "150 gms celery",
-        "25 gms ginger",
-        "25 gms garlic",
-        "40 gms carrot",
-        "3 nos chargrilled red/yellow/green bell peppers (quartered)",
-        "60 gms whole spices mix (black pepper, cinnamon, cardamom, clove, bay leaf)",
-        "20 gms salt1 litre water (warm)",
-        "60 ml oil (sunflower or olive"],
-        steps:["1.Add the oil in a stock pot and sauté the onion, ginger and garlic, over medium heat for a few minutes.",
-        "2.Add the whole spices, celery and carrots and chargrilled bell peppers along with the lamb bones. Increase the heat and stir for a while till the bones are browned.",
-        "3.Now add the salt, stir thoroughly and pour in the warm water gradually.",
-        "4.Simmer the contents for an hour over low heat.",
-        "5.Strain through a `muslin’ cloth check the seasoning and serve in bowls garnished with some reserved dices of chargrilled pepper and lamb."],
-    },
+        description:
+          "About Lamb and Chargrilled Bell Pepper Soup Recipe: Nothing beats a bowl of fresh, warm soup on a chilly winter evening. This soup is exactly what you need this season. Packed with the goodness of lamb bones, spices and chargrilled bell pepper, serve this right before the dinner.",
+        ingredients: [
+          "750 gms lamb bones (preferably shank and shoulder)",
+          "150 gms onions",
+          "150 gms celery",
+          "25 gms ginger",
+          "25 gms garlic",
+          "40 gms carrot",
+          "3 nos chargrilled red/yellow/green bell peppers (quartered)",
+          "60 gms whole spices mix (black pepper, cinnamon, cardamom, clove, bay leaf)",
+          "20 gms salt1 litre water (warm)",
+          "60 ml oil (sunflower or olive",
+        ],
+        steps: [
+          "1.Add the oil in a stock pot and sauté the onion, ginger and garlic, over medium heat for a few minutes.",
+          "2.Add the whole spices, celery and carrots and chargrilled bell peppers along with the lamb bones. Increase the heat and stir for a while till the bones are browned.",
+          "3.Now add the salt, stir thoroughly and pour in the warm water gradually.",
+          "4.Simmer the contents for an hour over low heat.",
+          "5.Strain through a `muslin’ cloth check the seasoning and serve in bowls garnished with some reserved dices of chargrilled pepper and lamb.",
+        ],
+      },
 
-    {
+      {
         subid: 14,
         recipename: "Noodle Keema Donut Recipe",
-        imgfile: "../images/meatrecipe/Noodle Keema Donut Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Noodle Keema Donut Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description:"About Noodle Keema Donut Recipe: An interesting savoury donut recipe made of noodles and spices that will instantly spruce up your taste buds. Try this unique snack recipe at your next dinner party and your guests wouldn't be disappointed.",
-        ingredients:["Noodles",
-        "3 Gram Salted butter",
-        "3 Gram Black pepper crush",
-        "100 Gram Lamb mince",
-        "Kitchen king masalaEgg",
-        "30 Gram Fillo pastry",
-        "5 Gram Salted butter",
-        "10 Gram Loroloso",
-        "10 Gram Jalapeno",
-        "15 Gram Mayonnaise"],
-        steps:["1.Heat oil in a pan, sauté garlic till golden brown.",
-        "2.Add the magic masala ad lamb mince.",
-        "3.Roast the lamb mince till fully done.",
-        "4.Add 1/2 cup water and add maggi.",
-        "5.Once the Maggi is done, reduce down the mixture and let cool.",
-        "6.Once mixture is cool enough, arrange a tray with parchment paper.",
-        "7.Shape the mixture, as a donut – individual pieces and let freeze.",
-        "8.Once its cooled wrap it with fillo pastry and keep in fridge.",
-        "9.Pre heat oven at 180-200 degree Celsius.",
-        "10.Apply butter at the bottom of the tray and then place the donuts.",
-        "11.Bake till the skin is golden brown.",
-        "12.Plate accordingly."],
-    },
+        description:
+          "About Noodle Keema Donut Recipe: An interesting savoury donut recipe made of noodles and spices that will instantly spruce up your taste buds. Try this unique snack recipe at your next dinner party and your guests wouldn't be disappointed.",
+        ingredients: [
+          "Noodles",
+          "3 Gram Salted butter",
+          "3 Gram Black pepper crush",
+          "100 Gram Lamb mince",
+          "Kitchen king masalaEgg",
+          "30 Gram Fillo pastry",
+          "5 Gram Salted butter",
+          "10 Gram Loroloso",
+          "10 Gram Jalapeno",
+          "15 Gram Mayonnaise",
+        ],
+        steps: [
+          "1.Heat oil in a pan, sauté garlic till golden brown.",
+          "2.Add the magic masala ad lamb mince.",
+          "3.Roast the lamb mince till fully done.",
+          "4.Add 1/2 cup water and add maggi.",
+          "5.Once the Maggi is done, reduce down the mixture and let cool.",
+          "6.Once mixture is cool enough, arrange a tray with parchment paper.",
+          "7.Shape the mixture, as a donut – individual pieces and let freeze.",
+          "8.Once its cooled wrap it with fillo pastry and keep in fridge.",
+          "9.Pre heat oven at 180-200 degree Celsius.",
+          "10.Apply butter at the bottom of the tray and then place the donuts.",
+          "11.Bake till the skin is golden brown.",
+          "12.Plate accordingly.",
+        ],
+      },
 
-    {
+      {
         subid: 15,
         recipename: "Oyster Lamb Recipe",
-        imgfile: "../images/meatrecipe/Oyster Lamb Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Oyster Lamb Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "15min",
         totalTime: "25min",
-        description:"About Oyster Lamb Recipe: Sliced lamb marinated with dry sherry, sugar and salt, cooked in a spicy oyster sauce and stock along with mushrooms, bokchoy and garlic. A delicious dish to serve at a dinner party.",
-        ingredients:["To marinade Vegetable oil",
-        "20 Gram Garlic",
-        "20 Gram Ginger",
-        "100 Gram Lamb",
-        "50 Ml Stock",
-        "20 Ml Oyster sauce",
-        "20 Ml Dry sherry",
-        "To taste Sugar",
-        "To garnish Celery",
-        "To taste Salt",
-        "20 Gram Bokchoy",
-        "20 Gram Shitake mushroom"],
-        steps:["1.Cut lamb into thin slices and marinade with vegetable oil, dry sherry, sugar and salt.",
-        "2.Heat wok and add oil.",
-        "3.Toss garlic, ginger, bokchoy and mushroom into it. Stir for 2-3 minutes.",
-        "4.Add marinated lamb and stir fry for 3-4 minutes. Add oyster sauce and stock.",
-        "5.Simmer for 1-2 minutes until thick.",
-        "6.Garnish with celery."],
-    },
+        description:
+          "About Oyster Lamb Recipe: Sliced lamb marinated with dry sherry, sugar and salt, cooked in a spicy oyster sauce and stock along with mushrooms, bokchoy and garlic. A delicious dish to serve at a dinner party.",
+        ingredients: [
+          "To marinade Vegetable oil",
+          "20 Gram Garlic",
+          "20 Gram Ginger",
+          "100 Gram Lamb",
+          "50 Ml Stock",
+          "20 Ml Oyster sauce",
+          "20 Ml Dry sherry",
+          "To taste Sugar",
+          "To garnish Celery",
+          "To taste Salt",
+          "20 Gram Bokchoy",
+          "20 Gram Shitake mushroom",
+        ],
+        steps: [
+          "1.Cut lamb into thin slices and marinade with vegetable oil, dry sherry, sugar and salt.",
+          "2.Heat wok and add oil.",
+          "3.Toss garlic, ginger, bokchoy and mushroom into it. Stir for 2-3 minutes.",
+          "4.Add marinated lamb and stir fry for 3-4 minutes. Add oyster sauce and stock.",
+          "5.Simmer for 1-2 minutes until thick.",
+          "6.Garnish with celery.",
+        ],
+      },
 
-    
-        
-    {
+      {
         subid: 16,
         recipename: "Tricolor Dimsums Recipe",
-        imgfile: "../images/meatrecipe/Tricolor Dimsums Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Tricolor Dimsums Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "30min",
         totalTime: "40min",
-        description:"About Tricolor Dimsums Recipe: The most loved food of the far east- dimsum meets the Indian tricolor and creates this delicious dish by Chef Devesh of Lord of the Drinks Meadow.",
-        ingredients:["100 gms thigh minced chicken",
-        "5 gms green chilli",
-        "5 gms fresh coriander",
-        "5 gms oyster sauce",
-        "5 gms sesame oil",
-        "to taste salt",
-        "2 gms broth powder2 gms white pepper powder"],
-        steps:["1.Take minced chicken in a bowl, add chilly, coriander, oyster sauce and seasoning.",
-        "2.Mix it properly then make dough of dimsums with flour and milk.",
-        "3.Make it smoothly, take small balls and spread.",
-        "4.Put the filling in dough and steam well for 4 minutes and serve it hot."],
-    },
+        description:
+          "About Tricolor Dimsums Recipe: The most loved food of the far east- dimsum meets the Indian tricolor and creates this delicious dish by Chef Devesh of Lord of the Drinks Meadow.",
+        ingredients: [
+          "100 gms thigh minced chicken",
+          "5 gms green chilli",
+          "5 gms fresh coriander",
+          "5 gms oyster sauce",
+          "5 gms sesame oil",
+          "to taste salt",
+          "2 gms broth powder2 gms white pepper powder",
+        ],
+        steps: [
+          "1.Take minced chicken in a bowl, add chilly, coriander, oyster sauce and seasoning.",
+          "2.Mix it properly then make dough of dimsums with flour and milk.",
+          "3.Make it smoothly, take small balls and spread.",
+          "4.Put the filling in dough and steam well for 4 minutes and serve it hot.",
+        ],
+      },
 
-    {
+      {
         subid: 17,
         recipename: "Safed Maas Recipe",
-        imgfile: "../images/meatrecipe/Safed Maas Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Safed Maas Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "45min",
         totalTime: "55min",
-        description:"Relish the creamy texture, nutty aroma and subtle spices of this authentic Rajasthani meat curry. Meat is boiled and cooked with masalas, almond-cashew paste and a generous helping of cream, milk and curd.",
-        ingredients:["200 gm meat",
-        "2 Tbsp clarified butter",
-        "2 cinnamon sticks",
-        "1/4 tsp cumin seeds",
-        "1 cassia leaf",
-        "4 cardamom",
-        "4 Tbsp of onion paste",
-        "2 tsp ginger garlic paste",
-        "2 Tbsp almond-cashew nut paste",
-        "2 tsp yoghurt",
-        "2 Tbsp milk",
-        "1 tsp cream",
-        "Salt to taste"],
-        steps:["1.Grind together onions to a fine paste.",
-        "2.Add salt.",
-        "3.Blanch almonds and cashew nuts.",
-        "4.Grind them to make a smooth paste.",
-        "5.For the main preparation:",
-        "6.Partially boil the meat and keep aside.",
-        "7.Heat clarified butter in pan.",
-        "8.Add cinnamon, cumin seeds, cassia leaf and cardamom.",
-        "9.Cook till the cumin seeds start crackling.",
-        "10.Then add onion paste, ginger garlic paste, salt, semi boiled meat, almond and cashew nut paste, curd, milk and cream.",
-        "11.Mix well.",
-        "12.Garnish with cream and coriander leaves.",
-        "13.Serve hot with rice."],
-    },
+        description:
+          "Relish the creamy texture, nutty aroma and subtle spices of this authentic Rajasthani meat curry. Meat is boiled and cooked with masalas, almond-cashew paste and a generous helping of cream, milk and curd.",
+        ingredients: [
+          "200 gm meat",
+          "2 Tbsp clarified butter",
+          "2 cinnamon sticks",
+          "1/4 tsp cumin seeds",
+          "1 cassia leaf",
+          "4 cardamom",
+          "4 Tbsp of onion paste",
+          "2 tsp ginger garlic paste",
+          "2 Tbsp almond-cashew nut paste",
+          "2 tsp yoghurt",
+          "2 Tbsp milk",
+          "1 tsp cream",
+          "Salt to taste",
+        ],
+        steps: [
+          "1.Grind together onions to a fine paste.",
+          "2.Add salt.",
+          "3.Blanch almonds and cashew nuts.",
+          "4.Grind them to make a smooth paste.",
+          "5.For the main preparation:",
+          "6.Partially boil the meat and keep aside.",
+          "7.Heat clarified butter in pan.",
+          "8.Add cinnamon, cumin seeds, cassia leaf and cardamom.",
+          "9.Cook till the cumin seeds start crackling.",
+          "10.Then add onion paste, ginger garlic paste, salt, semi boiled meat, almond and cashew nut paste, curd, milk and cream.",
+          "11.Mix well.",
+          "12.Garnish with cream and coriander leaves.",
+          "13.Serve hot with rice.",
+        ],
+      },
 
-    {
+      {
         subid: 18,
         recipename: "Bhuni Raan Recipe",
-        imgfile: "../images/meatrecipe/Bhuni Raan Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Bhuni Raan Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "1hrs 10min",
         totalTime: "1hrs 20min",
-        description:"About Bhuni Raan Recipe: A tempting mutton dish with fried mutton leg served with roasted potatoes and fresh steamed vegetables. This zesty mutton dish is a must try for all meat lovers.",
-        ingredients:["1 1/2 Kg Mutton leg",
-        "4 Tbsp Oil",
-        "2 tsp Salt",
-        "1/2 Cup Malt vinegar",
-        "5 cm Ginger piece (ground into paste)",
-        "8-10 Garlic cloves (ground into paste)",
-        "1 tsp Cumin powder",
-        "2 tsp Coriander powder",
-        "1 tsp Garam masala",
-        "1 tsp Red chilli powder",
-        "1 Cup Yogurt"],
-        steps:["1.Marinate the meat.",
-        "2.Make more slits if required to allow the marinade seep into the meat.",
-        "3.Keep aside for 6-8 hours.",
-        "4.Heat oil in a kadahi, add mutton leg along with the marinade and cook for about 20 minutes.",
-        "5.Pressure cook for 30 minutes.",
-        "6.Turn off the heat and allow the pressure to drop on its own.",
-        "7.Serve with roasted potatoes and steamed fresh seasonal vegetables."],
-    },
+        description:
+          "About Bhuni Raan Recipe: A tempting mutton dish with fried mutton leg served with roasted potatoes and fresh steamed vegetables. This zesty mutton dish is a must try for all meat lovers.",
+        ingredients: [
+          "1 1/2 Kg Mutton leg",
+          "4 Tbsp Oil",
+          "2 tsp Salt",
+          "1/2 Cup Malt vinegar",
+          "5 cm Ginger piece (ground into paste)",
+          "8-10 Garlic cloves (ground into paste)",
+          "1 tsp Cumin powder",
+          "2 tsp Coriander powder",
+          "1 tsp Garam masala",
+          "1 tsp Red chilli powder",
+          "1 Cup Yogurt",
+        ],
+        steps: [
+          "1.Marinate the meat.",
+          "2.Make more slits if required to allow the marinade seep into the meat.",
+          "3.Keep aside for 6-8 hours.",
+          "4.Heat oil in a kadahi, add mutton leg along with the marinade and cook for about 20 minutes.",
+          "5.Pressure cook for 30 minutes.",
+          "6.Turn off the heat and allow the pressure to drop on its own.",
+          "7.Serve with roasted potatoes and steamed fresh seasonal vegetables.",
+        ],
+      },
 
-    {
+      {
         subid: 19,
         recipename: "Barrah Kebab Recipe",
-        imgfile: "../images/meatrecipe/Barrah Kebab Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Barrah Kebab Recipe.jpg",
         recipieServe: "2",
         preTime: "5min",
         cookTime: "30min",
         totalTime: "35min",
-        description:"Mutton ribs are marinated leisurely with spices and grilled golden.",
-        ingredients:["500 gm mutton ribs",
-        "1 tsp ginger paste",
-        "1 tsp garlic paste",
-        "4 each of cloves, green cardamoms, pepper corns, a tiny piece of cinnamon, all powdered together",
-        "1/4 cup hung curd",
-        "1 tsp salt or according to taste"],
-        steps:["1.Pierce the meat and marinate in the rest of the ingredients for 6-7 hours or overnight.",
-        "2.Heat a bar-b-que or grill and cook, turning 3-4 times for 20 minutes or till tender.",
-        "3.Serve hot garnished with lemon and onions."],
-    },
+        description:
+          "Mutton ribs are marinated leisurely with spices and grilled golden.",
+        ingredients: [
+          "500 gm mutton ribs",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "4 each of cloves, green cardamoms, pepper corns, a tiny piece of cinnamon, all powdered together",
+          "1/4 cup hung curd",
+          "1 tsp salt or according to taste",
+        ],
+        steps: [
+          "1.Pierce the meat and marinate in the rest of the ingredients for 6-7 hours or overnight.",
+          "2.Heat a bar-b-que or grill and cook, turning 3-4 times for 20 minutes or till tender.",
+          "3.Serve hot garnished with lemon and onions.",
+        ],
+      },
 
-    {
+      {
         subid: 20,
         recipename: "Gosht Ke Sev (Mutton Kebab) Recipe",
-        imgfile: "../images/meatrecipe/Gosht Ke Sev Recipe.jpg",    
+        imgfile: "../images/meatrecipe/Gosht Ke Sev Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "1hrs",
         totalTime: "1hrs 10min",
-        description:"Crispy minced meat nuggets mixed with ginger-garlic paste and a mild seasoning are served on a bed of cucumbers and crunchy onions.",
-        ingredients:["1/2 kg boneless meat - cut into 2 inch pieces",
-        "Salt",
-        "1/4 tsp turmeric powder",
-        "1/2 tsp ginger paste",
-        "1/2 tsp garlic paste",
-        "1/2 tsp red chilli powder",
-        "For cucumber salad:",
-        "1 cucumber, peeled and sliced",
-        "1 small onion, sliced into rings",
-        "1 sweet lime/orange, peeled and sliced",
-        "2 Tbsp orange juice",
-        "2 Tbsp oil",
-        "2 Tbsp chopped mint",
-        "1/2 tsp suga",
-        "rSalt and pepper"],
-        steps:["1.Cook the meat with salt, turmeric, ginger and garlic paste in just enough water to cover.",
-        "2.Simmer till the meat is tender.",
-        "3.Cool and shred the meat.",
-        "4.Heat oil in a large pan.",
-        "5.Fry the meat until colored, crisp and completely dry.",
-        "6.Sprinkle with chilli powder before serving on a bed of salad.",
-        "7.For the salad, arrange cucumber, onion and sweet lime on a plate.",
-        "8.Combine remaining ingredients and pour over the salad."],
-    },
-
-    ]
+        description:
+          "Crispy minced meat nuggets mixed with ginger-garlic paste and a mild seasoning are served on a bed of cucumbers and crunchy onions.",
+        ingredients: [
+          "1/2 kg boneless meat - cut into 2 inch pieces",
+          "Salt",
+          "1/4 tsp turmeric powder",
+          "1/2 tsp ginger paste",
+          "1/2 tsp garlic paste",
+          "1/2 tsp red chilli powder",
+          "For cucumber salad:",
+          "1 cucumber, peeled and sliced",
+          "1 small onion, sliced into rings",
+          "1 sweet lime/orange, peeled and sliced",
+          "2 Tbsp orange juice",
+          "2 Tbsp oil",
+          "2 Tbsp chopped mint",
+          "1/2 tsp suga",
+          "rSalt and pepper",
+        ],
+        steps: [
+          "1.Cook the meat with salt, turmeric, ginger and garlic paste in just enough water to cover.",
+          "2.Simmer till the meat is tender.",
+          "3.Cool and shred the meat.",
+          "4.Heat oil in a large pan.",
+          "5.Fry the meat until colored, crisp and completely dry.",
+          "6.Sprinkle with chilli powder before serving on a bed of salad.",
+          "7.For the salad, arrange cucumber, onion and sweet lime on a plate.",
+          "8.Combine remaining ingredients and pour over the salad.",
+        ],
+      },
+    ],
   },
 
   // 6
@@ -3461,680 +3519,733 @@ export const Data = [
     id: 6,
     imgsrc: "../images/seafood/Fish tikka Recipe.jpg",
     name: "Seafood Recipe",
-    link: "/seafood",
+    link: "/recipes/seafood",
     info: "Perk up your poultry with our top chicken recipes. We've got you covered whether it's a traditional roast, a flavourful curry or a comforting pie ",
     recipies: [
       {
         subid: 1,
         recipename: "Fish tikka Recipe",
-        imgfile: "../images/seafood/Fish tikka Recipe.jpg",    
+        imgfile: "../images/seafood/Fish tikka Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description:"Fingerlicking good, zesty and filled with a burst of flavors. The Tandoori Fish Tikka is an extremely popular dish from the northern part of India.",
-        ingredients:[
-        "1 Cup Thick yogurt",
-        "4 tbsp Oil",
-        "1 Onion paste",
-        "1 tbsp Ginger Paste",
-        "1 tbsp Garlic Paste",
-        "4 tbsp Lemon Juice",
-        "1/2 tsp Turmeric",
-        "1 tsp Coriander Powder",
-        "1 tsp Cumin Powder",
-        "1/4 tsp Nutmeg Powder",
-        "1 tbsp Red Chili Powder",
-        "to taste Salt",
-        "Fresh Coriander for garnish"],
-        steps:[
-        "1.In a large bowl, add all the marinade ingredients and whisk to a smooth paste.",
-        "2.Now add the powdered spices and whisk everything evenly.",
-        "3.Add the fish fillet to the marinade, using your hand evenly, coat both sides.",
-        "4.Cover the marinated bowl with a lid and refrigerate for an hour.",
-        "5.Skewer the fish and put some coriander on it.",
-        "6.Cook for 10-15 minutes.",
-        "7.Serve hot with green chutney."],
-    },
+        description:
+          "Fingerlicking good, zesty and filled with a burst of flavors. The Tandoori Fish Tikka is an extremely popular dish from the northern part of India.",
+        ingredients: [
+          "1 Cup Thick yogurt",
+          "4 tbsp Oil",
+          "1 Onion paste",
+          "1 tbsp Ginger Paste",
+          "1 tbsp Garlic Paste",
+          "4 tbsp Lemon Juice",
+          "1/2 tsp Turmeric",
+          "1 tsp Coriander Powder",
+          "1 tsp Cumin Powder",
+          "1/4 tsp Nutmeg Powder",
+          "1 tbsp Red Chili Powder",
+          "to taste Salt",
+          "Fresh Coriander for garnish",
+        ],
+        steps: [
+          "1.In a large bowl, add all the marinade ingredients and whisk to a smooth paste.",
+          "2.Now add the powdered spices and whisk everything evenly.",
+          "3.Add the fish fillet to the marinade, using your hand evenly, coat both sides.",
+          "4.Cover the marinated bowl with a lid and refrigerate for an hour.",
+          "5.Skewer the fish and put some coriander on it.",
+          "6.Cook for 10-15 minutes.",
+          "7.Serve hot with green chutney.",
+        ],
+      },
 
-
-    {
+      {
         subid: 2,
         recipename: "Pomfret Pulimunchi Recipe",
-        imgfile: "../images/seafood/Pomfret Pulimunchi Recipe.jpg",    
+        imgfile: "../images/seafood/Pomfret Pulimunchi Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description:"If you are ready to taste the flavours of Mangalorean cuisine on your plates, get yourself some basic masalas, a good sized pomfret and get started.",
-        ingredients:[
-        "2 Cleaned Pomfret fish",
-        "5-8 Dried red chilli",
-        "8-9 Garlic",
-        "2 Tbsp Lime juice",
-        "2 Tbsp Tamarind pulp/vinegar",
-        "1 Tbsp Paprika powder",
-        "1 Tbsp Salt1 Tbsp Haldi",
-        "1 tsp Black Pepper",
-        "1 tsp Jeera powder",
-        "1/2 tsp Asofetida",
-        "Coconut oil for frying"],
-        steps:[
-        "1.Make light slits on both sides of the fish.",
-        "2.Prepare first marinade, a mixture of salt, half of your haldi and red chilli powder. To this add lime juice.",
-        "3.Put this marinade all the over the fish properly and try stuffing the slits too.",
-        "4.Put this in the refrigerator for 30 mins.",
-        "5.For 2nd marinade, soak red chilli in water for 10 mins.",
-        "6.In a grinder, add soaked red chilli, garlic, remaining haldi and paprika powder, salt, asofetida, jeera powder, black pepper and tamarind pulp and make fine paste.",
-        "7.Take the fish out of the fridge and apply some of the 2nd marinade and let it sit for 15 mins more.",
-        "8.Now in a pan heat coconut oil, fry the fish for 5 mins on each side on a low flame.",
-        "9.Remove fish from the pan, in the same pan add the remaining marinade and cook the gravy until it leaves some oil.",
-        "10.Finally add the fried fish, coat it with the gravy and serve hot. Enjoy as it is or with rice, dosa, biryani etc."],
-    },
+        description:
+          "If you are ready to taste the flavours of Mangalorean cuisine on your plates, get yourself some basic masalas, a good sized pomfret and get started.",
+        ingredients: [
+          "2 Cleaned Pomfret fish",
+          "5-8 Dried red chilli",
+          "8-9 Garlic",
+          "2 Tbsp Lime juice",
+          "2 Tbsp Tamarind pulp/vinegar",
+          "1 Tbsp Paprika powder",
+          "1 Tbsp Salt1 Tbsp Haldi",
+          "1 tsp Black Pepper",
+          "1 tsp Jeera powder",
+          "1/2 tsp Asofetida",
+          "Coconut oil for frying",
+        ],
+        steps: [
+          "1.Make light slits on both sides of the fish.",
+          "2.Prepare first marinade, a mixture of salt, half of your haldi and red chilli powder. To this add lime juice.",
+          "3.Put this marinade all the over the fish properly and try stuffing the slits too.",
+          "4.Put this in the refrigerator for 30 mins.",
+          "5.For 2nd marinade, soak red chilli in water for 10 mins.",
+          "6.In a grinder, add soaked red chilli, garlic, remaining haldi and paprika powder, salt, asofetida, jeera powder, black pepper and tamarind pulp and make fine paste.",
+          "7.Take the fish out of the fridge and apply some of the 2nd marinade and let it sit for 15 mins more.",
+          "8.Now in a pan heat coconut oil, fry the fish for 5 mins on each side on a low flame.",
+          "9.Remove fish from the pan, in the same pan add the remaining marinade and cook the gravy until it leaves some oil.",
+          "10.Finally add the fried fish, coat it with the gravy and serve hot. Enjoy as it is or with rice, dosa, biryani etc.",
+        ],
+      },
 
-    {
+      {
         subid: 3,
         recipename: "Andhra Pan Fried Pomfret Recipe",
-        imgfile: "../images/seafood/Andhra Pan Fried Pomfret Recipe.jpg",    
+        imgfile: "../images/seafood/Andhra Pan Fried Pomfret Recipe.jpg",
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
         totalTime: "40min",
-        description:"About Andhra Pan Fried Pomfret Recipe: An absolutely flavourful fish recipe for all those who love to dive into succulent spicy pomfret. And what's better than an Andhra style pomfret recipe that you can prepare at home too? Here is a quick and super easy pan fried pomfret packed with a host of spices and a tang of lime along with a crispy crust and succulent inside.",
-        ingredients:[
-        "300 gms white pomfret fish",
-        "3 tsp sunflower refined ooil",
-        "1 tsp red chilli powder",
-        "1 tsp salt",
-        "1 tsp turmeric powder",
-        "1 tsp ginger-garlic paste",
-        "2 Lemon (juiced)",
-        "1 tsp cumin powder",
-        "1 tsp coriander powder",
-        "1 tsp garam masala",
-        "2 Green chilli",
-        "1 gram curry leaves",
-        "2 gram coriander, chopped"],
-        steps:[
-        "1.Wash and clean the pomfret fish and make gashes on both sides of the skin.",
-        "2.Apply the masala paste on the fish making sure to push the masala inside the gashes. Let it marinate for about 20 minutes.",
-        "3.Heat vegetable oil in a non-stick pan until really hot. When the oil is hot, gently place the pomfret and fry for 1-2 minutes on one side.",
-        "4.After 2 minutes, carefully flip the fish and cook on the other side for another 1-2 minutes.",
-        "5.Remove from non-stick pan. Squeeze some lemon juice, red chilli powder, fresh coriander and fried curry leaves on the fish and serve hot alongside some sliced onion rings and lemon wedges."],
-    },
+        description:
+          "About Andhra Pan Fried Pomfret Recipe: An absolutely flavourful fish recipe for all those who love to dive into succulent spicy pomfret. And what's better than an Andhra style pomfret recipe that you can prepare at home too? Here is a quick and super easy pan fried pomfret packed with a host of spices and a tang of lime along with a crispy crust and succulent inside.",
+        ingredients: [
+          "300 gms white pomfret fish",
+          "3 tsp sunflower refined ooil",
+          "1 tsp red chilli powder",
+          "1 tsp salt",
+          "1 tsp turmeric powder",
+          "1 tsp ginger-garlic paste",
+          "2 Lemon (juiced)",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1 tsp garam masala",
+          "2 Green chilli",
+          "1 gram curry leaves",
+          "2 gram coriander, chopped",
+        ],
+        steps: [
+          "1.Wash and clean the pomfret fish and make gashes on both sides of the skin.",
+          "2.Apply the masala paste on the fish making sure to push the masala inside the gashes. Let it marinate for about 20 minutes.",
+          "3.Heat vegetable oil in a non-stick pan until really hot. When the oil is hot, gently place the pomfret and fry for 1-2 minutes on one side.",
+          "4.After 2 minutes, carefully flip the fish and cook on the other side for another 1-2 minutes.",
+          "5.Remove from non-stick pan. Squeeze some lemon juice, red chilli powder, fresh coriander and fried curry leaves on the fish and serve hot alongside some sliced onion rings and lemon wedges.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 4,
         recipename: "Malabari Fish Curry Recipe",
-        imgfile: "../images/seafood/Malabari Fish Curry Recipe.jpg",    
+        imgfile: "../images/seafood/Malabari Fish Curry Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description:"About Malabari Fish Curry Recipe: Assorted with a blend of spices and fresh vegetables, Malabari fish curry comes straight from the lush green areas of India, this dish will be a perfect fit for a seafood lover’s appetite. Try this recipe to relish the taste of Wayanad, Kerala.",
-        ingredients:[
-        "100 gms sear fish",
-        "50 gms coconut, grated",
-        "1/4 inch ginger",
-        "1/2 cup pureed tamarind",
-        "1 tsp salt",
-        "1/4 tsp powdered turmeric",
-        "2 small green chillies",
-        "1/2 tsp red chilli powder",
-        "2 tbsp shallots, finely chopped"],
-        steps:[
-        "1.Grind the coconut and turmeric powder with some water to form a fine paste.",
-        "2.Combine the tamarind extract, red chilli powder, ginger, salt and green chillies in a pan. Add the ground coconut paste and mix well. Place the pan over medium flame.",
-        "3.Simmer for two minutes. Add fish and salt. Cook for a few minutes till the mixture starts to harden.",
-        "4.Fry the tempering ingredients in coconut oil and add to the fish. Add the onions and stir gently. Remove after a minute. Serve hot with rice."],
-    },
+        description:
+          "About Malabari Fish Curry Recipe: Assorted with a blend of spices and fresh vegetables, Malabari fish curry comes straight from the lush green areas of India, this dish will be a perfect fit for a seafood lover’s appetite. Try this recipe to relish the taste of Wayanad, Kerala.",
+        ingredients: [
+          "100 gms sear fish",
+          "50 gms coconut, grated",
+          "1/4 inch ginger",
+          "1/2 cup pureed tamarind",
+          "1 tsp salt",
+          "1/4 tsp powdered turmeric",
+          "2 small green chillies",
+          "1/2 tsp red chilli powder",
+          "2 tbsp shallots, finely chopped",
+        ],
+        steps: [
+          "1.Grind the coconut and turmeric powder with some water to form a fine paste.",
+          "2.Combine the tamarind extract, red chilli powder, ginger, salt and green chillies in a pan. Add the ground coconut paste and mix well. Place the pan over medium flame.",
+          "3.Simmer for two minutes. Add fish and salt. Cook for a few minutes till the mixture starts to harden.",
+          "4.Fry the tempering ingredients in coconut oil and add to the fish. Add the onions and stir gently. Remove after a minute. Serve hot with rice.",
+        ],
+      },
 
-
-
-    {
-        subid: 5, 
+      {
+        subid: 5,
         recipename: "Korean Bibimbap Recipe",
-        imgfile: "../images/seafood/Korean Bibimbap Recipe.jpg",    
+        imgfile: "../images/seafood/Korean Bibimbap Recipe.jpg",
         recipieServe: "2",
         preTime: "20min",
         cookTime: "20min",
         totalTime: "40min",
-        description:"About Korean Bibimbap Recipe: A popular Korean rice dish, Bibimbap traditionally means mixing various ingredients with rice. It has many variations both vegetarian and non-vegetarian. Here is a quick and easy recipe with chicken and prawns along with veggies and spices mixed with jasmine rice along with the famous gochujang sauce.",
-        ingredients:[
-        "20 gms carrot, julienne",
-        "20 gms yellow and green zucchini",
-        "20 gms bell pepper",
-        "20 gms pok choy",
-        "15 gms spinach",
-        "20 gms chicken, julienne",
-        "20 gms prawns",
-        "300 gms jasmine rice",
-        "10 ml soya sauce",
-        "5 ml sesame oil",
-        "2 gms pepper",
-        "to taste salt",
-        "10 gms garlic",
-        "5 gms ginger",
-        "3 nos egg",
-        "For Gochujang Sauce:",
-        "45 gms gochujang paste",
-        "10 gms garlic",
-        "10 gms chilli paste",
-        "6 gms sugar"],
-        steps:[
-        "1.Heat oil, sauté ginger, add raw jasmine rice, sauté for 30 seconds, add 100 ml of chicken stock and cook it covered for 20 minutes.",
-        "2.Sauté all veggies (cut into Julienne), chicken and prawn separately with garlic, sesame oil and light soya, Crushed pepper.",
-        "3.Prepare the sauce by heating a wok with oil, add garlic, chilli paste and gochujang paste, add little chicken stock, and adjust seasoning as required.",
-        "4.Cook eggs, sunny side up.5.Assemble by placing the rice in the stone bowl, topped with sautéed veg, chicken and prawns. Top with fried egg. Serve with gochujang sauce on side."],
-    },
+        description:
+          "About Korean Bibimbap Recipe: A popular Korean rice dish, Bibimbap traditionally means mixing various ingredients with rice. It has many variations both vegetarian and non-vegetarian. Here is a quick and easy recipe with chicken and prawns along with veggies and spices mixed with jasmine rice along with the famous gochujang sauce.",
+        ingredients: [
+          "20 gms carrot, julienne",
+          "20 gms yellow and green zucchini",
+          "20 gms bell pepper",
+          "20 gms pok choy",
+          "15 gms spinach",
+          "20 gms chicken, julienne",
+          "20 gms prawns",
+          "300 gms jasmine rice",
+          "10 ml soya sauce",
+          "5 ml sesame oil",
+          "2 gms pepper",
+          "to taste salt",
+          "10 gms garlic",
+          "5 gms ginger",
+          "3 nos egg",
+          "For Gochujang Sauce:",
+          "45 gms gochujang paste",
+          "10 gms garlic",
+          "10 gms chilli paste",
+          "6 gms sugar",
+        ],
+        steps: [
+          "1.Heat oil, sauté ginger, add raw jasmine rice, sauté for 30 seconds, add 100 ml of chicken stock and cook it covered for 20 minutes.",
+          "2.Sauté all veggies (cut into Julienne), chicken and prawn separately with garlic, sesame oil and light soya, Crushed pepper.",
+          "3.Prepare the sauce by heating a wok with oil, add garlic, chilli paste and gochujang paste, add little chicken stock, and adjust seasoning as required.",
+          "4.Cook eggs, sunny side up.5.Assemble by placing the rice in the stone bowl, topped with sautéed veg, chicken and prawns. Top with fried egg. Serve with gochujang sauce on side.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 6,
         recipename: "Tulsi Ajwain Ka Mahi Tikka Recipe",
-        imgfile: "../images/seafood/Tulsi Ajwain Ka Mahi Tikka Recipe.jpg",    
+        imgfile: "../images/seafood/Tulsi Ajwain Ka Mahi Tikka Recipe.jpg",
         recipieServe: "2",
         preTime: "15min",
         cookTime: "1hrs 45min",
         totalTime: "2hrs",
-        description:"About Tulsi Ajwain Ka Mahi Tikka Recipe: A mouth watering fish tikka recipe, Tulsi Ajwain ka Mahi Tikka is an easy starter recipe, prepare with simple ingredients. You can prepare this as an appetizer for a dinner party. Flavourful tikkas laced with a host of spices, chillies, basil paste and ajwain, baked to perfect golden. Serve these delicious tikkas topped with lemon juice along with mint chutney.",
-        ingredients:["600 gms river sole fish",
-        "100 gms basi",
-        "l paste",
-        "15 gms ajwain",
-        "100 gms ginger and garlic paste",
-        "50 gms green chilli paste",
-        "40 gms garam masala powder",
-        "10 gms cardamom powder",
-        "200 gms hung curd",
-        "50 gms dairy cream",
-        "to taste salt",
-        "50 ml mustard oil",
-        "10 gms kasuri methi",
-        "10 ml lemon juice"],
-        steps:["1.Wash and clean the fish. Cut it into tikka cut. Mix salt, ginger, garlic and lemon juice and keep it aside for at least 30 minutes.",
-        "2.Mix all the spices with hung curd and mix it well.",
-        "3.Add the fish and let it marinate for 1 hour.",
-        "4.Arrange the skewers across the clay oven about 4-5 inches from the heat. Turn it regularly until it turns light brown in color. Cook it for 7-10 minutes.",
-        "5.Baste it with oil and leave it for 10 minutes. Again, cook it until it turns golden brown.",
-        "6.Remove it from tandoor and apply fresh lemon juice.",
-        "7.Serve hot with mint chutney."],
-    },
+        description:
+          "About Tulsi Ajwain Ka Mahi Tikka Recipe: A mouth watering fish tikka recipe, Tulsi Ajwain ka Mahi Tikka is an easy starter recipe, prepare with simple ingredients. You can prepare this as an appetizer for a dinner party. Flavourful tikkas laced with a host of spices, chillies, basil paste and ajwain, baked to perfect golden. Serve these delicious tikkas topped with lemon juice along with mint chutney.",
+        ingredients: [
+          "600 gms river sole fish",
+          "100 gms basi",
+          "l paste",
+          "15 gms ajwain",
+          "100 gms ginger and garlic paste",
+          "50 gms green chilli paste",
+          "40 gms garam masala powder",
+          "10 gms cardamom powder",
+          "200 gms hung curd",
+          "50 gms dairy cream",
+          "to taste salt",
+          "50 ml mustard oil",
+          "10 gms kasuri methi",
+          "10 ml lemon juice",
+        ],
+        steps: [
+          "1.Wash and clean the fish. Cut it into tikka cut. Mix salt, ginger, garlic and lemon juice and keep it aside for at least 30 minutes.",
+          "2.Mix all the spices with hung curd and mix it well.",
+          "3.Add the fish and let it marinate for 1 hour.",
+          "4.Arrange the skewers across the clay oven about 4-5 inches from the heat. Turn it regularly until it turns light brown in color. Cook it for 7-10 minutes.",
+          "5.Baste it with oil and leave it for 10 minutes. Again, cook it until it turns golden brown.",
+          "6.Remove it from tandoor and apply fresh lemon juice.",
+          "7.Serve hot with mint chutney.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 7,
         recipename: "Portugese Fish Stew Recipe",
-        imgfile: "../images/seafood/Portugese Fish Stew Recipe.jpg",    
+        imgfile: "../images/seafood/Portugese Fish Stew Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description:"About Portugese Fish Stew Recipe: A delectable treat to prepare on weekends and holiday season. This Portugese fish stew is an easy and simple recipe to prepare for a brunch or light side dish for dinner. Potatoes, fish fillet, shrimps, few veggies along with white wine and spices come together to form this delicious stew that you can serve with cooked rice.",
-        ingredients:["1 Kg sole fillet (you can also do 2/3 types of fish)",
-        "5-10 large large shrimps (optional)",
-        "1 kg potatoes (peeled), sliced",
-        "3 onions (cut into slices)",
-        "5 garlic cloves, chopped",
-        "1 red capsicum (can use green also)",
-        "parsley or coriander (choose the herb that most suits your taste buds)",
-        "Few dashes of hot sauce",
-        "1 tsp paprika",
-        "1 cup olive oil",
-        "50 ml white wine",
-        "to taste rock salt"],
-        steps:["1.In a saucepan, forming layers, add the sliced onions, garlic, tomato, peppers, coriander or parsley, sliced potatoes and fish.",
-        "2.Place the sliced onions and peppers, paprika, salt in the upper layer.",
-        "3.Pour the olive oil evenly over the layers.",
-        "4.Once all layers are placed add seasoning and white wine and little water.",
-        "5.Cover the pan to bring to a boil.",
-        "6.Cover the pan and let it cook on slow fire, check once, if the potato is cooked it will be ready to serve.",
-        "7.To plate remove one or two pieces of fish along with onions, potatoes and capsicum, pour some stew soup over and serve hot.",
-        "8.This dish can be consumed on its own or can be served with buttered rice."],
-    },
+        description:
+          "About Portugese Fish Stew Recipe: A delectable treat to prepare on weekends and holiday season. This Portugese fish stew is an easy and simple recipe to prepare for a brunch or light side dish for dinner. Potatoes, fish fillet, shrimps, few veggies along with white wine and spices come together to form this delicious stew that you can serve with cooked rice.",
+        ingredients: [
+          "1 Kg sole fillet (you can also do 2/3 types of fish)",
+          "5-10 large large shrimps (optional)",
+          "1 kg potatoes (peeled), sliced",
+          "3 onions (cut into slices)",
+          "5 garlic cloves, chopped",
+          "1 red capsicum (can use green also)",
+          "parsley or coriander (choose the herb that most suits your taste buds)",
+          "Few dashes of hot sauce",
+          "1 tsp paprika",
+          "1 cup olive oil",
+          "50 ml white wine",
+          "to taste rock salt",
+        ],
+        steps: [
+          "1.In a saucepan, forming layers, add the sliced onions, garlic, tomato, peppers, coriander or parsley, sliced potatoes and fish.",
+          "2.Place the sliced onions and peppers, paprika, salt in the upper layer.",
+          "3.Pour the olive oil evenly over the layers.",
+          "4.Once all layers are placed add seasoning and white wine and little water.",
+          "5.Cover the pan to bring to a boil.",
+          "6.Cover the pan and let it cook on slow fire, check once, if the potato is cooked it will be ready to serve.",
+          "7.To plate remove one or two pieces of fish along with onions, potatoes and capsicum, pour some stew soup over and serve hot.",
+          "8.This dish can be consumed on its own or can be served with buttered rice.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 8,
         recipename: "Yera Sukha Recipe",
-        imgfile: "../images/seafood/Yera Sukha Recipe.jpg",    
+        imgfile: "../images/seafood/Yera Sukha Recipe.jpg",
         recipieServe: "2",
         preTime: "20min",
         cookTime: "1hrs 20min",
         totalTime: "1hrs 40min",
-        description:"About Yera Sukha Recipe: Discover the ultimate in South East Asian coastal food with this delicious prawn recipe. Straight from the Winter special menu of The Spice Route comes this mouth-watering gem of a dish, Yera Sukha. Prawns stirred with Kerala spices, flavoured with star anise and stone flowers, make sure you beat the chill with hot and fragrant flavours.",
-        ingredients:["5 gms stone flower",
-        "5 gms star anise",
-        "5 gms dry red chilli",
-        "45 gms onion",
-        "45 gms tomato",
-        "10 gms curry leaves",
-        "5 gms ginger-garlic paste",
-        "5 gms turmeric powder",
-        "3 gms red chilli powder",
-        "3 gms coriander powder",
-        "3 gms garam masala powder",
-        "4-5 gms salt15 ml oil",
-        "45 nos jumbo prawn",
-        "30 gms capsicum (red and yellow)"],
-        steps:["1.Marinate the prawn with salt and turmeric.",
-        "2.Fry the marinated prawn in hot oil, keep it aside.",
-        "3.Cut the capsicum red and yellow into dices.",
-        "4.Pour oil into the pan. Add stone flower, star anise, dry red chilli.",
-        "5.Then add chopped onion, curry leaves, ginger and garlic paste. Stir till golden brown.",
-        "6.Add turmeric powder, coriander powder, red chilli powder, garam masala powder, chopped tomato and salt, stir till tomato is well done.",
-        "7.Add the fried prawn into the above prepared mixture. Also, the cut capsicum.",
-        "8.Arrange on the serving plate, garnish with fried curry leaves and sliced dry red chilli."],
-    },
+        description:
+          "About Yera Sukha Recipe: Discover the ultimate in South East Asian coastal food with this delicious prawn recipe. Straight from the Winter special menu of The Spice Route comes this mouth-watering gem of a dish, Yera Sukha. Prawns stirred with Kerala spices, flavoured with star anise and stone flowers, make sure you beat the chill with hot and fragrant flavours.",
+        ingredients: [
+          "5 gms stone flower",
+          "5 gms star anise",
+          "5 gms dry red chilli",
+          "45 gms onion",
+          "45 gms tomato",
+          "10 gms curry leaves",
+          "5 gms ginger-garlic paste",
+          "5 gms turmeric powder",
+          "3 gms red chilli powder",
+          "3 gms coriander powder",
+          "3 gms garam masala powder",
+          "4-5 gms salt15 ml oil",
+          "45 nos jumbo prawn",
+          "30 gms capsicum (red and yellow)",
+        ],
+        steps: [
+          "1.Marinate the prawn with salt and turmeric.",
+          "2.Fry the marinated prawn in hot oil, keep it aside.",
+          "3.Cut the capsicum red and yellow into dices.",
+          "4.Pour oil into the pan. Add stone flower, star anise, dry red chilli.",
+          "5.Then add chopped onion, curry leaves, ginger and garlic paste. Stir till golden brown.",
+          "6.Add turmeric powder, coriander powder, red chilli powder, garam masala powder, chopped tomato and salt, stir till tomato is well done.",
+          "7.Add the fried prawn into the above prepared mixture. Also, the cut capsicum.",
+          "8.Arrange on the serving plate, garnish with fried curry leaves and sliced dry red chilli.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 9,
         recipename: "Malabar Fish Curry Recipe",
-        imgfile: "../images/seafood/Malabar Fish Curry Recipe.jpg",    
+        imgfile: "../images/seafood/Malabar Fish Curry Recipe.jpg",
         recipieServe: "2",
         preTime: "15min",
         cookTime: "40min",
         totalTime: "55min",
-        description:"About Malabar Fish Curry Recipe: A delicious, creamy fish curry with goodness of coconut milk and full of chilllies, coriander and mustard seeds. Fish is a great dinner option since it is loaded with nutrients like omega - 3 fatty acids, proteins and several vitamins. Apart from being healthy, this fish curry is full of delightful flavours in luscious gravy. A perfect meal for the next dinner party!",
-        ingredients:["40 gms whole coriander seeds",
-        "60 gms whole red chilli",
-        "10 ml coconut oil",
-        "1 gram mustard seeds",
-        "10 gms onion, chopped",
-        "3-4 Curry leaves",
-        "20 ml coconut milk",
-        "5 ml tamarind pulp",
-        "5 gram coriander, chopped",
-        "120 gms seabass fish curry cuts"],
-        steps:["1.Soak whole coriander seeds and whole begdi chilli together for 3 to 4 hrs at least.",
-        "2.Boil soaked ingredients, after boiling make a paste, and strain it.",
-        "3.Take a pan, add coconut oil, mustard seeds, curry leaves and chopped onions, cook it till translucent.",
-        "4.Put the strained paste, cook it well and add fish curry cuts in the gravy.",
-        "5.Finish with coconut milk and tamarind pulp.",
-        "6.Garnish with chopped coriander and fried curry leaves."],
-    },
+        description:
+          "About Malabar Fish Curry Recipe: A delicious, creamy fish curry with goodness of coconut milk and full of chilllies, coriander and mustard seeds. Fish is a great dinner option since it is loaded with nutrients like omega - 3 fatty acids, proteins and several vitamins. Apart from being healthy, this fish curry is full of delightful flavours in luscious gravy. A perfect meal for the next dinner party!",
+        ingredients: [
+          "40 gms whole coriander seeds",
+          "60 gms whole red chilli",
+          "10 ml coconut oil",
+          "1 gram mustard seeds",
+          "10 gms onion, chopped",
+          "3-4 Curry leaves",
+          "20 ml coconut milk",
+          "5 ml tamarind pulp",
+          "5 gram coriander, chopped",
+          "120 gms seabass fish curry cuts",
+        ],
+        steps: [
+          "1.Soak whole coriander seeds and whole begdi chilli together for 3 to 4 hrs at least.",
+          "2.Boil soaked ingredients, after boiling make a paste, and strain it.",
+          "3.Take a pan, add coconut oil, mustard seeds, curry leaves and chopped onions, cook it till translucent.",
+          "4.Put the strained paste, cook it well and add fish curry cuts in the gravy.",
+          "5.Finish with coconut milk and tamarind pulp.",
+          "6.Garnish with chopped coriander and fried curry leaves.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 10,
         recipename: "Seared Salmon in Tabasco Butter Recipe",
-        imgfile: "../images/seafood/Seared Salmon in Tabasco Butter Recipe.jpg",    
+        imgfile: "../images/seafood/Seared Salmon in Tabasco Butter Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "20min",
         totalTime: "30min",
-        description:"About Seared Salmon in Tabasco Butter Recipe: Pan-seared salmon fish served hot, topped with freshly made tabasco butter. This salmon dish is best served with a side of potato salad or mashed potatoes.",
-        ingredients:["For tabasco butter:",
-        "50 Gram Butter",
-        "1/2 tsp Tabasco",
-        "1/2 tsp Chives, choppedad",
-        "just to saltiness of butter Salt",
-        "For salmon:",
-        "150-200 Gram Salmon fillet",
-        "Olive oil",
-        "To taste Sea salt"],
-        steps:["Melt butter in a double boiler or a gently hot pan. Add in tabasco, chives and salt.",
-        "2.Transfer the butter mixture to a bowl and refrigerate till set.",
-        "3.Heat a heavy bottom pan on high heat and grease with oil.",
-        "4.Place the fillet of salmon on the hot pan and let it sear on the skin side for 3 minutes (do not touch the fish or press it). Flip and cook for 2 minutes on the other side.",
-        "5.To serve place the salmon on a plate and top with tabasco butter.",
-        "6.Serve with a potato salad or mashed potato."],
-    },
+        description:
+          "About Seared Salmon in Tabasco Butter Recipe: Pan-seared salmon fish served hot, topped with freshly made tabasco butter. This salmon dish is best served with a side of potato salad or mashed potatoes.",
+        ingredients: [
+          "For tabasco butter:",
+          "50 Gram Butter",
+          "1/2 tsp Tabasco",
+          "1/2 tsp Chives, choppedad",
+          "just to saltiness of butter Salt",
+          "For salmon:",
+          "150-200 Gram Salmon fillet",
+          "Olive oil",
+          "To taste Sea salt",
+        ],
+        steps: [
+          "Melt butter in a double boiler or a gently hot pan. Add in tabasco, chives and salt.",
+          "2.Transfer the butter mixture to a bowl and refrigerate till set.",
+          "3.Heat a heavy bottom pan on high heat and grease with oil.",
+          "4.Place the fillet of salmon on the hot pan and let it sear on the skin side for 3 minutes (do not touch the fish or press it). Flip and cook for 2 minutes on the other side.",
+          "5.To serve place the salmon on a plate and top with tabasco butter.",
+          "6.Serve with a potato salad or mashed potato.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 11,
         recipename: "Shrimp & Cilantro Ceviche Recipe",
-        imgfile: "../images/seafood/Shrimp & Cilantro Ceviche Recipe.jpg",    
+        imgfile: "../images/seafood/Shrimp & Cilantro Ceviche Recipe.jpg",
         recipieServe: "2",
         preTime: "15min",
         cookTime: "30min",
         totalTime: "45min",
-        description:"A dish most popular in the Caribbean and on the coast of Latin America. Ceviche is a meal made from raw, fresh fish which has been cured with lemon or lime juices. National Ceviche Day is also celebrated in Peru, as named by Peru's Ministry of Production in 2008, celebrating and showcasing the country's national dish.",
-        ingredients:["80 Gram Prawns",
-        "15 Gram Gherkin",
-        "15 Onion5 Gram Cilantro",
-        "15 Gram Mix bell pepper",
-        "15 Ml Tiger milk",
-        "25 Gram Sweet corn",
-        "2 Gram Sea salt",
-        "1 Gram Black pepper",
-        "25 Ml Green lemon juice",
-        "15 Gram Cherry tomato",
-        "2 Gram Edible flower",
-        "For Tiger milk:",
-        "1 tsp Coriander stems, chopped",
-        "1/2 tsp Celery stalks",
-        "1/4 tsp Garlic",
-        "1/4 tsp Ginger",
-        "1 tsp Red onion",
-        "30 Ml Lemon juice",
-        "3-4 Gram Sea salt",
-        "2-3 Gram Black pepper"],
-        steps:["1.Wash deshell and devein the prawns. Cut onions and bell peppers in to thin julienne.",
-        "2.Fine chop cilantro and gherkins. Cut the prawns in to small pieces.",
-        "3.Take a bowl mix corn with salt ,pepper and lemon juice.",
-        "4.Take another bowl, add prawns, onions, bell peppers, gherkins, cilantro, sea salt, pepper, lemon juice and tiger milk.",
-        "5.Place it in the center of the plate and on either side place tossed corn.",
-        "6.Garnish it with micro greens and edible flower.",
-        "Prepare Tiger milk:",
-        "1.Wash and clean the vegetables.",
-        "2.Blend all ingredients and it is ready to use."],
-    },
+        description:
+          "A dish most popular in the Caribbean and on the coast of Latin America. Ceviche is a meal made from raw, fresh fish which has been cured with lemon or lime juices. National Ceviche Day is also celebrated in Peru, as named by Peru's Ministry of Production in 2008, celebrating and showcasing the country's national dish.",
+        ingredients: [
+          "80 Gram Prawns",
+          "15 Gram Gherkin",
+          "15 Onion5 Gram Cilantro",
+          "15 Gram Mix bell pepper",
+          "15 Ml Tiger milk",
+          "25 Gram Sweet corn",
+          "2 Gram Sea salt",
+          "1 Gram Black pepper",
+          "25 Ml Green lemon juice",
+          "15 Gram Cherry tomato",
+          "2 Gram Edible flower",
+          "For Tiger milk:",
+          "1 tsp Coriander stems, chopped",
+          "1/2 tsp Celery stalks",
+          "1/4 tsp Garlic",
+          "1/4 tsp Ginger",
+          "1 tsp Red onion",
+          "30 Ml Lemon juice",
+          "3-4 Gram Sea salt",
+          "2-3 Gram Black pepper",
+        ],
+        steps: [
+          "1.Wash deshell and devein the prawns. Cut onions and bell peppers in to thin julienne.",
+          "2.Fine chop cilantro and gherkins. Cut the prawns in to small pieces.",
+          "3.Take a bowl mix corn with salt ,pepper and lemon juice.",
+          "4.Take another bowl, add prawns, onions, bell peppers, gherkins, cilantro, sea salt, pepper, lemon juice and tiger milk.",
+          "5.Place it in the center of the plate and on either side place tossed corn.",
+          "6.Garnish it with micro greens and edible flower.",
+          "Prepare Tiger milk:",
+          "1.Wash and clean the vegetables.",
+          "2.Blend all ingredients and it is ready to use.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 12,
         recipename: "Morning Greed Recipe",
-        imgfile: "../images/seafood/Morning Greed Recipe.webp",    
+        imgfile: "../images/seafood/Morning Greed Recipe.webp",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description:"About Morning Greed Recipe: Open sandwich, piled high with smashed mint peas, ricotta, smoked salmon caper berry & sour cream",
-        ingredients:["1 herb Panini bread",
-        "75 Gram Mint peas mash",
-        "30 Gram Ricotta crumble",
-        "2 Eggs (scrambled)",
-        "45 Gram Smoked salmon",
-        "Few Caper berry",
-        "2 tsp Sour cream"],
-        steps:["1.Remove a thin layer of bread from top.",
-        "2.Light Toast and pile all the other component in an order of Bread, peas mint mash, ricotta crumble and scrambled egg, smoked salmon topped with sour cream and garnished with caper berry."],
-    },
+        description:
+          "About Morning Greed Recipe: Open sandwich, piled high with smashed mint peas, ricotta, smoked salmon caper berry & sour cream",
+        ingredients: [
+          "1 herb Panini bread",
+          "75 Gram Mint peas mash",
+          "30 Gram Ricotta crumble",
+          "2 Eggs (scrambled)",
+          "45 Gram Smoked salmon",
+          "Few Caper berry",
+          "2 tsp Sour cream",
+        ],
+        steps: [
+          "1.Remove a thin layer of bread from top.",
+          "2.Light Toast and pile all the other component in an order of Bread, peas mint mash, ricotta crumble and scrambled egg, smoked salmon topped with sour cream and garnished with caper berry.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 13,
         recipename: "Saewoo Bokumbop Recipe",
-        imgfile: "../images/seafood/Saewoo Bokumbop Recipe.jpg",    
+        imgfile: "../images/seafood/Saewoo Bokumbop Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "35min",
         totalTime: "45min",
-        description:"Saewoo Bokumbop is a popular shrimp fried rice dish that widely available in Korean/Chinese restaurants everywhere. It’s a common restaurant or home prepared dish during lunch or dinner that is quite simple but yet a fulfilling meal. It’s a fairly easy dish to prepare/cook and there are various combinations of ingredients that can be included along with shrimp.",
-        ingredients:["2 Cup Cooked rice",
-        "20-25 Small Shrimp (de-veined, peeled)",
-        "1/4 Onion",
-        "1/2 Cup Cooked green peas",
-        "2 roots Green onion",
-        "1-2 Egg (scrambled)",
-        "2-3 Tbsp Vegetable oil/butter",
-        "3-4 Tbsp Soy sauce",
-        "1 tsp Sesame oil",
-        "To taste Salt",
-        "To taste Pepper"],
-        steps:["Cook rice as directed in a rice cooker or in a pot.",
-        "2.Dice and mince green onions, onions, and garlic.",
-        "3.In a frying pan, sauté onion and frozen peas (defrost in microwave first) in butter or vegetable oil. Set aside.",
-        "4.Sauté shrimps with garlic in butter or vegetable oil. When lightly brown, add vegetable mixture and cook for additional 1-2 minutes.",
-        "5.Add cooked rice to mixture.",
-        "6.In another small frying pan, scramble 1-2 egg(s) and add to mixture as well.",
-        "7.Add salt and pepper to meet taste.",
-        "8.Add soy sauce (amount dependent on preference), salt and black pepper to meet taste. Mix all ingredients well and simmer for an additional minute.",
-        "9.Serve on plate."],
-    },
+        description:
+          "Saewoo Bokumbop is a popular shrimp fried rice dish that widely available in Korean/Chinese restaurants everywhere. It’s a common restaurant or home prepared dish during lunch or dinner that is quite simple but yet a fulfilling meal. It’s a fairly easy dish to prepare/cook and there are various combinations of ingredients that can be included along with shrimp.",
+        ingredients: [
+          "2 Cup Cooked rice",
+          "20-25 Small Shrimp (de-veined, peeled)",
+          "1/4 Onion",
+          "1/2 Cup Cooked green peas",
+          "2 roots Green onion",
+          "1-2 Egg (scrambled)",
+          "2-3 Tbsp Vegetable oil/butter",
+          "3-4 Tbsp Soy sauce",
+          "1 tsp Sesame oil",
+          "To taste Salt",
+          "To taste Pepper",
+        ],
+        steps: [
+          "Cook rice as directed in a rice cooker or in a pot.",
+          "2.Dice and mince green onions, onions, and garlic.",
+          "3.In a frying pan, sauté onion and frozen peas (defrost in microwave first) in butter or vegetable oil. Set aside.",
+          "4.Sauté shrimps with garlic in butter or vegetable oil. When lightly brown, add vegetable mixture and cook for additional 1-2 minutes.",
+          "5.Add cooked rice to mixture.",
+          "6.In another small frying pan, scramble 1-2 egg(s) and add to mixture as well.",
+          "7.Add salt and pepper to meet taste.",
+          "8.Add soy sauce (amount dependent on preference), salt and black pepper to meet taste. Mix all ingredients well and simmer for an additional minute.",
+          "9.Serve on plate.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 14,
         recipename: "Exotic Lovers Roll Recipe",
-        imgfile: "../images/seafood/Exotic Lovers Roll Recipe.jpg",    
+        imgfile: "../images/seafood/Exotic Lovers Roll Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "1hrs 20min",
         totalTime: "1hrs 30min",
-        description:"Cucumber, avocado along with crab sticks filled into sushi rice rolls, sums up the delicious appetizer that you won't be able to resist. The perfect snack for a dinner night with your loved ones.",
-        ingredients:["1/2 lemon Juice of Lemon",
-       
-       "1 Medium Avocado (pitted and sliced into 1/4-inch thick pieces), peeled",
-        "4 sheets Nori",
-        "1/3 Cup Sesame seeds (toasted)",
-        "1 Small Cucumber (seeded, and cut into matchstick-size pieces), peeled",
-        "4 Crabsticks (cut into pieces)",
-       "1/4 Cup Salmon roe (egg)",
-        "for serving Ginger (pickled)",
-        "for serving Wasabi",
-        "for serving Soy sauce",
-        "1/2 batch Sushi rice (ingredients below)",
-        "2 Cups Sushi or short grain rice",
-        "2 (extra for rinsing rice) Cups Water",
-        "2 Tbsp Rice vinegar",
-        "2 Tbsp Sugar",
-        "1 Tbsp Salt"],
-        steps:["Prepare Rice:",
-        "1.Place the rice into a mixing bowl and cover with cool water.",
-        "2.Swirl the rice in the water, pour off and repeat 2 to 3 times or until the water is clear.",
-        "3.Place the rice and 2 cups of water into a medium saucepan and place over high heat.",
-        "4.Bring to a boil, uncovered.",
-        "5.Once it begins to boil, reduce the heat to the lowest setting and cover.",
-        "6.Cook for 15 minutes. Remove from the heat and let stand, covered, for 10 minutes.",
-        "7.Combine the rice vinegar, sugar and salt in a small bowl and heat in the microwave on high for 30 to 45 seconds.",
-        "8.Transfer the rice into a large wooden or glass mixing bowl and add the vinegar mixture.",
-        "9.Fold thoroughly to combine and coat each grain of rice with the mixture.",
-        "10.Allow to cool to room temperature before using to make sushi.",
-        "Prepare Rolls:",
-        "1.Squeeze the lemon juice over the avocado to prevent browning.",
-        "2.Cover a bamboo rolling mat with plastic wrap.",
-        "3.Cut nori sheets in half crosswise.",
-        "4.Lay 1 sheet of nori, shiny side down, on the plastic covered mat.",
-        "5.Wet your fingers with water and spread about 1/2 cup of the rice evenly onto the nori. ",
-        "6.Sprinkle the rice with sesame seeds.",
-        "7.Turn the sheet of nori over so that the rice side is down.",
-        "8.Place 1/8 of the cucumber, avocado and crab sticks in the center of the sheet.",
-        "9.Grab the edge of the mat closest to you, keeping the fillings in place with your fingers, and roll it into a tight cylinder, using the mat to shape the cylinder.",
-        "10.Pull away the mat and set aside.",
-        "11.Cover with a damp cloth.",
-        "12.Repeat until all of the rice has been used.",
-        "13.Cut each roll into 6 pieces, sprinkle with salmon roe.",
-        "14.Serve with pickled ginger, wasabi and soy sauce"],
-    },
+        description:
+          "Cucumber, avocado along with crab sticks filled into sushi rice rolls, sums up the delicious appetizer that you won't be able to resist. The perfect snack for a dinner night with your loved ones.",
+        ingredients: [
+          "1/2 lemon Juice of Lemon",
 
+          "1 Medium Avocado (pitted and sliced into 1/4-inch thick pieces), peeled",
+          "4 sheets Nori",
+          "1/3 Cup Sesame seeds (toasted)",
+          "1 Small Cucumber (seeded, and cut into matchstick-size pieces), peeled",
+          "4 Crabsticks (cut into pieces)",
+          "1/4 Cup Salmon roe (egg)",
+          "for serving Ginger (pickled)",
+          "for serving Wasabi",
+          "for serving Soy sauce",
+          "1/2 batch Sushi rice (ingredients below)",
+          "2 Cups Sushi or short grain rice",
+          "2 (extra for rinsing rice) Cups Water",
+          "2 Tbsp Rice vinegar",
+          "2 Tbsp Sugar",
+          "1 Tbsp Salt",
+        ],
+        steps: [
+          "Prepare Rice:",
+          "1.Place the rice into a mixing bowl and cover with cool water.",
+          "2.Swirl the rice in the water, pour off and repeat 2 to 3 times or until the water is clear.",
+          "3.Place the rice and 2 cups of water into a medium saucepan and place over high heat.",
+          "4.Bring to a boil, uncovered.",
+          "5.Once it begins to boil, reduce the heat to the lowest setting and cover.",
+          "6.Cook for 15 minutes. Remove from the heat and let stand, covered, for 10 minutes.",
+          "7.Combine the rice vinegar, sugar and salt in a small bowl and heat in the microwave on high for 30 to 45 seconds.",
+          "8.Transfer the rice into a large wooden or glass mixing bowl and add the vinegar mixture.",
+          "9.Fold thoroughly to combine and coat each grain of rice with the mixture.",
+          "10.Allow to cool to room temperature before using to make sushi.",
+          "Prepare Rolls:",
+          "1.Squeeze the lemon juice over the avocado to prevent browning.",
+          "2.Cover a bamboo rolling mat with plastic wrap.",
+          "3.Cut nori sheets in half crosswise.",
+          "4.Lay 1 sheet of nori, shiny side down, on the plastic covered mat.",
+          "5.Wet your fingers with water and spread about 1/2 cup of the rice evenly onto the nori. ",
+          "6.Sprinkle the rice with sesame seeds.",
+          "7.Turn the sheet of nori over so that the rice side is down.",
+          "8.Place 1/8 of the cucumber, avocado and crab sticks in the center of the sheet.",
+          "9.Grab the edge of the mat closest to you, keeping the fillings in place with your fingers, and roll it into a tight cylinder, using the mat to shape the cylinder.",
+          "10.Pull away the mat and set aside.",
+          "11.Cover with a damp cloth.",
+          "12.Repeat until all of the rice has been used.",
+          "13.Cut each roll into 6 pieces, sprinkle with salmon roe.",
+          "14.Serve with pickled ginger, wasabi and soy sauce",
+        ],
+      },
 
-
-    {
+      {
         subid: 15,
         recipename: "Prawn Pie Recipe",
-        imgfile: "../images/seafood/Prawn Pie Recipe.jpg",    
+        imgfile: "../images/seafood/Prawn Pie Recipe.jpg",
         recipieServe: "2",
         preTime: "1hrs 30min",
         cookTime: "1hrs",
         totalTime: "2hrs 30min",
-        description:"Almost everything goes well with this creamy pie recipe. Prawn pie is super rich and is best for small portions as an appetizer at dinner parties.",
-        ingredients:["2 Tbsp Oil",
-        "450 Gram Prawns",
-        "1 Onion, chopped",
-        "2 Tbsp Flour",
-        "1 1/2 Cups Heavy cream",
-        "To taste Salt and Pepper",
-        "For the Pie Dough",
-        "350+ extra Gram All-purpose flour",
-        "1 tsp Salt",
-        "275 Gram Butter",
-        "5 Tbsp Ice Cold Water",
-        "1 Egg, mashed"],
-        steps:["1.Heat the oil in a saucepan at medium heat. Add in the onion and cook until it turns golden.",
-        "2.Add the cream and raise to high heat, until the sauce thickens a little. Keep stirring gently. Add in the prawns and seasoning.",
-        "3.Now pour the prawn mixture into the pie dough and bake.",
-        "For the Pie Dough:",
-        "1.First, thoroughly blend your salt and flour together in the food processor.",
-        "2.Cut the butter into evenly-sized cubes, place them evenly on top of the dry ingredients in your food processor, and then mix in short bursts. Do this until the dough becomes clumpy and wet, and no flour remains. This may take a while.",
-        "3.Now bring out the dough and place onto a heavily-floured surface. Add the cold water in, spoon by spoon, gently folding to make sure it is all absorbed.",
-        "4.Then divide the dough into two portions (one for the bottom of the pie and one for the top) and roll both the pieces into discs. Wrap these discs separately in cling film and let them rest in the fridge for at least two hours.",
-        "5.When you are ready to bake, bring out the dough and roll it out, in one direction, on a surface that has been heavily floured. Do this gently and do not flip it around too much like a chapati.",
-        "6.Lay the dough on to your baking pan, making sure that it goes all round the sides, letting it hang over the rim. Prick it all the way round with a fork.",
-        "7.Pour your filling into the dough and then unfurl the second disk in the same way to make a crust for the top. For a sweet pie, you can even make a wonderful criss-cross lattice design if you prefer.",
-        "8.Lightly brush the egg on top the pastry (this egg wash will give your pastry that gorgeous golden glow), and cut four slits into the dough on the top.",
-        "9.Bake in a preheated oven until golden (approximately an hour at 400 degrees).",
-        "10.Your Prawn Pie is ready to serve."],
-    },
+        description:
+          "Almost everything goes well with this creamy pie recipe. Prawn pie is super rich and is best for small portions as an appetizer at dinner parties.",
+        ingredients: [
+          "2 Tbsp Oil",
+          "450 Gram Prawns",
+          "1 Onion, chopped",
+          "2 Tbsp Flour",
+          "1 1/2 Cups Heavy cream",
+          "To taste Salt and Pepper",
+          "For the Pie Dough",
+          "350+ extra Gram All-purpose flour",
+          "1 tsp Salt",
+          "275 Gram Butter",
+          "5 Tbsp Ice Cold Water",
+          "1 Egg, mashed",
+        ],
+        steps: [
+          "1.Heat the oil in a saucepan at medium heat. Add in the onion and cook until it turns golden.",
+          "2.Add the cream and raise to high heat, until the sauce thickens a little. Keep stirring gently. Add in the prawns and seasoning.",
+          "3.Now pour the prawn mixture into the pie dough and bake.",
+          "For the Pie Dough:",
+          "1.First, thoroughly blend your salt and flour together in the food processor.",
+          "2.Cut the butter into evenly-sized cubes, place them evenly on top of the dry ingredients in your food processor, and then mix in short bursts. Do this until the dough becomes clumpy and wet, and no flour remains. This may take a while.",
+          "3.Now bring out the dough and place onto a heavily-floured surface. Add the cold water in, spoon by spoon, gently folding to make sure it is all absorbed.",
+          "4.Then divide the dough into two portions (one for the bottom of the pie and one for the top) and roll both the pieces into discs. Wrap these discs separately in cling film and let them rest in the fridge for at least two hours.",
+          "5.When you are ready to bake, bring out the dough and roll it out, in one direction, on a surface that has been heavily floured. Do this gently and do not flip it around too much like a chapati.",
+          "6.Lay the dough on to your baking pan, making sure that it goes all round the sides, letting it hang over the rim. Prick it all the way round with a fork.",
+          "7.Pour your filling into the dough and then unfurl the second disk in the same way to make a crust for the top. For a sweet pie, you can even make a wonderful criss-cross lattice design if you prefer.",
+          "8.Lightly brush the egg on top the pastry (this egg wash will give your pastry that gorgeous golden glow), and cut four slits into the dough on the top.",
+          "9.Bake in a preheated oven until golden (approximately an hour at 400 degrees).",
+          "10.Your Prawn Pie is ready to serve.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 16,
         recipename: "Beer Batter Fish Fingers Recipe",
-        imgfile: "../images/seafood/Beer Batter Fish Fingers Recipe.jpg",    
+        imgfile: "../images/seafood/Beer Batter Fish Fingers Recipe.jpg",
         recipieServe: "2",
         preTime: "30min",
         cookTime: "15min",
         totalTime: "45min",
-        description:"Marinated in beer these boozy fish fingers are a delight for light and crisp snacking.",
-        ingredients:["300 Gram River Sole Fish (cut in thin strips)",
-        "1 tsp Garlic Paste",
-        "To taste Salt",
-        "1 Lime Juice",
-        "3/2 Cup Beer",
-        "1 Cup Flour",
-        "1/4 Cup Cornflour",
-        "1 tsp White Pepper",
-        "2 Eggs",
-        "1/2 tsp Mustard"],
-        steps:["1.Take a bowl and combine floor with all the ingredients.",
-        "2.Now stir eggs and beer in the bowl until a thin batter is formed.",
-        "3.Dip the fish fingers for half an hour, keep aside. You should be able to see the fish through the batter.",
-        "4.Heat oil and dip fish fingers into the batter then drop one at a time into hot oil , turning once until both sides are golden brown.",
-        "5.Drain on towel pepper and serve with lime tarter sauce."],
-    },
+        description:
+          "Marinated in beer these boozy fish fingers are a delight for light and crisp snacking.",
+        ingredients: [
+          "300 Gram River Sole Fish (cut in thin strips)",
+          "1 tsp Garlic Paste",
+          "To taste Salt",
+          "1 Lime Juice",
+          "3/2 Cup Beer",
+          "1 Cup Flour",
+          "1/4 Cup Cornflour",
+          "1 tsp White Pepper",
+          "2 Eggs",
+          "1/2 tsp Mustard",
+        ],
+        steps: [
+          "1.Take a bowl and combine floor with all the ingredients.",
+          "2.Now stir eggs and beer in the bowl until a thin batter is formed.",
+          "3.Dip the fish fingers for half an hour, keep aside. You should be able to see the fish through the batter.",
+          "4.Heat oil and dip fish fingers into the batter then drop one at a time into hot oil , turning once until both sides are golden brown.",
+          "5.Drain on towel pepper and serve with lime tarter sauce.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 17,
         recipename: "Masor Tenga Recipe",
-        imgfile: "../images/seafood/Masor Tenga Recipe.jpg",    
+        imgfile: "../images/seafood/Masor Tenga Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description:"A simple, home-style, Assamese fish curry that is a regular feature during lunch and dinner. It is best enjoyed with steamed rice and a fresh green chilli on the side. 'Tenga' meaning sour is the dominant flavour in the curry.",
-        ingredients:["4 pieces Rohu/ Catla fish",
-        "1/2 tsp salt",
-        "1/2 tsp turmeric powder",
-        "1/2 cup mustard oil",
-        "1 ridge gourd, chopped",
-        "4 large tomatoes, chopped",
-        "1/4 tsp fenugreek seeds",
-        "Juice of 1/2 a lime or 1 wedge of lemon"],
-        steps:["1.Sprinkle 1/2 tsp salt and 1/4 tsp turmeric powder on the fish pieces and rub well to coat evenly.",
-        "2.Heat oil in a kadai, and fry the fish in batches until crisp on the outside and cooked inside.Keep aside.",
-        "3.In the remaining oil, add the fenugreek seeds and let them crackle on medium heat.",
-        "4.Tip in the chopped ridge gourd and add 1/4 tsp turmeric powder. Let it cook for 7-8 minutes covered with a lid. Once the gourd softens, add the tomatoes and mix well.",
-        "5.Cover with a lid and let it cook for 4-5 minutes until the tomatoes are pulpy. You could also use the back of your spoon to mash the vegetables.",
-        "6.Add 3 cups warm water and turn up the heat. Once the curry comes to a boil, adjust the salt as per your liking.",
-        "7.Add the pieces of fish and continue boiling to thicken the curry, for 5-6 minutes.",
-        "8.Remove from heat, and squeeze the lime or lemon juice on top. Garnish with chopped coriander leaves and serve with steamed rice."],
-    },
+        description:
+          "A simple, home-style, Assamese fish curry that is a regular feature during lunch and dinner. It is best enjoyed with steamed rice and a fresh green chilli on the side. 'Tenga' meaning sour is the dominant flavour in the curry.",
+        ingredients: [
+          "4 pieces Rohu/ Catla fish",
+          "1/2 tsp salt",
+          "1/2 tsp turmeric powder",
+          "1/2 cup mustard oil",
+          "1 ridge gourd, chopped",
+          "4 large tomatoes, chopped",
+          "1/4 tsp fenugreek seeds",
+          "Juice of 1/2 a lime or 1 wedge of lemon",
+        ],
+        steps: [
+          "1.Sprinkle 1/2 tsp salt and 1/4 tsp turmeric powder on the fish pieces and rub well to coat evenly.",
+          "2.Heat oil in a kadai, and fry the fish in batches until crisp on the outside and cooked inside.Keep aside.",
+          "3.In the remaining oil, add the fenugreek seeds and let them crackle on medium heat.",
+          "4.Tip in the chopped ridge gourd and add 1/4 tsp turmeric powder. Let it cook for 7-8 minutes covered with a lid. Once the gourd softens, add the tomatoes and mix well.",
+          "5.Cover with a lid and let it cook for 4-5 minutes until the tomatoes are pulpy. You could also use the back of your spoon to mash the vegetables.",
+          "6.Add 3 cups warm water and turn up the heat. Once the curry comes to a boil, adjust the salt as per your liking.",
+          "7.Add the pieces of fish and continue boiling to thicken the curry, for 5-6 minutes.",
+          "8.Remove from heat, and squeeze the lime or lemon juice on top. Garnish with chopped coriander leaves and serve with steamed rice.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 18,
         recipename: "Tawa surmai Recipe",
-        imgfile: "../images/seafood/Tawa surmai Recipe.jpg",    
+        imgfile: "../images/seafood/Tawa surmai Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description:"kingfish steaks marinated with ginger, garlic and red chilli paste, cooked on griddle, finished with lemon juice.",
-        ingredients:["825 Gram Surmai (king fish steaks) ",
-        "3 piecesmarination",
-        "2 Lemons4 tsp Salt",
-        "5 tsp Red Chili Powder",
-        "5 tsp Turmeric Powdersecond marination",
-        "3 ½ Tbsp Ginger Paste",
-        "3 ½ Tbsp Garlic Paste",
-        "8 Tbsp Mustard Oil",
-        "for frying",
-        "8 Tbsp Refined Oil"],
-        steps:["1.Pat dry the king fish steaks.",
-        "2.Marinate the fish with salt, lemon juice, turmeric powder and red chilli powder. Set aside for an hour.",
-        "3.In a separate bowl mix mustard oil, ginger paste and garlic paste.",
-        "4.Marinate the fish in the second marinade. Keep it for a couple of hours.",
-        "5.Heat refined oil on a tawa, when hot, add the marinated steaks one by one and cook evenly from both the sides till cooked and golden brown on both sides."],
-    },
+        description:
+          "kingfish steaks marinated with ginger, garlic and red chilli paste, cooked on griddle, finished with lemon juice.",
+        ingredients: [
+          "825 Gram Surmai (king fish steaks) ",
+          "3 piecesmarination",
+          "2 Lemons4 tsp Salt",
+          "5 tsp Red Chili Powder",
+          "5 tsp Turmeric Powdersecond marination",
+          "3 ½ Tbsp Ginger Paste",
+          "3 ½ Tbsp Garlic Paste",
+          "8 Tbsp Mustard Oil",
+          "for frying",
+          "8 Tbsp Refined Oil",
+        ],
+        steps: [
+          "1.Pat dry the king fish steaks.",
+          "2.Marinate the fish with salt, lemon juice, turmeric powder and red chilli powder. Set aside for an hour.",
+          "3.In a separate bowl mix mustard oil, ginger paste and garlic paste.",
+          "4.Marinate the fish in the second marinade. Keep it for a couple of hours.",
+          "5.Heat refined oil on a tawa, when hot, add the marinated steaks one by one and cook evenly from both the sides till cooked and golden brown on both sides.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 19,
         recipename: "Prawn and Litchi Salad Recipe",
-        imgfile: "../images/seafood/Prawn and Litchi Salad Recipe.jpg",    
+        imgfile: "../images/seafood/Prawn and Litchi Salad Recipe.jpg",
         recipieServe: "2",
         preTime: "5min",
         cookTime: "20min",
         totalTime: "25min",
-        description:"Prawn and Litchi Salad Recipe : This one is an extremely easy salad, quick to put together and perfect for those days when you just can't be bothered.",
-        ingredients:["500 gms prawns (shelled and cleaned)",
-        "2 tbsp spring onions, chopped",
-        "1 mango flesh, finely chopped",
-        "500 gms litchis (deseeded)",
-        "1 tsp chilli flakes",
-        "1/2 lemon (for lemon juice)",
-        "1 tbsp olive oil",
-        "Handful of peanuts (to garnish)",
-        "to taste salt"],
-        steps:["1.Toss the oil together with the lemon juice, spring onions and chilli flakes. Use this as a marinade for the prawns - let them marinate for 15 minutes in this mixture.",
-        "2.Toss the prawns together with the marinade on high heat in a kadhai and stir fry for about 2-3 minutes, by which time the prawns should be cooked.",
-        "3.Set aside, while you mix together the mango and litchi, then add everything together, add the peanuts for a bit of crunch, season and serve immediately."],
-    },
+        description:
+          "Prawn and Litchi Salad Recipe : This one is an extremely easy salad, quick to put together and perfect for those days when you just can't be bothered.",
+        ingredients: [
+          "500 gms prawns (shelled and cleaned)",
+          "2 tbsp spring onions, chopped",
+          "1 mango flesh, finely chopped",
+          "500 gms litchis (deseeded)",
+          "1 tsp chilli flakes",
+          "1/2 lemon (for lemon juice)",
+          "1 tbsp olive oil",
+          "Handful of peanuts (to garnish)",
+          "to taste salt",
+        ],
+        steps: [
+          "1.Toss the oil together with the lemon juice, spring onions and chilli flakes. Use this as a marinade for the prawns - let them marinate for 15 minutes in this mixture.",
+          "2.Toss the prawns together with the marinade on high heat in a kadhai and stir fry for about 2-3 minutes, by which time the prawns should be cooked.",
+          "3.Set aside, while you mix together the mango and litchi, then add everything together, add the peanuts for a bit of crunch, season and serve immediately.",
+        ],
+      },
 
-
-
-    {
+      {
         subid: 20,
         recipename: "Chemmeen Biryani Recipe",
-        imgfile: "../images/seafood/Chemmeen Biryani Recipe.jpg",    
+        imgfile: "../images/seafood/Chemmeen Biryani Recipe.jpg",
         recipieServe: "2",
         preTime: "30min",
         cookTime: "30min",
         totalTime: "60min",
-        description:"Chemmeen biryani is made of prawns. The bite-sized prawns are left in a juicy marinade and later cooked in a rich gravy, layers of the biryani rice are topped with these prawns, cashews, raisins and ghee.",
-        ingredients:["2 Cups Biryani rice",
-        "1/2 kg Prawn/shrimps",
-        "2 tbsp Ginger garlic paste",
-        "1 cup Sliced onions",
-        "1-2 Bay Leaf",
-        "6-8 Cloves",
-        "2 Cardamom pods",
-        "1 inch Cinnamon stick",
-        "1 tsp Lemon juice",
-        "Salt to taste",
-        "4 tsp Ghee",
-        "2 Tbsp Biryani masala",
-        "1 tsp Coriander Powder",
-        "1 tsp Red chilli powder",
-        "1 tsp Haldi",
-        "1/2 Cup Chopped coriander leaves",
-        "1/2 Cup Chopped mint leaves"],
-        steps:["1.Marinate prawns by mixing half the ginger garlic paste, coriander powder, red chilli powder, haldi, salt, ½ tspn lime juice. Let this sit in the fridge for minimum 30 mins.",
-        "2.Wash and soak the rice for around the same time.",
-        "3.In a pan add little oil and fry the marinated prawns. Remove the fried prawns and keep aside.",
-        "4.Now in the same pan add half of the sliced onions and cook until translucent.",
-        "5.To this add remaining ginger garlic paste, remaining coriander powder, haldi, red chilli powder, biryani masala, salt, coriander and mint leaves.",
-        "6.Once everything is cooked, add a little water and toss in the fried prawn into this gravy.",
-        "7.Cover and let it cook for another 5-10 mins.",
-        "8.Meanwhile in another pan add ghee, whole spices and remaining onions, cook for a while and then add the soaked rice.",
-        "9.Add water and let it boil for 10 mins, or until the rice is 80% done.",
-        "10.Now for the final step, layer the prawn gravy, then the rice, then cashews, raisins, sprinkle some biryani masala, pour some ghee, Kesar milk and repeat the process.",
-        "11.Tightly cover it with a lid, use some weight or atta dough to ensure it is tightly covered.",
-        "12.Cook this on the lowest possible flame for 10 mins and then remove off the heat and let it rest for another 10 mins. Open the lid and serve hot with raita and papadam."],
-    },
-
-
-    ]
+        description:
+          "Chemmeen biryani is made of prawns. The bite-sized prawns are left in a juicy marinade and later cooked in a rich gravy, layers of the biryani rice are topped with these prawns, cashews, raisins and ghee.",
+        ingredients: [
+          "2 Cups Biryani rice",
+          "1/2 kg Prawn/shrimps",
+          "2 tbsp Ginger garlic paste",
+          "1 cup Sliced onions",
+          "1-2 Bay Leaf",
+          "6-8 Cloves",
+          "2 Cardamom pods",
+          "1 inch Cinnamon stick",
+          "1 tsp Lemon juice",
+          "Salt to taste",
+          "4 tsp Ghee",
+          "2 Tbsp Biryani masala",
+          "1 tsp Coriander Powder",
+          "1 tsp Red chilli powder",
+          "1 tsp Haldi",
+          "1/2 Cup Chopped coriander leaves",
+          "1/2 Cup Chopped mint leaves",
+        ],
+        steps: [
+          "1.Marinate prawns by mixing half the ginger garlic paste, coriander powder, red chilli powder, haldi, salt, ½ tspn lime juice. Let this sit in the fridge for minimum 30 mins.",
+          "2.Wash and soak the rice for around the same time.",
+          "3.In a pan add little oil and fry the marinated prawns. Remove the fried prawns and keep aside.",
+          "4.Now in the same pan add half of the sliced onions and cook until translucent.",
+          "5.To this add remaining ginger garlic paste, remaining coriander powder, haldi, red chilli powder, biryani masala, salt, coriander and mint leaves.",
+          "6.Once everything is cooked, add a little water and toss in the fried prawn into this gravy.",
+          "7.Cover and let it cook for another 5-10 mins.",
+          "8.Meanwhile in another pan add ghee, whole spices and remaining onions, cook for a while and then add the soaked rice.",
+          "9.Add water and let it boil for 10 mins, or until the rice is 80% done.",
+          "10.Now for the final step, layer the prawn gravy, then the rice, then cashews, raisins, sprinkle some biryani masala, pour some ghee, Kesar milk and repeat the process.",
+          "11.Tightly cover it with a lid, use some weight or atta dough to ensure it is tightly covered.",
+          "12.Cook this on the lowest possible flame for 10 mins and then remove off the heat and let it rest for another 10 mins. Open the lid and serve hot with raita and papadam.",
+        ],
+      },
+    ],
   },
 
   // 7
@@ -4142,21 +4253,20 @@ export const Data = [
     id: 7,
     imgsrc: "../images/ricerecipe/Shahi Dastarkhwan Chicken Biryani Recipe.jpg",
     name: "Rice Recipe",
-    link: "/ricerecipies",
+    link: "/recipes/ricerecipies",
     info: "Let's turn this boring looking rice into a delicious meal. In this collection of 20+ Indian rice recipes, you'll find pulaos, biryanis and healthy khichdi ...",
     recipies: [
-
-
-
       {
         subid: 1,
         recipename: "Shahi Dastarkhwan Chicken Biryani Recipe",
-        imgfile: "../images/ricerecipe/Shahi Dastarkhwan Chicken Biryani Recipe.jpg",
+        imgfile:
+          "../images/ricerecipe/Shahi Dastarkhwan Chicken Biryani Recipe.jpg",
         recipieServe: "2",
         preTime: "1hrs",
         cookTime: "1hrs",
         totalTime: "2hrs",
-        description: "A biryani inspired by the Royal Kitchens of the Nawabs of Awadh enhanced by fine-grain Basmati Rice delicately perfumed with saffron and rose. The aroma of this beautiful biryani is so enticing that you won’t be able to resist. Handful of dry fruits makes it a luxurious meal, the kind you’ll never forget about.",
+        description:
+          "A biryani inspired by the Royal Kitchens of the Nawabs of Awadh enhanced by fine-grain Basmati Rice delicately perfumed with saffron and rose. The aroma of this beautiful biryani is so enticing that you won’t be able to resist. Handful of dry fruits makes it a luxurious meal, the kind you’ll never forget about.",
         ingredients: [
           "500 gms Fine Grain Basmati Rice",
           "1 and 1/2 kg Chicken (cut into medium pieces with bone)",
@@ -4184,7 +4294,8 @@ export const Data = [
           "1 nos Star Anise",
           "2 nos Black Cardamom",
           "1 and 1/2 tbsp Nutmeg Powder (Freshly Pound)",
-          "1 and 1/2 tbsp Mace"],
+          "1 and 1/2 tbsp Mace",
+        ],
         steps: [
           "For Chicken Prep",
           "1.In a mixing bowl, combine chicken, curd, ginger-garlic paste, red chilli powder, turmeric powder, coriander powder and salt.",
@@ -4205,10 +4316,9 @@ export const Data = [
           "6.Seal the vessel with dough and put the lid on top of it and press it from all the sides.",
           "7.Allow the biryani to cook in dum for 20-25 minutes.",
           "8.Rest for another 10 minutes before serving.",
-          "9.Serve hot with Boorani raita and laccha onion to enjoy this lip-smacking biryani!"],
+          "9.Serve hot with Boorani raita and laccha onion to enjoy this lip-smacking biryani!",
+        ],
       },
-
-
 
       {
         subid: 2,
@@ -4218,7 +4328,8 @@ export const Data = [
         preTime: "20min",
         cookTime: "20min",
         totalTime: "40min",
-        description: "This egg keema pulao is filled with the goodness of spices, vegetables, and of course, a keema style egg that makes it delicious to have.",
+        description:
+          "This egg keema pulao is filled with the goodness of spices, vegetables, and of course, a keema style egg that makes it delicious to have.",
         ingredients: [
           "1 Cup Rice1 Onion",
           "1 Tomato3 Eggs",
@@ -4229,17 +4340,17 @@ export const Data = [
           "1 tbsp Red chilli powder",
           "1 tbsp Coriander Powder",
           "1/2 tbsp Turmeric powder",
-          "Salt as per taste"],
+          "Salt as per taste",
+        ],
         steps: [
           "1.Take one cup of rice and bring it to a boil.",
           "2.Then in a pan add some oil with hard spices like bay leaf, cardamom, clove, heeng and mix.",
           "3.To this add, onions and cook them till they become lightly brown and crispy.",
           "4.Next add tomato puree with spices like red chilli, turmeric powder, coriander powder and salt according to taste.",
           "5.Combine these well till tomatoes are cooked and then add some curd. Mix again.",
-          "6.Now break three eggs into this mix and cook till eggs are done. Then put in the rice and combine. Garnish with coriander leaves and serve!"],
+          "6.Now break three eggs into this mix and cook till eggs are done. Then put in the rice and combine. Garnish with coriander leaves and serve!",
+        ],
       },
-
-
 
       {
         subid: 3,
@@ -4249,7 +4360,8 @@ export const Data = [
         preTime: "30min",
         cookTime: "30min",
         totalTime: "1hrs",
-        description: "This easy to make biryani is made with a fresh and vibrant gravy and marinade of mint and coriander leaves and the tanginess of tomatoes, lemon and curd give it a lip-smacking edge.",
+        description:
+          "This easy to make biryani is made with a fresh and vibrant gravy and marinade of mint and coriander leaves and the tanginess of tomatoes, lemon and curd give it a lip-smacking edge.",
         ingredients: [
           "1 Kg Chicken",
           "3 cup Rice (Seeraga Samba recommended)",
@@ -4271,7 +4383,8 @@ export const Data = [
           "1 Black Cardamom",
           "1-2 Star Anise",
           "Medium sized cinnamon stick",
-          "1/4 cup GheeSalt as required"],
+          "1/4 cup GheeSalt as required",
+        ],
         steps: [
           "1.In a grinder take coriander, mint, green chili, ginger, garlic, onions and a pinch of salt. Add a little water and make a fine paste out of it.",
           "2.Use half of this paste to marinate the chicken. In a bowl, take chicken, curd, half the green paste, garam masala, haldi, red chili powder, and let this marinade for at least 30 mins.",
@@ -4282,10 +4395,9 @@ export const Data = [
           "7.Once the chicken is tender, add the soaked rice and mix everything well. Pour enough water to submerge all the rice.",
           "8.Now let this cook for 10-15 mins. Check if the rice is almost done.",
           "9.When the last 10 mins remain, drizzle 2-3 tbsp of ghee, saffron milk, coriander, fried onions and let it cook on dum for 10 minutes.",
-          "10.Remove off the heat and serve hot."],
+          "10.Remove off the heat and serve hot.",
+        ],
       },
-
-
 
       {
         subid: 4,
@@ -4295,7 +4407,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "15min",
         totalTime: "25min",
-        description: "Keto Fried Rice is one of the easiest dishes to make in the keto diet. The best part about this recipe is that it is completely plant-based, so even vegans can enjoy having this dish.",
+        description:
+          "Keto Fried Rice is one of the easiest dishes to make in the keto diet. The best part about this recipe is that it is completely plant-based, so even vegans can enjoy having this dish.",
         ingredients: [
           "2 Grated cauliflower",
           "2 tbsp Olive Oil",
@@ -4305,17 +4418,17 @@ export const Data = [
           "200 gram Zucchinito taste Salt",
           "1 tsp Pepper",
           "1 tsp Soya Sauce",
-          "1 tsp Vinegar"],
+          "1 tsp Vinegar",
+        ],
         steps: [
           "1.Chop onion, broccoli, zucchini and beans.",
           "2.Then take a saucepan sauté the vegetables in olive oil on medium heat .",
           "3.Add salt, pepper, vinegar and soya sauce.",
           "4.Once the vegetables are cooked, add the grated cauliflower.",
           "5.Once the grated cauliflower is cooked, your keto fried rice is ready!",
-          "6.Serve it with a garnish of green onions."],
+          "6.Serve it with a garnish of green onions.",
+        ],
       },
-
-
 
       {
         subid: 5,
@@ -4325,7 +4438,8 @@ export const Data = [
         preTime: "30min",
         cookTime: "30min",
         totalTime: "1hrs",
-        description: "Originally an Arabic dish, this biryani has slowly found ways to be included in Bakri-Eid festivals all around the world. It is cooked in mutton stock itself which is why every bite feels like a piece of flavourful heaven.",
+        description:
+          "Originally an Arabic dish, this biryani has slowly found ways to be included in Bakri-Eid festivals all around the world. It is cooked in mutton stock itself which is why every bite feels like a piece of flavourful heaven.",
         ingredients: [
           "750 gms Mutton",
           "4 cups Basmati rice",
@@ -4348,7 +4462,8 @@ export const Data = [
           "2 Bay Leaf",
           "8-10 Cloves",
           "8-10 Cardamom",
-          "2 sticks Cinnamon"],
+          "2 sticks Cinnamon",
+        ],
         steps: [
           "1.In a grinder mix all the whole spices, except for bay leaf and couple of cloves and cardamom. This powder is the mandi masala.",
           "2.In a bowl, add clean and dry mutton pieces, the mandi masala powder, salt and green chilli paste. Let this marinate for minimum 30 minutes and maximum 4 hours.",
@@ -4362,10 +4477,9 @@ export const Data = [
           "10.Remove nuts and fry the mutton pieces for 5-10 mins or until light brown.",
           "11.In the pan with rice, add fried mutton pieces on top, nuts and coriander.",
           "12.Use the coal smoking method if you like at this point.",
-          "13.Serve this deliciousness and enjoy!"],
+          "13.Serve this deliciousness and enjoy!",
+        ],
       },
-
-
 
       {
         subid: 6,
@@ -4375,7 +4489,8 @@ export const Data = [
         preTime: "20min",
         cookTime: "25min",
         totalTime: "45min",
-        description: "Unlike other biryani, the richness of this biryani comes from the use of khoya and creamy malai along with the list of whole spices (khada masala). In addition to it, this biryani is lighter and milder on the stomach.",
+        description:
+          "Unlike other biryani, the richness of this biryani comes from the use of khoya and creamy malai along with the list of whole spices (khada masala). In addition to it, this biryani is lighter and milder on the stomach.",
         ingredients: [
           "500 gms Chicken/mutton",
           "2 large Onion",
@@ -4405,7 +4520,8 @@ export const Data = [
           "4 tsp Warm Milk",
           "2 tsp Sliced Almonds",
           "2-3 Mint leaves",
-          "2 Boiled eggs"],
+          "2 Boiled eggs",
+        ],
         steps: [
           "For Marination",
           "1.Wash the chicken in a bowl properly. Then add curd, ginger garlic paste and set aside for atleast 3-4 hours or overnight for best results.",
@@ -4413,10 +4529,9 @@ export const Data = [
           "1.Take basmati rice in a bowl and wash it thoroughly. Then soak it for 15 minutes.",
           "2.In a wide and heavy vessel, add 4-5 cups of water and add rice along with whole spices and salt. Cook until half-cooked.",
           "3.Drain the water and spread the rice on a plate or a tray. keep it aside for sometime.",
-          "4.Meanwhile, soak saffron in warm milk for 10-15 minutes."],
+          "4.Meanwhile, soak saffron in warm milk for 10-15 minutes.",
+        ],
       },
-
-
 
       {
         subid: 7,
@@ -4426,7 +4541,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "Mango Kheer is super delicious dessert for summer. Add mango pulp to your classic rice kheer and enjoy the tangy and sweet taste of this incredible dessert.",
+        description:
+          "Mango Kheer is super delicious dessert for summer. Add mango pulp to your classic rice kheer and enjoy the tangy and sweet taste of this incredible dessert.",
         ingredients: [
           "1.5 Litre Milk",
           "3/4 cups Rice (Tukda Chawal preferred)",
@@ -4439,7 +4555,8 @@ export const Data = [
           "2 tbsp Almonds soaked",
           "2 tbsp Pistachio sliced",
           "3 pieces Gold leaf (optional)",
-          "24 pieces Mini Gulab jamuns (optional)"],
+          "24 pieces Mini Gulab jamuns (optional)",
+        ],
         steps: [
           "1.Wash and rinse the rice couple of times till the water runs clear, soak in the enough water for 1 hour.",
           "2.Reserve 4tbsp of milk for making slurry with 2 tbsp of custard powder, then pour the rest of milk in heavy bottom pan or kadai and bring it to a boil and then simmer.",
@@ -4449,10 +4566,9 @@ export const Data = [
           "6.Mix the custard powder and the reserved 4 tbsp of milk well into a slurry and add to the simmering rice mix.",
           "7.Cook for another 5 minutes and off the flame. Add in the sugar immediately and cardamom powder, saffron milk and mix well.",
           "8.Add in half of the almonds and pistachio and keep the other half for garnishing. Transfer to a glass bowl and refrigerate till required.",
-          "9.Finish by preparing individual portions in the ice cream glasses. Start with piping chilled fresh mango mousse on the base, top it up with the chilled rice kheer, fresh mango cubes, Gold leaf, mini gulab jamuns and nuts! Enjoy."],
+          "9.Finish by preparing individual portions in the ice cream glasses. Start with piping chilled fresh mango mousse on the base, top it up with the chilled rice kheer, fresh mango cubes, Gold leaf, mini gulab jamuns and nuts! Enjoy.",
+        ],
       },
-
-
 
       {
         subid: 8,
@@ -4462,7 +4578,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "Coriander flavoured rice with vegetables and egg flavoured with burnt garlic brings you a flavoured, light main course meal, perfect for your summer appetite.",
+        description:
+          "Coriander flavoured rice with vegetables and egg flavoured with burnt garlic brings you a flavoured, light main course meal, perfect for your summer appetite.",
         ingredients: [
           "3-4 Babycornto taste Salt",
           "1/2 cup Beans",
@@ -4474,7 +4591,8 @@ export const Data = [
           "2 pieces Egg",
           "1/2 tsp Sugar",
           "1 bowl Table Rice",
-          "to taste Black Pepper"],
+          "to taste Black Pepper",
+        ],
         steps: [
           "1.Chop the carrots, beans, and corn.",
           "2.Meanwhile, keep 1 bowl of boiled rice ready.",
@@ -4483,20 +4601,21 @@ export const Data = [
           "5.Sprinkle Salt and pepper on top.",
           "6.Then add the fresh veggie broth, along with the rice.",
           "7.Toss them on a pan.",
-          "8.Finally garnish with burnt garlic and coriander leaf."],
+          "8.Finally garnish with burnt garlic and coriander leaf.",
+        ],
       },
-
-
 
       {
         subid: 9,
         recipename: "Rajasthani Kadhi With Tofu Palak Pakoda Recipe",
-        imgfile: "../images/ricerecipe/Rajasthani Kadhi With Tofu Palak Pakoda Recipe.jpg",
+        imgfile:
+          "../images/ricerecipe/Rajasthani Kadhi With Tofu Palak Pakoda Recipe.jpg",
         recipieServe: "2",
         preTime: "40min",
         cookTime: "80min",
         totalTime: "2hrs",
-        description: "About Rajasthani Kadhi With Tofu Palak Pakoda Recipe: A tantalising kadhi recipe served with jeera pulao is what a hearty meal should be! This traditional Rajasthani kadhi recipe from Elior India serves crispy tofu palak pakoda along with it, and makes it all the more appetising and delicious!",
+        description:
+          "About Rajasthani Kadhi With Tofu Palak Pakoda Recipe: A tantalising kadhi recipe served with jeera pulao is what a hearty meal should be! This traditional Rajasthani kadhi recipe from Elior India serves crispy tofu palak pakoda along with it, and makes it all the more appetising and delicious!",
         ingredients: [
           "1 Cup sour curd",
           "2 cup water",
@@ -4525,14 +4644,15 @@ export const Data = [
           "1-2 tbsp ghee",
           "1 tbsp cumin",
           "Whole spices (1 black cardmom,4-5 cloves & 2-3 bay leaves)",
-          "150 ml water1 tsp lemon juiceto taste salt"],
+          "150 ml water1 tsp lemon juiceto taste salt",
+        ],
         steps: [
           "1.Firstly in a pan take 1 cup sour curd, add 3 to 4 tablespoons besan (gram flour), then add 1/2 teaspoon turmeric powder and salt as required, Add 2 cups of water to it.",
           "2.With a wired whisk mix everything well till smooth. There should be no lumps of besan.",
           "3.Now keep the pan on the stovetop, keep the flame to a low or low-medium and begin to cook the kadhi. Keep stirring at intervals and let the kadhi come to a boil, continue to simmer even after the kadhi comes to a boil.",
-          "4.Do keep on stirring at intervals and cook for 12 to 15 minutes on a low to low-medium flame. There should be no raw taste of besan in the kadhi. The kadhi will also thicken by the time it is cooked. Cover and keep aside."]
+          "4.Do keep on stirring at intervals and cook for 12 to 15 minutes on a low to low-medium flame. There should be no raw taste of besan in the kadhi. The kadhi will also thicken by the time it is cooked. Cover and keep aside.",
+        ],
       },
-
 
       {
         subid: 10,
@@ -4542,24 +4662,26 @@ export const Data = [
         preTime: "20min",
         cookTime: "40min",
         totalTime: "60min",
-        description: "About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
-        ingredients: ["2 Litre full fat milk",
+        description:
+          "About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
+        ingredients: [
+          "2 Litre full fat milk",
           "120 gms rice",
           "40 gms grain sugar",
           "3-4 Rose water drops",
           "10 gms dried rose petals",
           "100 gms almonds",
-          "25 gms almond slivers"],
-        steps: ["1.Soak the rice in water for about 20 minutes.",
+          "25 gms almond slivers",
+        ],
+        steps: [
+          "1.Soak the rice in water for about 20 minutes.",
           "2.Heat milk in a heavy bottom pan. After a boil, reduce the heat and simmer till milk is reduced to half the original volume.",
           "3.Add the soaked rice after draining the water and cook on low heat till rice is cooked well and the mix thickens.",
           "4.Add chopped almonds and cook for further 15 mins on low heat till the kheer is thick and creamy, add sugar.",
           "5.Set aside to cool. Once cool add rose water and mix. Refrigerate till serving",
-          "6.Roast some almond slivers in an oven for 180 degrees for 5 minutes, until golden brown. Garnish with slivers and dried rose petals before serving."],
+          "6.Roast some almond slivers in an oven for 180 degrees for 5 minutes, until golden brown. Garnish with slivers and dried rose petals before serving.",
+        ],
       },
-
-
-
 
       {
         subid: 11,
@@ -4569,7 +4691,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "40min",
         totalTime: "55min",
-        description: "About Satrangi Biryani Recipe: Biryani is a dish that no one can resist and when it is full of healthy and nutritious veggies, you will not even regret indulging in! Packed with beetroot, zucchini, carrot, bell pepper, french beans, mint and a host of aromatic spices, this biryani recipe is super delicious! A special recipe curated by India Bistro as part of their Clay Pot festival, this biryani is cooked slowly in a clay pot which ensures a clean, healthy and earthen way of cooking food.",
+        description:
+          "About Satrangi Biryani Recipe: Biryani is a dish that no one can resist and when it is full of healthy and nutritious veggies, you will not even regret indulging in! Packed with beetroot, zucchini, carrot, bell pepper, french beans, mint and a host of aromatic spices, this biryani recipe is super delicious! A special recipe curated by India Bistro as part of their Clay Pot festival, this biryani is cooked slowly in a clay pot which ensures a clean, healthy and earthen way of cooking food.",
         ingredients: [
           "20 Gram Red carrot",
           "20 Gram French beans",
@@ -4593,16 +4716,16 @@ export const Data = [
           "3 Ml Saffron water",
           "2 Nos Green chilli",
           "1 Gram Garam masala",
-          "10 Ml Cooking oil"],
+          "10 Ml Cooking oil",
+        ],
         steps: [
           "1.Cut all the vegetable into dice. Blanch and keep aside.",
           "2.Boil the rice and cook it about 80%.",
           "3.In the clay pot, add dices vegetables, haldi powder, add curd, cashew paste, chili powders, kewda water, saffron water, mint leaves, brown onion and mix well.",
           "4.Put the par cooked rice and desi ghee top with caramelized onion and garam masala powder.",
-          "5.Seal the pot with Roti and put in the oven for 15 minutes."],
+          "5.Seal the pot with Roti and put in the oven for 15 minutes.",
+        ],
       },
-
-
 
       {
         subid: 12,
@@ -4612,7 +4735,8 @@ export const Data = [
         preTime: "20min",
         cookTime: "40min",
         totalTime: "60min",
-        description: "About Zucchini Methi Pulao Recipe: If you want to make different flavored rice, then try this recipe. Two vegetables put together-simple magic! Both green. One very aromatic and leafy and the other one a great squash. You can make this zucchini methi pulao for lunch.",
+        description:
+          "About Zucchini Methi Pulao Recipe: If you want to make different flavored rice, then try this recipe. Two vegetables put together-simple magic! Both green. One very aromatic and leafy and the other one a great squash. You can make this zucchini methi pulao for lunch.",
         ingredients: [
           "1300 Gram zucchini",
           "220 grams ",
@@ -4624,17 +4748,17 @@ export const Data = [
           "4 gram cumin seeds (jeera)",
           "1 gram asafoetida (heeng)",
           "medium green chilles, chopped",
-          "2 pieces ginger, julienneto taste salt"],
+          "2 pieces ginger, julienneto taste salt",
+        ],
         steps: [
           "1.Wash the Zucchini, Peel and Halve lengthwise. Cut in thin slices.",
           "2.Keep aside.Chop the fresh fenugreek, sprinkle with salt and rub the salt on the leaves with your hands in a bowl.",
           "3.Keep for 5 minutes and wash in running water until all traces of salt have been removed. (This is done to reduce the bitterness of the fenugreek). Shake dry and keep aside.",
           "4.Add clarified butter in a pot. Add cumin seeds, followed by the asafoetida (dissolved in a little water). Then add the fenugreek and increase to medium heat, continue to stir and roast (approx 4-5 minutes) until you can see oil on the sides.",
           "5.Add the Zucchini and stir for a minute, then add green chillies and ginger, stir again. Drain the rice, add to the pot then add salt stirring gently.",
-          "6.Cover the pot and leave on slow heat, stirring gently and occasionally for 10-12 minutes or until the rice is fully cooked and moisture is absorbed.Transfer to a bowl and serve.K"],
+          "6.Cover the pot and leave on slow heat, stirring gently and occasionally for 10-12 minutes or until the rice is fully cooked and moisture is absorbed.Transfer to a bowl and serve.K",
+        ],
       },
-
-
 
       {
         subid: 13,
@@ -4644,7 +4768,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "diced melange of vegetables tossed with aromatic basmati rice pulao and brown onions.",
+        description:
+          "diced melange of vegetables tossed with aromatic basmati rice pulao and brown onions.",
         ingredients: [
           "70 Gram cauliflower",
           "30 Gram beans",
@@ -4656,15 +4781,15 @@ export const Data = [
           "1/2 tsp salt",
           "10 Gram coriander, fresh",
           "Mint (according to taste)",
-          "30 Gram onions, browned"],
+          "30 Gram onions, browned",
+        ],
         steps: [
           "1.Cut the cauliflower, beans and carrots in even sized dices and blanch them in hot water till half done.",
           "2.Heat ghee on a hot tawa and add chopped onions.",
           "3.Saute till it turns light brown in colour. Later, add chopped tomatoes and garam masala.",
-          "4.Add pre-cooked pulao rice, salt and mix well on tawa.5.Add chopped fresh coriander, mint and brown onions. Toss well and serve hot."],
+          "4.Add pre-cooked pulao rice, salt and mix well on tawa.5.Add chopped fresh coriander, mint and brown onions. Toss well and serve hot.",
+        ],
       },
-
-
 
       {
         subid: 14,
@@ -4674,7 +4799,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "20min",
         totalTime: "30min",
-        description: "Corn pulao is an easy recipe that makes for a complete meal. With spices, Basamati rice and beautiful corn kernels, pack some for lunch to make everyone jealous.",
+        description:
+          "Corn pulao is an easy recipe that makes for a complete meal. With spices, Basamati rice and beautiful corn kernels, pack some for lunch to make everyone jealous.",
         ingredients: [
           "250 Gram Basmati rice",
           "80 gram American corn kernels",
@@ -4690,7 +4816,8 @@ export const Data = [
           "2 cups Hot water",
           "3 tbsp Coriander leaves, chopped",
           "2 tsp Lime juice",
-          "Bell pepper (Sautéed and diced), choppedCoconut, grated"],
+          "Bell pepper (Sautéed and diced), choppedCoconut, grated",
+        ],
         steps: [
           "1.Rinse basmati rice and soak it in water for at least 15-20mins.",
           "2.Grind coconut, green chilli, coriander leaves to make a fine paste.",
@@ -4701,10 +4828,9 @@ export const Data = [
           "7.Add hot water, little salt and cook for 15mins.",
           "8.Once the rice is 3/4th done add lime juice.",
           "9.Finally garnish with sautéed diced red and yellow bell pepper, grated coconut and chopped coriander leaves.",
-          "10.Serve with cucumber raita."],
+          "10.Serve with cucumber raita.",
+        ],
       },
-
-
 
       {
         subid: 15,
@@ -4714,7 +4840,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "45min",
         totalTime: "60min",
-        description: "This brown rice recipe is loaded with fiber, minerals and vitamins like B6 and niacin. Not just that, you get a dash of protein and the crunchy capsicum provides you with antioxidants like Vitamin C.",
+        description:
+          "This brown rice recipe is loaded with fiber, minerals and vitamins like B6 and niacin. Not just that, you get a dash of protein and the crunchy capsicum provides you with antioxidants like Vitamin C.",
         ingredients: [
           "1 cup brown rice",
           "1 green capsicum, large",
@@ -4727,17 +4854,17 @@ export const Data = [
           "2 bay leaves",
           "1/2 tsp coriander powder",
           "1 tsp olive oil",
-          "Salt to taste"],
+          "Salt to taste",
+        ],
         steps: [
           "1. In a non-stick vessel, heat oil and add cumin seeds",
           "2. Once the seeds crackle, add the bay leaves, stir gently and add chopped onions. Cook the onions till they turn brown",
           "3. Now add ginger garlic paste, coriander mint paste and curd to the vessel and cook well. Once the masala is cooked well, you will start getting a lovely aroma and this is the correct time to stir in the dry masalas.",
           "4. Cook for 5-6 minutes, time to add the crunchy capsicum. Once done, add the rice and 1 1/2 cups of water",
           "5. Cover the vessel with a lid and let it cook for 15 minutes or till the rice is done.",
-          "6. Garnish with some coriander and serve fresh."],
+          "6. Garnish with some coriander and serve fresh.",
+        ],
       },
-
-
 
       {
         subid: 16,
@@ -4747,7 +4874,8 @@ export const Data = [
         preTime: "20min",
         cookTime: "20min",
         totalTime: "40min",
-        description: "Sweet Potato Rice: A quick lunch with rice and sweet potatoes cooked in olive oil with a gingery kick.",
+        description:
+          "Sweet Potato Rice: A quick lunch with rice and sweet potatoes cooked in olive oil with a gingery kick.",
         ingredients: [
           "3 Cups Rice (cooked)",
           "10 pieces Garlic, finely chopped",
@@ -4756,7 +4884,8 @@ export const Data = [
           "1/2 tsp Chilli powder",
           "2 Sweet potatoes",
           "3 tsp Olive oil",
-          "to taste Salt"],
+          "to taste Salt",
+        ],
         steps: [
           "1.Heat oil in a pan.",
           "2.Add garlic and fry till slightly brown in color.",
@@ -4764,20 +4893,21 @@ export const Data = [
           "4.Add chilli powder and ginger juice, cook it fully.",
           "5.Add spring onion and mix well.",
           "6.Add cooked rice and mix well.",
-          "7.Switch it off and serve hot."],
+          "7.Switch it off and serve hot.",
+        ],
       },
-
-
 
       {
         subid: 17,
         recipename: "Lotus Leaf Wrapped Fried Rice Recipe",
-        imgfile: "../images/ricerecipe/Lotus Leaf Wrapped Fried Rice Recipe.jpg",
+        imgfile:
+          "../images/ricerecipe/Lotus Leaf Wrapped Fried Rice Recipe.jpg",
         recipieServe: "2",
         preTime: "5min",
         cookTime: "15min",
         totalTime: "20min",
-        description: "Satisfying and healthy fried rice with loads of nutrients which is so irresistible when unwrapped from the lotus leaf.",
+        description:
+          "Satisfying and healthy fried rice with loads of nutrients which is so irresistible when unwrapped from the lotus leaf.",
         ingredients: [
           "200 gm jasmine rice (cooked)",
           "20 gm edamame beans",
@@ -4786,14 +4916,14 @@ export const Data = [
           "10 gm spring onion",
           "5 gm dark soya sauce",
           "10 ml sunflower oil",
-          "Salt as per taste"],
+          "Salt as per taste",
+        ],
         steps: [
           "1.Heat oil in a wok till smoke appears.",
           "2.Now add all the ingredients together and toss it at high flame till well combined.",
-          "3.Serve hot with a garnish of coriander leaf."],
+          "3.Serve hot with a garnish of coriander leaf.",
+        ],
       },
-
-
 
       {
         subid: 18,
@@ -4803,7 +4933,8 @@ export const Data = [
         preTime: "30min",
         cookTime: "30min",
         totalTime: "60min",
-        description: "Chicken Quinoa Biryani Recipe: Quinoa is a wonder grain that keeps you full and satisfied or long like rice but is more healthier. This meal is rich in fiber and help avoid unwanted cravings especially if you are on a diet.",
+        description:
+          "Chicken Quinoa Biryani Recipe: Quinoa is a wonder grain that keeps you full and satisfied or long like rice but is more healthier. This meal is rich in fiber and help avoid unwanted cravings especially if you are on a diet.",
         ingredients: [
           "2 Cups Quinoa, blanched",
           "2 Onions, sliced",
@@ -4827,7 +4958,8 @@ export const Data = [
           "3 tbsp Oil",
           "4 Cloves",
           "1 small Bay leaf",
-          "3 Cardamom"],
+          "3 Cardamom",
+        ],
         steps: [
           "1.Wash the chicken and drain the excess water. Marinate it with the ingredients and cover it, keep aside for at least 30 minutes.",
           "2.Heat oil in a skillet or a pressure cooker, add the tempering ingredients one by one then add onion, green chilli, mint leaves, cilantro, sprinkle little salt and saute for 1-2 minutes.",
@@ -4837,20 +4969,21 @@ export const Data = [
           "6.Cover and cook it for 6-7 minutes or till the chicken gets 3/4th cooked.",
           "7.Add 1 cup yogurt, 2 or 3 cups of water, enough salt and allow it to boil.",
           "8.Once it starts boiling, reduce the flame and cook for 3 more minutes.",
-          "9.Layer with quinoa, toss and enjoy.10.Eat with raita and a generous squeeze of lime."],
+          "9.Layer with quinoa, toss and enjoy.10.Eat with raita and a generous squeeze of lime.",
+        ],
       },
-
-
 
       {
         subid: 19,
         recipename: "Mavinakayi Nellikai Chitranna Recipe",
-        imgfile: "../images/ricerecipe/Mavinakayi Nellikai Chitranna Recipe.jpg",
+        imgfile:
+          "../images/ricerecipe/Mavinakayi Nellikai Chitranna Recipe.jpg",
         recipieServe: "2",
         preTime: "5min",
         cookTime: "45min",
         totalTime: "50min",
-        description: "About Mavinakayi Nellikai Chitranna (Raw Mango & Gooseberry Rice) Recipe: Chef Naren created this magic with a tangy and exciting combination of amla, raw mangoes and rice. The mix is infused with the goodness of local herbs and spices, cooked to an aromatic, spellbinding perfection.",
+        description:
+          "About Mavinakayi Nellikai Chitranna (Raw Mango & Gooseberry Rice) Recipe: Chef Naren created this magic with a tangy and exciting combination of amla, raw mangoes and rice. The mix is infused with the goodness of local herbs and spices, cooked to an aromatic, spellbinding perfection.",
         ingredients: [
           "1 Cup Sona masoori rice",
           "1 Raw mango",
@@ -4863,7 +4996,8 @@ export const Data = [
           "1 tsp Urad dal",
           "1/2 tsp Mustard seeds",
           "Curry leaves",
-          "to taste Salt"],
+          "to taste Salt",
+        ],
         steps: [
           "1.Wash and soak rice for 10 to 15 minutes.",
           "2.Cook rice in draining method. Let it cool.",
@@ -4873,10 +5007,9 @@ export const Data = [
           "6.Heat oil in a thick bottom pan and crackle mustard seeds.",
           "7.Add channa dal, urad dal and cashew nuts.Fry until they turn light golden.Add slit green chillies, curry leaves and fry well. Add chopped gooseberries and raw mangoes, fry for 2-3 minutes.",
           "8.Add turmeric powder, salt and mix.",
-          "9.Cover and cook on low flame for 6-8 minutes.Let the mixture cool. Add cooked rice to the mashed mixture and mix well.Season according to your taste."],
+          "9.Cover and cook on low flame for 6-8 minutes.Let the mixture cool. Add cooked rice to the mashed mixture and mix well.Season according to your taste.",
+        ],
       },
-
-
 
       {
         subid: 20,
@@ -4886,7 +5019,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "25min",
         totalTime: "35min",
-        description: "A delicious combination of rice, cheese and vegetable broth cooked slowly along with white wine to have a risotto which is not just tasty but also easy and quick to prepare.",
+        description:
+          "A delicious combination of rice, cheese and vegetable broth cooked slowly along with white wine to have a risotto which is not just tasty but also easy and quick to prepare.",
         ingredients: [
           "Carnaroli rice",
           "Vegetable broth",
@@ -4894,20 +5028,15 @@ export const Data = [
           "Parmigiano cheese",
           "Onion (minced)",
           "White wine",
-          "Salt & pepper"],
+          "Salt & pepper",
+        ],
         steps: [
           "1.Melt butter in a frying pan and add onions. Cook for 2-3 minutes and add rice.",
           "2.Toast for 2-3 minutes. Add white wine and cook until evaporated. Slowly add vegetable broth.",
           "3.Add asparagus, previusly cut and slightly cooked in butter, salt and pepper. Cook for another 15-16 minutes.",
-          "4.Remove from heat and amalgamate parmigiano cheese adding salt and pepper to taste. Drizzle olive oil and serve."],
+          "4.Remove from heat and amalgamate parmigiano cheese adding salt and pepper to taste. Drizzle olive oil and serve.",
+        ],
       },
-
-
-
-
-
-
-
     ],
   },
 
@@ -4916,10 +5045,9 @@ export const Data = [
     id: 8,
     imgsrc: "../images/breadrecipe/Chicken Salami Sandwich Recipe.jpg",
     name: "Bread Recipe",
-    link: "/breadrecipe",
+    link: "/recipes/breadrecipe",
     info: "Switch up your baking routine with these delicious savory bread recipes. Home-baked breads packed with flavors like herbs, spices, cheese,",
     recipies: [
-
       {
         subid: 1,
         recipename: "Chicken Salami Sandwich Recipe",
@@ -4928,7 +5056,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "The blend of the buttered bread, crunchy vegetables, melting cheese and our all-time favourite chicken salami truly make for a scrumptious breakfast. Read the recipe below.",
+        description:
+          "The blend of the buttered bread, crunchy vegetables, melting cheese and our all-time favourite chicken salami truly make for a scrumptious breakfast. Read the recipe below.",
         ingredients: [
           "For grilled chicken salami sandwich",
           "4 Slices Bread",
@@ -4950,7 +5079,8 @@ export const Data = [
           "1/4 cup Capsicum slices",
           "1 tsp Mayonnaise",
           "1 tsp Mustard sauce",
-          "Salt and pepper according to taste"],
+          "Salt and pepper according to taste",
+        ],
         steps: [
           "1.For the grilled sandwich, butter the bread, and chopped vegetables. Sprinkle salt and pepper at this point.",
           "2.Place chicken salami and cheese slice on top of that.",
@@ -4958,9 +5088,9 @@ export const Data = [
           "4.For the subway-style sandwich cut the bread loaf in half, and spread the lettuce leaves.",
           "5.On top of this add vegetables and sprinkle salt and pepper on them.",
           "6.Place salami and cheese slices on top of each other.",
-          "7.Add mayo, mustard sauce, and top close with another loaf."],
+          "7.Add mayo, mustard sauce, and top close with another loaf.",
+        ],
       },
-
 
       {
         subid: 2,
@@ -4970,16 +5100,16 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "Detox roti is a combination of atta and vegetable. Full of moisture, lauki helps keep your body hydrated and cool. Try out this lauki roti recipe today!",
-        ingredients: [
-          "1 cup Atta"],
+        description:
+          "Detox roti is a combination of atta and vegetable. Full of moisture, lauki helps keep your body hydrated and cool. Try out this lauki roti recipe today!",
+        ingredients: ["1 cup Atta"],
         steps: [
           "1.Add lauki and atta to a bowl.",
           "2.Use your hands and knead the dough.",
           "3.Then roll your rotis by using a roller and cook them on a tawa from both the sides.",
-          "4.Serve and enjoy!"],
+          "4.Serve and enjoy!",
+        ],
       },
-
 
       {
         subid: 3,
@@ -4989,7 +5119,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "The sandwich speaks for itself! This easy to make and healthy sandwich is made with boiled chicken along with lettuce, bell pepper and seasonings like tangy chat masala with creamy mayonnaise. Try it out in your next sandwich cravings.",
+        description:
+          "The sandwich speaks for itself! This easy to make and healthy sandwich is made with boiled chicken along with lettuce, bell pepper and seasonings like tangy chat masala with creamy mayonnaise. Try it out in your next sandwich cravings.",
         ingredients: [
           "1/2 Cup Chopped and boiled chicken",
           "salt as required",
@@ -4999,15 +5130,16 @@ export const Data = [
           "4 leaves Lettuce romaine",
           "3 tsp Mayonnaise",
           "1 tsp Chaat masala",
-          "1/4 Cup Capsicum (green pepper)"],
+          "1/4 Cup Capsicum (green pepper)",
+        ],
         steps: [
           "1.Finely chop the boiled chicken in a bowl.",
           "2.In this bowl, add finely chopped bell peppers, chat masala, salt and mayonnaise. Mix well.",
           "3.Apply butter on both the slices and then spread the washed lettuce in it. Add filling in it and cover them together to make a sandwich.",
           "4.Apply remaining butter on the top slice on the upper part and place in the griller for grilling the sandwich. Grill for 2-4 minutes.",
-          "5.Once done, serve hot with your favourite dip."],
+          "5.Once done, serve hot with your favourite dip.",
+        ],
       },
-
 
       {
         subid: 4,
@@ -5017,7 +5149,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "10min",
         totalTime: "25min",
-        description: "Enough of deep fried bread rolls, now is the time to try a healthy yet delicious version of bread rolls. Enjoy this tawa bread roll without any guilt. Try it out!",
+        description:
+          "Enough of deep fried bread rolls, now is the time to try a healthy yet delicious version of bread rolls. Enjoy this tawa bread roll without any guilt. Try it out!",
         ingredients: [
           "5 Bread slices",
           "1 tbsp Cornflour",
@@ -5028,7 +5161,8 @@ export const Data = [
           "1/2 tbsp Red chilli powder",
           "1/2 tbsp Pepper",
           "1/2 tbsp Coriander Powder",
-          "Salt according to taste"],
+          "Salt according to taste",
+        ],
         steps: [
           "1.Take a few slices of bread, cut their edges and roll them out.",
           "2.For the stuffing of these rolls, mash some boiled potatoes and add vegetables like onion, carrots and beans.",
@@ -5036,9 +5170,9 @@ export const Data = [
           "4.Mix these well and fill the bread with this stuffing.",
           "5.Roll up the bread and close it with cornflour slurry.",
           "6.Pan fry these on a tawa. Once golden brown take these out.",
-          "7.Serve and enjoy with your favourite dip."],
+          "7.Serve and enjoy with your favourite dip.",
+        ],
       },
-
 
       {
         subid: 5,
@@ -5048,23 +5182,25 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "Try this unique paratha recipe in your breakfast or lunch- this dish will win the hearts of your family. You can also pair it with curd to lower down the spice of this dish.",
+        description:
+          "Try this unique paratha recipe in your breakfast or lunch- this dish will win the hearts of your family. You can also pair it with curd to lower down the spice of this dish.",
         ingredients: [
           "1 Cup Wheat flour",
           "Water to knead dough",
           "1 Tbsp Chopped ginger",
           "1 Tbsp Garlic",
           "1/2 Cup Grated paneer",
-          "2 Tbsp acharSalt to taste"],
+          "2 Tbsp acharSalt to taste",
+        ],
         steps: [
           "1.First to make a dough take some wheat flour and knead it with water. Let it rest for 15 minutes.",
           "2.Till then for the filling, grate some paneer, add chopped ginger, garlic, one spoon of mixed achaar and salt according to taste.",
           "3.Mix these well till the flavours combine.",
           "4.Then roll out your dough and fill the stuffing in between.",
           "5.Close the dough and roll it out again.",
-          "6.Then heat a pan and bake your achari paneer paratha on medium to high flame till the crust becomes crispy."],
+          "6.Then heat a pan and bake your achari paneer paratha on medium to high flame till the crust becomes crispy.",
+        ],
       },
-
 
       {
         subid: 6,
@@ -5074,7 +5210,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "10min",
         totalTime: "255min",
-        description: "This fluffy and soft bread is usually cooked in an underground tandoor and enjoyed with tea. But since most of us won’t have the facility of a tandoor, we bring you a simpler version to make this roti easily at your home.",
+        description:
+          "This fluffy and soft bread is usually cooked in an underground tandoor and enjoyed with tea. But since most of us won’t have the facility of a tandoor, we bring you a simpler version to make this roti easily at your home.",
         ingredients: [
           "2 Cups All-purpose flour",
           "1 tbsp Instant yeast",
@@ -5083,7 +5220,8 @@ export const Data = [
           "1 tbsp Yogurt",
           "1/4 tsp Salt",
           "3/4 tsp Sugar",
-          "1/2 tsp Baking Soda"],
+          "1/2 tsp Baking Soda",
+        ],
         steps: [
           "1.In a Katori, mix yeast and water and set it aside for 10 minutes.",
           "2.Then take a bowl and add flour, salt and baking soda. Mix it well together.",
@@ -5093,9 +5231,9 @@ export const Data = [
           "6.Preheat the oven to a high temperature and put in your roti.",
           "7.Before that, brush it with milk and sprinkle poppy seeds on top.",
           "8.Place it on the preheated tray, and cook on medium heat for about 3-4 minutes.",
-          "9.Cook till the roti is golden brown."],
+          "9.Cook till the roti is golden brown.",
+        ],
       },
-
 
       {
         subid: 7,
@@ -5105,7 +5243,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "15min",
         totalTime: "30min",
-        description: "Parotta is a famous flatbread from South India which is made with all-purpose flour/maida. However, this desi chinese version of parotta is a combination of garlic and other vegetables like capsicum, onion followed by sauces like chilli sauce and soy sauce.",
+        description:
+          "Parotta is a famous flatbread from South India which is made with all-purpose flour/maida. However, this desi chinese version of parotta is a combination of garlic and other vegetables like capsicum, onion followed by sauces like chilli sauce and soy sauce.",
         ingredients: [
           "4-5 Garlic cloves",
           "1 bowl Parotta pieces",
@@ -5116,7 +5255,8 @@ export const Data = [
           "1 Tbsp Chilli sauce",
           "To taste Salt",
           "To taste Red Chilli",
-          "To taste Black Pepper"],
+          "To taste Black Pepper",
+        ],
         steps: [
           "1.Cut your parotta in bite size pieces and fry them lightly in a pan.",
           "2.Then remove it, add some oil and fry the garlic till golden brown.",
@@ -5124,9 +5264,9 @@ export const Data = [
           "4.Next put in your masalas, soy sauce and red chilli sauce according to taste.",
           "5.Mix it well and the throw in the parotta pieces.",
           "6.Stir this well and cook for another five minutes on medium heat.",
-          "7.Then serve it in a bowl and garnish with spring onions."],
+          "7.Then serve it in a bowl and garnish with spring onions.",
+        ],
       },
-
 
       {
         subid: 8,
@@ -5136,19 +5276,22 @@ export const Data = [
         preTime: "15min",
         cookTime: "10min",
         totalTime: "25min",
-        description: "Kulcha naan is basically an Indian flat bread made with all purpose flour and topped with black sesame seeds. Pair it up with spicy chole, tangy mint chutney and enjoy the wholesome meal.",
+        description:
+          "Kulcha naan is basically an Indian flat bread made with all purpose flour and topped with black sesame seeds. Pair it up with spicy chole, tangy mint chutney and enjoy the wholesome meal.",
         ingredients: [
           "1/2 Cup All Purpose Flour",
           "1 tbsp Curd",
           "11 tbsp Chopped coriander leaves",
-          "1A pinch of Baking Soda",],
-        steps: ["1.Prepare the dough in a large container by adding all purpose flour, sugar, salt, baking soda, curd and oil. Keep it aside for 2 hours.",
+          "1A pinch of Baking Soda",
+        ],
+        steps: [
+          "1.Prepare the dough in a large container by adding all purpose flour, sugar, salt, baking soda, curd and oil. Keep it aside for 2 hours.",
           "2.Now take the dough, divide it into equal parts. Roll each portion into a bowl and sprinkle sesame seeds and coriander on top of it.",
           "3.Now roll the kulcha and place it on a non stick pan.",
           "4.Cook the kulcha until both sides turn crispy and golden brown.",
-          "5.Serve it with chole, mint chutney and onion rings."],
+          "5.Serve it with chole, mint chutney and onion rings.",
+        ],
       },
-
 
       {
         subid: 9,
@@ -5158,7 +5301,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "15min",
         totalTime: "30min",
-        description: "Parathas are like a lifeline in most Indian households. This Agra paratha thali is so famous in the streets of Agra. What's better than deep fried crispy parathas with vegetable sabzi, dal and a chutney?",
+        description:
+          "Parathas are like a lifeline in most Indian households. This Agra paratha thali is so famous in the streets of Agra. What's better than deep fried crispy parathas with vegetable sabzi, dal and a chutney?",
         ingredients: [
           "1/2 Cup Wheat flour",
           "2 small Boiled potatoes",
@@ -5168,16 +5312,17 @@ export const Data = [
           "1/2 tsp Cumin powder",
           "1 tsp Coriander powder",
           "1/2 tbsp Chopped ginger",
-          "1/2 tbsp Chopped green chiilliesto taste Salt"],
+          "1/2 tbsp Chopped green chiilliesto taste Salt",
+        ],
         steps: [
           "1.For the dough knead one cup of wheat and all-purpose together and let it rest for half an hour.",
           "2.For stuffing take two potatoes, half cup of peas, chopped onions and shredded cauliflower.",
           "3.Mix half tablespoon of pepper, chilli powder, cumin powder, coriander powder, chopped ginger, green chillies and salt according to taste.",
           "4.Roll out your dough and fill the stuffing inside.",
           "5.Shallow fry your parathas on the tawa till golden brown.",
-          "6.Now serve it with aloo ki sabzi, green chutney and kele ki chutney and enjoy!"],
+          "6.Now serve it with aloo ki sabzi, green chutney and kele ki chutney and enjoy!",
+        ],
       },
-
 
       {
         subid: 10,
@@ -5187,21 +5332,23 @@ export const Data = [
         preTime: "5min",
         cookTime: "10min",
         totalTime: "15min",
-        description: "About Onion Garlic Parantha : Onion Garlic Parantha is a delectable flatbread recipe that can be enjoyed for any meal during the day. With the aromatic flavour of garlic and crispiness of onion, this recipe is very easy to make. Prepared with a handful of ingredients such as all purpose flour, garlic cloves, coriander leaves, and ghee. So, what are you waiting for? Make these onion garlic parathas and serve them piping hot with mint chutney and pickle.",
+        description:
+          "About Onion Garlic Parantha : Onion Garlic Parantha is a delectable flatbread recipe that can be enjoyed for any meal during the day. With the aromatic flavour of garlic and crispiness of onion, this recipe is very easy to make. Prepared with a handful of ingredients such as all purpose flour, garlic cloves, coriander leaves, and ghee. So, what are you waiting for? Make these onion garlic parathas and serve them piping hot with mint chutney and pickle.",
         ingredients: [
           "200 gms Whole Wheat Flour",
           "1 medium Onion (Chopped)",
           "3-4 cloves Garlic (chopped)",
           "1/2 tsp cumin powder",
           "1/2 tsp Garam Masala2 Green Chillies",
-          "2 Coriander Leaves"],
+          "2 Coriander Leaves",
+        ],
         steps: [
           "1.Heat oil in a pan. Add onion, garlic and cumin powder.",
           "2.Saute till the raw smell of garlic goes away and onions turn soft, not brown.",
           "3.Remove from gas, add green chilli, garam masala and coriander leaves.",
-          "4.Use this mixture to fill your parathas and enjoy your meal."],
+          "4.Use this mixture to fill your parathas and enjoy your meal.",
+        ],
       },
-
 
       {
         subid: 11,
@@ -5211,7 +5358,8 @@ export const Data = [
         preTime: "40min",
         cookTime: "80min",
         totalTime: "2hrs",
-        description: "About Steam Bunny Chicken Bao Recipe: With Easter just around the corner, we have got you covered on what to prepare for the brunch over the weekend with family and friends. This recipe for steamed chicken bao with a delectable filling of chicken mince, served with flavourful green pepper sauce, is just the perfect one to prepare at home.",
+        description:
+          "About Steam Bunny Chicken Bao Recipe: With Easter just around the corner, we have got you covered on what to prepare for the brunch over the weekend with family and friends. This recipe for steamed chicken bao with a delectable filling of chicken mince, served with flavourful green pepper sauce, is just the perfect one to prepare at home.",
         ingredients: [
           "12 Buns",
           "For the dough:",
@@ -5227,7 +5375,8 @@ export const Data = [
           "1 tsp sesame oil",
           "5 ml worcestershire sauce",
           "3 tbsp chives, finely chopped",
-          "20 gms aromat powder"],
+          "20 gms aromat powder",
+        ],
         steps: [
           "1.Mix together all-purpose white flour, sugar and salt.",
           "2.Take another bowl with 330 ml of warm water, put dry yeast. Wait for 10 minutes then add the mixture of flour and knead until smooth.",
@@ -5236,9 +5385,9 @@ export const Data = [
           "5.Cook well and mix together the egg, soy sauce, sugar, worcestershire sauce, chives and aromat powder. Mix well and let it cool till room temperature.",
           "6.Now roll out the dough into long barrel shape. With the help of a scissor make the rabbit ear and mouth cut in the dough.",
           "7.Heat a steamer over a medium high heat and steam the buns for about 8 minutes, until puffed up.",
-          "8.The bao is ready, serve with green pepper sauce."],
+          "8.The bao is ready, serve with green pepper sauce.",
+        ],
       },
-
 
       {
         subid: 12,
@@ -5248,8 +5397,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: " Crispy, spicy, gypsy toast is loaded with some egg-y goodness. This delish treat makes for a quick meal during the time-pressed mornings.",
-        ingredients: ["2 eggs",
+        description:
+          " Crispy, spicy, gypsy toast is loaded with some egg-y goodness. This delish treat makes for a quick meal during the time-pressed mornings.",
+        ingredients: [
+          "2 eggs",
           "Less than half cup milk",
           "1 tsp onions , chopped",
           " 1 tsp tomatoes , chopped",
@@ -5259,12 +5410,15 @@ export const Data = [
           "to taste Salt",
           "1 tsp black pepper powder",
           "Oil/butter, to shallow fry the toasts",
-          "4-5 bread slices"],
-        steps: ["1.Break the eggs in a mixing bowl and add all the other ingredients to it (except bread and oil). Whisk everything together.",
+          "4-5 bread slices",
+        ],
+        steps: [
+          "1.Break the eggs in a mixing bowl and add all the other ingredients to it (except bread and oil). Whisk everything together.",
           "2.Soak the bread slices in the whisked eggs.",
           "3.Heat oil/butter in a pan (preferably flat base) and place the bread slices one/two at a time.",
           "4.On medium flame, cook both the sides of the bread until it turns golden brown in colour.",
-          "5.Serve hot with some ketchup by the side."],
+          "5.Serve hot with some ketchup by the side.",
+        ],
       },
 
       {
@@ -5275,23 +5429,25 @@ export const Data = [
         preTime: "15min",
         cookTime: "35min",
         totalTime: "50min",
-        description: "About Christmas Tree Pizza Recipe: What is the festival of Christmas without some delicious food? Here's a delightful, quick and easy pizza recipe that looks like a beautiful Christmas tree. With just a few simple ingredients and less than an hour you'll have a delicious Christmas tree pizza that the kids would absolutely love. Making this Christmas tree pizza recipe with pesto and veggie ornaments is the perfect holiday time tradition, especially for kids!",
+        description:
+          "About Christmas Tree Pizza Recipe: What is the festival of Christmas without some delicious food? Here's a delightful, quick and easy pizza recipe that looks like a beautiful Christmas tree. With just a few simple ingredients and less than an hour you'll have a delicious Christmas tree pizza that the kids would absolutely love. Making this Christmas tree pizza recipe with pesto and veggie ornaments is the perfect holiday time tradition, especially for kids!",
         ingredients: [
           "1 pizza dough (2 boules)",
           "1 red pepper",
           "1/2 red onion",
           "1/2 cup basil pesto (purchased, homemade or vegan pesto)",
           "2 mozzarella cheese, shredded",
-          "Kosher salt"],
+          "Kosher salt",
+        ],
         steps: [
           "1.Prepare the dough using either the stand mixer or food processor methods (you also can knead by hand).",
           "2.Place a pizza stone in the oven and preheat to 550°F.",
           "3.Prepare the toppings: Dice the red pepper. Thinly slice the red onion, then rinse it under cool water and pat it dry (which removes some of the bite).",
           "4.When the oven is ready, roll out the dough into a triangle shape, adding a small rectangle for a trunk. Place the dough on a floured pizza peel. (Note: in this case, the conveyor pizza peel works very well for larger trees like the one pictured. If using a standard peel or a well-floured flat surface, smaller trees are easier to slide onto the stone.)",
           "5.Quickly assemble the pizza: Spread a thin layer of pesto, then sprinkle with cheese. Add the “decorations” of red onions and peppers. Sprinkle with kosher salt.",
-          "6.Transfer the pizza to the oven on the pizza peel, and bake until the cheese is melted, about 5 minutes. Allow to cool slightly, then serve."],
+          "6.Transfer the pizza to the oven on the pizza peel, and bake until the cheese is melted, about 5 minutes. Allow to cool slightly, then serve.",
+        ],
       },
-
 
       {
         subid: 14,
@@ -5301,8 +5457,10 @@ export const Data = [
         preTime: "5min",
         cookTime: "15min",
         totalTime: "20min",
-        description: "A bowl of pasta is something we all can binge over at any time of the day and even during the midnight hunger pangs. Here is an easy, simple and quick pasta recipe specially curated in tricolor by Grand Mercure. You can prepare this at home and relish with family and friends.",
-        ingredients: ["200 gms penne",
+        description:
+          "A bowl of pasta is something we all can binge over at any time of the day and even during the midnight hunger pangs. Here is an easy, simple and quick pasta recipe specially curated in tricolor by Grand Mercure. You can prepare this at home and relish with family and friends.",
+        ingredients: [
+          "200 gms penne",
           "1 cup fresh broccoli, sliced",
           "1 medium carrot, sliced",
           "1/2 cup green onions, sliced",
@@ -5312,12 +5470,14 @@ export const Data = [
           "1/2 tsp salt",
           "1/4 tsp pepper",
           "1/4 cup white wine",
-          "1/4 cup parmesan cheese, shredded"],
-        steps: ["1.Bring a large pot of salted water to a boil. Add penne to the water and cook for 8-10 minutes.",
+          "1/4 cup parmesan cheese, shredded",
+        ],
+        steps: [
+          "1.Bring a large pot of salted water to a boil. Add penne to the water and cook for 8-10 minutes.",
           "2.In a large skillet, cook the broccoli, carrot and onions in butter for 3 minutes. Cover and cook for 2 minutes.",
-          "3.Drain penne; add to skillet and toss. Sprinkle with cheese."],
+          "3.Drain penne; add to skillet and toss. Sprinkle with cheese.",
+        ],
       },
-
 
       {
         subid: 15,
@@ -5327,20 +5487,21 @@ export const Data = [
         preTime: "5min",
         cookTime: "5min",
         totalTime: "10min",
-        description: "About Valencia Fizz Recipe: Super refreshing mocktail recipe that is sure to keep you energized throughout the day. A mouth-watering blend of fresh Valencia oranges with lime juice and soda hence making it a rejuvenating beverage this Navratri. Made within minutes, this mocktail recipe is sure to be loved by everyone and is way healthier than the canned juices available on the market. Serve this chilled beverage to your guests this festive season and on special occasions.",
+        description:
+          "About Valencia Fizz Recipe: Super refreshing mocktail recipe that is sure to keep you energized throughout the day. A mouth-watering blend of fresh Valencia oranges with lime juice and soda hence making it a rejuvenating beverage this Navratri. Made within minutes, this mocktail recipe is sure to be loved by everyone and is way healthier than the canned juices available on the market. Serve this chilled beverage to your guests this festive season and on special occasions.",
         ingredients: [
           "100 Ml Valencia orange juice",
           "75 ml Soda1 Lemon slices",
           "2 tbsp Lemon juice",
-          "As required Sugar"],
+          "As required Sugar",
+        ],
         steps: [
           "1.Take a mocktail glass and first add valencia orange juice.",
           "2.Add sugar and lemon juice.",
           "3.Add soda and stir it well.",
-          "4.Deck up the lemon slice on the top of the glass for better presentation."],
+          "4.Deck up the lemon slice on the top of the glass for better presentation.",
+        ],
       },
-
-
 
       {
         subid: 16,
@@ -5350,13 +5511,15 @@ export const Data = [
         preTime: "15min",
         cookTime: "35min",
         totalTime: "50min",
-        description: "About Baked Namak Para Recipe: Namak Pare are one of the most famous tea-time snack in India. Every Indian home would have a jar full of these savoury strips to munch on. These are usually made of maida along with suji and deep fried till crisp, but here is a healthier namak para recipe that you'll love to indulge in and not regret later. Made with whole wheat flour and baked to perfection, you can enjoy this crunchy, crispy snack this festive season along with friends and family.",
+        description:
+          "About Baked Namak Para Recipe: Namak Pare are one of the most famous tea-time snack in India. Every Indian home would have a jar full of these savoury strips to munch on. These are usually made of maida along with suji and deep fried till crisp, but here is a healthier namak para recipe that you'll love to indulge in and not regret later. Made with whole wheat flour and baked to perfection, you can enjoy this crunchy, crispy snack this festive season along with friends and family.",
         ingredients: [
           "1 1/2 Cups Whole wheat flour (atta)",
           "1/2 Cup Refined flour (maida)",
           "1/2 tsp Baking powder",
           "1/2 Cup GheeTo taste Salt",
-          "1/2 tsp Carom seeds (ajwain)"],
+          "1/2 tsp Carom seeds (ajwain)",
+        ],
         steps: [
           "1.Mix the two flours and baking powder. Add ghee and rub in with fingertips to get crumby consistency.",
           "2.Add salt and crushed carom seeds. Add sufficient cold water to make stiff dough.",
@@ -5364,9 +5527,9 @@ export const Data = [
           "4.Sprinkle some refined flour on a flat surface and roll out the dough into a half centimeter thick diskette (chapati).",
           "5.Grease a baking tray with a little oil and sprinkle refined flour on it. Cut the rolled out dough into diamond shaped pieces.",
           "6.Place them on the baking tray and bake in the preheated oven at 200°C for 15 to 20 minutes.",
-          "7.Serve hot or cool them down and store in an airtight container."],
+          "7.Serve hot or cool them down and store in an airtight container.",
+        ],
       },
-
 
       {
         subid: 17,
@@ -5376,7 +5539,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description: "About Ajwaini Paneer Kofta Curry Recipe: A navratri special, delectable and luscious paneer gravy recipe. Spiced with ajwain and degi mirch and cooked in fresh and tangy tomato puree along with rock salt (sendha namak), this paneer kofta curry would makes for a mouth-watering, spicy dish to prepare during the fasting season of navratri.",
+        description:
+          "About Ajwaini Paneer Kofta Curry Recipe: A navratri special, delectable and luscious paneer gravy recipe. Spiced with ajwain and degi mirch and cooked in fresh and tangy tomato puree along with rock salt (sendha namak), this paneer kofta curry would makes for a mouth-watering, spicy dish to prepare during the fasting season of navratri.",
         ingredients: [
           "100 gms cottage cheese",
           "40 gms singhare ka atta (water chestnut flour)",
@@ -5385,7 +5549,8 @@ export const Data = [
           "5 gms ajwain (caraway seed)",
           "20 gms deggi mirch",
           "10 gms coriander, chopped",
-          "100 ml oil"],
+          "100 ml oil",
+        ],
         steps: [
           "Prepare kofta:1.Mash the cottage cheese and add singare ka atta and senda namak.",
           "2.Make roundels and fry in oil.",
@@ -5393,9 +5558,9 @@ export const Data = [
           "1.Remove the eye ,then boil the tomatoes ,make puree and stain.",
           "2.In a pan heat oil and add ajwain and sauté for a minute. Then add the stained tomato puree and cook for 5 minutes.",
           "3.Add the deggi mirch and sendha namak .",
-          "4.Then add fried kofta in the gravy and serve hot garnished with coriander."],
+          "4.Then add fried kofta in the gravy and serve hot garnished with coriander.",
+        ],
       },
-
 
       {
         subid: 18,
@@ -5405,7 +5570,8 @@ export const Data = [
         preTime: "20min",
         cookTime: "20min",
         totalTime: "40min",
-        description: "These mummy dogs make a perfect Halloween recipe for kids. Yummy hot dogs covered in buttery rolls. How cute, quick, easy & delicious is this!",
+        description:
+          "These mummy dogs make a perfect Halloween recipe for kids. Yummy hot dogs covered in buttery rolls. How cute, quick, easy & delicious is this!",
         ingredients: [
           "For Breadstick DoughL",
           "1 Cup Warm Water",
@@ -5416,15 +5582,16 @@ export const Data = [
           "2 1/2 Tbsp Yeast",
           "For rolls:",
           "11 Ounce Breadstick dough (refrigerated)",
-          "8 Hot DogsMustardPoppy Seed"],
+          "8 Hot DogsMustardPoppy Seed",
+        ],
         steps: [
           "1.Make dough using your favorite method- bread machine, mixer or by hand",
           "2.Preheat oven to 375°F Using 1 dough strip for each, wrap hot dogs to look like mummies, leaving an opening for eyes.",
           "3.Place on ungreased baking sheet.",
           "4.Bake 12 to 15 minutes or until light golden brown.",
-          "5.Place dots of mustard and poppy seeds for eyes and enjoy!"],
+          "5.Place dots of mustard and poppy seeds for eyes and enjoy!",
+        ],
       },
-
 
       {
         subid: 19,
@@ -5434,20 +5601,22 @@ export const Data = [
         preTime: "10min",
         cookTime: "15min",
         totalTime: "25min",
-        description: "Crisp and tasty puris made with buckwheat flour for fasting or vrat. This recipe is particularly made during fasting days like Navratri, Shivratri or Ekadashi fast, but you can still relish on this healthy and tasty recipe on any day you like since it is easy and quick.",
+        description:
+          "Crisp and tasty puris made with buckwheat flour for fasting or vrat. This recipe is particularly made during fasting days like Navratri, Shivratri or Ekadashi fast, but you can still relish on this healthy and tasty recipe on any day you like since it is easy and quick.",
         ingredients: [
           "200 Gram Buckwheat Flour",
           "2 Potatoes (boiled), mashed",
           "2 tsp Rock Salt",
-          "For frying Desi Ghee"],
+          "For frying Desi Ghee",
+        ],
         steps: [
           "1.Sieve the flour in a bowl with the help of a flour sieve.",
           "2.Add boiled mashed potato and salt and mix it together.",
           "3.Make soft dough; keep aside for 30 minutes to rest the dough.",
           "4.Cut small balls (peda) from the dough and flatten it in a round shape.",
-          "5.Deep fry the poori in hot ghee and serve hot"],
+          "5.Deep fry the poori in hot ghee and serve hot",
+        ],
       },
-
 
       {
         subid: 20,
@@ -5457,7 +5626,8 @@ export const Data = [
         preTime: "20min",
         cookTime: "20min",
         totalTime: "40min",
-        description: "About Vada Pav Recipe: The most popular street food from Mumbai, so much so that Mumbai is almost synonymous to Vada Pav. It is basically Batata Vada sandwiched between slices of a Pav along with a generous amount of sweet and spicy chutneys. It might seem like a lot of hard work but its actually pretty quick and easy to make at home.",
+        description:
+          "About Vada Pav Recipe: The most popular street food from Mumbai, so much so that Mumbai is almost synonymous to Vada Pav. It is basically Batata Vada sandwiched between slices of a Pav along with a generous amount of sweet and spicy chutneys. It might seem like a lot of hard work but its actually pretty quick and easy to make at home.",
         ingredients: [
           "1 Cup Poha",
           "1 cup Curd",
@@ -5480,9 +5650,7 @@ export const Data = [
           "8.Don’t keep the vada for too long, serve hot and with green chutney or coconut chutney.",
         ],
       },
-
-
-    ]
+    ],
   },
 
   // 9
@@ -5490,7 +5658,7 @@ export const Data = [
     id: 9,
     imgsrc: "../images/disserts/Classic Tiramisu Recipe.jpg",
     name: "Disserts",
-    link: "/disserts",
+    link: "/recipes/disserts",
     info: "You won't believe how easy to make these beautiful, homemade desserts are!",
     recipies: [
       {
@@ -5501,7 +5669,8 @@ export const Data = [
         preTime: "2hrs",
         cookTime: "1hrs",
         totalTime: "3hrs",
-        description: "About Classic Tiramisu Recipe: The classic French dessert, Tiramisu is a great addition to a dessert table. Delicate, delicious and simple irresistible, here is a simple tiramisu recipe flavoured with Kahlua, a coffee liqueur.",
+        description:
+          "About Classic Tiramisu Recipe: The classic French dessert, Tiramisu is a great addition to a dessert table. Delicate, delicious and simple irresistible, here is a simple tiramisu recipe flavoured with Kahlua, a coffee liqueur.",
         ingredients: [
           "1.5 Kg mascarpone cheese",
           "1 litre French cream",
@@ -5509,7 +5678,8 @@ export const Data = [
           "300 gms sugar",
           "12 egg white",
           "185 ml Kahlua liqueur",
-          "20 Ladyfinger cookies"],
+          "20 Ladyfinger cookies",
+        ],
         steps: [
           "1.Whip the cream and mascarpone cheese until soft. Keep it aside.",
           "2.In a bowl, whisk egg yolks and sugar together on double boiler until pale yellow in color. Add cheese in mixture.",
@@ -5519,9 +5689,9 @@ export const Data = [
           "6.Take the ladyfingers and quickly soak them in the Kahlua for about 1-2 seconds.",
           "7.Place them in a serving bowl or glass. Pour over a layer of the mixture to cover.",
           "8.Repeat second layer of lady finger cookies, then again cover with cream mixture.",
-          "9.Let the tiramisu set in the fridge for 1 to 2 hours. Dust with cocoa powder and serve."],
+          "9.Let the tiramisu set in the fridge for 1 to 2 hours. Dust with cocoa powder and serve.",
+        ],
       },
-
 
       {
         subid: 2,
@@ -5531,18 +5701,22 @@ export const Data = [
         preTime: "60min",
         cookTime: "60min",
         totalTime: "2hrs",
-        description: "About Kesar Pista Phirni Recipe: One Indian dessert that none of us can ever say no to is phirni. A bowl of chilled, nutty and delicious phirni can turn around a day for us. Here's a sugar-free kesar pista phirni that you can try at home this summer season!",
+        description:
+          "About Kesar Pista Phirni Recipe: One Indian dessert that none of us can ever say no to is phirni. A bowl of chilled, nutty and delicious phirni can turn around a day for us. Here's a sugar-free kesar pista phirni that you can try at home this summer season!",
         ingredients: [
           "10-12 pistachios (peeled and sliced), blanched",
           "1 litre skimmed milk",
           "3 tbsp coarsely ground rice",
           "3/4 tbsp green cardamom powder",
-          "3 tbsp low-calorie sweetener"],
-        steps: ["1.Bring the milk to a boil in a deep non-stick pan. Lower the heat and simmer, stirring continuously, till it reduces by half.",
+          "3 tbsp low-calorie sweetener",
+        ],
+        steps: [
+          "1.Bring the milk to a boil in a deep non-stick pan. Lower the heat and simmer, stirring continuously, till it reduces by half.",
           "2.Add the ground rice, mixed with a little water, and stir well to prevent lumps from forming. Bring the mixture to a boil.",
           "3.When it starts to thicken, lower the heat and simmer for a couple of minutes, stirring continuously. Add the cardamom powder and saffron, and mix well.",
           "4.When the mixture attains a thick custard-like consistency, remove from heat and stir in the low-calorie sweetener.",
-          "5.Pour the mixture into 4 individual earthenware bowls while still warm. Sprinkle sliced pistachios and refrigerate for at least 2 hours. Serve chilled."],
+          "5.Pour the mixture into 4 individual earthenware bowls while still warm. Sprinkle sliced pistachios and refrigerate for at least 2 hours. Serve chilled.",
+        ],
       },
       {
         subid: 3,
@@ -5552,7 +5726,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "10min",
         totalTime: "25min",
-        description: "A traditional sweet, gulab jamun is one of the most loved sweet (mithai) in India. This homemade Gulab jamun is made from bread, malai and milk powder. It is not only delicious but also very easy-to-make. Try it out!",
+        description:
+          "A traditional sweet, gulab jamun is one of the most loved sweet (mithai) in India. This homemade Gulab jamun is made from bread, malai and milk powder. It is not only delicious but also very easy-to-make. Try it out!",
         ingredients: [
           "8 Bread Slices",
           "2 tbsp Malai/cream",
@@ -5560,7 +5735,8 @@ export const Data = [
           "1 tbsp Maida",
           "1 cup Ghee/Neutral oil1 cup Sugar",
           "2-4 Cardamom Pods6-8 Strands Kesar (Optional)",
-          "1 tsp Rose water (Optional)"],
+          "1 tsp Rose water (Optional)",
+        ],
         steps: [
           "1.Take bread slices and grind them to make fresh breadcrumbs.",
           "2.Add malai and milk powder to this and mash lightly.",
@@ -5571,9 +5747,9 @@ export const Data = [
           "7.While you are frying the dough balls, in another pan heat a cup of water.",
           "8.Add the sugar and stir until slightly thick, add crushed cardamom pods and Kesar strands.",
           "9.Let the sugar syrup come to a rolling boil then take off the heat.",
-          "10.Now add the fried dough balls to the sugar syrup, serve hot or cold according to your preference"],
+          "10.Now add the fried dough balls to the sugar syrup, serve hot or cold according to your preference",
+        ],
       },
-
 
       {
         subid: 4,
@@ -5583,30 +5759,36 @@ export const Data = [
         preTime: "45min",
         cookTime: "15min",
         totalTime: "60min",
-        description: "About Besan Ke Laddoo Recipe: One of the most popular Indian sweet, besan ke ladoo never fails to impress anyone! Here is a simple recipe to prepare these balls of goodness at home, sugar-free!",
-        ingredients: ["2 Cups gram flour (coarse)",
+        description:
+          "About Besan Ke Laddoo Recipe: One of the most popular Indian sweet, besan ke ladoo never fails to impress anyone! Here is a simple recipe to prepare these balls of goodness at home, sugar-free!",
+        ingredients: [
+          "2 Cups gram flour (coarse)",
           "6-8 Cashew nuts",
           "6-8 Almonds",
           "1/2 cup ghee",
           "1/2 tsp green cardamom powder",
-          "1/3 cup low-calorie sweetener"],
-        steps: ["1.Coarsely grind together the cashew nuts and almonds, and set aside.",
+          "1/3 cup low-calorie sweetener",
+        ],
+        steps: [
+          "1.Coarsely grind together the cashew nuts and almonds, and set aside.",
           "2.Melt the ghee in a non-stick kadai. Add the gram flour and sauté on low heat till the gram flour is light brown and fragrant. This normally takes around 15-20 minutes.",
           "3.Add the cashew nuts, almonds and cardamom powder, stir to mix and take the kadai off the heat. Set aside to cool.",
           "4.Add the low-calorie sweetener and mix well with your hands.",
-          "5.Shape into walnut-sized balls and store in an airtight container when completely cooled."],
+          "5.Shape into walnut-sized balls and store in an airtight container when completely cooled.",
+        ],
       },
-
 
       {
         subid: 5,
         recipename: "Almond & White Chocolate Gujiya Recipe",
-        imgfile: "../images/disserts/Almond & White Chocolate Gujiya Recipe.jpg",
+        imgfile:
+          "../images/disserts/Almond & White Chocolate Gujiya Recipe.jpg",
         recipieServe: "2",
         preTime: "15min",
         cookTime: "35min",
         totalTime: "50min",
-        description: "About Almond & White Chocolate Gujiya Recipe: The quintessential Holi dish, gujiya is an Indian sweet that is made in every household during the festival of Holi. Small dumplings packed with all things nutty and sweet, these are easy to serve and eat. Made in just about an hour and with simple ingredients, you can easily prepare these gujiyas at home.",
+        description:
+          "About Almond & White Chocolate Gujiya Recipe: The quintessential Holi dish, gujiya is an Indian sweet that is made in every household during the festival of Holi. Small dumplings packed with all things nutty and sweet, these are easy to serve and eat. Made in just about an hour and with simple ingredients, you can easily prepare these gujiyas at home.",
         ingredients: [
           "For dough:",
           "2 cups all-purpose flour",
@@ -5617,7 +5799,8 @@ export const Data = [
           "1/4 cup dessicated coconut",
           "A pinch of green cardamom powder",
           "1/2 cup almond",
-          "1 tbsp jaggery"],
+          "1 tbsp jaggery",
+        ],
         steps: [
           "1.Rub the flour and ghee together and bind them together with water to form a soft dough. Rest it for ½ hour.",
           "2.In a bowl, mix the chocolate flakes, coconut, almonds together and add jaggery.",
@@ -5625,10 +5808,9 @@ export const Data = [
           "4.Place filling in the center, do not over-stuff it as it will result in bursting of gujiya while frying.",
           "5.Apply water on the edges and seal the ends, the shape will resemble half-moon. Use cutter to make a design around the edges or pinch and twist the edges.",
           "6.Heat oil/ ghee in a deep pan; fry the gujiyas till golden brown.",
-          "7.Serve during the festive season of Holi."],
+          "7.Serve during the festive season of Holi.",
+        ],
       },
-
-
 
       {
         subid: 6,
@@ -5638,21 +5820,23 @@ export const Data = [
         preTime: "15min",
         cookTime: "15min",
         totalTime: "30min",
-        description: "Made with the goodness of oats, orange and jaggery, this recipe is not only delicious but also very healthy. This Rabri recipe is made specially for diabetic people.",
+        description:
+          "Made with the goodness of oats, orange and jaggery, this recipe is not only delicious but also very healthy. This Rabri recipe is made specially for diabetic people.",
         ingredients: [
           "1/4 Cup Oats",
           "1/4 cup Orange segments",
           "2 cups Milk1 tsp Ghee",
-          "1 tsp Sugar-free/stevia (sugar substitute)"],
+          "1 tsp Sugar-free/stevia (sugar substitute)",
+        ],
         steps: [
           "1.Sautee the oats in ghee for 2 minutes.",
           "2.Add milk to oats and mix well. Let it cook for 10 minutes.",
           "3.Once the oats has thickened, remove it from flame. Let it cool down.",
           "4.Add the orange segments and sugar substitute to oats mixture, mix well.",
           "5.Refrigerate for at least 30 minutes before serving.",
-          "6.Garnish with chopped almonds."],
+          "6.Garnish with chopped almonds.",
+        ],
       },
-
 
       {
         subid: 7,
@@ -5662,14 +5846,16 @@ export const Data = [
         preTime: "10min",
         cookTime: "15min",
         totalTime: "25min",
-        description: "Nut Barfi is a amazing recipe to celebrate the festival of Rakshabandhan.You Can make this barfi with few ingredients. On this Rakshabandhan make this barfi at home and give a surprise to your brother.x",
+        description:
+          "Nut Barfi is a amazing recipe to celebrate the festival of Rakshabandhan.You Can make this barfi with few ingredients. On this Rakshabandhan make this barfi at home and give a surprise to your brother.x",
         ingredients: [
           "1 Cups cashew powder",
           "1/2 cups sesame paste (toasted sesame ground, like tahini)",
           "1½ tbsp almond",
           "1½ tbsp pistachios",
           "1½ tbsp cashewnuts",
-          "1/3 cup Strawberry Flavoured Syrup"],
+          "1/3 cup Strawberry Flavoured Syrup",
+        ],
         steps: [
           "1.In a heavy bottom pan, add ghee to heat a little.",
           "2.To the ghee, add cashew powder, sesame paste and chopped nuts. Cook all this together till the moisture evaporates, but beware not to brown the mixture.",
@@ -5677,9 +5863,9 @@ export const Data = [
           "4.Place barfi trays on your work platform and tip the mixture into the trays enough to fill the trays evenly.",
           "5.For garnish sprinkle Pista on the tray. Overturn the tray, on your worktable, and turn it back to let the Pistas stick into the halwa.",
           "6.Set the hallway for a 3 - 4 hours.",
-          "7.Cut the halwa into bite sized squares, plate & garnish with some more Pista."],
+          "7.Cut the halwa into bite sized squares, plate & garnish with some more Pista.",
+        ],
       },
-
 
       {
         subid: 8,
@@ -5689,14 +5875,16 @@ export const Data = [
         preTime: "5min",
         cookTime: "15min",
         totalTime: "20min",
-        description: "If you love chocolate then you will definitely like this choco-elaichi peda. This is a quick & easy dessert, try it at home on the occasion of rakshabandhan.",
+        description:
+          "If you love chocolate then you will definitely like this choco-elaichi peda. This is a quick & easy dessert, try it at home on the occasion of rakshabandhan.",
         ingredients: [
           "300 gms Marie Biscuit",
           "150 gram Condensed Milk",
           "150 gms Chocolate Flavoured Syrup",
           "1 tsp Cardamom powder",
           "50 gram Desiccated Coconut",
-          "10 gram Sliced Pistachios"],
+          "10 gram Sliced Pistachios",
+        ],
         steps: [
           "1.In a food processor add Marie biscuits & crush finely.",
           "2.Take the crushed biscuit in a mixing bowl & add Chocolate Flavoured Syrup, condensed milk & cardamom powder.",
@@ -5704,9 +5892,9 @@ export const Data = [
           "4.Apply butter or ghee on your palms and divide the mixture into equal portions.",
           "5.Form smooth round balls & flatten them to resemble Peda.",
           "6.Tuck in the desiccated coconut & pistachios in the centre of the Peda.",
-          "7.Refrigerate and use."],
+          "7.Refrigerate and use.",
+        ],
       },
-
 
       {
         subid: 9,
@@ -5716,20 +5904,25 @@ export const Data = [
         preTime: "20min",
         cookTime: "40min",
         totalTime: "60min",
-        description: "About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
-        ingredients: ["2 Litre full fat milk",
+        description:
+          "About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
+        ingredients: [
+          "2 Litre full fat milk",
           "120 gms rice",
           "40 gms grain sugar",
           "3-4 Rose water drops",
           "10 gms dried rose petals",
           "100 gms almonds",
-          "25 gms almond slivers"],
-        steps: ["1.Soak the rice in water for about 20 minutes.",
+          "25 gms almond slivers",
+        ],
+        steps: [
+          "1.Soak the rice in water for about 20 minutes.",
           "2.Heat milk in a heavy bottom pan. After a boil, reduce the heat and simmer till milk is reduced to half the original volume.",
           "3.Add the soaked rice after draining the water and cook on low heat till rice is cooked well and the mix thickens.",
           "4.Add chopped almonds and cook for further 15 mins on low heat till the kheer is thick and creamy, add sugar.",
           "5.Set aside to cool. Once cool add rose water and mix. Refrigerate till serving",
-          "6.Roast some almond slivers in an oven for 180 degrees for 5 minutes, until golden brown. Garnish with slivers and dried rose petals before serving."],
+          "6.Roast some almond slivers in an oven for 180 degrees for 5 minutes, until golden brown. Garnish with slivers and dried rose petals before serving.",
+        ],
       },
 
       {
@@ -5740,7 +5933,8 @@ export const Data = [
         preTime: "5min",
         cookTime: "10min",
         totalTime: "15min",
-        description: "Jhajariya is a pudding/halwa which is made with tender sweet corn powder. The use of ghee and milk brings a unique flavor to this dish, it feels creamy and rich; the added nuts give it a crunch and make it a wholesome dessert you can whip up in no time.",
+        description:
+          "Jhajariya is a pudding/halwa which is made with tender sweet corn powder. The use of ghee and milk brings a unique flavor to this dish, it feels creamy and rich; the added nuts give it a crunch and make it a wholesome dessert you can whip up in no time.",
         ingredients: [
           "1/2 Cup Sweet Corn",
           "Milk as required",
@@ -5748,7 +5942,8 @@ export const Data = [
           "4 tbsp Ghee",
           "A pinch of cardamom powder",
           "Kesar strands (Optional)",
-          "Raisins and nuts"],
+          "Raisins and nuts",
+        ],
         steps: [
           "1.Take the sweet corn and make a fine powder out of it.",
           "2.In a pan heat ghee and roast the corn powder until slightly golden brown.",
@@ -5756,19 +5951,21 @@ export const Data = [
           "4.The consistency should be soft like a halwa. Not dry, not liquidy. Adjust milk according to this.",
           "5.Add sugar and let it cook for another 2 mins.",
           "6.Sprinkle cardamom powder and take off the heat.",
-          "7.Garnish with raisins, nuts, and Kesar strands. Serve hot."],
+          "7.Garnish with raisins, nuts, and Kesar strands. Serve hot.",
+        ],
       },
-
 
       {
         subid: 11,
         recipename: "Almond & White Chocolate Gujiya Recipe",
-        imgfile: "../images/disserts/Almond & White Chocolate Gujiya Recipe.jpg",
+        imgfile:
+          "../images/disserts/Almond & White Chocolate Gujiya Recipe.jpg",
         recipieServe: "2",
         preTime: "15min",
         cookTime: "35min",
         totalTime: "50min",
-        description: "About Almond & White Chocolate Gujiya Recipe: The quintessential Holi dish, gujiya is an Indian sweet that is made in every household during the festival of Holi. Small dumplings packed with all things nutty and sweet, these are easy to serve and eat. Made in just about an hour and with simple ingredients, you can easily prepare these gujiyas at home.",
+        description:
+          "About Almond & White Chocolate Gujiya Recipe: The quintessential Holi dish, gujiya is an Indian sweet that is made in every household during the festival of Holi. Small dumplings packed with all things nutty and sweet, these are easy to serve and eat. Made in just about an hour and with simple ingredients, you can easily prepare these gujiyas at home.",
         ingredients: [
           "For dough:",
           "2 cups all-purpose flour",
@@ -5779,7 +5976,8 @@ export const Data = [
           "1/4 cup dessicated coconut",
           "A pinch of green cardamom powder",
           "1/2 cup almond",
-          "1 tbsp jaggery"],
+          "1 tbsp jaggery",
+        ],
         steps: [
           "1.Rub the flour and ghee together and bind them together with water to form a soft dough. Rest it for ½ hour.",
           "2.In a bowl, mix the chocolate flakes, coconut, almonds together and add jaggery.",
@@ -5787,9 +5985,9 @@ export const Data = [
           "4.Place filling in the center, do not over-stuff it as it will result in bursting of gujiya while frying.",
           "5.Apply water on the edges and seal the ends, the shape will resemble half-moon. Use cutter to make a design around the edges or pinch and twist the edges.",
           "6.Heat oil/ ghee in a deep pan; fry the gujiyas till golden brown.",
-          "7.Serve during the festive season of Holi."],
+          "7.Serve during the festive season of Holi.",
+        ],
       },
-
 
       {
         subid: 12,
@@ -5799,14 +5997,16 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "Varo is a Sindhi dessert usually made for festivals like Diwali, but its richness and flavour makes it a sough-after dish at any time of the year.",
+        description:
+          "Varo is a Sindhi dessert usually made for festivals like Diwali, but its richness and flavour makes it a sough-after dish at any time of the year.",
         ingredients: [
           "1/2 Cup Chopped almonds",
           "1/2 Cup Chopped cashew",
           "1/4 Cup Chopped pista",
           "1 Tbsp Ghee",
           "2 Tbsp Poppy Seeds",
-          "1 Cup Sugar"],
+          "1 Cup Sugar",
+        ],
         steps: [
           "1.In a pan roast the chopped dry fruits until lightly charred. Take them off the heat and keep it aside.",
           "2.In the same pan add ghee and poppy seeds and mix for a minute.",
@@ -5815,9 +6015,9 @@ export const Data = [
           "5.Mix everything together and be quick because the sugar will start to solidify.",
           "6.Apply a drop of ghee on a flat surface like a plate and grease it. Pour the sugar and dry fruits mixture and gently tap until it is well dispersed.",
           "7.Once it is spread evenly, cut it into medium-sized squares. Since it is still soft right now, it will be easier to cut into uniformed pieces. You can avoid this step and break it into pieces once it solidifies as well.",
-          "8.Serve as is or you can even store for up to 2 weeks in an airtight container."],
+          "8.Serve as is or you can even store for up to 2 weeks in an airtight container.",
+        ],
       },
-
 
       {
         subid: 13,
@@ -5827,12 +6027,14 @@ export const Data = [
         preTime: "10min",
         cookTime: "5min",
         totalTime: "15min",
-        description: "The texture of the sweet potato gives this Shrikhand a creamy and thick feel, the sweetness of honey enhance the flavour and there is nothing better than curd to blend all this good stuff together.",
+        description:
+          "The texture of the sweet potato gives this Shrikhand a creamy and thick feel, the sweetness of honey enhance the flavour and there is nothing better than curd to blend all this good stuff together.",
         ingredients: [
           "1 cup Boiled/roasted and peeled sweet potatoes",
           "1 cup Hung curd",
           "4 tbsp Honey/ sweetener of your choice",
-          "Chopped dry fruitsKesar strands (Optional)"],
+          "Chopped dry fruitsKesar strands (Optional)",
+        ],
         steps: [
           "1.Prepare hung curd by straining regular dahi and letting the entire extra water drop.",
           "2.In a bowl, mix hung curd and honey or the sweetener of your choice.",
@@ -5840,9 +6042,9 @@ export const Data = [
           "4.Peel the sweet potato and make small pieces.",
           "5.In a blender, add curd mixture and sweet potato and blend into a thick creamy paste.",
           "6.Serve topped with chopped dry fruits and kesar.",
-          "7.For best results, let it chill for an hour and then devour."],
+          "7.For best results, let it chill for an hour and then devour.",
+        ],
       },
-
 
       {
         subid: 14,
@@ -5852,7 +6054,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "10min",
         totalTime: "25min",
-        description: "This extraordinary combination of kulfi and rabri along with flavours of lychee tastes heavenly.",
+        description:
+          "This extraordinary combination of kulfi and rabri along with flavours of lychee tastes heavenly.",
         ingredients: [
           "100 gram Khoya",
           "100 mililitres Lychee Juice",
@@ -5861,7 +6064,8 @@ export const Data = [
           "4 drops Kewra Water",
           "1 tbsp Pistachio (chopped)",
           "1 tbsp Cashew Nuts (chopped)",
-          "1 tbsp Almonds (chopped)"],
+          "1 tbsp Almonds (chopped)",
+        ],
         steps: [
           "1.Peel and deseed Lychees.",
           "2.In a mixture grind and make a fine paste and strain.",
@@ -5871,9 +6075,9 @@ export const Data = [
           "6.Now add sugar all dry fruits and kewra water drops stir and cook it for another 2/3 minutes and make it cool.",
           "7.When cold add chopped Lychee and mix well.",
           "8.Transfer this mixture into kulfi moulds and keep in freezer to set.",
-          "9.Serve chilled."],
+          "9.Serve chilled.",
+        ],
       },
-
 
       {
         subid: 15,
@@ -5883,23 +6087,25 @@ export const Data = [
         preTime: "15min",
         cookTime: "30min",
         totalTime: "45min",
-        description: "About Kashmiri Halwa Recipe: A delicious, easy and quick halwa recipe for the festive season. Made with oats cooked with milk and sugar with an aromatic flavour of saffron threads, this dish is served with a garnishing of nuts and raisins!",
+        description:
+          "About Kashmiri Halwa Recipe: A delicious, easy and quick halwa recipe for the festive season. Made with oats cooked with milk and sugar with an aromatic flavour of saffron threads, this dish is served with a garnishing of nuts and raisins!",
         ingredients: [
           "1 Cup oats",
           "1/2 cup grain sugar",
           "2 cup milk4 tsp desi ghee",
           "1 tsp green cardamom powder",
           "Few saffron threads",
-          "Few cashew nuts, almonds and raisins"],
+          "Few cashew nuts, almonds and raisins",
+        ],
         steps: [
           "1.In a non-stick pan heat 2-3 teaspoon ghee and fry oats on low heat till colour changes.",
           "2.Heat milk and sugar in a pan and bring it to boil. Once the sugar is dissolved completely, add fried oats and stir continuously.",
           "3.After this, add cardamom powder and the remaining ghee.",
           "4.Add saffron threads for color and aroma. Stir until the mixture leaves sides of the pan.",
           "5.Remove from fire and garnish with fried cashews and raisins.",
-          "6.Serve warm."],
+          "6.Serve warm.",
+        ],
       },
-
 
       {
         subid: 16,
@@ -5909,8 +6115,10 @@ export const Data = [
         preTime: "15min",
         cookTime: "40min",
         totalTime: "55min",
-        description: "About Rasmalai Recipe: An all time favorite Indian dessert, rasmalai is a delectable Bengali dessert, freshly made with chhena balls and soaked in malai. A must try at home during the festive season",
-        ingredients: ["3 pcs reetha (foaming agent that helps the chenna to puff up)",
+        description:
+          "About Rasmalai Recipe: An all time favorite Indian dessert, rasmalai is a delectable Bengali dessert, freshly made with chhena balls and soaked in malai. A must try at home during the festive season",
+        ingredients: [
+          "3 pcs reetha (foaming agent that helps the chenna to puff up)",
           "5-6 cups cow's milk",
           "2 cup sugar",
           "2 cups water",
@@ -5920,8 +6128,10 @@ export const Data = [
           "For garnish:",
           "Pistas (peeled and sliced), blanched",
           "Almonds (peeled and sliced), blanched",
-          "Rabri (no sugar just condensed milk cooked for a while)"],
-        steps: ["1.Cut open the reetha, discard the seed and soak the peel in hot water.",
+          "Rabri (no sugar just condensed milk cooked for a while)",
+        ],
+        steps: [
+          "1.Cut open the reetha, discard the seed and soak the peel in hot water.",
           "2.In the meantime, heat some more water to blanch the pistas. Boil for a couple of minutes. Once the skin becomes nice, soft and fluffy remove from heat. Cool it, peel the skin off and slice it.",
           "3.Blanch and peel the almonds in the same way. Once cool slice them too.",
           "4.Boil the milk to make chenna. Keep stirring the milk else it will stick to the pan and burn.",
@@ -5948,9 +6158,9 @@ export const Data = [
           "25.Add a dash of saffron to it.",
           "26.Gently squeeze out all the excess sugar syrup from the rasmalais and add them to the milk. (while still on low heat)",
           "27.Mix well for about a minute and them squeeze all the excess milk from them and plate them.",
-          "28.Garnish with rabri, pistas and almonds."],
+          "28.Garnish with rabri, pistas and almonds.",
+        ],
       },
-
 
       {
         subid: 17,
@@ -5960,16 +6170,21 @@ export const Data = [
         preTime: "5min",
         cookTime: "30min",
         totalTime: "35min",
-        description: "About Murmura Ladoo (Murmura Laddu) Recipe: Crispy ladoos made with puffed rice and molten jaggery. Though puffed rice is not really nutritionally rich, it is light on the stomach and low in calories. Murmura Ladoos made of puffed rice are quite filling and are among one of the most loved sweet treats of the country.",
-        ingredients: ["250 Gram Murmura (rice puffs)",
+        description:
+          "About Murmura Ladoo (Murmura Laddu) Recipe: Crispy ladoos made with puffed rice and molten jaggery. Though puffed rice is not really nutritionally rich, it is light on the stomach and low in calories. Murmura Ladoos made of puffed rice are quite filling and are among one of the most loved sweet treats of the country.",
+        ingredients: [
+          "250 Gram Murmura (rice puffs)",
           "750 Gram Jaggery",
-          "3 1/2 Cups Water"],
-        steps: ["1.Place jaggery and water in a pan, and dissolve the jaggery over low heat.",
+          "3 1/2 Cups Water",
+        ],
+        steps: [
+          "1.Place jaggery and water in a pan, and dissolve the jaggery over low heat.",
           "2.Once the jaggery dissolves, increase the heat and bring it to boil and cook over full flame till, a 2 thread consistency is reached.",
           "3.Mix in the murmura quickly into the mixture.",
           "4.Take it off the heat and let it cool for a while",
           "5.Make round balls moistening the hands if the batter is too much sticky.",
-          "6.Leave it to cool and serve."],
+          "6.Leave it to cool and serve.",
+        ],
       },
 
       {
@@ -5980,8 +6195,10 @@ export const Data = [
         preTime: "25min",
         cookTime: "35min",
         totalTime: "60min",
-        description: "About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
-        ingredients: ["1 Kg lamb shoulder cuts",
+        description:
+          "About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
+        ingredients: [
+          "1 Kg lamb shoulder cuts",
           "1 cup onion",
           "3 tbsp ginger-garlic paste",
           "2 cup yogurt1 cup almonds (skin removed), blanched",
@@ -5993,12 +6210,15 @@ export const Data = [
           "1 tsp turmeric powder",
           "2 tsp red chilli powderto taste salt",
           "4 tbsp ghee",
-          "3 cups water"],
-        steps: ["1.Heat ghee in a heavy bottomed pan, fry the onions in the ghee till they are golden. Remove onions from the oil.",
+          "3 cups water",
+        ],
+        steps: [
+          "1.Heat ghee in a heavy bottomed pan, fry the onions in the ghee till they are golden. Remove onions from the oil.",
           "2.Add the lamb pieces to the ghee and fry it till they are golden in colour; add the ginger garlic paste and stir fry for 2-3 minutes.",
           "3.Make a smooth paste of yoghurt and ½ cup of blanched almonds. Add this paste to the lamb and keep on stirring it till oil separates out. Add the fried onions to the lamb.",
           "4.Reduce the heat, and add water. Cover the pan and let the lamb simmer for an hour or till tender.",
-          "5.Cut the remaining blanched almonds into small pieces and add it to the korma."],
+          "5.Cut the remaining blanched almonds into small pieces and add it to the korma.",
+        ],
       },
 
       {
@@ -6009,7 +6229,8 @@ export const Data = [
         preTime: "5min",
         cookTime: "5min",
         totalTime: "10min",
-        description: "About LIIT Thandai Recipe: Holi season is here and so is the season to gorge on chilled thandai! Here is a thandai recipe with a twist that the guests are surely going to love at your holi party",
+        description:
+          "About LIIT Thandai Recipe: Holi season is here and so is the season to gorge on chilled thandai! Here is a thandai recipe with a twist that the guests are surely going to love at your holi party",
         ingredients: [
           "30 Ml vodka",
           "30 ml white rum",
@@ -6019,12 +6240,10 @@ export const Data = [
           "10 gms pista flakes",
           "100 gms ice",
           "Pilsner glass",
-          "for garnishing pista flakes"],
-        steps: [
-          "1.Shake all ingredients with loads of ice and serve."],
+          "for garnishing pista flakes",
+        ],
+        steps: ["1.Shake all ingredients with loads of ice and serve."],
       },
-
-
 
       {
         subid: 20,
@@ -6034,21 +6253,23 @@ export const Data = [
         preTime: "20min",
         cookTime: "15min",
         totalTime: "35min",
-        description: "About Bingsu Recipe: A traditional dessert in Korea, Bingsu is probably the most sought summer dessert in East Asia. It typically consists of chopped fruit, condensed milk, strawberries, kiwi fruit, small pieces of tteok (rice cake), chewy jelly bits, and cereal flakes, fruit syrup, and red beans. It can definitely be a welcome treat for all cold dessert lovers.",
+        description:
+          "About Bingsu Recipe: A traditional dessert in Korea, Bingsu is probably the most sought summer dessert in East Asia. It typically consists of chopped fruit, condensed milk, strawberries, kiwi fruit, small pieces of tteok (rice cake), chewy jelly bits, and cereal flakes, fruit syrup, and red beans. It can definitely be a welcome treat for all cold dessert lovers.",
         ingredients: [
           "150 gms mixed frozen berries (thawed)",
           "50 gms castor sugar",
           "To serve Mixed seasonal fruit,(cubed mango, blackberries, raspberries, figs, sliced strawberries, pomegranate, kiwi)",
           "500 gms shaved ice (to serve)",
-          "Vanilla ice cream (scooped to serve)"],
+          "Vanilla ice cream (scooped to serve)",
+        ],
         steps: [
           "1.Make berry syrup by adding the berries to a saucepan with 2-3 tablespoons of water over a medium heat.",
           "2.Once the berries start to simmer, stir in the sugar until dissolved and mash the berries with a fork until syrupy. Strain through a sieve and leave aside to cool.",
           "3.Meanwhile, prepare the fruit. Arrange in side bowls, along with shaved ice. (To make shaved ice, add ice to a food processor and blitz in batches, keeping in the freezer until ready to serve. This is a perfect make-ahead dessert)",
-          "4.Spoon over some of the cooled berry syrup and top with a scoop of vanilla ice cream. Enjoy immediately"],
+          "4.Spoon over some of the cooled berry syrup and top with a scoop of vanilla ice cream. Enjoy immediately",
+        ],
       },
-
-    ]
+    ],
   },
 
   // 10
@@ -6056,10 +6277,9 @@ export const Data = [
     id: 10,
     imgsrc: "../images/dinner/Malaysian Chicken Curry Recipe.jpg",
     name: "Dinner Party Recipes",
-    link: "/dinner",
+    link: "/recipes/dinner",
     info: "Whats cooking for dinner tonight? Heres a roundup of our best Indian dinner recipes, from scrumptious.",
     recipies: [
-
       {
         subid: 1,
         recipename: "Malaysian Chicken Curry Recipe",
@@ -6068,7 +6288,8 @@ export const Data = [
         preTime: "2min",
         cookTime: "35min",
         totalTime: "37min",
-        description: "About Malaysian Chicken Curry Recipe: Malaysian Chicken Curry is an easy to cook Asian recipe that can be served on the table in less than half an hour. This curry is made with coconut milk, pandan leaves, fish sauce, lemongrass and succulent pieces of chicken.",
+        description:
+          "About Malaysian Chicken Curry Recipe: Malaysian Chicken Curry is an easy to cook Asian recipe that can be served on the table in less than half an hour. This curry is made with coconut milk, pandan leaves, fish sauce, lemongrass and succulent pieces of chicken.",
         ingredients: [
           "2 Tbsp oil1 tbsp ghee",
           "1 tbsp ginger paste",
@@ -6081,14 +6302,15 @@ export const Data = [
           "250 gram Chicken",
           "1 medium onion",
           "1 stalk sticks lemongrass",
-          "to taste salt3 tbsp sugar"],
+          "to taste salt3 tbsp sugar",
+        ],
         steps: [
           "1.Make a thick paste of dried red chilies ,onion, pandan leaves, lemongrass, garlic and ginger in a grinder.",
           "2.Heat oil and ghee together in a saucepan over medium-low heat. Add onion paste and cook it until fragrant.",
           "3.Add the blended paste, salt, sugar and chicken pieces to the pan. Mix well and stir fry for 5-10 minutes. Now, Add fish sauce and pour some water. Let it simmer on low flame until the chicken is cooked.",
-          "4.Add Coconut milk and squeeze lemon juice. Let it cook for 5 minutes, garnish it with coriander leaves and chopped red chili. Serve it hot with rice."],
+          "4.Add Coconut milk and squeeze lemon juice. Let it cook for 5 minutes, garnish it with coriander leaves and chopped red chili. Serve it hot with rice.",
+        ],
       },
-
 
       {
         subid: 2,
@@ -6098,7 +6320,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "20min",
         totalTime: "30min",
-        description: "About Stuffed Tandoori Mushroom (Bharwan Mushroom ) Recipe: This is a delicious snack Recipe. You can serve this amazing snack in your house party aur family dinner party.",
+        description:
+          "About Stuffed Tandoori Mushroom (Bharwan Mushroom ) Recipe: This is a delicious snack Recipe. You can serve this amazing snack in your house party aur family dinner party.",
         ingredients: [
           "150 gms mushroom",
           "10 ml lemon",
@@ -6110,17 +6333,19 @@ export const Data = [
           "20 ml mustard oil",
           "30 ml hung curd",
           "2 gram coriander powder",
-          "50 gram onionto taste salt"],
-        steps: ["How to Make Stuffed Tandoori Mushroom (Bharwan Mushroom )",
+          "50 gram onionto taste salt",
+        ],
+        steps: [
+          "How to Make Stuffed Tandoori Mushroom (Bharwan Mushroom )",
           "1.coat mushroom with flour and Wash them so all the dirt will go off ,separate their stems. Add mushroom stems and cook it till light brown in colour.",
           "2.Chopped very fine onions, ginger, and garlic and mushroom stems.",
           "3.Heat oil in a pan and add cumin (jeera) to it and sauté, now add ginger garlic onion and sauté it till light pinkish colour.",
           "4.Add turmeric powder ,cumin powder and coriander powder and salt to taste once done, Switch off your flame.",
           "5.In one bowl mix curd,lemon , red chilli paste ,mustard oil ,salt and mix well and make a tandoori marination ,",
           "6.Now fill this stuffing in empty space of mushrooms. coat all mushroom with tandoori marination carefully so that the stuffed mix will not come out .",
-          "7.Preheat your tandoor ,put mushroom in a skewer and bake it in tandoor , Now everyone will not have tandoor so they can keep mushroom in abaking tray and bake it in the convection oven under grill or bake for apx 15-20 min at 180 C"],
+          "7.Preheat your tandoor ,put mushroom in a skewer and bake it in tandoor , Now everyone will not have tandoor so they can keep mushroom in abaking tray and bake it in the convection oven under grill or bake for apx 15-20 min at 180 C",
+        ],
       },
-
 
       {
         subid: 3,
@@ -6130,7 +6355,8 @@ export const Data = [
         preTime: "30min",
         cookTime: "90min",
         totalTime: "2hrs",
-        description: "About Khariya Mundi Recipe: A regional specialty of lamb brain and trotters, Khariya Mundi is well appreciated delicacy by the warriors of Mewar. This rich delicacy was one of the favorite dishes in Royal Feasts, especially during winters because of the medicinal value of the dish and its spices. This keeps the body warm and energized during the chilling winters of Rajasthan.",
+        description:
+          "About Khariya Mundi Recipe: A regional specialty of lamb brain and trotters, Khariya Mundi is well appreciated delicacy by the warriors of Mewar. This rich delicacy was one of the favorite dishes in Royal Feasts, especially during winters because of the medicinal value of the dish and its spices. This keeps the body warm and energized during the chilling winters of Rajasthan.",
         ingredients: [
           "8 pcs mutton paya",
           "1 Mundi",
@@ -6156,15 +6382,16 @@ export const Data = [
           "For garnishing:",
           "1 inch ginger",
           "5 green chilli, sliced",
-          "1 lemon, sliced"],
+          "1 lemon, sliced",
+        ],
         steps: [
           "1.Heat ghee, add green cardamom, pepper corns, black cardamom, cloves, fennel seeds, cinnamon stick, cumin seeds, star anise and fry on high flame.",
           "2.Add onion, ginger and garlic paste and fry on high flame till the colour changes.",
           "3.Now add coriander powder, salt, red chilli powder, turmeric, yogurt and mix well, add the paya and mundi then cook on high flame till the oil separates.",
           "4.Then add water and mix. Wait till it boils on high flame, then cover and cook on low flame for 1.5 hours till the paya and mundi are tender.",
-          "5.Add garam masala powder, green chilli, coriander and cook for 10 minutes on low flame. Serve hot with khoba roti and rice."],
+          "5.Add garam masala powder, green chilli, coriander and cook for 10 minutes on low flame. Serve hot with khoba roti and rice.",
+        ],
       },
-
 
       {
         subid: 4,
@@ -6174,30 +6401,34 @@ export const Data = [
         preTime: "20min",
         cookTime: "15min",
         totalTime: "35min",
-        description: "About Bingsu Recipe: A traditional dessert in Korea, Bingsu is probably the most sought summer dessert in East Asia. It typically consists of chopped fruit, condensed milk, strawberries, kiwi fruit, small pieces of tteok (rice cake), chewy jelly bits, and cereal flakes, fruit syrup, and red beans. It can definitely be a welcome treat for all cold dessert lovers.",
+        description:
+          "About Bingsu Recipe: A traditional dessert in Korea, Bingsu is probably the most sought summer dessert in East Asia. It typically consists of chopped fruit, condensed milk, strawberries, kiwi fruit, small pieces of tteok (rice cake), chewy jelly bits, and cereal flakes, fruit syrup, and red beans. It can definitely be a welcome treat for all cold dessert lovers.",
         ingredients: [
           "150 gms mixed frozen berries (thawed)",
           "50 gms castor sugar",
           "To serve Mixed seasonal fruit,(cubed mango, blackberries, raspberries, figs, sliced strawberries, pomegranate, kiwi)",
           "500 gms shaved ice (to serve)",
-          "Vanilla ice cream (scooped to serve)"],
+          "Vanilla ice cream (scooped to serve)",
+        ],
         steps: [
           "1.Make berry syrup by adding the berries to a saucepan with 2-3 tablespoons of water over a medium heat.",
           "2.Once the berries start to simmer, stir in the sugar until dissolved and mash the berries with a fork until syrupy. Strain through a sieve and leave aside to cool.",
           "3.Meanwhile, prepare the fruit. Arrange in side bowls, along with shaved ice. (To make shaved ice, add ice to a food processor and blitz in batches, keeping in the freezer until ready to serve. This is a perfect make-ahead dessert)",
-          "4.Spoon over some of the cooled berry syrup and top with a scoop of vanilla ice cream. Enjoy immediately"],
+          "4.Spoon over some of the cooled berry syrup and top with a scoop of vanilla ice cream. Enjoy immediately",
+        ],
       },
-
 
       {
         subid: 5,
         recipename: "Chukandar Ka Halwa With Vanilla Ice Cream Recipe",
-        imgfile: "../images/dinner/Chukandar Ka Halwa With Vanilla Ice Cream Recipe.jpg",
+        imgfile:
+          "../images/dinner/Chukandar Ka Halwa With Vanilla Ice Cream Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "35min",
         totalTime: "45min",
-        description: "About Chukandar Ka Halwa With Vanilla Ice Cream Recipe: Indulge in the goodness of beetroot with this delicious halwa recipe served along with vanilla ice cream. Made in pure ghee with an added crunch of cashews, this beetroot (chukandar) halwa is an absolute delight!",
+        description:
+          "About Chukandar Ka Halwa With Vanilla Ice Cream Recipe: Indulge in the goodness of beetroot with this delicious halwa recipe served along with vanilla ice cream. Made in pure ghee with an added crunch of cashews, this beetroot (chukandar) halwa is an absolute delight!",
         ingredients: [
           "1 Kg beetroot, medium",
           "250 gms ghee",
@@ -6206,15 +6437,16 @@ export const Data = [
           "100 gms cashew (broken)",
           "4 gram cardamom powder",
           "2 drops ittar",
-          "Vanilla ice cream"],
+          "Vanilla ice cream",
+        ],
         steps: [
           "1.To start, take a handi put all beetroots in it, add water and put on heat to boil. It will take a long time to turn full tender, almost half an hour or so.",
           "2.Then remove the beetroots from water, peel them and grate it in the same way like gajar ka halwa.",
           "3.Take a fresh kadhai, put on medium flame, add ghee, put the grated beetroot and start stirring properly. After 15-20 minutes when it becomes dry, then add sugar and start again stirring, after 5 minutes add mawa in it.",
           "4.Slow the flame and stir properly for 3-4 minutes, then add nuts like ittr, cardamom powder & cashew nuts etc and stir for a minute only and turn off the heat.",
-          "5.Beetroot halwa is ready to serve hot with vanilla ice cream."],
+          "5.Beetroot halwa is ready to serve hot with vanilla ice cream.",
+        ],
       },
-
 
       {
         subid: 6,
@@ -6224,7 +6456,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "45min",
         totalTime: "60min",
-        description: "About Chocolate Frozen Phirni Recipe: Indulge in this super delicious Indian dessert with a spin of cocoa, jaggery and nuts!",
+        description:
+          "About Chocolate Frozen Phirni Recipe: Indulge in this super delicious Indian dessert with a spin of cocoa, jaggery and nuts!",
         ingredients: [
           "2 Litre milk",
           "200 gms ghee",
@@ -6235,15 +6468,16 @@ export const Data = [
           "100 gms rice powder",
           "100 gms cocoa powder",
           "for garnishing crushed pistachio",
-          "for garnishing frozen pomegranate seeds"],
+          "for garnishing frozen pomegranate seeds",
+        ],
         steps: [
           "1.Take a metal pan, add milk and stir constantly on medium flame for at least 20 minutes.",
           "2.Add rice powder and start stirring again for 5 minutes. Now add ghee, mawa, jaggery powder and cocoa powder and put it on slow flame.3.Start stirring gently for approximately 8 minutes then add cardamom powder and cashew nuts. Now put it on medium flame and keep stirring fast for 5 minutes.",
           "4.Lastly, keep it on slow flame for 5 minutes more and keep stirring in between.",
           "5.Turn off the flame, pour in your selected mould cutter and keep in -18 degree freezer until turned frozen.",
-          "6.While serving, remove the mould carefully and top it with frozen pomegranate seeds and crushed pistachio."],
+          "6.While serving, remove the mould carefully and top it with frozen pomegranate seeds and crushed pistachio.",
+        ],
       },
-
 
       {
         subid: 7,
@@ -6253,7 +6487,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "45min",
         totalTime: "60min",
-        description: "About Shahi Tirangi Kofta Recipe: A luscious, rich and delightful kofta curry apcked with the goodness of carrot spinach, paneer and potatoes, shahi tiranga kofta is perfect to amp up your next dinner party menu.",
+        description:
+          "About Shahi Tirangi Kofta Recipe: A luscious, rich and delightful kofta curry apcked with the goodness of carrot spinach, paneer and potatoes, shahi tiranga kofta is perfect to amp up your next dinner party menu.",
         ingredients: [
           "50 gms carrot",
           "200 gms spinach",
@@ -6277,7 +6512,8 @@ export const Data = [
           "2 Green ",
           "cardamom",
           "2 Bay leaves",
-          "50 ml fresh cream"],
+          "50 ml fresh cream",
+        ],
         steps: [
           "1.Boil the spinach and finely chop",
           "2.Heat oil in a pan and sauté chopped garlic add chopped spinach and stir till all moisture evaporates.",
@@ -6297,9 +6533,9 @@ export const Data = [
           "6.Add 1 cup water and bring the curry to a boil.",
           "7.Cook for 2-3 minutes. Add fresh cream and mix well.",
           "8.Add the kofta cut in two just before serving and serve hot.",
-          "9.Garnish it with mint leaves or a sprinkle of kalonji seeds."],
+          "9.Garnish it with mint leaves or a sprinkle of kalonji seeds.",
+        ],
       },
-
 
       {
         subid: 8,
@@ -6309,7 +6545,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description: "About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
+        description:
+          "About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
         ingredients: [
           "1 Kg lamb shoulder cuts",
           "1 cup onion",
@@ -6325,15 +6562,16 @@ export const Data = [
           "2 tsp red chilli powder",
           "to taste salt",
           "4 tbsp ghee",
-          "3 cups water"],
+          "3 cups water",
+        ],
         steps: [
           "1.Heat ghee in a heavy bottomed pan, fry the onions in the ghee till they are golden. Remove onions from the oil.",
           "2.Add the lamb pieces to the ghee and fry it till they are golden in colour; add the ginger garlic paste and stir fry for 2-3 minutes.",
           "3.Make a smooth paste of yoghurt and ½ cup of blanched almonds. Add this paste to the lamb and keep on stirring it till oil separates out. Add the fried onions to the lamb.",
           "4.Reduce the heat, and add water. Cover the pan and let the lamb simmer for an hour or till tender.",
-          "5.Cut the remaining blanched almonds into small pieces and add it to the korma."],
+          "5.Cut the remaining blanched almonds into small pieces and add it to the korma.",
+        ],
       },
-
 
       {
         subid: 9,
@@ -6343,7 +6581,8 @@ export const Data = [
         preTime: "20min",
         cookTime: "40min",
         totalTime: "60min",
-        description: "About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
+        description:
+          "About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
         ingredients: [
           "2 Litre full fat milk",
           "120 gms rice",
@@ -6351,16 +6590,17 @@ export const Data = [
           "3-4 Rose water drops",
           "10 gms dried rose petals",
           "100 gms almonds",
-          "25 gms almond slivers"],
+          "25 gms almond slivers",
+        ],
         steps: [
           " 1.Soak the rice in water for about 20 minutes.",
           "2.Heat milk in a heavy bottom pan. After a boil, reduce the heat and simmer till milk is reduced to half the original volume.",
           "3.Add the soaked rice after draining the water and cook on low heat till rice is cooked well and the mix thickens.",
           "4.Add chopped almonds and cook for further 15 mins on low heat till the kheer is thick and creamy, add sugar.",
           "5.Set aside to cool. Once cool add rose water and mix. Refrigerate till serving",
-          "6.Roast some almond slivers in an oven for 180 degrees for 5 minutes, until golden brown. Garnish with slivers and dried rose petals before serving."],
+          "6.Roast some almond slivers in an oven for 180 degrees for 5 minutes, until golden brown. Garnish with slivers and dried rose petals before serving.",
+        ],
       },
-
 
       {
         subid: 10,
@@ -6370,7 +6610,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description: "About Chur Chur Naan Recipe: A popular Indian bread that goes perfectly well with a plate of Amritsari Chole or a hearty dish of Rasedaar Aloo. Chur-chur naan is a stuffed naan with generous amount of ghee and a thick, flaky texture that will not let you stop at just one!",
+        description:
+          "About Chur Chur Naan Recipe: A popular Indian bread that goes perfectly well with a plate of Amritsari Chole or a hearty dish of Rasedaar Aloo. Chur-chur naan is a stuffed naan with generous amount of ghee and a thick, flaky texture that will not let you stop at just one!",
         ingredients: [
           "For dough:",
           "1 cup white flour",
@@ -6391,7 +6632,8 @@ export const Data = [
           "1/2 tsp Garam masala",
           "1 tsp carom seeds",
           "1/2 tsp black pepper powder",
-          "1 tbsp GheeHandful of coriander leavesHandful of kasoori methi"],
+          "1 tbsp GheeHandful of coriander leavesHandful of kasoori methi",
+        ],
         steps: [
           "Prepare dough:",
           "1.Combine white flour, atta, baking powder and salt. Mix them well and add milk along with water. Mix well until a moist dough is prepared.",
@@ -6403,9 +6645,9 @@ export const Data = [
           "4.Now put the stuffing into the round chunks of dough. Fold it well, spread it with the help of a rolling pin over dry flour. It can also be done using bare hands so the mixture is pressed well on the flour, it gives it a good taste.",
           "5.Now heat a tawa on a low flame. Pour half a table spoon of ghee on tawa and place the naan on it.",
           "6.Slow cook the naan over low flame for about 3 to 4 minutes. Spread more ghee on top. Cooking it on a low flame makes it crisp.",
-          "7.Once the naan is ready, serve them on a plate and crush gently with both hands and spread half a table spoon of ghee over it."],
+          "7.Once the naan is ready, serve them on a plate and crush gently with both hands and spread half a table spoon of ghee over it.",
+        ],
       },
-
 
       {
         subid: 11,
@@ -6415,21 +6657,23 @@ export const Data = [
         preTime: "10min",
         cookTime: "15min",
         totalTime: "25min",
-        description: "About Philly Cheesesteak Recipe: Philadelphia, the city in the East Coast of United States is the place where the legendary Cheesesteak originated. This humble long bread roll filled with sautéed meat and melted cheese, topped with some onions, ketchup, mustard and hot or sweet peppers has built a pretty big fan-base for itself. So if you are craving a classic Philadelphia cheesesteak, here's a recipe to help you make it in your own kitchen!",
+        description:
+          "About Philly Cheesesteak Recipe: Philadelphia, the city in the East Coast of United States is the place where the legendary Cheesesteak originated. This humble long bread roll filled with sautéed meat and melted cheese, topped with some onions, ketchup, mustard and hot or sweet peppers has built a pretty big fan-base for itself. So if you are craving a classic Philadelphia cheesesteak, here's a recipe to help you make it in your own kitchen!",
         ingredients: [
           "1/2 Cup yellow onion, chopped",
           "1/3 lb shaved rib-eye steak or chicken, sliced",
           "2 American cheese slices",
           "2 tbsp olive oil",
-          "9-inch Italian rollto taste salt and pepper"],
+          "9-inch Italian rollto taste salt and pepper",
+        ],
         steps: [
           "1.In a large saute pan or on a griddle, add oil and heat to medium-high.",
           "2.Add onions followed by a pinch of salt and pepper. Cook onions until soft (5 minutes), stirring occasionally.",
           "3.Add the meat and a pinch of salt and pepper. Let each slice cook for roughly 45 seconds, then flip and cook for another 30 seconds.",
           "4.Add slices of cheese on top of steak and cover to melt cheese (10 seconds).",
-          "5.Transfer steak, onions, and cheese onto sliced Italian roll. Enjoy!"],
+          "5.Transfer steak, onions, and cheese onto sliced Italian roll. Enjoy!",
+        ],
       },
-
 
       {
         subid: 12,
@@ -6439,7 +6683,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "45min",
         totalTime: "60min",
-        description: "About Nilgiri Turkey Korma Recipe: A luscious, creamy turkey korma, made with a melange of spices along with coconut paste and curd.This is a perfect dish to prepare for your next dinner party!",
+        description:
+          "About Nilgiri Turkey Korma Recipe: A luscious, creamy turkey korma, made with a melange of spices along with coconut paste and curd.This is a perfect dish to prepare for your next dinner party!",
         ingredients: [
           "750 gms turkey meat",
           "100 gms spinach",
@@ -6456,7 +6701,8 @@ export const Data = [
           "10 gms garam masala powder",
           "100 ml oil",
           "to taste salt",
-          "Water"],
+          "Water",
+        ],
         steps: [
           "1.In a cooker, add turkey meat, salt, turmeric powder and water.",
           "2.Cover with lid and boil it allowing 2 whistles. When the turkey is boiled then put it aside.",
@@ -6468,9 +6714,9 @@ export const Data = [
           "8.Add 1 glass of water and mix well, then add coriander powder and mix again.",
           "9.Cover with lid to boil the turkey meat for 10 minutes.",
           "10.After 10 minutes, open the lid and stir well.",
-          "11.When curry is almost done, add garam masala powder and stir. Add fresh coriander leaves, put in a serving bowl, and serve hot."],
+          "11.When curry is almost done, add garam masala powder and stir. Add fresh coriander leaves, put in a serving bowl, and serve hot.",
+        ],
       },
-
 
       {
         subid: 13,
@@ -6480,7 +6726,8 @@ export const Data = [
         preTime: "5min",
         cookTime: "5min",
         totalTime: "10min",
-        description: "About Kulle Ki Chaat Recipe: A popular Old Delhi delicacy, Kulle Ki Chaat is an interesting blend of fruits and vegetables that come loaded with flavourful spices. It is one Indian chaat that many people beyond Delhi might not be aware of. The instant burst of flavours in this chaat is sure to leave your taste buds tantalising and craving for more!",
+        description:
+          "About Kulle Ki Chaat Recipe: A popular Old Delhi delicacy, Kulle Ki Chaat is an interesting blend of fruits and vegetables that come loaded with flavourful spices. It is one Indian chaat that many people beyond Delhi might not be aware of. The instant burst of flavours in this chaat is sure to leave your taste buds tantalising and craving for more!",
         ingredients: [
           "2 Medium potatoes, boiled",
           "1//4 cup small chickpeas (parboiled)",
@@ -6490,13 +6737,14 @@ export const Data = [
           "1/2 inch ginger, julienne",
           "1 small green chillies (cut into small pieces)",
           "A few pomegranate seeds",
-          "2 tsp lemon juice"],
+          "2 tsp lemon juice",
+        ],
         steps: [
           "1.Boil the potato, peel them and cut horizontally into 2 halves.",
           "2.Hollow out the potato from the centre.",
-          "3.Fill the hollow with chickpeas,green chillies, pomegranate, ginger julliens, sprinkle salt, rock salt, black chaat masala and lemon juice."],
+          "3.Fill the hollow with chickpeas,green chillies, pomegranate, ginger julliens, sprinkle salt, rock salt, black chaat masala and lemon juice.",
+        ],
       },
-
 
       {
         subid: 14,
@@ -6506,7 +6754,8 @@ export const Data = [
         preTime: "1hrs",
         cookTime: "2hrs",
         totalTime: "3hrs",
-        description: "About Classic Tiramisu Recipe: The classic French dessert, Tiramisu is a great addition to a dessert table. Delicate, delicious and simple irresistible, here is a simple tiramisu recipe flavoured with Kahlua, a coffee liqueur.",
+        description:
+          "About Classic Tiramisu Recipe: The classic French dessert, Tiramisu is a great addition to a dessert table. Delicate, delicious and simple irresistible, here is a simple tiramisu recipe flavoured with Kahlua, a coffee liqueur.",
         ingredients: [
           "1.5 Kg mascarpone cheese",
           "1 litre French cream",
@@ -6514,7 +6763,8 @@ export const Data = [
           "300 gms sugar",
           "12 egg white",
           "185 ml Kahlua liqueur",
-          "20 Ladyfinger cookies"],
+          "20 Ladyfinger cookies",
+        ],
         steps: [
           "1.Whip the cream and mascarpone cheese until soft. Keep it aside.",
           "2.In a bowl, whisk egg yolks and sugar together on double boiler until pale yellow in color. Add cheese in mixture.",
@@ -6524,9 +6774,9 @@ export const Data = [
           "6.Take the ladyfingers and quickly soak them in the Kahlua for about 1-2 seconds.",
           "7.Place them in a serving bowl or glass. Pour over a layer of the mixture to cover.",
           "8.Repeat second layer of lady finger cookies, then again cover with cream mixture.",
-          "9.Let the tiramisu set in the fridge for 1 to 2 hours. Dust with cocoa powder and serve."],
+          "9.Let the tiramisu set in the fridge for 1 to 2 hours. Dust with cocoa powder and serve.",
+        ],
       },
-
 
       {
         subid: 15,
@@ -6536,19 +6786,21 @@ export const Data = [
         preTime: "5min",
         cookTime: "0min",
         totalTime: "5min",
-        description: "About The English Garden Goblet Recipe: A refreshing cocktail with a perfect blend of gin. radish, rosemary and lavender, English Garden Goblet is a great spin to the classic gin and tonic.",
+        description:
+          "About The English Garden Goblet Recipe: A refreshing cocktail with a perfect blend of gin. radish, rosemary and lavender, English Garden Goblet is a great spin to the classic gin and tonic.",
         ingredients: [
           "60 Ml Monkey 47",
           "200 ml tonic water",
           "30 ml radish and red chicory juice ( made from 10 small radish and 4 leaves of red chicory)",
           "1 radish, sliced",
           "Rosemary sprig",
-          "Lavender sprig"],
+          "Lavender sprig",
+        ],
         steps: [
           "1.Place the ice into a large red wine glass. Take the radishes and red chicory and extract the juice.",
-          "2.Pour the juice over the ice then slowly add the gin and tonic, give it a gentle stir and garnish with sliced radishes, rosemary sprig, lavender and a sprinkle of juniper berries."],
+          "2.Pour the juice over the ice then slowly add the gin and tonic, give it a gentle stir and garnish with sliced radishes, rosemary sprig, lavender and a sprinkle of juniper berries.",
+        ],
       },
-
 
       {
         subid: 16,
@@ -6558,7 +6810,8 @@ export const Data = [
         preTime: "50min",
         cookTime: "10min",
         totalTime: "60min",
-        description: "About Khoya Khurchan Paratha Recipe: A unique paratha recipe to try for a feast at home. Khoya khurchan paratha is a sweet delight with a generous stuffing of khoya, saffron, sugar, cardamom and more.",
+        description:
+          "About Khoya Khurchan Paratha Recipe: A unique paratha recipe to try for a feast at home. Khoya khurchan paratha is a sweet delight with a generous stuffing of khoya, saffron, sugar, cardamom and more.",
         ingredients: [
           "200 gms khoya",
           "1/4 gram saffron strands",
@@ -6568,14 +6821,15 @@ export const Data = [
           "400 gms whole wheat flour",
           "3 tbsp ghee",
           "A pinch of salt",
-          "Water (as required)"],
+          "Water (as required)",
+        ],
         steps: [
           "1.Mix the whole wheat flour, salt in a bowl. Add two tablespoons of ghee and knead into a soft dough with water. Cover the dough with a damp cloth and keep aside for an hour.",
           "2.Grate the khoya, and keep it aside. Soak the saffron strands in 1 tsp. of warm water and add to the khoya mix also add the granulated sugar, cardamom power and the kewda water and mix well. Divide the whole wheat flour dough into equal portions.",
           "3.Stuff each portion with the khoya mixture and roll into a ball again.",
-          "4.Roll into paranthas. Heat a griddle/hot plate and cook the paranthas on both sides and finish with ghee till light brown on both sides. Serve hot."],
+          "4.Roll into paranthas. Heat a griddle/hot plate and cook the paranthas on both sides and finish with ghee till light brown on both sides. Serve hot.",
+        ],
       },
-
 
       {
         subid: 17,
@@ -6585,7 +6839,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "25min",
         totalTime: "40min",
-        description: "About Rasmalai Tiramisu Recipe: Give your Indian dessert a caffeine twist with this delicious fusion of rasmalai and tiramisu. A super easy ad quick dessert recipe that is sure to impress your guests.",
+        description:
+          "About Rasmalai Tiramisu Recipe: Give your Indian dessert a caffeine twist with this delicious fusion of rasmalai and tiramisu. A super easy ad quick dessert recipe that is sure to impress your guests.",
         ingredients: [
           "4 Rasmalai",
           "2 tsp instant coffee powder",
@@ -6594,7 +6849,8 @@ export const Data = [
           "1 Eggless sponge cake (eight inch)",
           "Icing sugar",
           "Cocoa powder",
-          "1 cup water"],
+          "1 cup water",
+        ],
         steps: [
           "1.Heat 1 cup water in a pan. Add coffee powder and boil.",
           "2.Whip mascarpone cheese in a bowl for a minute or so and then add whipped cream, mix well and set aside.",
@@ -6603,9 +6859,9 @@ export const Data = [
           "5.Pour 2-3 tablespoons of coffee in each glass and then add 2 tablespoons of mascarpone cheese-cream mixture in each.",
           "6.Squeeze 2 rasmalais and place one in each glass. Pour 3 tablespoons coffee over it. Squeeze the remaining 2 rasmalais and place one in each glass.",
           "7.Put 2 tablespoons of cheese-cream mixture in each glass and spread it with the help of a spatula.",
-          "8.Add cocoa powder and icing sugar on top and your rasmalai tiramisu is ready."],
+          "8.Add cocoa powder and icing sugar on top and your rasmalai tiramisu is ready.",
+        ],
       },
-
 
       {
         subid: 18,
@@ -6615,7 +6871,8 @@ export const Data = [
         preTime: "40min",
         cookTime: "80min",
         totalTime: "2hrs",
-        description: "About Steam Bunny Chicken Bao Recipe: With Easter just around the corner, we have got you covered on what to prepare for the brunch over the weekend with family and friends. This recipe for steamed chicken bao with a delectable filling of chicken mince, served with flavourful green pepper sauce, is just the perfect one to prepare at home.",
+        description:
+          "About Steam Bunny Chicken Bao Recipe: With Easter just around the corner, we have got you covered on what to prepare for the brunch over the weekend with family and friends. This recipe for steamed chicken bao with a delectable filling of chicken mince, served with flavourful green pepper sauce, is just the perfect one to prepare at home.",
         ingredients: [
           "12 Buns",
           "For the dough:",
@@ -6631,7 +6888,8 @@ export const Data = [
           "1 tsp sesame oil",
           "5 ml worcestershire sauce",
           "3 tbsp chives, finely chopped",
-          "20 gms aromat powder"],
+          "20 gms aromat powder",
+        ],
         steps: [
           "1.Mix together all-purpose white flour, sugar and salt.",
           "2.Take another bowl with 330 ml of warm water, put dry yeast. Wait for 10 minutes then add the mixture of flour and knead until smooth.",
@@ -6640,9 +6898,9 @@ export const Data = [
           "5.Cook well and mix together the egg, soy sauce, sugar, worcestershire sauce, chives and aromat powder. Mix well and let it cool till room temperature.",
           "6.Now roll out the dough into long barrel shape. With the help of a scissor make the rabbit ear and mouth cut in the dough.",
           "7.Heat a steamer over a medium high heat and steam the buns for about 8 minutes, until puffed up.",
-          "8.The bao is ready, serve with green pepper sauce."],
+          "8.The bao is ready, serve with green pepper sauce.",
+        ],
       },
-
 
       {
         subid: 19,
@@ -6652,7 +6910,8 @@ export const Data = [
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description: "About Ajwaini Paneer Kofta Curry Recipe: A navratri special, delectable and luscious paneer gravy recipe. Spiced with ajwain and degi mirch and cooked in fresh and tangy tomato puree along with rock salt (sendha namak), this paneer kofta curry would makes for a mouth-watering, spicy dish to prepare during the fasting season of navratri.",
+        description:
+          "About Ajwaini Paneer Kofta Curry Recipe: A navratri special, delectable and luscious paneer gravy recipe. Spiced with ajwain and degi mirch and cooked in fresh and tangy tomato puree along with rock salt (sendha namak), this paneer kofta curry would makes for a mouth-watering, spicy dish to prepare during the fasting season of navratri.",
         ingredients: [
           "100 gms cottage cheese",
           "40 gms singhare ka atta (water chestnut flour)",
@@ -6661,7 +6920,8 @@ export const Data = [
           "5 gms ajwain (caraway seed)",
           "20 gms deggi mirch",
           "10 gms coriander, chopped",
-          "100 ml oil"],
+          "100 ml oil",
+        ],
         steps: [
           "Prepare kofta:1.Mash the cottage cheese and add singare ka atta and senda namak.",
           "2.Make roundels and fry in oil.",
@@ -6669,9 +6929,9 @@ export const Data = [
           "1.Remove the eye ,then boil the tomatoes ,make puree and stain.",
           "2.In a pan heat oil and add ajwain and sauté for a minute. Then add the stained tomato puree and cook for 5 minutes.",
           "3.Add the deggi mirch and sendha namak .",
-          "4.Then add fried kofta in the gravy and serve hot garnished with coriander."],
+          "4.Then add fried kofta in the gravy and serve hot garnished with coriander.",
+        ],
       },
-
 
       {
         subid: 20,
@@ -6681,7 +6941,8 @@ export const Data = [
         preTime: "15min",
         cookTime: "25min",
         totalTime: "40min",
-        description: "About Tandoori Blacked Pomfret Recipe: A flavorful Indian-style main dish, inspired by the Cajun style cuisine, tandoori blackened pomfret is an absolutely delicious pick for just about any occasion.",
+        description:
+          "About Tandoori Blacked Pomfret Recipe: A flavorful Indian-style main dish, inspired by the Cajun style cuisine, tandoori blackened pomfret is an absolutely delicious pick for just about any occasion.",
         ingredients: [
           "1 tsp red chilli ",
           "1/4 tsp cayenne pepper powder (optional)",
@@ -6698,7 +6959,8 @@ export const Data = [
           "1 tsp chaat masala",
           "1 tsp ginger garlic paste (1 part of ginger 3 parts of garlic)",
           "450 gms 1 piece pomfret",
-          "6 Coriander sprigs"],
+          "6 Coriander sprigs",
+        ],
         steps: [
           "1.Gather the ingredients. Wash the pomfret and clean it. Cut slits into the fish.",
           "2.Marinate the fish with limejuice, salt, ginger garlic paste.",
@@ -6709,10 +6971,10 @@ export const Data = [
           "7.Grill the pomfret about 5 to 6 minutes on one side, until the seasonings are blackened.",
           "8.Right before taking the fish out of the tandoor, apply melted butter and lime juice. And put back the fish in tandoor for the final colour and smoky flavor.",
           "9.Once cooked through, remove the fish from skewer and plate.",
-          "10.Add coriander sprigs,lemon wedges.11.Serve with grilled vegetables or your favorite sides."],
+          "10.Add coriander sprigs,lemon wedges.11.Serve with grilled vegetables or your favorite sides.",
+        ],
       },
-
-    ]
+    ],
   },
 
   // 11
@@ -6720,10 +6982,9 @@ export const Data = [
     id: 11,
     imgsrc: "../images/festival/Bread And Butter Pudding Recipe.jpg",
     name: "Festival",
-    link: "/festival",
+    link: "/recipes/festival",
     info: "Be it any festival - Holi, Diwali or Christmas - find the best festival recipes by ace chefs.",
     recipies: [
-
       {
         subid: 1,
         recipename: "Bread And Butter Pudding Recipe",
@@ -6732,24 +6993,28 @@ export const Data = [
         preTime: "20min",
         cookTime: "40min",
         totalTime: "60min",
-        description: "Bread And Butter Pudding Recipe: Give your festive spread a decadent dessert, perfect to impress all your guests! This simple bread and butter pudding is sugar-free yet sure to satiate your sweet tooth.",
-        ingredients: ["6 White bread slices",
+        description:
+          "Bread And Butter Pudding Recipe: Give your festive spread a decadent dessert, perfect to impress all your guests! This simple bread and butter pudding is sugar-free yet sure to satiate your sweet tooth.",
+        ingredients: [
+          "6 White bread slices",
           "Butter (for applying)",
           "1 1/2 cup milk",
           "1/2 cup low calorie sweetener",
           "2 Eggs1 tsp vanilla essence",
           "A pinch of nutmeg powder",
           "1/4 tsp green cardamom powder",
-          "2 tbsp raisins"],
-        steps: ["1.Preheat the oven at 180˚C.",
+          "2 tbsp raisins",
+        ],
+        steps: [
+          "1.Preheat the oven at 180˚C.",
           "2.Apply butter on one side and cut each into 4 pieces and set aside.",
           "3.Heat milk in a deep sauce pan, add the low calorie sweetener and stir till it dissolves. Take the pan off the heat and allow to cool slightly.",
           "4.Take a baking dish and arrange the slices with buttered side up. Set aside.",
           "5.Break in the eggs in the sauce pan, add vanilla essence and whisk till well combined.",
           "6.Add nutmeg powder and green cardamom powder and whisk well. Strain the mixture directly on to the bread.",
-          "7.Sprinkle raisins and bake for 30 minutes. Take the baking dish out of the oven and allow to cool slightly. Serve warm or cold."],
+          "7.Sprinkle raisins and bake for 30 minutes. Take the baking dish out of the oven and allow to cool slightly. Serve warm or cold.",
+        ],
       },
-
 
       {
         subid: 2,
@@ -6759,14 +7024,18 @@ export const Data = [
         preTime: "2min",
         cookTime: "3min",
         totalTime: "5min",
-        description: "About Feliz Navidad Recipe: Here is a perfect holiday drink or your next party! Just a few ingredients combined together for a sweet and tangy mix that is sure to get your party started.",
-        ingredients: ["50 Ml vodka",
+        description:
+          "About Feliz Navidad Recipe: Here is a perfect holiday drink or your next party! Just a few ingredients combined together for a sweet and tangy mix that is sure to get your party started.",
+        ingredients: [
+          "50 Ml vodka",
           "30 ml triple sec mixed",
           "20 ml fresh lime",
-          "90 ml cranberry juiceIce"],
-        steps: ["1.Shake all ingredients with crushed ice and topped with cranberry juice."],
+          "90 ml cranberry juiceIce",
+        ],
+        steps: [
+          "1.Shake all ingredients with crushed ice and topped with cranberry juice.",
+        ],
       },
-
 
       {
         subid: 3,
@@ -6776,22 +7045,26 @@ export const Data = [
         preTime: "20min",
         cookTime: "40min",
         totalTime: "60min",
-        description: "About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
-        ingredients: ["2 Litre full fat milk",
+        description:
+          "About Almond And Rose Kheer Recipe: No Indian festivity is complete without a traditional sweet treat and kheer makes for a perfect choice for every celebration! Here is a quick and easy kheer recipe with the goodness of almonds and refreshing rose flavour, which you can try at home.",
+        ingredients: [
+          "2 Litre full fat milk",
           "120 gms rice",
           "40 gms grain sugar",
           "3-4 Rose water drops",
           "10 gms dried rose petals",
           "100 gms almonds",
-          "25 gms almond slivers"],
-        steps: ["1.Soak the rice in water for about 20 minutes.",
+          "25 gms almond slivers",
+        ],
+        steps: [
+          "1.Soak the rice in water for about 20 minutes.",
           "2.Heat milk in a heavy bottom pan. After a boil, reduce the heat and simmer till milk is reduced to half the original volume.",
           "3.Add the soaked rice after draining the water and cook on low heat till rice is cooked well and the mix thickens.",
           "4.Add chopped almonds and cook for further 15 mins on low heat till the kheer is thick and creamy, add sugar.",
           "5.Set aside to cool. Once cool add rose water and mix. Refrigerate till serving",
-          "6.Roast some almond slivers in an oven for 180 degrees for 5 minutes, until golden brown. Garnish with slivers and dried rose petals before serving."],
+          "6.Roast some almond slivers in an oven for 180 degrees for 5 minutes, until golden brown. Garnish with slivers and dried rose petals before serving.",
+        ],
       },
-
 
       {
         subid: 4,
@@ -6801,20 +7074,24 @@ export const Data = [
         preTime: "60min",
         cookTime: "60min",
         totalTime: "2hrs",
-        description: "About Kesar Pista Phirni Recipe: One Indian dessert that none of us can ever say no to is phirni. A bowl of chilled, nutty and delicious phirni can turn around a day for us. Here's a sugar-free kesar pista phirni that you can try at home this summer season!",
-        ingredients: ["A few saffron threads",
+        description:
+          "About Kesar Pista Phirni Recipe: One Indian dessert that none of us can ever say no to is phirni. A bowl of chilled, nutty and delicious phirni can turn around a day for us. Here's a sugar-free kesar pista phirni that you can try at home this summer season!",
+        ingredients: [
+          "A few saffron threads",
           "10-12 pistachios (peeled and sliced), blanched",
           "1 litre skimmed milk",
           "3 tbsp coarsely ground rice",
           "3/4 tbsp green cardamom powder",
-          "3 tbsp low-calorie sweetener"],
-        steps: ["1.Bring the milk to a boil in a deep non-stick pan. Lower the heat and simmer, stirring continuously, till it reduces by half.",
+          "3 tbsp low-calorie sweetener",
+        ],
+        steps: [
+          "1.Bring the milk to a boil in a deep non-stick pan. Lower the heat and simmer, stirring continuously, till it reduces by half.",
           "2.Add the ground rice, mixed with a little water, and stir well to prevent lumps from forming. Bring the mixture to a boil.",
           "3.When it starts to thicken, lower the heat and simmer for a couple of minutes, stirring continuously. Add the cardamom powder and saffron, and mix well.",
           "4.When the mixture attains a thick custard-like consistency, remove from heat and stir in the low-calorie sweetener.",
-          "5.Pour the mixture into 4 individual earthenware bowls while still warm. Sprinkle sliced pistachios and refrigerate for at least 2 hours. Serve chilled."],
+          "5.Pour the mixture into 4 individual earthenware bowls while still warm. Sprinkle sliced pistachios and refrigerate for at least 2 hours. Serve chilled.",
+        ],
       },
-
 
       {
         subid: 5,
@@ -6824,20 +7101,24 @@ export const Data = [
         preTime: "45min",
         cookTime: "15min",
         totalTime: "60min",
-        description: "About Besan Ke Laddoo Recipe: One of the most popular Indian sweet, besan ke ladoo never fails to impress anyone! Here is a simple recipe to prepare these balls of goodness at home, sugar-free!",
-        ingredients: ["2 Cups gram flour (coarse)",
+        description:
+          "About Besan Ke Laddoo Recipe: One of the most popular Indian sweet, besan ke ladoo never fails to impress anyone! Here is a simple recipe to prepare these balls of goodness at home, sugar-free!",
+        ingredients: [
+          "2 Cups gram flour (coarse)",
           "6-8 Cashew nuts",
           "6-8 Almonds",
           "1/2 cup ghee",
           "1/2 tsp green cardamom powder",
-          "1/3 cup low-calorie sweetener"],
-        steps: ["1.Coarsely grind together the cashew nuts and almonds, and set aside.",
+          "1/3 cup low-calorie sweetener",
+        ],
+        steps: [
+          "1.Coarsely grind together the cashew nuts and almonds, and set aside.",
           "2.Melt the ghee in a non-stick kadai. Add the gram flour and sauté on low heat till the gram flour is light brown and fragrant. This normally takes around 15-20 minutes.",
           "3.Add the cashew nuts, almonds and cardamom powder, stir to mix and take the kadai off the heat. Set aside to cool.",
           "4.Add the low-calorie sweetener and mix well with your hands.",
-          "5.Shape into walnut-sized balls and store in an airtight container when completely cooled."],
+          "5.Shape into walnut-sized balls and store in an airtight container when completely cooled.",
+        ],
       },
-
 
       {
         subid: 6,
@@ -6847,8 +7128,10 @@ export const Data = [
         preTime: "25min",
         cookTime: "35min",
         totalTime: "60min",
-        description: "About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
-        ingredients: ["1 Kg lamb shoulder cuts",
+        description:
+          "About Lamb And Almond Korma Recipe: A delightful dish of lamb korma is a perfect addition to a celebratory spread! Here is a korma recipe with succulent lamb cuts tossed in a smooth mix of yogurt with nutty almonds and rich spices!",
+        ingredients: [
+          "1 Kg lamb shoulder cuts",
           "1 cup onion",
           "3 tbsp ginger-garlic paste",
           "2 cup yogurt1 cup almonds (skin removed), blanched",
@@ -6860,14 +7143,16 @@ export const Data = [
           "1 tsp turmeric powder",
           "2 tsp red chilli powderto taste salt",
           "4 tbsp ghee",
-          "3 cups water"],
-        steps: ["1.Heat ghee in a heavy bottomed pan, fry the onions in the ghee till they are golden. Remove onions from the oil.",
+          "3 cups water",
+        ],
+        steps: [
+          "1.Heat ghee in a heavy bottomed pan, fry the onions in the ghee till they are golden. Remove onions from the oil.",
           "2.Add the lamb pieces to the ghee and fry it till they are golden in colour; add the ginger garlic paste and stir fry for 2-3 minutes.",
           "3.Make a smooth paste of yoghurt and ½ cup of blanched almonds. Add this paste to the lamb and keep on stirring it till oil separates out. Add the fried onions to the lamb.",
           "4.Reduce the heat, and add water. Cover the pan and let the lamb simmer for an hour or till tender.",
-          "5.Cut the remaining blanched almonds into small pieces and add it to the korma."],
+          "5.Cut the remaining blanched almonds into small pieces and add it to the korma.",
+        ],
       },
-
 
       {
         subid: 7,
@@ -6877,22 +7162,26 @@ export const Data = [
         preTime: "25min",
         cookTime: "25min",
         totalTime: "50min",
-        description: "This classic Indian sweet is loved and savoured by all during festive and celebration meals. Gulab Jamun are round balls dipped in rose flavoured sugar syrup, often made during festivals like Diwali, Eid, Holi and Navratri. The perfect Indian sweet for the festive season is here for you to gorge on, though this time it comes with a twist. Try it to know it and you'll not be able to resist it.",
-        ingredients: ["500 Gram Khoya",
+        description:
+          "This classic Indian sweet is loved and savoured by all during festive and celebration meals. Gulab Jamun are round balls dipped in rose flavoured sugar syrup, often made during festivals like Diwali, Eid, Holi and Navratri. The perfect Indian sweet for the festive season is here for you to gorge on, though this time it comes with a twist. Try it to know it and you'll not be able to resist it.",
+        ingredients: [
+          "500 Gram Khoya",
           "175 Gram Maida",
           "1/2 tsp Cooking Soda",
           "5 Gram Cardamom Powder",
           "2 1/2 Kg Jaggery",
-          "1 1/2 Litre Water"],
-        steps: ["1.Make a dough with khoya, Maida, cardamom powder, cooking soda and water.",
+          "1 1/2 Litre Water",
+        ],
+        steps: [
+          "1.Make a dough with khoya, Maida, cardamom powder, cooking soda and water.",
           "2.Make small dumplings out of it.",
           "3.Heat oil in a kadai, once oil is hot start adding dumplings in to it.",
           "4.Fry slowly till it gets golden brown.",
           "5.By the time make jaggery sugar syrup.",
           "6.After the dumplings turn golden brown, remove them from the oil and put them in syrup.",
-          "7.Check the consistency and garnish with pistachios, serve hot."],
+          "7.Check the consistency and garnish with pistachios, serve hot.",
+        ],
       },
-
 
       {
         subid: 8,
@@ -6902,8 +7191,10 @@ export const Data = [
         preTime: "15min",
         cookTime: "40min",
         totalTime: "55min",
-        description: "About Rasmalai Recipe: An all time favorite Indian dessert, rasmalai is a delectable Bengali dessert, freshly made with chhena balls and soaked in malai. A must try at home during the festive season",
-        ingredients: ["3 pcs reetha (foaming agent that helps the chenna to puff up)",
+        description:
+          "About Rasmalai Recipe: An all time favorite Indian dessert, rasmalai is a delectable Bengali dessert, freshly made with chhena balls and soaked in malai. A must try at home during the festive season",
+        ingredients: [
+          "3 pcs reetha (foaming agent that helps the chenna to puff up)",
           "5-6 cups cow's milk",
           "2 cup sugar",
           "2 cups water",
@@ -6913,8 +7204,10 @@ export const Data = [
           "For garnish:",
           "Pistas (peeled and sliced), blanched",
           "Almonds (peeled and sliced), blanched",
-          "Rabri (no sugar just condensed milk cooked for a while)"],
-        steps: ["1.Cut open the reetha, discard the seed and soak the peel in hot water.",
+          "Rabri (no sugar just condensed milk cooked for a while)",
+        ],
+        steps: [
+          "1.Cut open the reetha, discard the seed and soak the peel in hot water.",
           "2.In the meantime, heat some more water to blanch the pistas. Boil for a couple of minutes. Once the skin becomes nice, soft and fluffy remove from heat. Cool it, peel the skin off and slice it.",
           "3.Blanch and peel the almonds in the same way. Once cool slice them too.",
           "4.Boil the milk to make chenna. Keep stirring the milk else it will stick to the pan and burn.",
@@ -6941,9 +7234,9 @@ export const Data = [
           "25.Add a dash of saffron to it.",
           "26.Gently squeeze out all the excess sugar syrup from the rasmalais and add them to the milk. (while still on low heat)",
           "27.Mix well for about a minute and them squeeze all the excess milk from them and plate them.",
-          "28.Garnish with rabri, pistas and almonds."],
+          "28.Garnish with rabri, pistas and almonds.",
+        ],
       },
-
 
       {
         subid: 9,
@@ -6953,18 +7246,22 @@ export const Data = [
         preTime: "5min",
         cookTime: "30min",
         totalTime: "35min",
-        description: "About Murmura Ladoo (Murmura Laddu) Recipe: Crispy ladoos made with puffed rice and molten jaggery. Though puffed rice is not really nutritionally rich, it is light on the stomach and low in calories. Murmura Ladoos made of puffed rice are quite filling and are among one of the most loved sweet treats of the country.",
-        ingredients: ["250 Gram Murmura (rice puffs)",
+        description:
+          "About Murmura Ladoo (Murmura Laddu) Recipe: Crispy ladoos made with puffed rice and molten jaggery. Though puffed rice is not really nutritionally rich, it is light on the stomach and low in calories. Murmura Ladoos made of puffed rice are quite filling and are among one of the most loved sweet treats of the country.",
+        ingredients: [
+          "250 Gram Murmura (rice puffs)",
           "750 Gram Jaggery",
-          "3 1/2 Cups Water"],
-        steps: ["1.Place jaggery and water in a pan, and dissolve the jaggery over low heat.",
+          "3 1/2 Cups Water",
+        ],
+        steps: [
+          "1.Place jaggery and water in a pan, and dissolve the jaggery over low heat.",
           "2.Once the jaggery dissolves, increase the heat and bring it to boil and cook over full flame till, a 2 thread consistency is reached.",
           "3.Mix in the murmura quickly into the mixture.",
           "4.Take it off the heat and let it cool for a while",
           "5.Make round balls moistening the hands if the batter is too much sticky.",
-          "6.Leave it to cool and serve."],
+          "6.Leave it to cool and serve.",
+        ],
       },
-
 
       {
         subid: 10,
@@ -6974,22 +7271,26 @@ export const Data = [
         preTime: "10min",
         cookTime: "45min",
         totalTime: "55min",
-        description: "About Dundee Cake Recipe: A delectable, traditional Scottish cake with fruits, dry fruits, orange zest coming together for rich flavour. A popular cake to prepare during the festive season of Christmas, Dundee cake is loved by kids and adults alike.",
-        ingredients: ["1500 gms butter",
+        description:
+          "About Dundee Cake Recipe: A delectable, traditional Scottish cake with fruits, dry fruits, orange zest coming together for rich flavour. A popular cake to prepare during the festive season of Christmas, Dundee cake is loved by kids and adults alike.",
+        ingredients: [
+          "1500 gms butter",
           "1500 gms sugar",
           "30 nos egg",
           "2 kg flour",
           "40 gms baking powder",
           "4 nos orange zest",
           "4 kg fruit mixture",
-          "As required almonds, blanched"],
-        steps: ["1.To make the Dundee cake beat the butter and sugar together till it gets soften.",
+          "As required almonds, blanched",
+        ],
+        steps: [
+          "1.To make the Dundee cake beat the butter and sugar together till it gets soften.",
           "2.Add eggs one by one to the above mixture. Sieve all the dry ingredients and keep ready (flour, baking powder).",
           "3.Add orange zest followed by black jack and beat the mixture for a while.",
           "4.Add the dry ingredients and fold the mixture slowly. Finally add the fruit mixture to it.",
-          "5.In the end, arrange the blanched almonds on top of the cake mixture which gives a beautiful finish to the cake."],
+          "5.In the end, arrange the blanched almonds on top of the cake mixture which gives a beautiful finish to the cake.",
+        ],
       },
-
 
       {
         subid: 11,
@@ -6999,8 +7300,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "15min",
         totalTime: "25min",
-        description: "About Slow Cooked Spiced Sangria Recipe: Drinking this Sangria is like drinking Christmas! If you want to feel festive, definitely make a batch of this easy, hot sangria and enjoy the holidays. A perfect combination of cinnamon and clove spice. It warms your entire body and is a big mug of comfort all over. This Sangria will be absolutely perfect for both, holiday parties or a quiet evening.",
-        ingredients: ["750 Ml red wine (merlot / zinfandel)",
+        description:
+          "About Slow Cooked Spiced Sangria Recipe: Drinking this Sangria is like drinking Christmas! If you want to feel festive, definitely make a batch of this easy, hot sangria and enjoy the holidays. A perfect combination of cinnamon and clove spice. It warms your entire body and is a big mug of comfort all over. This Sangria will be absolutely perfect for both, holiday parties or a quiet evening.",
+        ingredients: [
+          "750 Ml red wine (merlot / zinfandel)",
           "2 cups apple cider",
           "1/4 cup honey",
           "1 Orange (zested and juiced)",
@@ -7008,14 +7311,15 @@ export const Data = [
           "4 Green Cardamom",
           "2 Cinnamon Sticks",
           "1 Anise (whole)",
-          "1/4 cup brandy"],
+          "1/4 cup brandy",
+        ],
         steps: [
           "1.Add wine, cider, honey, orange zest and orange juice to a pan on flame.",
           "2.Add the cloves, cardamom, cinnamon and star anise. Cook on low flame (simmer the entire process).",
           "3.Stir in the brandy last.",
-          "4.Ladle into irish coffee mug or wine goblet with an orange slice and cinnamon stick as garnish."],
+          "4.Ladle into irish coffee mug or wine goblet with an orange slice and cinnamon stick as garnish.",
+        ],
       },
-
 
       {
         subid: 12,
@@ -7025,19 +7329,22 @@ export const Data = [
         preTime: "5min",
         cookTime: "5min",
         totalTime: "10min",
-        description: "Fall be the best time to just sit back and relax over a glass of perfectly made cocktail. Here is the one with Gin, topped with lemon juice and sugar syrup, just the right one for a casual evening or even a dinner party.",
-        ingredients: ["60 Ml Gin",
+        description:
+          "Fall be the best time to just sit back and relax over a glass of perfectly made cocktail. Here is the one with Gin, topped with lemon juice and sugar syrup, just the right one for a casual evening or even a dinner party.",
+        ingredients: [
+          "60 Ml Gin",
           "Fresh Thyme",
           "Pear Scoops",
           "30 Ml Lemon Juice",
           "60 Ml Sugar Syrup",
-          "To top up Tonic Water"],
+          "To top up Tonic Water",
+        ],
         steps: [
           "1.Make fresh thyme decoction by soaking it overnight in the water.",
           "2.Build up a drink in a tall glass by adding all the ingredients on ice.",
-          "3.Top up with tonic water. Serve."],
+          "3.Top up with tonic water. Serve.",
+        ],
       },
-
 
       {
         subid: 13,
@@ -7047,18 +7354,20 @@ export const Data = [
         preTime: "5min",
         cookTime: "15min",
         totalTime: "20min",
-        description: "Who doesn't love bourbon? When it is infused with some figs, you get a mind boggling, amazing summer cocktail that leaves you with an everlasting taste.",
+        description:
+          "Who doesn't love bourbon? When it is infused with some figs, you get a mind boggling, amazing summer cocktail that leaves you with an everlasting taste.",
         ingredients: [
           "60 Ml Bourbon",
           "2 Nos Fresh Fig",
           "2 dashes Angustora Bitters",
-          "1 Nos Egg White (optional)"],
+          "1 Nos Egg White (optional)",
+        ],
         steps: [
           "1.Muddle figs in a cocktail shaker.",
           "2.Add ice and rest of the ingredients to the shaker, shake and double strain in an aperitif glass.",
-          "3.Serve."],
+          "3.Serve.",
+        ],
       },
-
 
       {
         subid: 14,
@@ -7068,7 +7377,8 @@ export const Data = [
         preTime: "2min",
         cookTime: "5min",
         totalTime: "7min",
-        description: "About Verde Rang Recipe: Holi is that time of the year when every nook and corner of the country will be filled with the spirit of the vibrant festival of colors. Celebrate the festivities with an innovative cocktail packed with the goodness of coconut milk, cinnamon stick along with the tequile and green chartreuse. Verde means green in Spanish and Rang means colour",
+        description:
+          "About Verde Rang Recipe: Holi is that time of the year when every nook and corner of the country will be filled with the spirit of the vibrant festival of colors. Celebrate the festivities with an innovative cocktail packed with the goodness of coconut milk, cinnamon stick along with the tequile and green chartreuse. Verde means green in Spanish and Rang means colour",
         ingredients: [
           "45 Ml tequila",
           "15 ml green chartreuse",
@@ -7076,12 +7386,13 @@ export const Data = [
           "1 egg white",
           "10 ml simple syrup",
           "5 ml coconut milk",
-          "Cinnamon stick with cranberries (for garnishing)"],
+          "Cinnamon stick with cranberries (for garnishing)",
+        ],
         steps: [
           "1.Add tequila, green chartreuse, thandai mix, simple syrup, coconut milk and egg white in a shaker.",
-          "2.Mix it vigorously, dry shake and pour."],
+          "2.Mix it vigorously, dry shake and pour.",
+        ],
       },
-
 
       {
         subid: 15,
@@ -7091,18 +7402,20 @@ export const Data = [
         preTime: "5min",
         cookTime: "5min",
         totalTime: "10min",
-        description: "About Rose Sherbat Recipe: A refreshing rose drink for the festive season and special occasions. Rose sherbat is an interesting, quick and easy drink that can prepared at home with simple ingredients.",
+        description:
+          "About Rose Sherbat Recipe: A refreshing rose drink for the festive season and special occasions. Rose sherbat is an interesting, quick and easy drink that can prepared at home with simple ingredients.",
         ingredients: [
           "sugar syrup",
           "rose flavour and petal",
-          "rose essencemilk"],
+          "rose essencemilk",
+        ],
         steps: [
           "1.Add flavour and rose petals in sugar syrup and mix well.",
           "2.Now add rose essence and milk. The gulab sharbat is ready.",
           "3.To serve, fill 1/4 Cup (our 1 cup is 240 ml) of sherbat syrup in a glass. ",
-          "4.Fill the rest of the glass with cold water. Mix well and serve. You can also add a bit of lemon juice to make it a little tangy."],
+          "4.Fill the rest of the glass with cold water. Mix well and serve. You can also add a bit of lemon juice to make it a little tangy.",
+        ],
       },
-
 
       {
         subid: 16,
@@ -7112,7 +7425,8 @@ export const Data = [
         preTime: "5min",
         cookTime: "5min",
         totalTime: "10min",
-        description: "About LIIT Thandai Recipe: Holi season is here and so is the season to gorge on chilled thandai! Here is a thandai recipe with a twist that the guests are surely going to love at your holi party",
+        description:
+          "About LIIT Thandai Recipe: Holi season is here and so is the season to gorge on chilled thandai! Here is a thandai recipe with a twist that the guests are surely going to love at your holi party",
         ingredients: [
           "30 Ml vodka",
           "30 ml white rum",
@@ -7122,21 +7436,22 @@ export const Data = [
           "10 gms pista flakes",
           "100 gms ice",
           "Pilsner glass",
-          "for garnishing pista flakes"],
-        steps: [
-          "1.Shake all ingredients with loads of ice and serve."],
+          "for garnishing pista flakes",
+        ],
+        steps: ["1.Shake all ingredients with loads of ice and serve."],
       },
-
 
       {
         subid: 17,
         recipename: "Almond & White Chocolate Gujiya Recipe",
-        imgfile: "../images/festival/Almond & White Chocolate Gujiya Recipe.jpg",
+        imgfile:
+          "../images/festival/Almond & White Chocolate Gujiya Recipe.jpg",
         recipieServe: "2",
         preTime: "15min",
         cookTime: "35min",
         totalTime: "50min",
-        description: "About Almond & White Chocolate Gujiya Recipe: The quintessential Holi dish, gujiya is an Indian sweet that is made in every household during the festival of Holi. Small dumplings packed with all things nutty and sweet, these are easy to serve and eat. Made in just about an hour and with simple ingredients, you can easily prepare these gujiyas at home.",
+        description:
+          "About Almond & White Chocolate Gujiya Recipe: The quintessential Holi dish, gujiya is an Indian sweet that is made in every household during the festival of Holi. Small dumplings packed with all things nutty and sweet, these are easy to serve and eat. Made in just about an hour and with simple ingredients, you can easily prepare these gujiyas at home.",
         ingredients: [
           "For dough:",
           "2 cups all-purpose flour",
@@ -7147,7 +7462,8 @@ export const Data = [
           "1/4 cup dessicated coconut",
           "A pinch of green cardamom powder",
           "1/2 cup almond",
-          "1 tbsp jaggery"],
+          "1 tbsp jaggery",
+        ],
         steps: [
           "1.Rub the flour and ghee together and bind them together with water to form a soft dough. Rest it for ½ hour.",
           "2.In a bowl, mix the chocolate flakes, coconut, almonds together and add jaggery.",
@@ -7155,9 +7471,9 @@ export const Data = [
           "4.Place filling in the center, do not over-stuff it as it will result in bursting of gujiya while frying.",
           "5.Apply water on the edges and seal the ends, the shape will resemble half-moon. Use cutter to make a design around the edges or pinch and twist the edges.",
           "6.Heat oil/ ghee in a deep pan; fry the gujiyas till golden brown.",
-          "7.Serve during the festive season of Holi."],
+          "7.Serve during the festive season of Holi.",
+        ],
       },
-
 
       {
         subid: 18,
@@ -7167,19 +7483,21 @@ export const Data = [
         preTime: "5min",
         cookTime: "5min",
         totalTime: "10min",
-        description: "About Valencia Fizz Recipe: Super refreshing mocktail recipe that is sure to keep you energized throughout the day. A mouth-watering blend of fresh Valencia oranges with lime juice and soda hence making it a rejuvenating beverage this Navratri. Made within minutes, this mocktail recipe is sure to be loved by everyone and is way healthier than the canned juices available on the market. Serve this chilled beverage to your guests this festive season and on special occasions.",
+        description:
+          "About Valencia Fizz Recipe: Super refreshing mocktail recipe that is sure to keep you energized throughout the day. A mouth-watering blend of fresh Valencia oranges with lime juice and soda hence making it a rejuvenating beverage this Navratri. Made within minutes, this mocktail recipe is sure to be loved by everyone and is way healthier than the canned juices available on the market. Serve this chilled beverage to your guests this festive season and on special occasions.",
         ingredients: [
           "100 Ml Valencia orange juice",
           "75 ml Soda1 Lemon slices",
           "2 tbsp Lemon juice",
-          "As required Sugar"],
+          "As required Sugar",
+        ],
         steps: [
           "1.Take a mocktail glass and first add valencia orange juice.",
           "2.Add sugar and lemon juice.",
           "3.Add soda and stir it well.",
-          "4.Deck up the lemon slice on the top of the glass for better presentation."],
+          "4.Deck up the lemon slice on the top of the glass for better presentation.",
+        ],
       },
-
 
       {
         subid: 19,
@@ -7189,13 +7507,15 @@ export const Data = [
         preTime: "15min",
         cookTime: "35min",
         totalTime: "50min",
-        description: "About Baked Namak Para Recipe: Namak Pare are one of the most famous tea-time snack in India. Every Indian home would have a jar full of these savoury strips to munch on. These are usually made of maida along with suji and deep fried till crisp, but here is a healthier namak para recipe that you'll love to indulge in and not regret later. Made with whole wheat flour and baked to perfection, you can enjoy this crunchy, crispy snack this festive season along with friends and family.",
+        description:
+          "About Baked Namak Para Recipe: Namak Pare are one of the most famous tea-time snack in India. Every Indian home would have a jar full of these savoury strips to munch on. These are usually made of maida along with suji and deep fried till crisp, but here is a healthier namak para recipe that you'll love to indulge in and not regret later. Made with whole wheat flour and baked to perfection, you can enjoy this crunchy, crispy snack this festive season along with friends and family.",
         ingredients: [
           "1 1/2 Cups Whole wheat flour (atta)",
           "1/2 Cup Refined flour (maida)",
           "1/2 tsp Baking powder",
           "1/2 Cup GheeTo taste Salt",
-          "1/2 tsp Carom seeds (ajwain)"],
+          "1/2 tsp Carom seeds (ajwain)",
+        ],
         steps: [
           "1.Mix the two flours and baking powder. Add ghee and rub in with fingertips to get crumby consistency.",
           "2.Add salt and crushed carom seeds. Add sufficient cold water to make stiff dough.",
@@ -7203,9 +7523,9 @@ export const Data = [
           "4.Sprinkle some refined flour on a flat surface and roll out the dough into a half centimeter thick diskette (chapati).",
           "5.Grease a baking tray with a little oil and sprinkle refined flour on it. Cut the rolled out dough into diamond shaped pieces.",
           "6.Place them on the baking tray and bake in the preheated oven at 200°C for 15 to 20 minutes.",
-          "7.Serve hot or cool them down and store in an airtight container."],
+          "7.Serve hot or cool them down and store in an airtight container.",
+        ],
       },
-
 
       {
         subid: 20,
@@ -7215,25 +7535,26 @@ export const Data = [
         preTime: "15min",
         cookTime: "30min",
         totalTime: "45min",
-        description: "About Kashmiri Halwa Recipe: A delicious, easy and quick halwa recipe for the festive season. Made with oats cooked with milk and sugar with an aromatic flavour of saffron threads, this dish is served with a garnishing of nuts and raisins!",
+        description:
+          "About Kashmiri Halwa Recipe: A delicious, easy and quick halwa recipe for the festive season. Made with oats cooked with milk and sugar with an aromatic flavour of saffron threads, this dish is served with a garnishing of nuts and raisins!",
         ingredients: [
           "1 Cup oats",
           "1/2 cup grain sugar",
           "2 cup milk4 tsp desi ghee",
           "1 tsp green cardamom powder",
           "Few saffron threads",
-          "Few cashew nuts, almonds and raisins"],
+          "Few cashew nuts, almonds and raisins",
+        ],
         steps: [
           "1.In a non-stick pan heat 2-3 teaspoon ghee and fry oats on low heat till colour changes.",
           "2.Heat milk and sugar in a pan and bring it to boil. Once the sugar is dissolved completely, add fried oats and stir continuously.",
           "3.After this, add cardamom powder and the remaining ghee.",
           "4.Add saffron threads for color and aroma. Stir until the mixture leaves sides of the pan.",
           "5.Remove from fire and garnish with fried cashews and raisins.",
-          "6.Serve warm."],
+          "6.Serve warm.",
+        ],
       },
-
-
-    ]
+    ],
   },
 
   //12
@@ -7241,11 +7562,9 @@ export const Data = [
     id: 12,
     imgsrc: "../images/kidrecipes/Paneer Thread Rolls Recipe.jpg",
     name: "Kid Recipes",
-    link: "/kidrecipes",
+    link: "/recipes/kidrecipes",
     info: "Find food for kids, mom-approved by the Allrecipes community. You'll see lunch ideas, snack recipes, and healthy kid recipes.",
     recipies: [
-
-
       {
         subid: 1,
         recipename: "Paneer Thread Rolls Recipe",
@@ -7254,8 +7573,10 @@ export const Data = [
         preTime: "25min",
         cookTime: "25min",
         totalTime: "50min",
-        description: "About Paneer Thread Rolls Recipe: Gorge on a fusion of Indo-Asian dish with cottage cheese cubes wrapped around cooked noodles and deep-fried to crispy best. Paneer thread rolls are an ideal snack to amp up your snacks table!",
-        ingredients: ["300 gms paneer",
+        description:
+          "About Paneer Thread Rolls Recipe: Gorge on a fusion of Indo-Asian dish with cottage cheese cubes wrapped around cooked noodles and deep-fried to crispy best. Paneer thread rolls are an ideal snack to amp up your snacks table!",
+        ingredients: [
+          "300 gms paneer",
           "2 tbsp Kashmiri red chilli powder or chilli sauce",
           "to taste salt",
           "1 tbsp ginger-garlic paste",
@@ -7264,8 +7585,10 @@ export const Data = [
           "1/2 tbsp soya sauce",
           "3 tbsp corn flour",
           "1 packet rice noodles",
-          "Desi ghee"],
-        steps: ["1.Cut paneer into long (thick) uniform pieces.",
+          "Desi ghee",
+        ],
+        steps: [
+          "1.Cut paneer into long (thick) uniform pieces.",
           " 2.To prepare the coating, mix Kashmiri red chilli powder, salt, ginger garlic paste, chat masala and tomato ketchup with soya sauce and corn flour.",
           "3.Make a smooth paste of it. Add a little bit of water to for a medium smooth consistency.",
           "4.Now coat the paneer pieces with the paste covering every inch of the pieces. For better coating, sprinkle about 2 tbsp of corn flour on the coated paneer pieces to prevent the coating to spread out while frying",
@@ -7275,7 +7598,8 @@ export const Data = [
           "8.Now carefully roll the paneer with noodles.",
           "9.Take one piece of paneer and few noodle strands and roll the strands over the paneer piece in a uniform way. Repeat the process for all the paneer pieces.",
           "10.Now take a wok and heat desi ghee in it over high flame. Make sure it is flaming hot before cooking the paneer pieces as the noodles might absorb more ghee than expected.",
-          "11.Once the wok is sufficiently hot, place the paneer pieces one by one and fry till they turn golden brown. Serve hot."],
+          "11.Once the wok is sufficiently hot, place the paneer pieces one by one and fry till they turn golden brown. Serve hot.",
+        ],
       },
 
       {
@@ -7286,20 +7610,25 @@ export const Data = [
         preTime: "30min",
         cookTime: "20min",
         totalTime: "50minc",
-        description: "About Homemade Vegan Pasta Recipe: Here is how you can easily make raw pasta at home without any dairy products! Quick, easy and fuss-free way to make your own pasta at home before you toss it in your favourite sauce!",
-        ingredients: ["150 gms flour",
+        description:
+          "About Homemade Vegan Pasta Recipe: Here is how you can easily make raw pasta at home without any dairy products! Quick, easy and fuss-free way to make your own pasta at home before you toss it in your favourite sauce!",
+        ingredients: [
+          "150 gms flour",
           " 150 gms semolina/suji",
           " 1/2 tsp salt",
           " 3/4 cup water",
           " 2 tsp olive oil",
-          " Turmeric (optional)"],
-        steps: ["1.Mix the flour, semolina, and salt in a bowl. Create a well and pour in water along with olive oil. Mix together until well combined.",
+          " Turmeric (optional)",
+        ],
+        steps: [
+          "1.Mix the flour, semolina, and salt in a bowl. Create a well and pour in water along with olive oil. Mix together until well combined.",
           " 2.Transfer to a working surface and knead to a smooth and soft dough for about 8-10 minutes.",
           " 3.Form a ball, wrap in cling wrap and let it chill in the refrigerator for 30 minutes.",
           " 4.After the dough has been refrigerated for 30 minutes, place it on a floured working surface and thinly roll it out (thin enough so you could vaguely read a newspaper through it) using a rolling pin (or pasta machine, if you have one).",
           "  5.Dust with more flour (to prevent sticking) and loosely roll it up. Use a very sharp knife and cut the roll into strips.",
           "  6.Use your fingers to unroll the noodles and lay them loosely into several bundles to create noodle nests.",
-          " 7.To cook, bring a large pot of salted water to a boil. Add pasta and cook until al dente for about 2-3 minutes. Toss in your favorite sauce"],
+          " 7.To cook, bring a large pot of salted water to a boil. Add pasta and cook until al dente for about 2-3 minutes. Toss in your favorite sauce",
+        ],
       },
       {
         subid: 3,
@@ -7309,15 +7638,20 @@ export const Data = [
         preTime: "20min",
         cookTime: "15min",
         totalTime: "35min",
-        description: "About Bingsu Recipe: A traditional dessert in Korea, Bingsu is probably the most sought summer dessert in East Asia. It typically consists of chopped fruit, condensed milk, strawberries, kiwi fruit, small pieces of tteok (rice cake), chewy jelly bits, and cereal flakes, fruit syrup, and red beans. It can definitely be a welcome treat for all cold dessert lovers.",
-        ingredient: ["50 gms castor sugar",
+        description:
+          "About Bingsu Recipe: A traditional dessert in Korea, Bingsu is probably the most sought summer dessert in East Asia. It typically consists of chopped fruit, condensed milk, strawberries, kiwi fruit, small pieces of tteok (rice cake), chewy jelly bits, and cereal flakes, fruit syrup, and red beans. It can definitely be a welcome treat for all cold dessert lovers.",
+        ingredient: [
+          "50 gms castor sugar",
           "To serve Mixed seasonal fruit,(cubed mango, blackberries, raspberries, figs, sliced strawberries, pomegranate, kiwi)",
           "500 gms shaved ice (to serve)",
-          "Vanilla ice cream (scooped to serve)"],
-        steps: ["1.Make berry syrup by adding the berries to a saucepan with 2-3 tablespoons of water over a medium heat.",
+          "Vanilla ice cream (scooped to serve)",
+        ],
+        steps: [
+          "1.Make berry syrup by adding the berries to a saucepan with 2-3 tablespoons of water over a medium heat.",
           " 2.Once the berries start to simmer, stir in the sugar until dissolved and mash the berries with a fork until syrupy. Strain through a sieve and leave aside to cool.",
           " 3.Meanwhile, prepare the fruit. Arrange in side bowls, along with shaved ice. (To make shaved ice, add ice to a food processor and blitz in batches, keeping in the freezer until ready to serve. This is a perfect make-ahead dessert)",
-          " 4.Spoon over some of the cooled berry syrup and top with a scoop of vanilla ice cream. Enjoy immediately"],
+          " 4.Spoon over some of the cooled berry syrup and top with a scoop of vanilla ice cream. Enjoy immediately",
+        ],
       },
       {
         subid: 4,
@@ -7327,8 +7661,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "20min",
         totalTime: "30min",
-        description: "Bibim Guksu, or spicy noodles is a delicious cold salad dish seasoned with sweet and tangy Korean flavourings. It is one of the most popular traditional noodle dishes in Korean cuisine that is perfect for the summer days. If you’re looking for an easy meal with a little bit of zest, this is what you need!",
-        ingredients: ["180 gms dried buckwheat noodles (or soba noodles)",
+        description:
+          "Bibim Guksu, or spicy noodles is a delicious cold salad dish seasoned with sweet and tangy Korean flavourings. It is one of the most popular traditional noodle dishes in Korean cuisine that is perfect for the summer days. If you’re looking for an easy meal with a little bit of zest, this is what you need!",
+        ingredients: [
+          "180 gms dried buckwheat noodles (or soba noodles)",
           "For salad:",
           "2 lettuce leaves, sliced",
           "140 gms red cabbage, sliced",
@@ -7343,10 +7679,13 @@ export const Data = [
           "15 ml honey",
           "15 ml brown sugar",
           "15 ml sesame oil",
-          "15 ml sesame seeds (toasted)"],
-        steps: ["1.Boil the noodles in rolling boiling water and drain the noodles. Run some cold water over the noodles to cool them down. Drain.",
+          "15 ml sesame seeds (toasted)",
+        ],
+        steps: [
+          "1.Boil the noodles in rolling boiling water and drain the noodles. Run some cold water over the noodles to cool them down. Drain.",
           "2.Place the noodles in a large serving bowl and mix all the salad ingredients with Korean sauce. After all the ingredients are put in the bowl, serve.",
-          "3.To eat, mix all ingredients well with chopsticks and indulge."],
+          "3.To eat, mix all ingredients well with chopsticks and indulge.",
+        ],
       },
       {
         subid: 5,
@@ -7356,8 +7695,10 @@ export const Data = [
         preTime: "20min",
         cookTime: "30min",
         totalTime: "50min",
-        description: "About Tiranga Pastry Recipe: Celebrate the country's biggest day with this beautiful dessert showcasing the tricolour! Easy, quick and absolutely delicious.",
-        ingredients: ["1 Kg eggless cake mix",
+        description:
+          "About Tiranga Pastry Recipe: Celebrate the country's biggest day with this beautiful dessert showcasing the tricolour! Easy, quick and absolutely delicious.",
+        ingredients: [
+          "1 Kg eggless cake mix",
           "550 ml water",
           "50 ml oilFew drops of vanilla essence",
           "Few drops of orange bakery colour",
@@ -7366,14 +7707,17 @@ export const Data = [
           "150 gms icing sugar",
           "Few drops of vanilla essence",
           "Few drops of orange bakery colour",
-          "Few drops of green bakery colour"],
-        steps: ["1.Mix together water, oil, essence and the cake mix.",
+          "Few drops of green bakery colour",
+        ],
+        steps: [
+          "1.Mix together water, oil, essence and the cake mix.",
           "2.Separate the mixture into three parts, in one part add few drops of green colour and in another part add few drops of orange colour.",
           "3.Pour all three batters into trays and bake in oven at 1600 C temperature for 45 minutes. ",
           "4.Cool the sponge and cut in thin layers for making pastry.",
           "5.Beat butter, essence and icing sugar thoroughly to make the icing, now divide the icing into 3 parts.",
           "6.Add orange color in one part and green color in another part.",
-          "7.Now arrange different colored sponge one on another decorate with three different icings in a design as desired and cut into pastry size pieces."],
+          "7.Now arrange different colored sponge one on another decorate with three different icings in a design as desired and cut into pastry size pieces.",
+        ],
       },
       {
         subid: 6,
@@ -7383,8 +7727,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "About Phulka Tacos Recipe: Mexican tacos are everyone's favourite! Crunchy mix of kidney beans with spices and chillies are sure to tantalise our taste buds. Here is a quick and easy taco recipe made with soft phulkas (chapati)!",
-        ingredients: ["For Kachumber Salad:",
+        description:
+          "About Phulka Tacos Recipe: Mexican tacos are everyone's favourite! Crunchy mix of kidney beans with spices and chillies are sure to tantalise our taste buds. Here is a quick and easy taco recipe made with soft phulkas (chapati)!",
+        ingredients: [
+          "For Kachumber Salad:",
           "1 tbsp onion (diced)",
           "1 tbsp cucumber (diced)",
           "1 tbsp green chilli, chopped1 tbsp tomato (diced)",
@@ -7419,14 +7765,17 @@ export const Data = [
           "onion, sliced",
           "White vinegar",
           "Red chilli powder",
-          "coriander, chopped"],
-        steps: ["For Rajma Stuffing:",
+          "coriander, chopped",
+        ],
+        steps: [
+          "For Rajma Stuffing:",
           "1.Heat the oil in a broad non-stick pan; add the cumin, chopped onions and garlic. Sauté on a medium flame for 1 to 2 minutes.",
           "2.Add fresh chopped tomato, chilli powder, cumin seeds powder, garam masala and salt. Mix well and cook on a medium flame for 2 minutes.",
           "3.Add the boiled rajma, crushed soya and mix well. Cook on a medium flame for 3 minutes, while stirring occasionally. Keep aside once ready.",
           "For Soft Phulka Tacos:",
           "1.Fill in the phulka with iceberg lettuce as base and add 3 tbsp of rajma mixture along with ½ tbsp. of kachumber salad.",
-          "2.Drizzle 2 tbsp of cheese sauce and 2 tbsp of grated cheddar cheese. Fold the phulka and use wooden clip to hold on to the filling. Enjoy with cheese sauce, chilli onion and wafers."],
+          "2.Drizzle 2 tbsp of cheese sauce and 2 tbsp of grated cheddar cheese. Fold the phulka and use wooden clip to hold on to the filling. Enjoy with cheese sauce, chilli onion and wafers.",
+        ],
       },
       {
         subid: 7,
@@ -7436,17 +7785,22 @@ export const Data = [
         preTime: "15min",
         cookTime: "30min",
         totalTime: "45min",
-        description: "About Banana Coconut Idli Recipe: A delicious, sweet twist to the classic idli, banana and coconut idli is a quick and easy recipe to try for you next morning meal.",
-        ingredients: ["For banana idli:",
+        description:
+          "About Banana Coconut Idli Recipe: A delicious, sweet twist to the classic idli, banana and coconut idli is a quick and easy recipe to try for you next morning meal.",
+        ingredients: [
+          "For banana idli:",
           "1 cup Idli batter4 tbsp jaggery powder",
           "A pinch of salt",
           "A pinch of cardamom powder",
           "1/2 ripe banana, chopped",
           "For coconut jaggery cream:",
-          "1 cup coconut milk2 tbsp jaggery powder"],
-        steps: ["1.For banana idli, mix all ingredients.",
+          "1 cup coconut milk2 tbsp jaggery powder",
+        ],
+        steps: [
+          "1.For banana idli, mix all ingredients.",
           "2.Grease an idly tray with butter, spoon some batter into the moulds and steam till done. Remove from mould once done.",
-          "3.For jaggery sauce, heat coconut milk and add jaggery powder. Stir till dissolved. Serve warm idlis with warm coconut sauce."],
+          "3.For jaggery sauce, heat coconut milk and add jaggery powder. Stir till dissolved. Serve warm idlis with warm coconut sauce.",
+        ],
       },
       {
         subid: 8,
@@ -7456,18 +7810,23 @@ export const Data = [
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description: "About Double Chocolate Ice Cream Recipe: Who would ever say no to a scoop of delectable ice cream!? And let's be honest, you are never too old for ice cream. Here is a mouth-watering, simple ice cream recipe with double chocolate, and oodles of crunchy choco chips!",
-        ingredients: ["1 can condensed milk",
+        description:
+          "About Double Chocolate Ice Cream Recipe: Who would ever say no to a scoop of delectable ice cream!? And let's be honest, you are never too old for ice cream. Here is a mouth-watering, simple ice cream recipe with double chocolate, and oodles of crunchy choco chips!",
+        ingredients: [
+          "1 can condensed milk",
           "1/4 cup cocoa powder",
           "1 tsp vanilla extract",
           "2 cups heavy cream",
-          "1/2 cup chocolate chips"],
-        steps: ["1.Pour sweetened condensed milk into a large bowl.",
+          "1/2 cup chocolate chips",
+        ],
+        steps: [
+          "1.Pour sweetened condensed milk into a large bowl.",
           "2.Mix the cocoa powder and vanilla extract into the condensed milk until combined.",
           "3.In a separate bowl whip the heavy cream until it holds stiff peaks.",
           "4.Add one scoop of the whipped cream to the condensed milk and blend.",
           "5.Add the rest on the whipped cream and fold it into the condensed milk gently.",
-          "6.Gently fold in the chocolate chips. Spread into a loaf pan and freeze for 6 hours or until firm."],
+          "6.Gently fold in the chocolate chips. Spread into a loaf pan and freeze for 6 hours or until firm.",
+        ],
       },
       {
         subid: 9,
@@ -7477,15 +7836,19 @@ export const Data = [
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description: "About Red Velvet Banana Pudding Recipe: Combining two of everyone's favourite - freshly-baked red velvet cake and classic banana pudding, this delightful pudding recipe creates a decadent new dish that is a perfect way to unwind over a lazy weekend at home. With layers of red velvet cake, bananas and topped with crunchy choco chips, there's no way anyone can resist digging into this sweet indulgence!",
-        ingredients: ["14 oz sweetened condensed milk",
+        description:
+          "About Red Velvet Banana Pudding Recipe: Combining two of everyone's favourite - freshly-baked red velvet cake and classic banana pudding, this delightful pudding recipe creates a decadent new dish that is a perfect way to unwind over a lazy weekend at home. With layers of red velvet cake, bananas and topped with crunchy choco chips, there's no way anyone can resist digging into this sweet indulgence!",
+        ingredients: [
+          "14 oz sweetened condensed milk",
           "1 1/2 cup ice cold water",
           "3.4 ounce packet instant vanilla pudding mix",
           "8 oz cream cheese (softened and cut into 8 pieces)",
           "3 cups heavy cream",
           "One 9 x 13 inch layer of red velvet cake",
-          "4-5 Ripe bananas1 cup mini chocolate chips"],
-        steps: ["1.In a small bowl, on the medium speed of an electric mixer, mix the sweetened condensed milk and water together until well combined, about 1 minute.",
+          "4-5 Ripe bananas1 cup mini chocolate chips",
+        ],
+        steps: [
+          "1.In a small bowl, on the medium speed of an electric mixer, mix the sweetened condensed milk and water together until well combined, about 1 minute.",
           "2.Add the pudding mix and mix until there are no lumps and the mixture is smooth, about 2 minutes. Cover and refrigerate for 3-4 hours or overnight.",
           "3.Place the pudding mixture into the mixer bowl with the whisk attachment, add the cream cheese to the pudding mix. Mix until thoroughly combined and smooth. Place in the refrigerator while you prepare the whipped cream.",
           "4.In a clean mixer bowl with the whisk attachment whip the heavy cream on medium speed for about one minute until the cream starts to thicken, then increase the speed to medium high and whip the cream until stiff peaks form. Be careful not to over whip.",
@@ -7493,7 +7856,8 @@ export const Data = [
           "6.Cut the red velvet cake into 4-inch squares. Cut each square into ½” layers. Set aside.",
           "7.To assemble the pudding select either a trifle bowl or a wide glass bowl with a 4-5-quart capacity. Spread a layer of pudding on the bottom and layer with enough slices of the red velvet cake to cover the layer, add sliced bananas to cover the cake and sprinkle with 1/3 cup of mini chips.",
           "8.Continue layering with 1/3 of the pudding mixture, another layer of cake, sliced bananas and mini chips. Repeat one more time, ending with pudding.",
-          "9.Sprinkle the top with crumbled red velvet cake and a tablespoon of mini chips. Cover tightly with plastic wrap and allow to chill in the refrigerator for 4 hours or overnight before serving."],
+          "9.Sprinkle the top with crumbled red velvet cake and a tablespoon of mini chips. Cover tightly with plastic wrap and allow to chill in the refrigerator for 4 hours or overnight before serving.",
+        ],
       },
       {
         subid: 10,
@@ -7503,8 +7867,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "30min",
         totalTime: "40min",
-        description: "About Egg Hakka Noodles Recipe: Quick, easy and simply irresistible, egg hakka noodles is everyone's absolute favourite! Here is a fuss-free,easy recipe you can try, to make egg noodles at home.",
-        ingredients: ["1 packet noodles",
+        description:
+          "About Egg Hakka Noodles Recipe: Quick, easy and simply irresistible, egg hakka noodles is everyone's absolute favourite! Here is a fuss-free,easy recipe you can try, to make egg noodles at home.",
+        ingredients: [
+          "1 packet noodles",
           "2 Egg",
           "1 Carrot",
           "1 Capsicum",
@@ -7514,14 +7880,17 @@ export const Data = [
           "1/2 tsp ketchup",
           "1 tsp chilli sauceto taste salt",
           "Black pepper powder (as required)",
-          "for garnishing spring onions"],
-        steps: ["1.Take water in a pan, add salt and noodles and let it boil for 5-6 minutes on medium flame.",
+          "for garnishing spring onions",
+        ],
+        steps: [
+          "1.Take water in a pan, add salt and noodles and let it boil for 5-6 minutes on medium flame.",
           "2.Strain the noodles and add 1 tsp oil, mix it well and keep it aside for 10-15 minutes.",
           "3.Break the eggs in a bowl. Add salt and black pepper powder. Mix it well.",
           "4.Make an omelette and cut it into small pieces. You can also make scrambled eggs in the same wok you would use to make noodles.",
           "5.To make noodles, add oil in a wok along with all the vegetables and stir fry them on high flame for 2-3 minutes.",
           "6.Add boiled noodles, vinegar, soya sauce, salt, black pepper, ketchup and chilli sauce to it. Mix everything and cook for about 2 minutes.",
-          "7.Now add the cooked egg and spring onions. Stir it well and cook for another minute. Serve hot."],
+          "7.Now add the cooked egg and spring onions. Stir it well and cook for another minute. Serve hot.",
+        ],
       },
       {
         subid: 11,
@@ -7531,8 +7900,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description: "About Mango and Blueberry Muffins Recipe: Love crumbly muffins and equally adore gorging on luscious mangoes? Here we have the perfect recipe for you! Mango muffins with the tinge of blueberries make for an irresistible treat that will be loved by kids and adults alike.",
-        ingredients: ["200 gms maida",
+        description:
+          "About Mango and Blueberry Muffins Recipe: Love crumbly muffins and equally adore gorging on luscious mangoes? Here we have the perfect recipe for you! Mango muffins with the tinge of blueberries make for an irresistible treat that will be loved by kids and adults alike.",
+        ingredients: [
+          "200 gms maida",
           "60 gms sugar",
           "60 gms brown sugar",
           "15 gms salt",
@@ -7542,17 +7913,19 @@ export const Data = [
           "20 ml buttermilk",
           "3 ml vanilla essence",
           "225 gms alphonso mango",
-          "225 gms blueberries"],
-        steps: ["1.Preheat the oven to 425 degrees.",
+          "225 gms blueberries",
+        ],
+        steps: [
+          "1.Preheat the oven to 425 degrees.",
           "2.Line muffin tin with paper cups.Mix the flour, salt, baking powder, and sugars together in a large bowl.",
           "3.In a small bowl, add the egg, buttermilk, oil, and vanilla essence then whisk it properly.",
           "4.In a blender or food processor, purée the mango until it becomes smooth.",
           "5.Gently mix the liquid ingredients into the dry ingredients. Stir until just barely mixed.",
           "6.Fold in the mango purée until just barely mixed. Toss the blueberries with 2 tablespoons flour and gently fold in blueberries. Fill muffin cup with batter.",
           "7.Bake at 225 temp for 20-30 minutes or until they’re golden on top and an inserted skewer comes out clean.",
-          "8.Let it cool for some time in the tray itself. Now serve it."],
+          "8.Let it cool for some time in the tray itself. Now serve it.",
+        ],
       },
-
 
       {
         subid: 12,
@@ -7562,19 +7935,23 @@ export const Data = [
         preTime: "25min",
         cookTime: "25min",
         totalTime: "50min",
-        description: "About Oats Mango Smoothie: Smoothies are a popular pick during the summer season. they are wholesome, delicious and refreshing. And so are mangoes! Here is a stellar smoothie recipe with the goodness of mangoes and wholesome oats.",
-        ingredients: ["2 Alphonso mango",
+        description:
+          "About Oats Mango Smoothie: Smoothies are a popular pick during the summer season. they are wholesome, delicious and refreshing. And so are mangoes! Here is a stellar smoothie recipe with the goodness of mangoes and wholesome oats.",
+        ingredients: [
+          "2 Alphonso mango",
           "15 gms oats",
           "110 ml milk",
           "30 gms sugar or honey",
-          "160 ml yogurt5 Almonds"],
-        steps: ["1.Peel the mangoes, cut it into slices, and keep it aside.",
+          "160 ml yogurt5 Almonds",
+        ],
+        steps: [
+          "1.Peel the mangoes, cut it into slices, and keep it aside.",
           "2.Heat a saucepan with milk, add Oats, and cook for a few minute. Switch off the gas then add sugar or honey and stir well. Let it cool down completely.",
           "3.Ground the Almonds coarsely in the blender.",
           "4.Now blend the mangoes, Oats, Almond, Sugar, and Yoghurt together until it becomes smooth.",
-          "5.Put in the refrigerator for an hour and serve it chilled."],
+          "5.Put in the refrigerator for an hour and serve it chilled.",
+        ],
       },
-
 
       {
         subid: 13,
@@ -7584,17 +7961,21 @@ export const Data = [
         preTime: " 10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "About Litchi Spinach Smoothie Recipe: A wholesome smoothie recipe with the goodness o spinach, crunchy almonds and litchis. This smoothie is perect for quick breakfast fix for energy and is incredibly delicious with scoops of ice cream on top!",
-        ingredients: ["6 Litchi",
+        description:
+          "About Litchi Spinach Smoothie Recipe: A wholesome smoothie recipe with the goodness o spinach, crunchy almonds and litchis. This smoothie is perect for quick breakfast fix for energy and is incredibly delicious with scoops of ice cream on top!",
+        ingredients: [
+          "6 Litchi",
           "2 cups fresh baby spinach",
           "2 scoops Vanilla ice cream",
           "20 gms jaggery",
-          "5 gram almonds, finely chopped"],
-        steps: ["1.Place litchi, spinach, vanilla ice cream and jaggery into a high speed blender.",
+          "5 gram almonds, finely chopped",
+        ],
+        steps: [
+          "1.Place litchi, spinach, vanilla ice cream and jaggery into a high speed blender.",
           "2.Blend them properly until smooth.",
-          "3.Serve immediately and garnish it with chopped almonds."],
+          "3.Serve immediately and garnish it with chopped almonds.",
+        ],
       },
-
 
       {
         subid: 14,
@@ -7604,20 +7985,24 @@ export const Data = [
         preTime: "10min",
         cookTime: "55min",
         totalTime: "65min",
-        description: "About Litchi Ginger Cooler Recipe: Here's a perfect summer beverage to quench your thirst! Litchi ginger cooler is a refreshing blend of basil leaves, ginger, litchi and jaggery syrup, that is sure to leave you drooling.",
-        ingredients: ["8 fresh litchi (deseeded), peeled",
+        description:
+          "About Litchi Ginger Cooler Recipe: Here's a perfect summer beverage to quench your thirst! Litchi ginger cooler is a refreshing blend of basil leaves, ginger, litchi and jaggery syrup, that is sure to leave you drooling.",
+        ingredients: [
+          "8 fresh litchi (deseeded), peeled",
           "3 Fresh ginger slices",
           "4 tsp fresh Thai basil leaves",
           "4 tsp fresh Thai basil leaves, chopped",
           "50 ml jaggery syrup",
           "500 ml cold drinking water",
-          "3 Ice cubes"],
-        steps: ["1.Mix litchi, thai basil leaves, jaggery syrup and cold water with the help of blender.",
+          "3 Ice cubes",
+        ],
+        steps: [
+          "1.Mix litchi, thai basil leaves, jaggery syrup and cold water with the help of blender.",
           "2.Crush the ginger slices a little and add it to the drink.",
           "3.Keep it in the refrigerator for an hour.",
-          "4.After this add 3 ice cubes in the glass then put garnish with chopped thai basil leaves. It’s ready to be served now."],
+          "4.After this add 3 ice cubes in the glass then put garnish with chopped thai basil leaves. It’s ready to be served now.",
+        ],
       },
-
 
       {
         subid: 15,
@@ -7627,9 +8012,13 @@ export const Data = [
         preTime: "10min",
         cookTime: "75min",
         totalTime: "85min",
-        description: "About Chocolate Chip Cookies Recipe: Soft, fluffy and simply delicious, chocolate chip cookies are a delight to munch on. Here's a simple recipe to bake irresistible cookies at home!",
-        ingredients: ["2 1/4 all purpose flour1 tsp baking soda1/2 tsp salt½ cup/ 1 stick plus 2 tbsp unsalted butter at room temperature3/4 cup granulated sugar3/4 cup light brown sugar2 Eggs3/4 tsp vanilla extract2 cups semi sweet chocolate chips or high quality chocolate chunks from a bar"],
-        steps: ["1.In a small bowl, whisk together the flour, baking soda and salt. Set aside.",
+        description:
+          "About Chocolate Chip Cookies Recipe: Soft, fluffy and simply delicious, chocolate chip cookies are a delight to munch on. Here's a simple recipe to bake irresistible cookies at home!",
+        ingredients: [
+          "2 1/4 all purpose flour1 tsp baking soda1/2 tsp salt½ cup/ 1 stick plus 2 tbsp unsalted butter at room temperature3/4 cup granulated sugar3/4 cup light brown sugar2 Eggs3/4 tsp vanilla extract2 cups semi sweet chocolate chips or high quality chocolate chunks from a bar",
+        ],
+        steps: [
+          "1.In a small bowl, whisk together the flour, baking soda and salt. Set aside.",
           "2.In a stand mixer with the paddle, cream the butter and both sugars for 2 minutes on medium speed.",
           "3.Scrape down the sides and bottom of the bowl and continue beating until light and fluffy, 2 to 4 minutes. Scrape down the sides and bottom of the bowl again.",
           "4.Add the eggs, one at a time, mixing well after each addition. Beat in the vanilla. Scrape down the sides and bottom of the bowl.",
@@ -7638,9 +8027,9 @@ export const Data = [
           "7.Use one ounce cookie scoop to portion the dough into 24 balls. Place on a baking sheet and chill for at least 30 minutes and upto 24 hours.",
           "8.When ready to bake, preheat the oven to 325° F. Line a baking sheet with parchment paper.",
           "9.Remove the cookies from the refrigerator and let sit at room temperature for about 10 minutes. Arrange 12 cookies evenly spaced on the baking sheet. Gently press the dough balls to flatten slightly.",
-          "10.Bake for 10 to 12 minutes of until lightly golden brown. Let the coookies sit on the pan for 5 minutes, then transfer them to a cooling rack to cool completely."],
+          "10.Bake for 10 to 12 minutes of until lightly golden brown. Let the coookies sit on the pan for 5 minutes, then transfer them to a cooling rack to cool completely.",
+        ],
       },
-
 
       {
         subid: 16,
@@ -7650,19 +8039,23 @@ export const Data = [
         preTime: "10min",
         cookTime: "25min",
         totalTime: "35min",
-        description: "About Sable Viennois Recipe: Cookies so good you wouldn't be able to resist! Creamy goodness of butter, icing sugar, egg and flour, baked to perfection!",
-        ingredients: ["225 gms butter",
+        description:
+          "About Sable Viennois Recipe: Cookies so good you wouldn't be able to resist! Creamy goodness of butter, icing sugar, egg and flour, baked to perfection!",
+        ingredients: [
+          "225 gms butter",
           "90 gms icing sugar",
           "36 gms egg whites",
           "270 gms flour",
           "2 gms salt",
-          "2 drops vanilla essence"],
-        steps: ["1.Cream butter and sugar until light and fluffy.",
+          "2 drops vanilla essence",
+        ],
+        steps: [
+          "1.Cream butter and sugar until light and fluffy.",
           "2.Slowly add in egg whites and vanilla essence.",
           "3.Sift flour and salt and gently fold into mixture.",
-          "4.Pipe and bake at 180°C for 12 minutes, depending on size."],
+          "4.Pipe and bake at 180°C for 12 minutes, depending on size.",
+        ],
       },
-
 
       {
         subid: 17,
@@ -7672,8 +8065,10 @@ export const Data = [
         preTime: "25min",
         cookTime: "55min",
         totalTime: "80min",
-        description: "About Beyond The Ozone Recipe: A delectable cake with the goodness of mango ad vanilla! A mango cheesecake with a vanilla sponge top and mango filling inside is mouth-watering enough to give a try.",
-        ingredients: ["For vanilla sponge:",
+        description:
+          "About Beyond The Ozone Recipe: A delectable cake with the goodness of mango ad vanilla! A mango cheesecake with a vanilla sponge top and mango filling inside is mouth-watering enough to give a try.",
+        ingredients: [
+          "For vanilla sponge:",
           "195 gms all purpose flour",
           "30 gms cornstarch",
           "1/4 tsp salt",
@@ -7696,8 +8091,10 @@ export const Data = [
           "For yellow chocolate spray:",
           "20 gms white chocolate",
           "20 gms cocoa butter",
-          "1 gms yellow food colour"],
-        steps: ["Prepare vanilla sponge:1.Pre heat oven to 190 ° C.",
+          "1 gms yellow food colour",
+        ],
+        steps: [
+          "Prepare vanilla sponge:1.Pre heat oven to 190 ° C.",
           "2.Sieve all dry ingredients in one bowl. Give it a quick mix.",
           "3.Mix all wet ingredients in another bowl",
           "4.Now pour wet ingredients to dry ones and whip it until no lumps, do not over mix.",
@@ -7713,9 +8110,9 @@ export const Data = [
           "1.Pipe in the mango cheesecake in half way and set it in refrigerator.",
           "2.Spoon the mango filling in between of the cheese cake mix which is half set.",
           "3.Pipe the mango cheesecake till the top; lay the vanilla sponge at the top and set it in the freezer till it is rock hard. ",
-          "4.Demould it and spray the yellow chocolate spray on top and place a desired chocolate garnish."],
+          "4.Demould it and spray the yellow chocolate spray on top and place a desired chocolate garnish.",
+        ],
       },
-
 
       {
         subid: 18,
@@ -7725,8 +8122,10 @@ export const Data = [
         preTime: "15min",
         cookTime: "40min",
         totalTime: "55min",
-        description: "About Lemon Poppy Seed Cake Recipe: When Easter is around the corner, there is no better way to dive into the spirit of the festival than indulging in some Easter special treats like this lemon poppy seed bundt cake. It is a scrumptious bake packed with tarty lemon syrup and whip cream and chocolate on top.",
-        ingredients: ["150 gms plain flour",
+        description:
+          "About Lemon Poppy Seed Cake Recipe: When Easter is around the corner, there is no better way to dive into the spirit of the festival than indulging in some Easter special treats like this lemon poppy seed bundt cake. It is a scrumptious bake packed with tarty lemon syrup and whip cream and chocolate on top.",
+        ingredients: [
+          "150 gms plain flour",
           "1 tsp baking powder",
           "1/2 tsp salt",
           "160 gram castor sugar",
@@ -7740,14 +8139,16 @@ export const Data = [
           "To serve:",
           "50 gms lemon syrup",
           "20 gms whip cream",
-          "20 gms fresh berry"],
-        steps: ["1.Sift the flour, baking powder, salt and baking soda into a large bowl.",
+          "20 gms fresh berry",
+        ],
+        steps: [
+          "1.Sift the flour, baking powder, salt and baking soda into a large bowl.",
           "2.In a separate bowl or jug cream the butter and sugar together and add egg slowly, add all the dry ingredient and then add lemon juice and candy.",
           "3.Pour the mixture in desire cake ring, bake at 180 C for 25 to 30 minutes. After baking, pour lemon syrup on cake.",
           "4.Serve with fresh berry.",
-          "5.Serve warm cake with cream and cake with the chocolate syrup."],
+          "5.Serve warm cake with cream and cake with the chocolate syrup.",
+        ],
       },
-
 
       {
         subid: 19,
@@ -7757,8 +8158,10 @@ export const Data = [
         preTime: "15min",
         cookTime: "35min",
         totalTime: "50min",
-        description: "About Carrot Cake Recipe: An easy, quick and absolutely delectable cake recipe. Grated carrot, egg, oil, sugar, walnut and cinnamon mixed together and baked to perfection. Carrot cake is usually made around the time of Easter but this carrot cake recipe is so easy that you can bake it more often at home.",
-        ingredients: ["100 gms carrot",
+        description:
+          "About Carrot Cake Recipe: An easy, quick and absolutely delectable cake recipe. Grated carrot, egg, oil, sugar, walnut and cinnamon mixed together and baked to perfection. Carrot cake is usually made around the time of Easter but this carrot cake recipe is so easy that you can bake it more often at home.",
+        ingredients: [
+          "100 gms carrot",
           "68 gms flour",
           "68 gms castor sugar",
           "1 Egg68 gms oil",
@@ -7766,26 +8169,31 @@ export const Data = [
           "2 gms baking powder",
           "2 gms salt",
           "48 gms walnut",
-          "2 gms cinnamon"],
-        steps: ["1.Grate carrot and squeeze out the excess water.",
+          "2 gms cinnamon",
+        ],
+        steps: [
+          "1.Grate carrot and squeeze out the excess water.",
           "2.Take egg, oil and sugar to mix together.",
           "3.In a large mixing bowl take all dry ingredients.",
           "4.Mix dry ingredients with wet ingredients.",
           "5.Pour the mix into a lined mould and bake at 180 C for 25-30 minutes.",
-          "6.Decorate with Easter theme garnish."],
+          "6.Decorate with Easter theme garnish.",
+        ],
       },
-
 
       {
         subid: 20,
         recipename: "Berry Parfait Hazelnut White Chocolate Sable Recipe",
-        imgfile: "../images/kidrecipes/Berry Parfait Hazelnut White Chocolate Sable Recipe.jpg",
+        imgfile:
+          "../images/kidrecipes/Berry Parfait Hazelnut White Chocolate Sable Recipe.jpg",
         recipieServe: "2",
         preTime: "15min",
         cookTime: "105min",
         totalTime: "120min",
-        description: "About Berry Parfait Hazelnut White Chocolate Sable Recipe: A delectable frozen dessert of parfait packed with the delicious berries, served with hazelnut crumble made of white chocolate, cocoa and puffed rice. Topped with warm flexy berry of raspberry and pectin, this sweet spread would be the perfect dessert to prepare for the special someone this valentines day!",
-        ingredients: ["For berry parfait:",
+        description:
+          "About Berry Parfait Hazelnut White Chocolate Sable Recipe: A delectable frozen dessert of parfait packed with the delicious berries, served with hazelnut crumble made of white chocolate, cocoa and puffed rice. Topped with warm flexy berry of raspberry and pectin, this sweet spread would be the perfect dessert to prepare for the special someone this valentines day!",
+        ingredients: [
+          "For berry parfait:",
           "12 nos egg yolk",
           "110 gms caster sugar",
           "300 gms berry puree",
@@ -7806,8 +8214,10 @@ export const Data = [
           "500 gms raspberry puree",
           "150 gms sugar",
           "60 gms liquid glucose",
-          "4 gms pectin"],
-        steps: ["Prepare Berry Parfait:",
+          "4 gms pectin",
+        ],
+        steps: [
+          "Prepare Berry Parfait:",
           "1.Boil the sugar with little water till 120 C, beat the egg yolk and add the sugar syrup slowly and make a soft peak texture.",
           "2.Add berry puree, cream cheese and finally add double cream. Pour it in a mould and freeze overnight.",
           "Prepare Hazelnut Streusel:",
@@ -7816,21 +8226,21 @@ export const Data = [
           "1.Mix everything together and put it in the desired mould and press with a flat bottom tool. Keep it in the refrigerator until ready to use.",
           "Prepare Flexy Berry:",
           "1.Heat the berry puree, 100 gms of sugar and glucose in a heavy bottom pan, once it reach 60*C add the remaining sugar and pectin and cook well.",
-          "2.Spread it on a silipat and keep in the oven for 12 minutes at 140 C."],
+          "2.Spread it on a silipat and keep in the oven for 12 minutes at 140 C.",
+        ],
       },
-
-    ]
+    ],
   },
 
   // 13
   {
     id: 13,
-    imgsrc: "../images/winterRecipies/Chukandar Ka Halwa With Vanilla Ice Cream Recipe.jpg",
+    imgsrc:
+      "../images/winterRecipies/Chukandar Ka Halwa With Vanilla Ice Cream Recipe.jpg",
     name: "Winter Recipies",
-    link: "/winterRecipies",
+    link: "/recipes/winterRecipies",
     info: "I hope this collection of winter recipes, helps you in making menu choices during the winter season. Stay warm and stay healthy.",
     recipies: [
-
       {
         subid: 1,
         recipename: "Sujeonggwa Recipe",
@@ -7839,41 +8249,52 @@ export const Data = [
         preTime: "25min",
         cookTime: "25min",
         totalTime: "50min",
-        description: " Sujeonggwa is one of the many unique dishes in South Korea - it’s a ginger cinnamon tea that is served cold and is often taken as a dessert. This tea or punch is popular for festivities, such as New Year, but you’ll also find it on the menu at many Korean restaurants as a dessert since it aids digestion.",
-        ingredients: ["30 gms fresh ginger (giving around 1/4 cup/ 27g thin strips once peeled)",
+        description:
+          " Sujeonggwa is one of the many unique dishes in South Korea - it’s a ginger cinnamon tea that is served cold and is often taken as a dessert. This tea or punch is popular for festivities, such as New Year, but you’ll also find it on the menu at many Korean restaurants as a dessert since it aids digestion.",
+        ingredients: [
+          "30 gms fresh ginger (giving around 1/4 cup/ 27g thin strips once peeled)",
           "2 Cinnamon sticks",
           "900 ml water",
           "90 gms sugar",
           "2 Dried persimmon (if available",
-          "12 Pine nuts (to serve)"],
-        steps: ["1.Peel the ginger and cut into thin strips. Place the ginger and cinnamon sticks in a pot with the water and bring to a boil.",
+          "12 Pine nuts (to serve)",
+        ],
+        steps: [
+          "1.Peel the ginger and cut into thin strips. Place the ginger and cinnamon sticks in a pot with the water and bring to a boil.",
           "2.Once boiling, cover and reduce the heat to a simmer. Continue to simmer for around 40 minutes. The cooking liquid will become a deep red-orange colour.",
           "3.Strain the ginger and cinnamon from the tea and add the sugar. Stir it in so that it fully dissolves. Add the dried persimmon, allow to cool to just slightly warm before refrigerating overnight.",
-          "4.Serve cold, ideally in small bowls, with some of the soaked persimmon in each bowl (either leave one whole or, cut up which is easier to eat). Top with a couple pine nuts."],
+          "4.Serve cold, ideally in small bowls, with some of the soaked persimmon in each bowl (either leave one whole or, cut up which is easier to eat). Top with a couple pine nuts.",
+        ],
       },
 
       {
         subid: 2,
         recipename: "Chukandar Ka Halwa With Vanilla Ice Cream Recipe",
-        imgfile: "../images/winterRecipies/Chukandar Ka Halwa With Vanilla Ice Cream Recipe.jpg",
+        imgfile:
+          "../images/winterRecipies/Chukandar Ka Halwa With Vanilla Ice Cream Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "5min",
         totalTime: "15min",
-        description: " Indulge in the goodness of beetroot with this delicious halwa recipe served along with vanilla ice cream. Made in pure ghee with an added crunch of cashews, this beetroot (chukandar) halwa is an absolute delight!",
-        ingredients: [" Kg beetroot, medium",
+        description:
+          " Indulge in the goodness of beetroot with this delicious halwa recipe served along with vanilla ice cream. Made in pure ghee with an added crunch of cashews, this beetroot (chukandar) halwa is an absolute delight!",
+        ingredients: [
+          " Kg beetroot, medium",
           "250 gms ghee",
           "300 gms mawa",
           "700 gms sugar",
           "100 gms cashew (broken)",
           "4 gram cardamom powder",
           "2 drops ittar",
-          "Vanilla ice cream"],
-        steps: ["1.To start, take a handi put all beetroots in it, add water and put on heat to boil. It will take a long time to turn full tender, almost half an hour or so.",
+          "Vanilla ice cream",
+        ],
+        steps: [
+          "1.To start, take a handi put all beetroots in it, add water and put on heat to boil. It will take a long time to turn full tender, almost half an hour or so.",
           "2.Then remove the beetroots from water, peel them and grate it in the same way like gajar ka halwa.",
           "3.Take a fresh kadhai, put on medium flame, add ghee, put the grated beetroot and start stirring properly. After 15-20 minutes when it becomes dry, then add sugar and start again stirring, after 5 minutes add mawa in it.",
           "4.Slow the flame and stir properly for 3-4 minutes, then add nuts like ittr, cardamom powder & cashew nuts etc and stir for a minute only and turn off the heat.",
-          "5.Beetroot halwa is ready to serve hot with vanilla ice cream."],
+          "5.Beetroot halwa is ready to serve hot with vanilla ice cream.",
+        ],
       },
 
       {
@@ -7884,8 +8305,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "30min",
         totalTime: "40min",
-        description: "A silky texture corn soup with chicken, eggs and jalapenos. This comfort bowl makes for a full lunch or dinner and is packed with nutrients.",
-        ingredients: ["5 Gram onion, chopped",
+        description:
+          "A silky texture corn soup with chicken, eggs and jalapenos. This comfort bowl makes for a full lunch or dinner and is packed with nutrients.",
+        ingredients: [
+          "5 Gram onion, chopped",
           " 1 gram garlic, chopped",
           "20 ml olive oil",
           "200 gms canned corn",
@@ -7898,62 +8321,80 @@ export const Data = [
           "1 Fried egg",
           "100 ml water",
           "1 slice toasted garlic bread",
-          "30 gms fennel pickle (optional, fresh fennel, cooked in salt, chili, sugar and vinegar)"],
-        steps: ["1.Saute onion and garlic in olive oil for 2 minutes.",
+          "30 gms fennel pickle (optional, fresh fennel, cooked in salt, chili, sugar and vinegar)",
+        ],
+        steps: [
+          "1.Saute onion and garlic in olive oil for 2 minutes.",
           "2.Add canned corn and cook for 5 minutes.",
           "3.Add salt and pepper and jalapeno brine. Add a little water and cook for another 5 minutes. Let it cool and then puree in a blender.",
           "4.Heat it up again add cream and butter along with grilled chicken slices.Garnish with a fried egg.",
-          "5.Add fennel pickle (cooked in salt, chili, sugar and vinegar). Serve it in a pasta plate with a toasted garlic bread."],
+          "5.Add fennel pickle (cooked in salt, chili, sugar and vinegar). Serve it in a pasta plate with a toasted garlic bread.",
+        ],
       },
 
       {
         subid: 4,
         recipename: "The English Garden Goblet Recipe",
-        imgfile: "../images/winterRecipies/The English Garden Goblet Recipe.jpg",
+        imgfile:
+          "../images/winterRecipies/The English Garden Goblet Recipe.jpg",
         recipieServe: "2",
         preTime: "5min",
         cookTime: "5min",
         totalTime: "10min",
-        description: "A refreshing cocktail with a perfect blend of gin. radish, rosemary and lavender, English Garden Goblet is a great spin to the classic gin and tonic.",
-        ingredients: ["60 Ml Monkey 47",
+        description:
+          "A refreshing cocktail with a perfect blend of gin. radish, rosemary and lavender, English Garden Goblet is a great spin to the classic gin and tonic.",
+        ingredients: [
+          "60 Ml Monkey 47",
           "200 ml tonic water",
           "30 ml radish and red chicory juice ( made from 10 small radish and 4 leaves of red chicory)",
           "1 radish, sliced",
           "Rosemary sprig",
-          "Lavender sprig"],
-        steps: ["1.Place the ice into a large red wine glass. Take the radishes and red chicory and extract the juice.",
-          "2.Pour the juice over the ice then slowly add the gin and tonic, give it a gentle stir and garnish with sliced radishes, rosemary sprig, lavender and a sprinkle of juniper berries."],
+          "Lavender sprig",
+        ],
+        steps: [
+          "1.Place the ice into a large red wine glass. Take the radishes and red chicory and extract the juice.",
+          "2.Pour the juice over the ice then slowly add the gin and tonic, give it a gentle stir and garnish with sliced radishes, rosemary sprig, lavender and a sprinkle of juniper berries.",
+        ],
       },
 
       {
         subid: 5,
         recipename: "Ginger And Mulethi Wali Chai Recipe",
-        imgfile: "../images/winterRecipies/Ginger And Mulethi Wali Chai Recipe.jpg",
+        imgfile:
+          "../images/winterRecipies/Ginger And Mulethi Wali Chai Recipe.jpg",
         recipieServe: "2",
         preTime: "2min",
         cookTime: "5min",
         totalTime: "7min",
-        description: "A perfect immunity booster, this ginger-mulethi tea is brimming with health benefits. A comforting tea that can come handy when dealing with cold and cough.",
-        ingredients: ["2 tsp black tea leaves",
+        description:
+          "A perfect immunity booster, this ginger-mulethi tea is brimming with health benefits. A comforting tea that can come handy when dealing with cold and cough.",
+        ingredients: [
+          "2 tsp black tea leaves",
           "2 cups water",
           "Sugar",
           "ginger, grated",
-          "Milk (optional)"],
-        steps: ["1.Take a pan and start heating water on high heat.",
+          "Milk (optional)",
+        ],
+        steps: [
+          "1.Take a pan and start heating water on high heat.",
           "2.Once the water starts boiling, add black tea leaves, sugar, mulethi, and grated ginger.",
-          "3.Keep it covered and boil it for 2 minutes and serve after straining."],
+          "3.Keep it covered and boil it for 2 minutes and serve after straining.",
+        ],
       },
 
       {
         subid: 6,
         recipename: "Hara Dana Methi Bail Gatta Curry Recipe",
-        imgfile: "../images/winterRecipies/Hara Dana Methi Bail Gatta Curry Recipe.jpg",
+        imgfile:
+          "../images/winterRecipies/Hara Dana Methi Bail Gatta Curry Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description: "A Rajasthani delight, gatta curry is a staple in the region's traditional thali. Besan balls simmered and cooked in a flavourful curry is no less than a heavenly experience!",
-        ingredients: ["For gatta:",
+        description:
+          "A Rajasthani delight, gatta curry is a staple in the region's traditional thali. Besan balls simmered and cooked in a flavourful curry is no less than a heavenly experience!",
+        ingredients: [
+          "For gatta:",
           "250 gms flour gram (besan)",
           "2 tsp red chilli powder",
           "1 tsp turmeric powder",
@@ -7971,26 +8412,32 @@ export const Data = [
           "1 ginger paste",
           "75 gms curd",
           "5 sprigs Fresh coriander leaves",
-          "to taste salt"],
-        steps: ["1.Make a tight dough using all the ingredients for gatta. Roll it in a cylindrical shape, cut into small pieces and poach in water for 20 minutes. Strain and keep aside.",
+          "to taste salt",
+        ],
+        steps: [
+          "1.Make a tight dough using all the ingredients for gatta. Roll it in a cylindrical shape, cut into small pieces and poach in water for 20 minutes. Strain and keep aside.",
           "2.Heat pure ghee and saute the sliced onions in it, till it becomes golden brown.",
           "3.Add ginger-garlic paste and saute for two minutes.",
           "4.Add red chilli powder, turmeric powder and coriander powder to it.",
           "5.Add beaten curd and continue cooking, add water and cook till oil gets separated from the gravy.",
           "6.Adjust seasoning using salt.",
-          "7.Simmer poached dumplings (gatta) in the gravy. Serve hot."],
+          "7.Simmer poached dumplings (gatta) in the gravy. Serve hot.",
+        ],
       },
 
       {
         subid: 7,
         recipename: "Murgh Kali Mirch Ka Tikka Recipe",
-        imgfile: "../images/winterRecipies/Murgh Kali Mirch Ka Tikka Recipe.jpg",
+        imgfile:
+          "../images/winterRecipies/Murgh Kali Mirch Ka Tikka Recipe.jpg",
         recipieServe: "2",
         preTime: "15min",
         cookTime: "25min",
         totalTime: "40min",
-        description: "Tikka of chicken dipped in an aromatic black peppercorn marinade, grilled in the tandoor before being finished on ‘dum’. Murgh kali mirch ka tikka is a perfect snack to give a flavourful twist to your platter.",
-        ingredients: ["For marinade:",
+        description:
+          "Tikka of chicken dipped in an aromatic black peppercorn marinade, grilled in the tandoor before being finished on ‘dum’. Murgh kali mirch ka tikka is a perfect snack to give a flavourful twist to your platter.",
+        ingredients: [
+          "For marinade:",
           "2 kg chicken tikka",
           "150 gms hung curd",
           "15 gms red chilli powder",
@@ -8005,24 +8452,30 @@ export const Data = [
           "100 ml cream",
           "50 gms coriander, chopped",
           "25 gms green chillies, chopped",
-          "for garnishing silver leaf"],
-        steps: ["1.Cream cheese and marinate chicken tikka with cheese, hung curd, salt, red chilli powder, half of the cream, cornflour and all the powdered spices.",
+          "for garnishing silver leaf",
+        ],
+        steps: [
+          "1.Cream cheese and marinate chicken tikka with cheese, hung curd, salt, red chilli powder, half of the cream, cornflour and all the powdered spices.",
           "2.Keep aside for an hour to let the chicken absorb the flavour of the ingredients.",
           "3.Skewer the chicken tikka in 8 mm skewers and cook in tandoor.",
           "4.Dum cook the chicken in the oven, sprinkle kebab masala and lemon juice.",
-          "5.Garnish it with freshly chopped coriander and serve."],
+          "5.Garnish it with freshly chopped coriander and serve.",
+        ],
       },
 
       {
         subid: 8,
         recipename: "Murgh Malai Tikka With Mint Chutney Recipe",
-        imgfile: "../images/winterRecipies/Murgh Malai Tikka With Mint Chutney Recipe.jpg",
+        imgfile:
+          "../images/winterRecipies/Murgh Malai Tikka With Mint Chutney Recipe.jpg",
         recipieServe: "2",
         preTime: "30min",
         cookTime: "25min",
         totalTime: "55min",
-        description: "A quintessential north Indian snack, this chicken malai tikka by Elior India is perfect to cook at home for a snack party with your family. Brimming with tantalising flavours, you simply can't miss this ",
-        ingredients: ["150 gms chicken breast",
+        description:
+          "A quintessential north Indian snack, this chicken malai tikka by Elior India is perfect to cook at home for a snack party with your family. Brimming with tantalising flavours, you simply can't miss this ",
+        ingredients: [
+          "150 gms chicken breast",
           "25 gms ginger and garlic paste",
           "10 gms chilli",
           "10 gms coriander",
@@ -8035,8 +8488,10 @@ export const Data = [
           "1 ml ghee",
           "to taste salt",
           "10 ml oil",
-          "25 gms bhel"],
-        steps: ["For marination:",
+          "25 gms bhel",
+        ],
+        steps: [
+          "For marination:",
           "1.Marinate the chicken in the lemon, garlic and ginger paste for 30 minutes.",
           "2.In a separate bowl mix together the hung curd, cream and whisk well so that there should be no lumps.",
           "3.Now add the mix to the chicken and marinate for few hours or preferably overnight.",
@@ -8048,7 +8503,8 @@ export const Data = [
           "1.Take garlic, chili, ginger, sugar, and salt in a small chutney jar of a grinder.",
           "2.Grind them until medium coarse consistency.",
           "3.Add coriander leaves, mint leaves, lemon juice and 1 tbsp. of water.",
-          "4.Grind until the smooth texture."],
+          "4.Grind until the smooth texture.",
+        ],
       },
 
       {
@@ -8059,8 +8515,10 @@ export const Data = [
         preTime: "15min",
         cookTime: "40min",
         totalTime: "55min",
-        description: "A stellar starter recipe for your next dinner party, these lamb seekh kebabs are succulent, juicy and exttremely flavourful.",
-        ingredients: ["220 gms lamb leg (boneless)",
+        description:
+          "A stellar starter recipe for your next dinner party, these lamb seekh kebabs are succulent, juicy and exttremely flavourful.",
+        ingredients: [
+          "220 gms lamb leg (boneless)",
           "15 gms kidney fat",
           "20 gms brown onion",
           "10 gms ginger",
@@ -8070,8 +8528,10 @@ export const Data = [
           "5 gram red chilli powder",
           "5 gms garam masala",
           "5 gram salt",
-          "20 gms ghee"],
-        steps: ["1.Dry the lamb trimmings using clean washed cotton clothes.",
+          "20 gms ghee",
+        ],
+        steps: [
+          "1.Dry the lamb trimmings using clean washed cotton clothes.",
           "2.Wash dry and cut ginger roughly into small cubes.",
           "3.Separate garlic cloves and remove excess skin.",
           "4.Mix together all ingredients with the lamb trimmings.",
@@ -8082,7 +8542,8 @@ export const Data = [
           "3.Using the middle two fingers and the thumb press firmly onto the mince and give finger marks on the mince, this prevents the kebab from slipping from the skewer once cooked.",
           "4.Apply 3 kebabs on one skewer.",
           "5.Cook first in a medium tandoor and finish in a hot tandoor.",
-          "6.Kebabs are ready to serve."],
+          "6.Kebabs are ready to serve.",
+        ],
       },
 
       {
@@ -8093,30 +8554,35 @@ export const Data = [
         preTime: "15min",
         cookTime: "1hr 45min",
         totalTime: "2hrs",
-        description: "A hot and spicy, thick fish curry that you can easily prepare at home. Fish pieces simmered in a host of spices along with curd. Chemmeen moru curry is just the right dish to prepare for a dinner party and relish with friends and family.",
-        ingredients: ["1 Kg fish (mackerel)",
-        "3/4 cup curd",
-        "5 onion, chopped",
-        "1 green chilli, sliced",
-        "curry leaves",
-        "To grind:1/2 cup coconut",
-        "1/2 tsp cumin seeds",
-        "1/4 tsp fennel seeds",
-        "2 1/2 tsp red chilli powder",
-        "1/2 tsp turmeric powder",
-        "A small piece of ginger",
-        "To temper:1 tsp oil",
-        "1 small onion, sliced",
-        "Curry leaves"],
-        steps: ["1.Grind the ingredients listed to a smooth paste.",
-        "2.In a pan, add chopped small onion, green chilli and curry leaves. Add little water and salt.",
-        "3.Cover and cook in medium flame till the onion becomes soft and transparent.",
-        "4.Add the prepared paste. Mix everything well.",
-        "5.Add 1 to 1 1/2 cups of water. Cover and let it boil.",
-        "6.Now add the fish pieces. Simmer the flame and cook till the fish pieces are cooked well and gravy is thick enough. Finally, add curd. Mix very carefully",
-        "7.Switch off the flame before the gravy starts to boil.",
-        "8.Now in another pan, heat 1 tsp. oil. Add sliced small onion and curry leaves. Let the onions become brown. Add this to the fish curry.",
-        "9.Serve hot."],
+        description:
+          "A hot and spicy, thick fish curry that you can easily prepare at home. Fish pieces simmered in a host of spices along with curd. Chemmeen moru curry is just the right dish to prepare for a dinner party and relish with friends and family.",
+        ingredients: [
+          "1 Kg fish (mackerel)",
+          "3/4 cup curd",
+          "5 onion, chopped",
+          "1 green chilli, sliced",
+          "curry leaves",
+          "To grind:1/2 cup coconut",
+          "1/2 tsp cumin seeds",
+          "1/4 tsp fennel seeds",
+          "2 1/2 tsp red chilli powder",
+          "1/2 tsp turmeric powder",
+          "A small piece of ginger",
+          "To temper:1 tsp oil",
+          "1 small onion, sliced",
+          "Curry leaves",
+        ],
+        steps: [
+          "1.Grind the ingredients listed to a smooth paste.",
+          "2.In a pan, add chopped small onion, green chilli and curry leaves. Add little water and salt.",
+          "3.Cover and cook in medium flame till the onion becomes soft and transparent.",
+          "4.Add the prepared paste. Mix everything well.",
+          "5.Add 1 to 1 1/2 cups of water. Cover and let it boil.",
+          "6.Now add the fish pieces. Simmer the flame and cook till the fish pieces are cooked well and gravy is thick enough. Finally, add curd. Mix very carefully",
+          "7.Switch off the flame before the gravy starts to boil.",
+          "8.Now in another pan, heat 1 tsp. oil. Add sliced small onion and curry leaves. Let the onions become brown. Add this to the fish curry.",
+          "9.Serve hot.",
+        ],
       },
 
       {
@@ -8127,8 +8593,10 @@ export const Data = [
         preTime: "20min",
         cookTime: "25min",
         totalTime: "45min",
-        description: "An absolutely flavourful fish recipe for all those who love to dive into succulent spicy pomfret. And what's better than an Andhra style pomfret recipe that you can prepare at home too? Here is a quick and super easy pan fried pomfret packed with a host of spices and a tang of lime along with a crispy crust and succulent inside.",
-        ingredients: ["300 gms white pomfret fish",
+        description:
+          "An absolutely flavourful fish recipe for all those who love to dive into succulent spicy pomfret. And what's better than an Andhra style pomfret recipe that you can prepare at home too? Here is a quick and super easy pan fried pomfret packed with a host of spices and a tang of lime along with a crispy crust and succulent inside.",
+        ingredients: [
+          "300 gms white pomfret fish",
           "3 tsp sunflower refined ooil",
           "1 tsp red chilli powder",
           "1 tsp salt",
@@ -8140,25 +8608,30 @@ export const Data = [
           "1 tsp garam masala",
           "2 Green chilli",
           "1 gram curry leaves",
-          "2 gram coriander, chopped"],
-        steps: ["1.Wash and clean the pomfret fish and make gashes on both sides of the skin.",
+          "2 gram coriander, chopped",
+        ],
+        steps: [
+          "1.Wash and clean the pomfret fish and make gashes on both sides of the skin.",
           "2.Apply the masala paste on the fish making sure to push the masala inside the gashes. Let it marinate for about 20 minutes.",
           "3.Heat vegetable oil in a non-stick pan until really hot. When the oil is hot, gently place the pomfret and fry for 1-2 minutes on one side.",
           "4.After 2 minutes, carefully flip the fish and cook on the other side for another 1-2 minutes.",
-          "5.Remove from non-stick pan. Squeeze some lemon juice, red chilli powder, fresh coriander and fried curry leaves on the fish and serve hot alongside some sliced onion rings and lemon wedges."],
+          "5.Remove from non-stick pan. Squeeze some lemon juice, red chilli powder, fresh coriander and fried curry leaves on the fish and serve hot alongside some sliced onion rings and lemon wedges.",
+        ],
       },
-
 
       {
         subid: 12,
         recipename: "Ghee Roast Chicken Dosa Quesadilla Recipe",
-        imgfile: "../images/winterRecipies/Ghee Roast Chicken Dosa Quesadilla Recipe.jpg",
+        imgfile:
+          "../images/winterRecipies/Ghee Roast Chicken Dosa Quesadilla Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "45min",
         totalTime: "55min",
-        description: "A spicy take on the Mexican quesadilla and the South Indian masala dosa. A mouth-watering blend you just cannot miss straight from the kitchen of ibis. The flavours in this dish bring out the best of both cuisines and is perfect to prepare for a Sunday brunch with family.",
-        ingredients: ["For ghee roast:",
+        description:
+          "A spicy take on the Mexican quesadilla and the South Indian masala dosa. A mouth-watering blend you just cannot miss straight from the kitchen of ibis. The flavours in this dish bring out the best of both cuisines and is perfect to prepare for a Sunday brunch with family.",
+        ingredients: [
+          "For ghee roast:",
           "125 gms dry red chillies",
           "30 gms coriander seeds",
           "15 gms cumin seeds",
@@ -8193,8 +8666,10 @@ export const Data = [
           "to taste zeera powder",
           "A pinch of sugar",
           "red chilli powder",
-          "How to Make Ghee Roast Chicken Dosa "],
-        steps: ["Prepare ghee roast masala:",
+          "How to Make Ghee Roast Chicken Dosa ",
+        ],
+        steps: [
+          "Prepare ghee roast masala:",
           "1.Gently roast the whole masalas given in the ingredients for ghee roast in a pan on a slow flame, till aromatic and allow to cool. Roast them separately.",
           "2.After cooling them, mix and powder them.",
           "3.Mix in the powder masala, add in the garlic and continue to powder till done.",
@@ -8215,7 +8690,8 @@ export const Data = [
           "2.Cut into three or more bite sized triangles and serve hot with curry leaf dip.",
           "3.Continue for the other three dosa quesadillas as well.",
           "Prepare curry leaves dip:",
-          "1.Mix all the ingredients for curry leaves dip together and chill."],
+          "1.Mix all the ingredients for curry leaves dip together and chill.",
+        ],
       },
 
       {
@@ -8226,8 +8702,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "45min",
         totalTime: "55min",
-        description: " Relish a delectable mutton preparation cooked in a traditional Lucknowi dum style. Straight from the kitchens of Srinagar, comes a mouth-watering delicacy to prepare on the festivities of Ramadan. Mutton cooked in dum along with a myriad of spices and herbs, serve with sheermal or paratha for a hearty meal.",
-        ingredients: ["1 Kg mutton",
+        description:
+          " Relish a delectable mutton preparation cooked in a traditional Lucknowi dum style. Straight from the kitchens of Srinagar, comes a mouth-watering delicacy to prepare on the festivities of Ramadan. Mutton cooked in dum along with a myriad of spices and herbs, serve with sheermal or paratha for a hearty meal.",
+        ingredients: [
+          "1 Kg mutton",
           "2 tbsp refined oil",
           "3-4 Green cardamom",
           "1 tsp whole cinnamon",
@@ -8249,8 +8727,10 @@ export const Data = [
           "Few drops of ittar",
           "Wheat dough (for dum)",
           "for garnishing fresh coriander",
-          "for garnishing ginger, julienne"],
-        steps: ["1.Heat oil in a pan and add green cardamom, cinnamon, cloves, black cardamom and bay leaves.",
+          "for garnishing ginger, julienne",
+        ],
+        steps: [
+          "1.Heat oil in a pan and add green cardamom, cinnamon, cloves, black cardamom and bay leaves.",
           "2.Add the meat and saute till lightly fried.",
           "3.Add salt and turmeric and mix well.",
           "4.Pour in the water, cover the pan and cook.",
@@ -8272,8 +8752,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "50min",
         totalTime: "60min",
-        description: "Slow cooked lamb, barley loads of garlic and pepper wrapped in whole wheat flour and baked in the oven. Lamb barley pot is a delectable dish to prepare for a dinner party.",
-        ingredients: ["100 gms pot barley",
+        description:
+          "Slow cooked lamb, barley loads of garlic and pepper wrapped in whole wheat flour and baked in the oven. Lamb barley pot is a delectable dish to prepare for a dinner party.",
+        ingredients: [
+          "100 gms pot barley",
           "3 medium onions",
           "worcestershire sauce",
           "chilli flakes",
@@ -8282,15 +8764,17 @@ export const Data = [
           "8 Thick neck of lamb chops",
           "water or stock (to cover)",
           "Salt",
-          "Black pepper (freshly ground)"],
-        steps: ["1.Marinate lamb in garlic, worcestershire sauce, lime, salt and pepper. Marinate overnight.",
+          "Black pepper (freshly ground)",
+        ],
+        steps: [
+          "1.Marinate lamb in garlic, worcestershire sauce, lime, salt and pepper. Marinate overnight.",
           "2.Roast the lamb in the oven for about 20 minutes at 350.",
           "3.Add the mutton to an oven friendly dish. Add boiled barley, mustard seeds, chili flakes, onions and a mix of Indian spices to the dish.",
           "4.Cover the dish with a thin sheet of rolled out flour.",
           "5.Bake in the oven for 15 minutes at 350.",
-          "6.Serve hot."],
+          "6.Serve hot.",
+        ],
       },
-
 
       {
         subid: 15,
@@ -8300,8 +8784,10 @@ export const Data = [
         preTime: "15min",
         cookTime: "35min",
         totalTime: "50min",
-        description: " Succulent lamb balls sauteed together with flavourful spices such as kasturi methi, deggi mirch, cardamom and saunf powder. Hokh Hund Mutton Kofte is a traditional Kashmiri dish coming to you directly from the kitchen of ITC, makes for a perfect main course dish at your next dinner party.",
-        ingredients: ["80 gms boiled sun dried leaves",
+        description:
+          " Succulent lamb balls sauteed together with flavourful spices such as kasturi methi, deggi mirch, cardamom and saunf powder. Hokh Hund Mutton Kofte is a traditional Kashmiri dish coming to you directly from the kitchen of ITC, makes for a perfect main course dish at your next dinner party.",
+        ingredients: [
+          "80 gms boiled sun dried leaves",
           "4-5 pcs lamb balls (boiled and deep fried)",
           "1 cup sliced onion , small",
           "1 tsp garlic, chopped",
@@ -8314,23 +8800,29 @@ export const Data = [
           "1/2 tsp turmeric powder",
           "As per taste salt",
           "70 ml mustard oil",
-          "1 tbsp desi ghee"],
-        steps: ["1.Keep the all ingredients ready.",
+          "1 tbsp desi ghee",
+        ],
+        steps: [
+          "1.Keep the all ingredients ready.",
           "2.In a pan first pour mustard oil, then all whole spices followed by chopped onion, garlic and lamb balls along with rest of the spices.",
           "3.Now add sun dried leaves and cook together.",
-          "4.Finally add desi ghee and serve, garnished with chopped coriander."],
+          "4.Finally add desi ghee and serve, garnished with chopped coriander.",
+        ],
       },
 
       {
         subid: 16,
         recipename: "Garlic and Pinenut Soup With Burnt Butter Essence Recipe",
-        imgfile: "../images/winterRecipies/Garlic and Pinenut Soup With Burnt Butter Essence Recipe.jpg",
+        imgfile:
+          "../images/winterRecipies/Garlic and Pinenut Soup With Burnt Butter Essence Recipe.jpg",
         recipieServe: "2",
         preTime: "10min",
         cookTime: "35min",
         totalTime: "45min",
-        description: "A light and comforting soup recipe, packed with pureed, roasted garlic and almonds mixed with chicken broth and white wine. It is served hot with bread croutons and burnt better. Perfect to warm up in winters with your loved ones.",
-        ingredients: ["10 Garlic cloves",
+        description:
+          "A light and comforting soup recipe, packed with pureed, roasted garlic and almonds mixed with chicken broth and white wine. It is served hot with bread croutons and burnt better. Perfect to warm up in winters with your loved ones.",
+        ingredients: [
+          "10 Garlic cloves",
           "5 Almonds (whole)",
           "15 gms parsley",
           "1 Bayleaf",
@@ -8344,7 +8836,8 @@ export const Data = [
           "A pinch of pepper",
           "30 ml white wine",
         ],
-        steps: ["1.Peel garlic cloves and blanch them.",
+        steps: [
+          "1.Peel garlic cloves and blanch them.",
           "2.Add white wine, salt and butter. Roast it for 20 minutes at 140 C.",
           "3.Blanch almonds, remove their skin and roast them.",
           "4.Make puree of roasted garlic and almonds.",
@@ -8354,9 +8847,9 @@ export const Data = [
           "8.Pour the mixture into the soup. Stir to prevent the egg from curdling.",
           "9.Take the white bread to make croutons and make burnt butter.",
           "10.Remove the bouquet garni from soup and season with salt.",
-          "11.Garnish with croutons and burnt butter."],
+          "11.Garnish with croutons and burnt butter.",
+        ],
       },
-
 
       {
         subid: 17,
@@ -8366,18 +8859,23 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: " Almonds are one of the most loved nut out of all since they aren't just healthy and packed with vitamins and minerals but also serves us the best during those mid-day hunger pangs. Here is a sweet and chilli recipe with almonds coated in egg white and chilli masala, roasted to perfection. A true-blue unique recipe that you can serve your guests along with a couple of drinks.",
-        ingredients: ["1 Cup almonds whole",
+        description:
+          " Almonds are one of the most loved nut out of all since they aren't just healthy and packed with vitamins and minerals but also serves us the best during those mid-day hunger pangs. Here is a sweet and chilli recipe with almonds coated in egg white and chilli masala, roasted to perfection. A true-blue unique recipe that you can serve your guests along with a couple of drinks.",
+        ingredients: [
+          "1 Cup almonds whole",
           "1/2 egg white",
           "2 sprigs curry leaves",
           "1/2 tsp salt",
           "2 tsp sugar (fine grain)",
-          "1/2 tsp red chilli powder"],
-        steps: ["1.Place the curry leaves in a microwave and dry them completely on low heat. Crush them in a bowl and add salt, sugar, red chilli powder.",
+          "1/2 tsp red chilli powder",
+        ],
+        steps: [
+          "1.Place the curry leaves in a microwave and dry them completely on low heat. Crush them in a bowl and add salt, sugar, red chilli powder.",
           "2.Mix well. Add the egg white to the almonds, mix well. The egg white should be just enough to coat the almonds lightly.",
           "3.Now sprinkle the masala and mix well. Spread the almonds on a roasting tray.",
           "4.In a pre-heated oven cook the almonds for 10 minutes at 120c.",
-          "5.Remove and allow to cool completely. Keep in an air tight jar."],
+          "5.Remove and allow to cool completely. Keep in an air tight jar.",
+        ],
       },
 
       {
@@ -8388,8 +8886,10 @@ export const Data = [
         preTime: "15min",
         cookTime: "15min",
         totalTime: "30min",
-        description: "The perfect street snack with a nutty twist! These chicken momos are rolled in chopped almonds and steamed to perfection. Different, delicious and easy to prepare, these nutty momos are great to serve as appetizers at your next party.",
-        ingredients: ["250 gms chicken mince",
+        description:
+          "The perfect street snack with a nutty twist! These chicken momos are rolled in chopped almonds and steamed to perfection. Different, delicious and easy to prepare, these nutty momos are great to serve as appetizers at your next party.",
+        ingredients: [
+          "250 gms chicken mince",
           "1 tbsp garlic, chopped",
           "3 tbsp carrots, finely chopped",
           "3 tbsp spring onion, finely chopped",
@@ -8400,14 +8900,16 @@ export const Data = [
           "1 tsp pepper powder",
           "1 egg",
           "1/2 cup almonds (blanched), chopped",
-          "oil (for greasing)"],
-        steps: ["1.Place the chicken mince in a bowl.",
+          "oil (for greasing)",
+        ],
+        steps: [
+          "1.Place the chicken mince in a bowl.",
           "2.Add all the ingredients except almonds and divide it into equal-sized balls.",
           "3.Roll these balls in the blanched and chopped almonds and carefully place these small balls on a greased plate.",
           "4.Get the steamer ready and steam these on high heat for 15 minutes.",
-          "5.Remove and serve the momos hot."],
+          "5.Remove and serve the momos hot.",
+        ],
       },
-
 
       {
         subid: 19,
@@ -8417,8 +8919,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "15min",
         totalTime: "25min",
-        description: "A mutton dish worth every bite! Spices, chillies and herbs simmered with tender mutton chunks, makes for the perfect dinner party dish that you can serve with any Indian bread in the main course. This mutton dish would also go well with some cooked rice.",
-        ingredients: ["1 Kg meat (cut into pieces)",
+        description:
+          "A mutton dish worth every bite! Spices, chillies and herbs simmered with tender mutton chunks, makes for the perfect dinner party dish that you can serve with any Indian bread in the main course. This mutton dish would also go well with some cooked rice.",
+        ingredients: [
+          "1 Kg meat (cut into pieces)",
           "12 1/2 water",
           "1 cup pure ghee",
           "to taste salt",
@@ -8432,8 +8936,10 @@ export const Data = [
           "2 tsp dry ginger powder",
           "1 1/2 cup dry cockscomb (mawal) flowers (heated with 1 1/2 cups water, extract)",
           "1 tsp black cumin seeds",
-          "1 tsp dry mint leaves"],
-        steps: ["1.Bring the water to a boil in the pan and add the meat. Mix well and then bring the water to a boil again. Remove the pan from the heat and drain the water.",
+          "1 tsp dry mint leaves",
+        ],
+        steps: [
+          "1.Bring the water to a boil in the pan and add the meat. Mix well and then bring the water to a boil again. Remove the pan from the heat and drain the water.",
           "2.When the meat is cool, wash under cold running water and then keep aside",
           "3.In a pan, add the blanched meat, ghee, salt, garlic, green cardamoms and cloves.",
           "4.Mix well and fry until the meat is light brown in color.",
@@ -8441,9 +8947,9 @@ export const Data = [
           "6.Stir and bring the mixture to a boil. Lower the heat and cover the pan and cook until the meat is tender. Add some water if need be. Stir occasionally.",
           "7.Add the cockscomb flower extract, black cumin seeds and dry mint leaves.",
           "8.Mix well and let the mixture simmer for about 4 minutes.",
-          "9.Serve hot."],
+          "9.Serve hot.",
+        ],
       },
-
 
       {
         subid: 20,
@@ -8453,8 +8959,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "35min",
         totalTime: "45min",
-        description: "A hot and spicy, thick fish curry that you can easily prepare at home. Fish pieces simmered in a host of spices along with curd. Chemmeen moru curry is just the right dish to prepare for a dinner party and relish with friends and family.",
-        ingredients: ["1 Kg fish (mackerel)",
+        description:
+          "A hot and spicy, thick fish curry that you can easily prepare at home. Fish pieces simmered in a host of spices along with curd. Chemmeen moru curry is just the right dish to prepare for a dinner party and relish with friends and family.",
+        ingredients: [
+          "1 Kg fish (mackerel)",
           "3/4 cup curd",
           "5 onion, chopped",
           "1 green chilli, sliced",
@@ -8469,8 +8977,10 @@ export const Data = [
           "To temper:",
           "1 tsp oil",
           "1 small onion, sliced",
-          "Curry leaves"],
-        steps: ["1.Grind the ingredients listed to a smooth paste.",
+          "Curry leaves",
+        ],
+        steps: [
+          "1.Grind the ingredients listed to a smooth paste.",
           " 2.In a pan, add chopped small onion, green chilli and curry leaves. Add little water and salt.",
           "3.Cover and cook in medium flame till the onion becomes soft and transparent.",
           "4.Add the prepared paste. Mix everything well.",
@@ -8478,10 +8988,10 @@ export const Data = [
           "6.Now add the fish pieces. Simmer the flame and cook till the fish pieces are cooked well and gravy is thick enough. Finally, add curd. Mix very carefully",
           "7.Switch off the flame before the gravy starts to boil.",
           "8.Now in another pan, heat 1 tsp. oil. Add sliced small onion and curry leaves. Let the onions become brown. Add this to the fish curry.",
-          "9.Serve hot."],
+          "9.Serve hot.",
+        ],
       },
-
-    ]
+    ],
   },
 
   // 14
@@ -8489,7 +8999,7 @@ export const Data = [
     id: 14,
     imgsrc: "../images/drink/tulsi_kadha.webp",
     name: "Drink",
-    link: "/drink",
+    link: "/recipes/drink",
     info: "These non-alcoholic drink recipes are the perfect booze-free beverages too cool off with on a hot day. We promise these fruity.",
     recipies: [
       {
@@ -8500,16 +9010,21 @@ export const Data = [
         preTime: "10min",
         cookTime: "5min",
         totalTime: "15min",
-        description: "Tulsi and Haldi are two star ingredients that are enough to keep the common problems at bay, add a sweetener of your choice, and boil.",
-        ingredients: ["A handful of Tulsi leaves",
+        description:
+          "Tulsi and Haldi are two star ingredients that are enough to keep the common problems at bay, add a sweetener of your choice, and boil.",
+        ingredients: [
+          "A handful of Tulsi leaves",
           "1 tsp Turmeric powder",
           "2 tbsp Honey/jaggery",
-          "2 Water"],
-        steps: ["1.In a saucepan, add 2 cups water, and let it come to a rolling boil.",
+          "2 Water",
+        ],
+        steps: [
+          "1.In a saucepan, add 2 cups water, and let it come to a rolling boil.",
           "2.Slightly crush the tulsi leaves with your hand and add this to the boiling water.",
           "3.Add haldi and let this boil until the water has reduced a little in quantity.",
           "4.Turn off the heat and pour in mugs.",
-          "5.Add a tbsp of honey/jaggery to each mug, stir until dissolve and drink hot."],
+          "5.Add a tbsp of honey/jaggery to each mug, stir until dissolve and drink hot.",
+        ],
       },
 
       {
@@ -8520,8 +9035,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "kanji vada is a popular delicacy of Rajasthan and Gujarat. It is a chilled drink that is immersed with spicy, salty and tangy flavours.",
-        ingredients: ["1/2 Cup Moong dal",
+        description:
+          "kanji vada is a popular delicacy of Rajasthan and Gujarat. It is a chilled drink that is immersed with spicy, salty and tangy flavours.",
+        ingredients: [
+          "1/2 Cup Moong dal",
           " 1/2 cup Urad dal",
           "2 tbsp Oil",
           "2 tbsp Green Chillies",
@@ -8532,8 +9049,10 @@ export const Data = [
           "1 tbsp Turmeric powder",
           "1 tbsp Red chilli powder",
           "3 tbsp Salt",
-          "4 tbsp Yellow mustard"],
-        steps: ["1.Add the water in a sauce pan and bring it to a boil.",
+          "4 tbsp Yellow mustard",
+        ],
+        steps: [
+          "1.Add the water in a sauce pan and bring it to a boil.",
           "2.Then add salt, red chilli powder, yellow mustard powder and turmeric powder",
           "3.Mix and pour it in a large jar. Let the water brew under sun for three-four days.",
           "4.For making the vada, wash and soak moong dal and urad dal in water for 6 hours.",
@@ -8543,7 +9062,8 @@ export const Data = [
           "8.Remove the vada and let it cool for half an hour.",
           "9.Then submerge these vadas into hing and salt water for 15 minutes.",
           "10.Squeeze out the water from the vadas and when your kaanji water is ready add the vadas into it.",
-          "11.Serve in a glass and enjoy!"],
+          "11.Serve in a glass and enjoy!",
+        ],
       },
 
       {
@@ -8554,8 +9074,10 @@ export const Data = [
         preTime: "5min",
         cookTime: "5min",
         totalTime: "10min",
-        description: "About Watermelon & Dry Fruit Punch You can make this special drink on the occasion of Ramzan to impress your guests.",
-        ingredients: ["700 Ml Watermelon Juie",
+        description:
+          "About Watermelon & Dry Fruit Punch You can make this special drink on the occasion of Ramzan to impress your guests.",
+        ingredients: [
+          "700 Ml Watermelon Juie",
           "40 gram Almonds",
           "40 gram Dates",
           "40 gram Pistachio",
@@ -8563,11 +9085,14 @@ export const Data = [
           "4-5 leaves Fresh Mint",
           "3 tbsp Lemon Juice",
           "1 tbsp Black Salt",
-          "80 gram White/ Brown Sugar"],
-        steps: ["1.Take all above all ingredients in a mixture grinder.",
+          "80 gram White/ Brown Sugar",
+        ],
+        steps: [
+          "1.Take all above all ingredients in a mixture grinder.",
           "2.Grind them for 2/3 minutes",
           "3.Add 10 cubes of ice cubes.",
-          "4.Mix well and serve cold."],
+          "4.Mix well and serve cold.",
+        ],
       },
 
       {
@@ -8578,15 +9103,20 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "About Wild Zombie Virus Recipe: Indulge in this sweet and sour concotion of whte rum, strawberry and pineapple with a topping of coconut cream and egg.",
-        ingredients: ["60 Ml whte rum",
+        description:
+          "About Wild Zombie Virus Recipe: Indulge in this sweet and sour concotion of whte rum, strawberry and pineapple with a topping of coconut cream and egg.",
+        ingredients: [
+          "60 Ml whte rum",
           "10 ml lime juice",
           "60 ml pineapple juice",
           "10 ml strawberry syrup",
           "15 ml triple sec",
           "1 Egg white",
-          "15 ml coconut cream"],
-        steps: ["1.Mix all ingredients in cocktail shaker, pour in cocktail glass. Marine with coconut and egg floating"],
+          "15 ml coconut cream",
+        ],
+        steps: [
+          "1.Mix all ingredients in cocktail shaker, pour in cocktail glass. Marine with coconut and egg floating",
+        ],
       },
 
       {
@@ -8597,15 +9127,20 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "Bloody Fairy Recipe: This fiery yet refreshing mix of vodka, cranberry and tabasco makes for a perfect cocktail!",
-        ingredients: ["16 Ml vodka",
+        description:
+          "Bloody Fairy Recipe: This fiery yet refreshing mix of vodka, cranberry and tabasco makes for a perfect cocktail!",
+        ingredients: [
+          "16 Ml vodka",
           "15 ml lime juice",
           "2 dash of tabasco sauce",
           "2 dash L & P sauce",
           "1/2 tsp peri peri mix",
           "1/2 tsp table salt",
-          "90 ml cranberry juice"],
-        steps: ["1.Mix all ingredients in cocktail shaker, pour over ice in Old fashion glass. Rim the glass with peri peri mix."],
+          "90 ml cranberry juice",
+        ],
+        steps: [
+          "1.Mix all ingredients in cocktail shaker, pour over ice in Old fashion glass. Rim the glass with peri peri mix.",
+        ],
       },
 
       {
@@ -8616,17 +9151,22 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "Sujeonggwa is one of the many unique dishes in South Korea - it’s a ginger cinnamon tea that is served cold and is often taken as a dessert. This tea or punch is popular for festivities, such as New Year, but you’ll also find it on the menu at many Korean restaurants as a dessert since it aids digestion.",
-        ingredients: ["30 gms fresh ginger (giving around 1/4 cup/ 27g thin strips once peeled)",
+        description:
+          "Sujeonggwa is one of the many unique dishes in South Korea - it’s a ginger cinnamon tea that is served cold and is often taken as a dessert. This tea or punch is popular for festivities, such as New Year, but you’ll also find it on the menu at many Korean restaurants as a dessert since it aids digestion.",
+        ingredients: [
+          "30 gms fresh ginger (giving around 1/4 cup/ 27g thin strips once peeled)",
           "2 Cinnamon sticks",
           "900 ml water",
           "90 gms sugarv",
           "2 Dried persimmon (if available",
-          "12 Pine nuts (to serve)"],
-        steps: ["1.Peel the ginger and cut into thin strips. Place the ginger and cinnamon sticks in a pot with the water and bring to a boil.",
+          "12 Pine nuts (to serve)",
+        ],
+        steps: [
+          "1.Peel the ginger and cut into thin strips. Place the ginger and cinnamon sticks in a pot with the water and bring to a boil.",
           "2.Once boiling, cover and reduce the heat to a simmer. Continue to simmer for around 40 minutes. The cooking liquid will become a deep red-orange colour.",
           "3.Strain the ginger and cinnamon from the tea and add the sugar. Stir it in so that it fully dissolves. Add the dried persimmon, allow to cool to just slightly warm before refrigerating overnight.",
-          "4.Serve cold, ideally in small bowls, with some of the soaked persimmon in each bowl (either leave one whole or, cut up which is easier to eat). Top with a couple pine nuts."],
+          "4.Serve cold, ideally in small bowls, with some of the soaked persimmon in each bowl (either leave one whole or, cut up which is easier to eat). Top with a couple pine nuts.",
+        ],
       },
 
       {
@@ -8637,20 +9177,25 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "This is a Ramzan special drink, which is prepare with plum and dates. You can serve this drink to your guest.",
-        ingredients: ["200 Gram Plum",
+        description:
+          "This is a Ramzan special drink, which is prepare with plum and dates. You can serve this drink to your guest.",
+        ingredients: [
+          "200 Gram Plum",
           "100 Gram Dates",
           "80 Gram Sugar",
           "200 Ml Water",
-          "800 Ml Milk"],
-        steps: ["1.Put all above ingredients in a stainless-steel pot on medium heat and boil for 15 minutes until soft.",
+          "800 Ml Milk",
+        ],
+        steps: [
+          "1.Put all above ingredients in a stainless-steel pot on medium heat and boil for 15 minutes until soft.",
           "2.Let the syrup cool than blend the concentrate syrup is ready.",
           "3.It stays in fridge for later use.",
           "4.Boil milk and make it cool.",
           "step Two",
           "1.In a mixing bowl take milk.",
           "2.Add above Sharbat and 10/15 ice cubes in milk",
-          "3.Mix well serve cool."],
+          "3.Mix well serve cool.",
+        ],
       },
 
       {
@@ -8661,19 +9206,23 @@ export const Data = [
         preTime: "10min",
         cookTime: "5min",
         totalTime: "15min",
-        description: "This is a refreshing drink, which is made with curd, cucumber and curd. You can make this drink in few mintunes.",
-        ingredients: ["1/2 Cup curd",
+        description:
+          "This is a refreshing drink, which is made with curd, cucumber and curd. You can make this drink in few mintunes.",
+        ingredients: [
+          "1/2 Cup curd",
           "1-1.5 cup water",
           "Half cucumber, grated/finely chopped",
           "8-10 fresh mint leaves",
           "to taste Black salt",
           "1/2 tsp black prepper powder",
-          "-4 ice cubes"],
-        steps: ["1.Take all the ingredients (except ice cubes) in a blender and blend until forthy.",
+          "-4 ice cubes",
+        ],
+        steps: [
+          "1.Take all the ingredients (except ice cubes) in a blender and blend until forthy.",
           "2.Transfer it to a tall glass, add some ice cubes and garnish with meant leaves and finely chopped cucumber.",
-          "3.Serve cold."],
+          "3.Serve cold.",
+        ],
       },
-
 
       {
         subid: 9,
@@ -8683,22 +9232,26 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "Enjoy the Christmas festivites with this simple and delicious recipe of Christmas gluhwien or mulled wine!",
-        ingredients: ["1 Orange",
+        description:
+          "Enjoy the Christmas festivites with this simple and delicious recipe of Christmas gluhwien or mulled wine!",
+        ingredients: [
+          "1 Orange",
           "200 gms castor sugar",
           "1 Vanilla pod",
           "1 Cinnamon stick",
           "6-7 Star anise",
           "Cloves",
           "2 bottles of wine",
-          "1 Lemon"],
-        steps: ["1.Put caster sugar in a pan. Peel the orange and add the peel in to the pan along with lemon peel. When peeling, make sure you take the pith out else it will be bitter.",
+          "1 Lemon",
+        ],
+        steps: [
+          "1.Put caster sugar in a pan. Peel the orange and add the peel in to the pan along with lemon peel. When peeling, make sure you take the pith out else it will be bitter.",
           "2.Now squeeze rest of the orange juice in the pan.",
           "3.Now scrape out the seeds from nanilla pod and add it as well. Add cinnamon stick, cloves and star anise.",
           "4.Add half bottle of red wine and simmer it until the sugar dissolves and bring it to the boil to create a syrup like texture.",
-          "5.Now add rest of the 1 and half bottles of red wine, simmer it for about 5-6 minutes. You could drink it like that or add about 100ml of spiced rum or brandy. Serve and enjoy"],
+          "5.Now add rest of the 1 and half bottles of red wine, simmer it for about 5-6 minutes. You could drink it like that or add about 100ml of spiced rum or brandy. Serve and enjoy",
+        ],
       },
-
 
       {
         subid: 10,
@@ -8708,16 +9261,20 @@ export const Data = [
         preTime: "5min",
         cookTime: "15min",
         totalTime: "20min",
-        description: "Turmeric milk is something our mothers and grandmothers are familiar with, and it’s often referred to as liquid gold! With the healing and anti-inflammatory properties of turmeric, combined with the benefits of other spices, this is the perfect drink to develop immunity and stay healthy.",
-        ingredients: ["Turmeric",
+        description:
+          "Turmeric milk is something our mothers and grandmothers are familiar with, and it’s often referred to as liquid gold! With the healing and anti-inflammatory properties of turmeric, combined with the benefits of other spices, this is the perfect drink to develop immunity and stay healthy.",
+        ingredients: [
+          "Turmeric",
           "Cinnamon powder",
           "Black pepper (freshly crushed)",
-          "Milk (luke warm)"],
-        steps: ["1.Boil the milk properly and then bring it down to luke-warm state.",
+          "Milk (luke warm)",
+        ],
+        steps: [
+          "1.Boil the milk properly and then bring it down to luke-warm state.",
           "2.Add all the ingredients, mix well and leave it for infusion for 10 minutes.",
-          "3.Add sugar/ jaggery/ honey as per taste. Serve luke-warm."],
+          "3.Add sugar/ jaggery/ honey as per taste. Serve luke-warm.",
+        ],
       },
-
 
       {
         subid: 11,
@@ -8727,15 +9284,18 @@ export const Data = [
         preTime: "5min",
         cookTime: "5min",
         totalTime: "10min",
-        description: "A simple nutrient-dense smoothie recipe to keep mindless bingeing at bay. Low in calories, rich in iron, magnesium, potassium, and antioxidants, this smoothie is delicious, healthy and easy to prepare at home!",
-        ingredients: ["1/4 Cup dates",
+        description:
+          "A simple nutrient-dense smoothie recipe to keep mindless bingeing at bay. Low in calories, rich in iron, magnesium, potassium, and antioxidants, this smoothie is delicious, healthy and easy to prepare at home!",
+        ingredients: [
+          "1/4 Cup dates",
           "1 medium banana",
-          "3/4 cup almond milk"],
-        steps: ["1.Chop banana and dates into small pieces and add to a blender with almond milk.",
-          "2.Blend all the ingredients until a thick liquid consistency is reached."],
+          "3/4 cup almond milk",
+        ],
+        steps: [
+          "1.Chop banana and dates into small pieces and add to a blender with almond milk.",
+          "2.Blend all the ingredients until a thick liquid consistency is reached.",
+        ],
       },
-
-
 
       {
         subid: 12,
@@ -8745,19 +9305,23 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: " A refreshing glass of juice is perfect to start your day with. Here is a wonderful juice recipe packed with the goodness of beetroot, carrot and apple, along with tangy flavour of lemon that will not only keep you energised but also help in boosting immunity.",
-        ingredients: ["300 gms beetroot",
+        description:
+          " A refreshing glass of juice is perfect to start your day with. Here is a wonderful juice recipe packed with the goodness of beetroot, carrot and apple, along with tangy flavour of lemon that will not only keep you energised but also help in boosting immunity.",
+        ingredients: [
+          "300 gms beetroot",
           "300 gms carrot",
           "100 gms apple",
           "1/2 tsp lemon",
           "Ice cubes (for chilled and cold servings)",
-          "salt (optional, according to taste)"],
-        steps: ["1.Cut the beetroot, carrot and apple, and squeeze out the juice in a juicer.",
+          "salt (optional, according to taste)",
+        ],
+        steps: [
+          "1.Cut the beetroot, carrot and apple, and squeeze out the juice in a juicer.",
           "2.Blend it well and strain it to remove all the fibres.",
           "3.Add half a teaspoon of lemon juice and salt to taste.",
-          "4.Mix it and serve."],
+          "4.Mix it and serve.",
+        ],
       },
-
 
       {
         subid: 13,
@@ -8767,19 +9331,22 @@ export const Data = [
         preTime: "35min",
         cookTime: "25min",
         totalTime: "60min",
-        description: "A fantastic recipe to boost your immune system, bursting with vitamins A, K, C, magnesium, calcium, copper, potassium. Infuse it with dash of ginger and lime for a taste that can surprises you.",
-        ingredients: ["200 cucumber",
+        description:
+          "A fantastic recipe to boost your immune system, bursting with vitamins A, K, C, magnesium, calcium, copper, potassium. Infuse it with dash of ginger and lime for a taste that can surprises you.",
+        ingredients: [
+          "200 cucumber",
           "50 spinach leaves",
           "50 kale leaves",
           "1/4 inch piece ginger",
           "1/2 Lime",
-          "to taste rock salt"],
-        steps: ["1.Wash and clean all the ingredients.",
+          "to taste rock salt",
+        ],
+        steps: [
+          "1.Wash and clean all the ingredients.",
           "2.Keep in refrigerator for about 30 minutes, grind it nicely and take out juice.",
-          "3.Season with salt and lime."],
+          "3.Season with salt and lime.",
+        ],
       },
-
-
 
       {
         subid: 14,
@@ -8789,8 +9356,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "40min",
         totalTime: "50min",
-        description: "The festival of Holi is just around the corner and it is incomplete without some scrumptious dishes shared with your loved ones that only add to the vibrant colours of the festival. Kanji Vada is one such dish that is savoured during the festival. It is spicy drink made with spices such as asafoetida, red chilli, black salt etc, served along with vada made from moong dal. It is tangy, sweet and spicy at once and can easily be made at home.",
-        ingredients: ["2 Litre water",
+        description:
+          "The festival of Holi is just around the corner and it is incomplete without some scrumptious dishes shared with your loved ones that only add to the vibrant colours of the festival. Kanji Vada is one such dish that is savoured during the festival. It is spicy drink made with spices such as asafoetida, red chilli, black salt etc, served along with vada made from moong dal. It is tangy, sweet and spicy at once and can easily be made at home.",
+        ingredients: [
+          "2 Litre water",
           "2 pinches of asafoetida",
           "1 tsp turmeric powder",
           "1/4 tsp red chilli powder",
@@ -8801,8 +9370,10 @@ export const Data = [
           "For Vada:",
           "100 gms moong dal",
           "to taste salt",
-          "oil (for frying)"],
-        steps: ["1.Take water in a vessel and let in simmer on flame. After this let it cool down and then pour into glasses or plastic container.",
+          "oil (for frying)",
+        ],
+        steps: [
+          "1.Take water in a vessel and let in simmer on flame. After this let it cool down and then pour into glasses or plastic container.",
           "2.To it then add asafoetida, turmeric powder, red chilli powder, yellow mustard, salt, black salt and mix everything really well.",
           "3.Close the container tightly with a lid and keep aside for 3 days. Stir the kanji everyday with a clean and dry spoon.",
           "4.Kanji tastes great on the fourth day when all spices mix to the water. Tangy-zingy and yummy kanji is ready.",
@@ -8817,8 +9388,6 @@ export const Data = [
         ],
       },
 
-
-
       {
         subid: 15,
         recipename: "Valencia Fizz Recipe",
@@ -8827,18 +9396,22 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "Super refreshing mocktail recipe that is sure to keep you energized throughout the day. A mouth-watering blend of fresh Valencia oranges with lime juice and soda hence making it a rejuvenating beverage this Navratri. Made within minutes, this mocktail recipe is sure to be loved by everyone and is way healthier than the canned juices available on the market. Serve this chilled beverage to your guests this festive season and on special occasions.",
-        ingredients: ["100 Ml Valencia orange juice",
+        description:
+          "Super refreshing mocktail recipe that is sure to keep you energized throughout the day. A mouth-watering blend of fresh Valencia oranges with lime juice and soda hence making it a rejuvenating beverage this Navratri. Made within minutes, this mocktail recipe is sure to be loved by everyone and is way healthier than the canned juices available on the market. Serve this chilled beverage to your guests this festive season and on special occasions.",
+        ingredients: [
+          "100 Ml Valencia orange juice",
           "75 ml Soda",
           "1 Lemon slices",
           "2 tbsp Lemon juice",
-          "As required Sugar"],
-        steps: ["1.Take a mocktail glass and first add valencia orange juice.",
+          "As required Sugar",
+        ],
+        steps: [
+          "1.Take a mocktail glass and first add valencia orange juice.",
           "2.Add sugar and lemon juice.",
           "3.Add soda and stir it well.",
-          "4.Deck up the lemon slice on the top of the glass for better presentation."],
+          "4.Deck up the lemon slice on the top of the glass for better presentation.",
+        ],
       },
-
 
       {
         subid: 16,
@@ -8848,21 +9421,25 @@ export const Data = [
         preTime: "5min",
         cookTime: "5min",
         totalTime: "10min",
-        description: "A traditional green tea preparation, Kahwa is a winter special recipe from the valleys of Kashmir. This Kahwa recipe is a great preparation with the addition of Badaam (almonds). A natural source of many essential nutrients, including protein and healthy fats badaam makes this recipe a nutrient-rich drink that can help you keep going throughout the day.",
-        ingredients: ["2 Nos Green tea bags",
+        description:
+          "A traditional green tea preparation, Kahwa is a winter special recipe from the valleys of Kashmir. This Kahwa recipe is a great preparation with the addition of Badaam (almonds). A natural source of many essential nutrients, including protein and healthy fats badaam makes this recipe a nutrient-rich drink that can help you keep going throughout the day.",
+        ingredients: [
+          "2 Nos Green tea bags",
           "3 Tbsp Almond slivers",
           "2 Nos Cardamom",
           "1 stick Cinnamon",
           "2 Cloves",
           "4 tsp Honey",
-          "8 strands Kesar"],
-        steps: ["1.Boil 5 cups of water. Add to the boiling water cardamom, cloves, cinnamon and kesar.",
+          "8 strands Kesar",
+        ],
+        steps: [
+          "1.Boil 5 cups of water. Add to the boiling water cardamom, cloves, cinnamon and kesar.",
           "2.Gently simmer it for 3 minutes. Add honey and green tea bags.",
           "3.Remove from fire and allow to infuse for 2-3 minutes.",
           "4.Immediately remove the tea bags and the spices using a tong.",
-          "5.In cups add almond slivers and pout this hot refreshing tea."],
+          "5.In cups add almond slivers and pout this hot refreshing tea.",
+        ],
       },
-
 
       {
         subid: 17,
@@ -8872,17 +9449,21 @@ export const Data = [
         preTime: "5min",
         cookTime: "5min",
         totalTime: "10min",
-        description: "One of the best in-house cocktail, whisky infused with honey, cinnamon, star anise and cloves.",
-        ingredients: ["1 bottle Whisky",
+        description:
+          "One of the best in-house cocktail, whisky infused with honey, cinnamon, star anise and cloves.",
+        ingredients: [
+          "1 bottle Whisky",
           "Honey",
           "Cinnamon",
           "Star anise",
           "Cloves",
-          "Green apple"],
-        steps: ["1.Combine all the ingredients in a mason jar and let your whisky sit somewhere for days, weeks, even months.",
-          "2.To serve, pour 3 ounces of the cocktail into an ice-filled rock glass and stir well."],
+          "Green apple",
+        ],
+        steps: [
+          "1.Combine all the ingredients in a mason jar and let your whisky sit somewhere for days, weeks, even months.",
+          "2.To serve, pour 3 ounces of the cocktail into an ice-filled rock glass and stir well.",
+        ],
       },
-
 
       {
         subid: 18,
@@ -8892,22 +9473,26 @@ export const Data = [
         preTime: "5min",
         cookTime: "10min",
         totalTime: "15min",
-        description: "A rich creamy essence made of milk, rose syrup, rose petal ice cream, arrak and rose petals makes for a great dessert beverage. A lavish, thick rose shake is going to be your new favourite for the season.",
-        ingredients: ["2 Cups Milk (chilled)",
+        description:
+          "A rich creamy essence made of milk, rose syrup, rose petal ice cream, arrak and rose petals makes for a great dessert beverage. A lavish, thick rose shake is going to be your new favourite for the season.",
+        ingredients: [
+          "2 Cups Milk (chilled)",
           "3 Tbsp Sugar",
           "1/2 tsp Rose syrup",
           "2 scoops Rose petal ice cream",
           "20 Ml Arrak (fennel flavored Arabic drink)",
-          "For garnishing Fresh rose petals"],
-        steps: ["1.Pour milk in a jug, add sugar and mix well with rose syrup.",
+          "For garnishing Fresh rose petals",
+        ],
+        steps: [
+          "1.Pour milk in a jug, add sugar and mix well with rose syrup.",
           "2.Pour the mixture in a blender.",
           "3.Add 1 scoop of rose petal ice-cream and blend the ingredients.",
           "4.Pour the blended mixture in a serving glass, and chill for 30 minutes.",
           "5.Add a scoop of rose petal ice cream at the time of serving.",
           "6.At base of glass add Arrak and pour drink on top of it.",
-          "7.Garnish with fresh rose petals."],
+          "7.Garnish with fresh rose petals.",
+        ],
       },
-
 
       {
         subid: 19,
@@ -8917,19 +9502,24 @@ export const Data = [
         preTime: "10min",
         cookTime: "30min",
         totalTime: "40min",
-        description: "A thick mango milkshake with ice cream scoops drooling over it, Mango Mastani is an amazing beverage for the summer season. Mastani is a dessert drink originated in Pune, it is a rich and satisfying dessert.",
-        ingredients: ["100 Gram Mango pulp",
+        description:
+          "A thick mango milkshake with ice cream scoops drooling over it, Mango Mastani is an amazing beverage for the summer season. Mastani is a dessert drink originated in Pune, it is a rich and satisfying dessert.",
+        ingredients: [
+          "100 Gram Mango pulp",
           "100 Gram Sugar",
           "200 Ml Milk",
           "2 Nos Mango Ice cream scoops",
           "A pinch of Cardamom powder",
           "For garnishing Almond flakes",
-          "For garnishing Silver varq"],
-        steps: ["1.Mix mango pulp, sugar and milk in a blender to make mango milk shake De-freeze it for 15-20 mins. Now again blend it well. This will make the milk shake thick.",
+          "For garnishing Silver varq",
+        ],
+        steps: [
+          "1.Mix mango pulp, sugar and milk in a blender to make mango milk shake De-freeze it for 15-20 mins. Now again blend it well. This will make the milk shake thick.",
           "2.Add mango ice cream scoops.",
           "3.Dust with Cardamom powder.",
           "4.Garnish with almond flakes & silver varq,",
-          "5.Serve chilled."],
+          "5.Serve chilled.",
+        ],
       },
       {
         subid: 20,
@@ -8939,8 +9529,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "30min",
         totalTime: "40min",
-        description: "The must-have beverage during the summers and specially during the festival of Holi, Kanji is a fermented drink made with a host of spices to ensure the tangy taste. This recipe of Berry Kanji is made with frozen kanji mixed with spices and serve with mint and lemon wedge. Bring some tangy twist to your Holi party with this refreshing and tasty Kanji drink.",
-        ingredients: ["50 Gram Frozen berry",
+        description:
+          "The must-have beverage during the summers and specially during the festival of Holi, Kanji is a fermented drink made with a host of spices to ensure the tangy taste. This recipe of Berry Kanji is made with frozen kanji mixed with spices and serve with mint and lemon wedge. Bring some tangy twist to your Holi party with this refreshing and tasty Kanji drink.",
+        ingredients: [
+          "50 Gram Frozen berry",
           "2 Gram Hing",
           "2 Gram Ajwain",
           "5 Gram Black salt",
@@ -8951,16 +9543,19 @@ export const Data = [
           "6 Nos Cardamom",
           "5 Ml Oil",
           "Few sprigs Mint",
-          "1 Nos Lemon"],
-        steps: ["1.Coarsely blend frozen berry in blender.",
+          "1 Nos Lemon",
+        ],
+        steps: [
+          "1.Coarsely blend frozen berry in blender.",
           "2.Take a mixing bowl, add ajwain, black salt, salt along with chat masala and stir well.",
           "3.Add water to dilute the mixture.",
           "4.Take a laddle, heat up with oil add hing and pour it in mix. Stir well.",
           "5.Take charcoal in small bowl and put cloves, cardamom and ghee for smoke. Put in the bowl for smoke.",
           "6.Cover it with lid.",
-          "7.Serve chilled with sprig of mint and lemon wedge."],
+          "7.Serve chilled with sprig of mint and lemon wedge.",
+        ],
       },
-    ]
+    ],
   },
 
   //15
@@ -8968,10 +9563,9 @@ export const Data = [
     id: 15,
     imgsrc: "../images/BreakfastRecipies/aloo-poha.webp",
     name: "Breakfast Recipies",
-    link: "/BreakfastRecipies",
+    link: "/recipes/BreakfastRecipies",
     info: "These non-alcoholic drink recipes are the perfect booze-free beverages too cool off with on a hot day. We promise these fruity.",
     recipies: [
-
       {
         subid: 1,
         recipename: "Aloo Poha Recipe",
@@ -8981,12 +9575,26 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "This recipe is as simple as it can get. This is for the lazy day's when you wake up late and don't feel like cooking anything. All you need to do is wash some poha, add boiled potatoes along with flavourful spices, mix it together and this simple delicacy is ready to relish!",
-        ingredients: ["2 Boiled Potatoes", "2 Chopped onions", "200 gram Poha", "2 Chopped Green Chillies", "1/2 tbsp Mustard Seeds", "5-6 Curry leaves", "2 tbsp Peanuts", "2 tbsp Oil", "1 tsp Haldi Powder", "to taste Salt"],
-        steps: ["1.Heat oil in a pan and saute mustard seeds, onions, curry leaves, peanuts and green chillies.",
+        description:
+          "This recipe is as simple as it can get. This is for the lazy day's when you wake up late and don't feel like cooking anything. All you need to do is wash some poha, add boiled potatoes along with flavourful spices, mix it together and this simple delicacy is ready to relish!",
+        ingredients: [
+          "2 Boiled Potatoes",
+          "2 Chopped onions",
+          "200 gram Poha",
+          "2 Chopped Green Chillies",
+          "1/2 tbsp Mustard Seeds",
+          "5-6 Curry leaves",
+          "2 tbsp Peanuts",
+          "2 tbsp Oil",
+          "1 tsp Haldi Powder",
+          "to taste Salt",
+        ],
+        steps: [
+          "1.Heat oil in a pan and saute mustard seeds, onions, curry leaves, peanuts and green chillies.",
           "2.Once the onions are translucent, add potatoes, haldi and salt(according to taste).",
           "3.Wash your poha, drain it and add it to the pan. Mix well. Keep on flame till its cooked.",
-          "4.Once the poha is ready, garnish it with coriander and lemon juice."],
+          "4.Once the poha is ready, garnish it with coriander and lemon juice.",
+        ],
       },
       {
         subid: 2,
@@ -8997,8 +9605,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "Healthy and wholesome, Sindhi dal toast is made with bread slices stuffed with spicy potatoes, drizzled with moong dal along with tangy tamarind chutney and mint sauce.",
-        ingredients: ["1 cup Moong dal",
+        description:
+          "Healthy and wholesome, Sindhi dal toast is made with bread slices stuffed with spicy potatoes, drizzled with moong dal along with tangy tamarind chutney and mint sauce.",
+        ingredients: [
+          "1 cup Moong dal",
           "1 tsp Tumeric powder",
           "to taste Salt",
           "2 slices Bread",
@@ -9011,13 +9621,16 @@ export const Data = [
           "1 tsp Red chilli powder",
           "1 tsp Tamarind chutney",
           "1 tsp Mint chutney",
-          "1 Sev/Bhujjia"],
-        steps: ["1.Soak moong dal for half an hour. After soaking, pressure cook the dal along with salt and turmeric on low to medium flame.",
+          "1 Sev/Bhujjia",
+        ],
+        steps: [
+          "1.Soak moong dal for half an hour. After soaking, pressure cook the dal along with salt and turmeric on low to medium flame.",
           "2.Meanwhile, mash boiled potatoes and add salt, red chilli powder, chaat masala and mix well.",
           "3.Once done, fill this potato mash in between two bread slices and toast or grill the sandwich until crispy.",
           "4.Now, take out the dal into the bowl and temper it with spicy ghee tadka.",
           "5.Pour dal over the crispy sandwich along with tamarind chutney, mint chutney and sprinkle some bhujjia, coriander leaves, chopped onions and pomegranate kernels.",
-          "6.Serve immediately!"],
+          "6.Serve immediately!",
+        ],
       },
       {
         subid: 3,
@@ -9027,8 +9640,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "A nutritious, fulfilling and healthy breakfast, here's a recipe of no bread sooji toast!",
-        ingredients: ["1 Cup Sooji",
+        description:
+          "A nutritious, fulfilling and healthy breakfast, here's a recipe of no bread sooji toast!",
+        ingredients: [
+          "1 Cup Sooji",
           "1/2 cup curd",
           "1/4 cup Water",
           "Salt as per taste",
@@ -9038,12 +9653,14 @@ export const Data = [
           "1/2 cup Chopped capsicum",
           "1/2 tbsp Red chilli powder",
           "1/2 tbsp Pepper",
-          "Salt according to taste"],
-        steps: ["1.Prepare the sooji ghol by mixing sooji, curd, some water and salt.",
+          "Salt according to taste",
+        ],
+        steps: [
+          "1.Prepare the sooji ghol by mixing sooji, curd, some water and salt.",
           "2.Then in a pan add chopped onion, carrots, tomatoes and capsicum. Mix these with masalas and sautee for a few minutes.",
           "3.Then in another pan, pour some sooji batter, in middle add the vegetable mix and pour the morr batter from above.",
-          "4.Cook this well and serve with any chutney or sauce and enjoy!"],
-
+          "4.Cook this well and serve with any chutney or sauce and enjoy!",
+        ],
       },
 
       {
@@ -9055,19 +9672,24 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "About Egg Muffins : This healthy recipe for egg muffins is an easy grab and go option for busy mornings. It is loaded with healthy and fresh veggies, meat and spices of your own choice.",
-        ingredients: ["1 tsp Butter",
+        description:
+          "About Egg Muffins : This healthy recipe for egg muffins is an easy grab and go option for busy mornings. It is loaded with healthy and fresh veggies, meat and spices of your own choice.",
+        ingredients: [
+          "1 tsp Butter",
           "4-5 pieces Mushroom",
           "1 small Onion (Chopped)",
           "A pinch of Chilli flakes",
           "5-6 pieces Chicken sausage",
           "50 gram Cheese (optional)",
           "to taste Black pepper powder",
-          "6 pieces eggs"],
-        steps: ["1.Whisk together the eggs, spices and vegetables.",
+          "6 pieces eggs",
+        ],
+        steps: [
+          "1.Whisk together the eggs, spices and vegetables.",
           " 2.Fill each muffin tin with three-quarters of the way to the top with the mixture, crumble mozzarella cheese or any cheese over the top.",
           "3.Bake for 10-15 minutes at 350 degrees, until golden brown and cooked through.",
-          "4.Serve hot or store for later. Enjoy!"],
+          "4.Serve hot or store for later. Enjoy!",
+        ],
       },
 
       {
@@ -9078,8 +9700,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: " Crispy, spicy, gypsy toast is loaded with some egg-y goodness. This delish treat makes for a quick meal during the time-pressed mornings.",
-        ingredients: ["2 eggs",
+        description:
+          " Crispy, spicy, gypsy toast is loaded with some egg-y goodness. This delish treat makes for a quick meal during the time-pressed mornings.",
+        ingredients: [
+          "2 eggs",
           "Less than half cup milk",
           "1 tsp onions , chopped",
           " 1 tsp tomatoes , chopped",
@@ -9089,12 +9713,15 @@ export const Data = [
           "to taste Salt",
           "1 tsp black pepper powder",
           "Oil/butter, to shallow fry the toasts",
-          "4-5 bread slices"],
-        steps: ["1.Break the eggs in a mixing bowl and add all the other ingredients to it (except bread and oil). Whisk everything together.",
+          "4-5 bread slices",
+        ],
+        steps: [
+          "1.Break the eggs in a mixing bowl and add all the other ingredients to it (except bread and oil). Whisk everything together.",
           "2.Soak the bread slices in the whisked eggs.",
           "3.Heat oil/butter in a pan (preferably flat base) and place the bread slices one/two at a time.",
           "4.On medium flame, cook both the sides of the bread until it turns golden brown in colour.",
-          "5.Serve hot with some ketchup by the side."],
+          "5.Serve hot with some ketchup by the side.",
+        ],
       },
       {
         subid: 6,
@@ -9104,16 +9731,21 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "Millet dosa is a healthy and gluten free south Indian breakfast recipe. You can make this dosa under 20 mintunes. It is also a good option for the diabetics",
-        ingredients: ["1 Cup Pearl Millet/Bajra",
+        description:
+          "Millet dosa is a healthy and gluten free south Indian breakfast recipe. You can make this dosa under 20 mintunes. It is also a good option for the diabetics",
+        ingredients: [
+          "1 Cup Pearl Millet/Bajra",
           "1/2 cups rice",
           "1/2 cups urad dal",
           "to taste Salt",
-          "Cooking oil as per requirement"],
-        steps: ["1.Soak urad dal in a container and rice and bajra together in a separate container. Let both the mixtures soak in water for at least 4 hours.",
+          "Cooking oil as per requirement",
+        ],
+        steps: [
+          "1.Soak urad dal in a container and rice and bajra together in a separate container. Let both the mixtures soak in water for at least 4 hours.",
           "2.Grind urad dal to make smooth paste. Then grind bajra and rice together.",
           "3.Mix dal paste and bajra-rice mixture together. Add some salt and water to make smooth batter. Let the batter ferment for 4-5 hours or overnight.",
-          "4.Grease hot pan with some oil, wipe it off and then sprinkle some water to make dosa with the batter as usual."],
+          "4.Grease hot pan with some oil, wipe it off and then sprinkle some water to make dosa with the batter as usual.",
+        ],
       },
       {
         subid: 7,
@@ -9123,8 +9755,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "A delicious, sweet twist to the classic idli, banana and coconut idli is a quick and easy recipe to try for you next morning meal.",
-        ingredients: ["For banana idli:",
+        description:
+          "A delicious, sweet twist to the classic idli, banana and coconut idli is a quick and easy recipe to try for you next morning meal.",
+        ingredients: [
+          "For banana idli:",
           "1 cup Idli batter",
           "4 tbsp jaggery powder",
           "A pinch of salt",
@@ -9132,10 +9766,13 @@ export const Data = [
           "1/2 ripe banana, chopped",
           "For coconut jaggery cream:",
           "1 cup coconut milk",
-          "2 tbsp jaggery powder"],
-        steps: ["1.For banana idli, mix all ingredients.",
+          "2 tbsp jaggery powder",
+        ],
+        steps: [
+          "1.For banana idli, mix all ingredients.",
           "2.Grease an idly tray with butter, spoon some batter into the moulds and steam till done. Remove from mould once done.",
-          "3.For jaggery sauce, heat coconut milk and add jaggery powder. Stir till dissolved. Serve warm idlis with warm coconut sauce."],
+          "3.For jaggery sauce, heat coconut milk and add jaggery powder. Stir till dissolved. Serve warm idlis with warm coconut sauce.",
+        ],
       },
       {
         subid: 8,
@@ -9145,18 +9782,23 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "Smoothies are a popular pick during the summer season. they are wholesome, delicious and refreshing. And so are mangoes! Here is a stellar smoothie recipe with the goodness of mangoes and wholesome oats.",
-        ingredients: ["2 Alphonso mango",
+        description:
+          "Smoothies are a popular pick during the summer season. they are wholesome, delicious and refreshing. And so are mangoes! Here is a stellar smoothie recipe with the goodness of mangoes and wholesome oats.",
+        ingredients: [
+          "2 Alphonso mango",
           "15 gms oats",
           "110 ml milk",
           "30 gms sugar or honey",
           "160 ml yogurt",
-          "5 Almonds"],
-        steps: ["1.Peel the mangoes, cut it into slices, and keep it aside.",
+          "5 Almonds",
+        ],
+        steps: [
+          "1.Peel the mangoes, cut it into slices, and keep it aside.",
           "2.Heat a saucepan with milk, add Oats, and cook for a few minute. Switch off the gas then add sugar or honey and stir well. Let it cool down completely.",
           "3.Ground the Almonds coarsely in the blender.",
           "4.Now blend the mangoes, Oats, Almond, Sugar, and Yoghurt together until it becomes smooth.",
-          "5.Put in the refrigerator for an hour and serve it chilled."],
+          "5.Put in the refrigerator for an hour and serve it chilled.",
+        ],
       },
       {
         subid: 9,
@@ -9166,15 +9808,20 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "A wholesome smoothie recipe with the goodness o spinach, crunchy almonds and litchis. This smoothie is perect for quick breakfast fix for energy and is incredibly delicious with scoops of ice cream on top",
-        ingredients: ["6 Litchi",
+        description:
+          "A wholesome smoothie recipe with the goodness o spinach, crunchy almonds and litchis. This smoothie is perect for quick breakfast fix for energy and is incredibly delicious with scoops of ice cream on top",
+        ingredients: [
+          "6 Litchi",
           "2 cups fresh baby spinach",
           "2 scoops Vanilla ice cream",
           "20 gms jaggery",
-          "5 gram almonds, finely chopped"],
-        steps: ["1.Place litchi, spinach, vanilla ice cream and jaggery into a high speed blender.",
+          "5 gram almonds, finely chopped",
+        ],
+        steps: [
+          "1.Place litchi, spinach, vanilla ice cream and jaggery into a high speed blender.",
           "2.Blend them properly until smooth.",
-          "3.Serve immediately and garnish it with chopped almonds."],
+          "3.Serve immediately and garnish it with chopped almonds.",
+        ],
       },
       {
         subid: 10,
@@ -9184,12 +9831,17 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "A simple nutrient-dense smoothie recipe to keep mindless bingeing at bay. Low in calories, rich in iron, magnesium, potassium, and antioxidants, this smoothie is delicious, healthy and easy to prepare at home!",
-        ingredients: ["1/4 Cup dates",
+        description:
+          "A simple nutrient-dense smoothie recipe to keep mindless bingeing at bay. Low in calories, rich in iron, magnesium, potassium, and antioxidants, this smoothie is delicious, healthy and easy to prepare at home!",
+        ingredients: [
+          "1/4 Cup dates",
           "1 medium banana",
-          "3/4 cup almond milk"],
-        steps: ["1.Chop banana and dates into small pieces and add to a blender with almond milk.",
-          "2.Blend all the ingredients until a thick liquid consistency is reached."],
+          "3/4 cup almond milk",
+        ],
+        steps: [
+          "1.Chop banana and dates into small pieces and add to a blender with almond milk.",
+          "2.Blend all the ingredients until a thick liquid consistency is reached.",
+        ],
       },
       {
         subid: 11,
@@ -9199,35 +9851,41 @@ export const Data = [
         preTime: "15min",
         cookTime: "25min",
         totalTime: "40min",
-        description: "A dosa like dish that you can make in a few minutes with just three ingredients! Made with rice and salt, Ghavan is a traditional Maharashtrian breakfast dish from the Konkan region annd is quite similar to neer dosa from the south. Ghavan is often prepared on festivals in Maharashtra such as Ganesh Chaturthi.",
-        ingredients: ["330 gms raw rice",
-          "160 gms salt",
-          "Oil (as needed)"],
-        steps: ["1.Soak rice in water for 5 hours.",
+        description:
+          "A dosa like dish that you can make in a few minutes with just three ingredients! Made with rice and salt, Ghavan is a traditional Maharashtrian breakfast dish from the Konkan region annd is quite similar to neer dosa from the south. Ghavan is often prepared on festivals in Maharashtra such as Ganesh Chaturthi.",
+        ingredients: ["330 gms raw rice", "160 gms salt", "Oil (as needed)"],
+        steps: [
+          "1.Soak rice in water for 5 hours.",
           "2.Grind the rice to a paste, add salt and water to make a slightly watery batter.",
           "3.Heat a non-stick tawa and add the batter from the edge of the tawa and slowly move to the centre.",
           "4.Spread evenly and reduce the heat.",
-          "5.Remove from pan once cooked and serve with a choice of curry."],
+          "5.Remove from pan once cooked and serve with a choice of curry.",
+        ],
       },
       {
         subid: 12,
-        title: "Almond Strawberry Cream Recipe",
+        recipename: "Almond Strawberry Cream Recipe",
         imgfile: "../images/BreakfastRecipies/almond_strawberry_cream.webp",
         recipieServe: "6",
         preTime: "10min",
         cookTime: "25min",
         totalTime: "35min",
-        description: "Just a few ingredients and half an hour will give you this super delicious and thick cream to relish with anything you want! Fresh strawberries and nutty almonds along with sugar, cream and healthy basil leaves comes together for this sweet and refreshing cream.",
-        ingredients: ["1/2 Cup almonds",
+        description:
+          "Just a few ingredients and half an hour will give you this super delicious and thick cream to relish with anything you want! Fresh strawberries and nutty almonds along with sugar, cream and healthy basil leaves comes together for this sweet and refreshing cream.",
+        ingredients: [
+          "1/2 Cup almonds",
           "12-14 pieces fresh strawberries",
           "1 cup whipped cream",
           "1 tsp holy basil leaves (tulsi)",
-          "3 tbsp sugar, powdered"],
-        steps: ["1.Toast the almond flakes in the oven at 180°C for 4 minutes.",
+          "3 tbsp sugar, powdered",
+        ],
+        steps: [
+          "1.Toast the almond flakes in the oven at 180°C for 4 minutes.",
           " 2.Cut the strawberries into 1 cm dices.",
           "3.Whip the cream along with sugar. Do not over whip it or the butter will separate.",
           "4.Mix the almond flakes and strawberries into the cream along with hand torn holy basil.",
-          "5.Garnish with almonds and sliced strawberries."],
+          "5.Garnish with almonds and sliced strawberries.",
+        ],
       },
       {
         subid: 13,
@@ -9237,8 +9895,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "15min",
         totalTime: "25min",
-        description: "The classic Italian Ravioli comes with an Indian twist. Tricolor ravioli stuffed pumpkin, shallots and oodles of parmesan cheese along with the goodness of walnuts. A perfect recipe to prepare and relish with your family this Republic day.",
-        ingredients: ["600 gms pumpkin",
+        description:
+          "The classic Italian Ravioli comes with an Indian twist. Tricolor ravioli stuffed pumpkin, shallots and oodles of parmesan cheese along with the goodness of walnuts. A perfect recipe to prepare and relish with your family this Republic day.",
+        ingredients: [
+          "600 gms pumpkin",
           "5-6 shallots",
           "3-4 garlic cloves",
           "1 tbsp olive oil",
@@ -9251,8 +9911,10 @@ export const Data = [
           "8 nos egg yolk",
           "1 whole egg",
           "20 gms olive oil",
-          "25 gms salt"],
-        steps: ["1.Place the pasta dough ingredients in a bowl and knead the dough until it gets smooth. Wrap in plastic wrap and refrigerate for at least 1 hour.",
+          "25 gms salt",
+        ],
+        steps: [
+          "1.Place the pasta dough ingredients in a bowl and knead the dough until it gets smooth. Wrap in plastic wrap and refrigerate for at least 1 hour.",
           "2.Preheat the oven to 200 C and cut the pumpkin into small cubes, coat in salt, pepper and 1 tbsp. olive oil and bake for 40 minutes.",
           "3.After cooling down the pumpkin finely chop and add crushed walnut, parmesan cheese, salt, pepper. Stir well to combine.",
           "4.When dough is ready cut into 8 pieces. Each piece will be a layer of ravioli dough.",
@@ -9261,7 +9923,8 @@ export const Data = [
           "7.Simmer on low heat for about 5 mins to reduce. Add parmesan cheese also.",
           "8.Meanwhile cook the ravioli in boiling salted water. It takes about 3 minutes for them to float to surface, meaning they are cooked.",
           "9.Transfer into the sauce pan and add the fresh oregano leaves and stir to coat the ravioli.",
-          "10.Serve immediately sprinkled with parmesan cheese and chopped walnut."],
+          "10.Serve immediately sprinkled with parmesan cheese and chopped walnut.",
+        ],
       },
       {
         subid: 14,
@@ -9271,8 +9934,10 @@ export const Data = [
         preTime: "5min",
         cookTime: "15min",
         totalTime: "20min",
-        description: "A bowl of pasta is something we all can binge over at any time of the day and even during the midnight hunger pangs. Here is an easy, simple and quick pasta recipe specially curated in tricolor by Grand Mercure. You can prepare this at home and relish with family and friends.",
-        ingredients: ["200 gms penne",
+        description:
+          "A bowl of pasta is something we all can binge over at any time of the day and even during the midnight hunger pangs. Here is an easy, simple and quick pasta recipe specially curated in tricolor by Grand Mercure. You can prepare this at home and relish with family and friends.",
+        ingredients: [
+          "200 gms penne",
           "1 cup fresh broccoli, sliced",
           "1 medium carrot, sliced",
           "1/2 cup green onions, sliced",
@@ -9282,10 +9947,13 @@ export const Data = [
           "1/2 tsp salt",
           "1/4 tsp pepper",
           "1/4 cup white wine",
-          "1/4 cup parmesan cheese, shredded"],
-        steps: ["1.Bring a large pot of salted water to a boil. Add penne to the water and cook for 8-10 minutes.",
+          "1/4 cup parmesan cheese, shredded",
+        ],
+        steps: [
+          "1.Bring a large pot of salted water to a boil. Add penne to the water and cook for 8-10 minutes.",
           "2.In a large skillet, cook the broccoli, carrot and onions in butter for 3 minutes. Cover and cook for 2 minutes.",
-          "3.Drain penne; add to skillet and toss. Sprinkle with cheese."],
+          "3.Drain penne; add to skillet and toss. Sprinkle with cheese.",
+        ],
       },
 
       {
@@ -9296,8 +9964,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "25min",
         totalTime: "35min",
-        description: "Macaroons are small biscuit/cookie- like sweet snack that you can relish along with a cup of tea. Originating from the french cuisine, macaroons are now popular globally in different flavours, coatings and stuffed with everything from hazelnut to strawberries. Here is a macaroon recipe with a Indian twist, specially curated in tricolor on the occasion of Republic day.",
-        ingredients: ["1 Cup almond flour",
+        description:
+          "Macaroons are small biscuit/cookie- like sweet snack that you can relish along with a cup of tea. Originating from the french cuisine, macaroons are now popular globally in different flavours, coatings and stuffed with everything from hazelnut to strawberries. Here is a macaroon recipe with a Indian twist, specially curated in tricolor on the occasion of Republic day.",
+        ingredients: [
+          "1 Cup almond flour",
           "1.5 cup powdered sugar",
           "3 egg whites",
           "1/4 tsp cream of tartar",
@@ -9310,8 +9980,10 @@ export const Data = [
           "100 gms cream cheese",
           "1 cup powdered sugar",
           "1 tsp vanilla extract",
-          "2 tsp heavy cream"],
-        steps: ["1.In a bowl mix together almond flour and powdered sugar.",
+          "2 tsp heavy cream",
+        ],
+        steps: [
+          "1.In a bowl mix together almond flour and powdered sugar.",
           "2.Start beating the egg whites using the wire whisk. As the egg white starts to foam a little, add cream of tartar. In a while, the egg whites will develop a shaving cream like consistency, start adding sugar.",
           "3.Fold in the almond flour-sugar mixture into the egg whites in 3 parts. The batter should not be runny, it should be slightly thick.",
           "4.Divide batter into 3 parts, leave one as such and add green and orange food coloring to remaining 2 and mix to combine. Transfer 3 colored batters to 3 different piping bags fitted with 1/2 inch round tip. Pipe the batter onto the cookie sheets.",
@@ -9322,7 +9994,8 @@ export const Data = [
           "3.Add heavy cream, 1 teaspoon at a time till you get the desired consistency. The filling should remain thick, so don't add too much liquid.",
           "Fill the macarons:",
           "1.Remove the macaron shells from the parchment paper once they have cooled completely.",
-          "2.Fill them with prepared cream cheese filling and enjoy!"],
+          "2.Fill them with prepared cream cheese filling and enjoy!",
+        ],
       },
 
       {
@@ -9333,21 +10006,26 @@ export const Data = [
         preTime: "10min",
         cookTime: "10min",
         totalTime: "20min",
-        description: "What is a Christmas without some Christmas cookies? Here is an easy, fuss-free cookie recipe that you can bake at home with your family this holiday season of Christmas and New Year's.",
-        ingredients: ["100 gms butter",
+        description:
+          "What is a Christmas without some Christmas cookies? Here is an easy, fuss-free cookie recipe that you can bake at home with your family this holiday season of Christmas and New Year's.",
+        ingredients: [
+          "100 gms butter",
           "125 gms castor sugar",
           "1 eggs",
           "150 gms refined flour",
           "150 gms soaked fruit",
           "10 ml vanilla essence",
-          "5 gms baking soda"],
-        steps: ["1.Cream together your butter and sugar. Using a stand mixer with a paddle attachment, or a hand mixer, cream together the butter and sugar for your cookie dough until they are light and fluffy. This should take about 5 minutes on a medium/high speed.",
+          "5 gms baking soda",
+        ],
+        steps: [
+          "1.Cream together your butter and sugar. Using a stand mixer with a paddle attachment, or a hand mixer, cream together the butter and sugar for your cookie dough until they are light and fluffy. This should take about 5 minutes on a medium/high speed.",
           "2.Add in eggs gradually (one at a time). After the butter and sugar is creamed together, it is time to add the eggs and vanilla extract.",
           "3.You want to add the eggs into your creamed butter and sugar mixture one at a time, and mix just until combined.",
           "4.This will ensure you won’t break your creamed mixture and you don’t want to beat any air into the eggs at this point.",
           "5.Add your dry ingredient and mix as little as possible. The next step in making cookie dough using the creaming method is to mix in the dry ingredients along with baking soda.",
           "6.Now shape the cookies into your desire shapes and garnish it with liquor soaked fruit.",
-          "7.Bake at 180 degree Celsius for 9 minutes."],
+          "7.Bake at 180 degree Celsius for 9 minutes.",
+        ],
       },
       {
         subid: 17,
@@ -9358,8 +10036,10 @@ export const Data = [
         preTime: "15min",
         cookTime: "15min",
         totalTime: "30min",
-        description: "The best of Japanese cuisine that you can now easily prepare at home. Japanese curry is one of the most popular dishes of Japan. Here is a recipe of Arancini balls stuffed with cheese and topped with delicious Japanese curry, wasabi mayo and veggies and barley salsa on the side. An exotic and unique recipe to prepare for a brunch with friends and family.",
-        ingredients: ["150 gms japanese curry",
+        description:
+          "The best of Japanese cuisine that you can now easily prepare at home. Japanese curry is one of the most popular dishes of Japan. Here is a recipe of Arancini balls stuffed with cheese and topped with delicious Japanese curry, wasabi mayo and veggies and barley salsa on the side. An exotic and unique recipe to prepare for a brunch with friends and family.",
+        ingredients: [
+          "150 gms japanese curry",
           "150 gms sticky rice",
           "50 gms cheese inside rice",
           "To serve:",
@@ -9375,13 +10055,16 @@ export const Data = [
           "20 gms butter",
           "1 gms white pepper",
           "5 ml light soya",
-          "salt"],
-        steps: ["1.In a wok, add Japanese curry, sticky rice and mix it together. Allow it to cool.",
+          "salt",
+        ],
+        steps: [
+          "1.In a wok, add Japanese curry, sticky rice and mix it together. Allow it to cool.",
           "2.Take a new wok, add butter, all capsicums. Saute vegetables, add seasoning and barley to it..",
           "3.Now when the curry and rice mixture has been cooled down, make small round balls stuffed with cheese.",
           "4.Dip it into slurry of corn flour and crumb it with the help of bread crumbs. Deep fry till crisp golden.",
           "5.Place barley vegetables at bottom and place Arancini balls on top. Add little curry along with wasabi mayo and garnish with micro greens.",
-          "6.Serve."],
+          "6.Serve.",
+        ],
       },
       {
         subid: 18,
@@ -9392,8 +10075,10 @@ export const Data = [
         preTime: "10min",
         cookTime: "30min",
         totalTime: "40min",
-        description: "Healthy, filling, flavourful and simply delicious salad to prepare at home. Coconut lime quinoa salad is an easy and quick recipe, packed with the goodness of super grain quinoa along with coconut and a tang of lime. Give your salad a healthy and delicious twist with this recipe that is as simple as it can get. Perfect mid day meal in summers.",
-        ingredients: ["1 Cup uncooked quinoa",
+        description:
+          "Healthy, filling, flavourful and simply delicious salad to prepare at home. Coconut lime quinoa salad is an easy and quick recipe, packed with the goodness of super grain quinoa along with coconut and a tang of lime. Give your salad a healthy and delicious twist with this recipe that is as simple as it can get. Perfect mid day meal in summers.",
+        ingredients: [
+          "1 Cup uncooked quinoa",
           "2 cups water",
           "1/2 cup red onion, sliced",
           "3 cups cucumber (diced)",
@@ -9408,12 +10093,15 @@ export const Data = [
           "2 tbsp orange juice",
           "1 lime (juiced)",
           "2 tbsp apple cider vinegar",
-          "2 tbsp olive oil"],
-        steps: ["1.Boil the quinoa in water according to package directions. This should take about 12-15 minutes, and all water should be absorbed. Remove it from the heat, fluff with a fork and allow it to cool.",
+          "2 tbsp olive oil",
+        ],
+        steps: [
+          "1.Boil the quinoa in water according to package directions. This should take about 12-15 minutes, and all water should be absorbed. Remove it from the heat, fluff with a fork and allow it to cool.",
           "2.Whisk together the dressing in a small bowl and set aside.",
           "3.Prepare all remaining ingredients as indicated above and toss them together in a very large bowl. When the quinoa has cooled, add it to the mixture, along with the dressing. Stir well to coat.",
           "4.While this salad can be enjoyed right away if you like, for best results, let it sit for at least 30 minutes – or overnight if you can.",
-          "5.The quantity of dressing used is fairly small relative to the size of the salad because the lime, fresh herbs, orange segments and avocado do an amazing job at creating flavor and moisture."],
+          "5.The quantity of dressing used is fairly small relative to the size of the salad because the lime, fresh herbs, orange segments and avocado do an amazing job at creating flavor and moisture.",
+        ],
       },
       {
         subid: 19,
@@ -9423,38 +10111,45 @@ export const Data = [
         preTime: "10min",
         cookTime: "15min",
         totalTime: "25min",
-        description: "A healthy and refreshing parfait recipe that will help your body cool down on a hot, summer day. An indulgent combination of yogurt and strawberry syrup, packed together with the goodness of muesli. Spruce it up with honey and maple syrup on the top. Made in just about 10 minutes, this can be your easy breakfast on the go. Pack it in a mason jar and you can enjoy this as a mid-day meal as well to refresh the body.",
-        ingredients: ["50 gms muesli",
+        description:
+          "A healthy and refreshing parfait recipe that will help your body cool down on a hot, summer day. An indulgent combination of yogurt and strawberry syrup, packed together with the goodness of muesli. Spruce it up with honey and maple syrup on the top. Made in just about 10 minutes, this can be your easy breakfast on the go. Pack it in a mason jar and you can enjoy this as a mid-day meal as well to refresh the body.",
+        ingredients: [
+          "50 gms muesli",
           "50 gms curd",
           "30 gms strawberry puree",
           "20 gms honey",
-          "10 gms maple syrup"],
-        steps: ["1.In a glass first arrange a layer of muesli, then strawberry puree and followed by curd.",
-          "2.Garnish with honey and maple syrup."],
-
+          "10 gms maple syrup",
+        ],
+        steps: [
+          "1.In a glass first arrange a layer of muesli, then strawberry puree and followed by curd.",
+          "2.Garnish with honey and maple syrup.",
+        ],
       },
       {
         subid: 20,
         recipename: "Watermelon and Strawberry Smoothie Recipe",
-        imgfile: "../images/BreakfastRecipies/watermelon_strawberry_smoothie.webp",
+        imgfile:
+          "../images/BreakfastRecipies/watermelon_strawberry_smoothie.webp",
         recipieServe: "9",
         preTime: "10min",
         cookTime: "20min",
         totalTime: "30min",
-        description: " There is nothing as fresh as this smoothie of watermelon and strawberry! Topped with healthy chia seeds and these fresh fruits blended well with low fat yogurt, this smoothie recipe is the powerhouse of healthy nutrients that will keep you boosted all day long.",
-        ingredients: ["100 gms fresh strawberries",
+        description:
+          " There is nothing as fresh as this smoothie of watermelon and strawberry! Topped with healthy chia seeds and these fresh fruits blended well with low fat yogurt, this smoothie recipe is the powerhouse of healthy nutrients that will keep you boosted all day long.",
+        ingredients: [
+          "100 gms fresh strawberries",
           "1 tbsp honey",
           "150 gms low fat yogurt",
           "50 gms watermelon, chopped",
           "For the topping:",
-          "1/4 cup chia seeds"],
-        steps: ["1.Blend all the smoothie ingredients in a blender.",
+          "1/4 cup chia seeds",
+        ],
+        steps: [
+          "1.Blend all the smoothie ingredients in a blender.",
           "2.Pour the blended smoothie into a glass.",
-          "3.Top with chia seeds. Mix the chia seeds with the smoothie before consuming."],
+          "3.Top with chia seeds. Mix the chia seeds with the smoothie before consuming.",
+        ],
       },
-    ]
+    ],
   },
-
-
 ];
-

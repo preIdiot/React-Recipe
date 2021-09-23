@@ -1,9 +1,22 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import logo from "../static/images/logo.png";
-
 import "../css/Header.scss";
 
-function Header() {
+export default function Header({ setSearch }) {
+  const [searchInput, setSearchInput] = useState("");
+
+  useEffect(() => {
+    setSearch(searchInput);
+  }, [searchInput]);
+
+  const setSearchInputValue = (event) => {
+    setSearchInput(event.target.value);
+  };
+
+  return <HeaderComponent {...{ setSearchInputValue, searchInput }} />;
+}
+
+const HeaderComponent = React.memo(({ searchInput, setSearchInputValue }) => {
   return (
     <div className="NavBar">
       {/* navbar start */}
@@ -77,6 +90,8 @@ function Header() {
                       type="text"
                       className="form-control border-dark btn-sm posRecipe"
                       placeholder="RECIPE"
+                      value={searchInput}
+                      onChange={setSearchInputValue}
                     />
                     <div className="input-group-append">
                       <button
@@ -107,6 +122,4 @@ function Header() {
       {/* <!-- navbar ended --> */}
     </div>
   );
-}
-
-export default Header;
+});

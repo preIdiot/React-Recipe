@@ -28,9 +28,6 @@ function Subcat(props) {
               </i>
             </div>
           </div>
-          {/* <Link to="/healthyrecipies/recipe">
-            <button></button>
-          </Link> */}
         </div>
       </Link>
     </div>
