@@ -54,29 +54,39 @@ const HeaderComponent = React.memo(({ searchInput, setSearchInputValue }) => {
                 </li>
 
                 <li>
+                <a href="https://www.facebook.com/supritispices" target="_blank">
                   <span className="social-icon social-facebook">
                     <i className="fa fa-facebook"></i>
                   </span>
+                  </a>
                 </li>
                 <li>
+                  <a href="https://supritispices.com/" target="_blank">
                   <span className="social-icon social-google">
                     <i className="fa fa-google"></i>
                   </span>
+                  </a>
                 </li>
                 <li>
+                  <a href="https://www.linkedin.com/in/supritispices/" target="_blank">
                   <span className="social-icon social-linkedin">
                     <i className="fa fa-linkedin"></i>
                   </span>
+                  </a>
                 </li>
                 <li>
+                  <a href="https://www.instagram.com/supritispices/" target="_blank"> 
                   <span className="social-icon social-instagram">
                     <i className="fa fa-instagram"></i>
                   </span>
+                  </a>
                 </li>
                 <li>
+                  <a href="https://twitter.com/supritispices" target="_blank"> 
                   <span className="social-icon social-twitter">
                     <i className="fa fa-twitter"></i>
                   </span>
+                  </a>
                 </li>
               </ul>
 
