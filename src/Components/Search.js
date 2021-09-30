@@ -20,7 +20,7 @@ export default function Search({ search, Data }) {
     return () => {
       clearTimeout(timer);
     };
-  }, [search]);
+  }, [search, Data]);
 
   return <SubCategory data={{ recipies: results }} />;
 }
