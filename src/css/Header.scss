@@ -49,7 +49,15 @@
           .inputGroup-search {
             display: flex;
             max-width: 320px;
-            width: 64%;
+            width: 46%;
+            max-height: 28px;
+
+            .input-group-append button {
+              height: 100%;
+              > i {
+                padding-left: 4px;
+              }
+            }
           }
         }
 
@@ -176,7 +184,7 @@
             .inputGroup-search {
               display: flex;
               max-width: 250px;
-              width: 90%;
+              width: 160px;
               margin: 0;
             }
           }
