@@ -42,7 +42,7 @@ const HeaderComponent = React.memo(({ searchInput, setSearchInputValue }) => {
                 <li>
                   <span className="social-number">
                     <i className="fa fa-phone" aria-hidden="true">
-                      : +91 94394 45511
+                      : +91 95566 69666
                     </i>
                   </span>
                 </li>
@@ -138,7 +138,7 @@ const HeaderComponent = React.memo(({ searchInput, setSearchInputValue }) => {
         <div className="container-md navContainer">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item nav-Link" href="#">
-              <a href="/">RECIPE</a>
+              <a href="/">HOME</a>
             </li>
           </ul>
         </div>
