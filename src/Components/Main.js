@@ -8,7 +8,7 @@ import { Data } from "../Data/descrip";
 
 export default function Main({ search }) {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/">
       <Switch>
         <Route
           exact
