@@ -15,7 +15,7 @@ function Video() {
       ></iframe>
       <iframe
         className="video"
-        src="https://www.youtube.com/embed/GFPvBaXoJxE"
+        src="https://www.youtube.com//embed/OW2iaMRQNEQ"
         title="YouTube video player"
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
