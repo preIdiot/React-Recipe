@@ -43,7 +43,11 @@
           // min-width: ;
 
           #google_translate_element {
-            max-width: 150px;
+            // max-width: 134px;
+
+            .goog-te-gadget-simple {
+              width: 100%;
+            }
           }
 
           .inputGroup-search {
@@ -61,6 +65,11 @@
           }
         }
 
+        #navbarCollapse {
+          a {
+            text-decoration: none;
+          }
+        }
         /* social media */
         .social-icon {
           height: 30px;
@@ -71,26 +80,28 @@
           color: #fff;
           font-size: 14px;
           border-radius: 7px;
-          margin-right: 11px;
           cursor: pointer;
         }
         .social-number {
-          margin-right: 5rem;
+          letter-spacing: 0.07rem;
+          margin-right: 3.5rem;
           color: #0b0a0a;
+        }
+        .social-icon {
+          border-radius: 1rem;
         }
         .social-twitter {
           background-color: #55acee;
-          border-radius: 16px;
         }
         .social-facebook,
         .social-linkedin {
           background-color: #0077b5;
-          border-radius: 16px;
         }
-        .social-google,
         .social-instagram {
-          background-color: #dd4b39;
-          border-radius: 16px;
+          background-color: #c90161;
+        }
+        .social-youtube {
+          background-color: rgba(255, 1, 1, 255);
         }
 
         .social-icon i {
