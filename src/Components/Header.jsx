@@ -38,7 +38,11 @@ const HeaderComponent = React.memo(({ searchInput, setSearchInputValue }) => {
             ></button>
 
             <div id="navbarCollapse">
-              <ul>
+              <ul
+                style={{
+                  paddingLeft: "1.8rem",
+                }}
+              >
                 <li>
                   <span className="social-number">
                     <i className="fa fa-phone" aria-hidden="true">
@@ -46,62 +50,71 @@ const HeaderComponent = React.memo(({ searchInput, setSearchInputValue }) => {
                     </i>
                   </span>
                 </li>
-
-                <li>
-                  <a
-                    href="https://www.facebook.com/supritispices"
-                    rel="noreferrer"
-                    target="_blank"
-                  >
-                    <span className="social-icon social-facebook">
-                      <i className="fa fa-facebook"></i>
-                    </span>
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://supritispices.com/"
-                    rel="noreferrer"
-                    target="_blank"
-                  >
-                    <span className="social-icon social-google">
-                      <i className="fa fa-google"></i>
-                    </span>
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.linkedin.com/in/supritispices/"
-                    rel="noreferrer"
-                    target="_blank"
-                  >
-                    <span className="social-icon social-linkedin">
-                      <i className="fa fa-linkedin"></i>
-                    </span>
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.instagram.com/supritispices/"
-                    rel="noreferrer"
-                    target="_blank"
-                  >
-                    <span className="social-icon social-instagram">
-                      <i className="fa fa-instagram"></i>
-                    </span>
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://twitter.com/supritispices"
-                    rel="noreferrer"
-                    target="_blank"
-                  >
-                    <span className="social-icon social-twitter">
-                      <i className="fa fa-twitter"></i>
-                    </span>
-                  </a>
-                </li>
+                <ul
+                  style={{
+                    paddingLeft: 0,
+                    width: "230px",
+                    display: "flex",
+                    justifyContent: "space-between",
+                    alignItems: "center",
+                  }}
+                >
+                  <li>
+                    <a
+                      href="https://www.facebook.com/supritispices"
+                      rel="noreferrer"
+                      target="_blank"
+                    >
+                      <span className="social-icon social-facebook">
+                        <i className="fa fa-facebook"></i>
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.instagram.com/supritispices/"
+                      rel="noreferrer"
+                      target="_blank"
+                    >
+                      <span className="social-icon social-instagram">
+                        <i className="fa fa-instagram"></i>
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://twitter.com/supritispices"
+                      rel="noreferrer"
+                      target="_blank"
+                    >
+                      <span className="social-icon social-twitter">
+                        <i className="fa fa-twitter"></i>
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://supritispices.com/"
+                      rel="noreferrer"
+                      target="_blank"
+                    >
+                      <span className="social-icon social-youtube">
+                        <i className="fa fa-youtube"></i>
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.linkedin.com/in/supritispices/"
+                      rel="noreferrer"
+                      target="_blank"
+                    >
+                      <span className="social-icon social-linkedin">
+                        <i className="fa fa-linkedin"></i>
+                      </span>
+                    </a>
+                  </li>
+                </ul>
               </ul>
 
               <br />
