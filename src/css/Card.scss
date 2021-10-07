@@ -4,8 +4,22 @@
   height: fit-content;
 }
 
+.card-link {
+  width: 100%;
+
+  background-color: transparent;
+
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  word-wrap: break-word;
+  background-clip: border-box;
+
+  text-decoration: none;
+  padding-bottom: 1rem;
+}
+
 .card {
-  float: left;
   width: 21.25%;
   min-width: 300px;
   max-width: 320px;
