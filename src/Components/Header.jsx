@@ -94,7 +94,7 @@ const HeaderComponent = React.memo(({ searchInput, setSearchInputValue }) => {
                   </li>
                   <li>
                     <a
-                      href="https://supritispices.com/"
+                      href="https://www.youtube.com/channel/UCvuiBlcTTSGjcy2AgfK4ylg"
                       rel="noreferrer"
                       target="_blank"
                     >
