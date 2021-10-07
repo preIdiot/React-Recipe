@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 function Subcat(props) {
   return (
     <div>
-      <Link to={{ pathname: "/recipe", state: props }}>
+      <Link id="recipeLink" to={{ pathname: "/recipe", state: props }}>
         <div className="card gallery__item">
           <img src={props.imgfile} className="gallery__img" alt="mypic" />
           <div className="card-body">
